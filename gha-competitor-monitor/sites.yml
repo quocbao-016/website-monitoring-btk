@@ -1,0 +1,26 @@
+sites:
+  - url: https://jupviec.vn/
+    include_paths: []
+    exclude_paths: ["/amp/"]
+  - url: https://be.com.vn/
+    include_paths: []
+    exclude_paths: ["/amp/"]
+  - url: https://www.guvico.com/
+    include_paths: []
+    exclude_paths: ["/amp/"]
+  - url: https://vuatho.com/vi
+    include_paths: ["/vi"]
+    exclude_paths: ["/amp/"]
+
+change_threshold: 2000
+
+limits:
+  max_urls_per_site: 1500
+  max_total_urls: 3000
+  request_timeout_sec: 20
+  request_retries: 2
+  polite_sleep_ms: 150
+
+options:
+  discover_rss: true
+  respect_sitemap_only: true
