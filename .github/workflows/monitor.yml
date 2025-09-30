@@ -2,14 +2,20 @@ name: Monitor Competitor Sites
 
 on:
   schedule:
-    - cron: "20 1 * * *"   # mỗi ngày 01:20 UTC (~08:20 VN)
+    - cron: "20 1 * * *"
   workflow_dispatch:
+
+# CẤP QUYỀN GHI CHO GITHUB_TOKEN
+permissions:
+  contents: write
 
 jobs:
   monitor:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true  # dùng GITHUB_TOKEN cho push
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -26,11 +32,19 @@ jobs:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: python monitor.py
 
+      - name: Configure git for GitHub Actions
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # đảm bảo remote dùng token
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
       - name: Commit state
         working-directory: gha-competitor-monitor
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config user.name "bot"
-          git config user.email "bot@users.noreply.github.com"
+          git pull --rebase
           git add state.json
           git commit -m "chore: update state [skip ci]" || echo "no changes"
           git push
