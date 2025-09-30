@@ -1,0 +1,36 @@
+name: Monitor Competitor Sites
+
+on:
+  schedule:
+    - cron: "20 1 * * *"   # mỗi ngày 01:20 UTC (~08:20 VN)
+  workflow_dispatch:
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        working-directory: gha-competitor-monitor
+        run: pip install -r requirements.txt
+
+      - name: Run monitor
+        working-directory: gha-competitor-monitor
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: python monitor.py
+
+      - name: Commit state
+        working-directory: gha-competitor-monitor
+        run: |
+          git config user.name "bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state.json
+          git commit -m "chore: update state [skip ci]" || echo "no changes"
+          git push
