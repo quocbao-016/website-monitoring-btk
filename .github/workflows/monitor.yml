@@ -16,6 +16,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           persist-credentials: true  # dùng GITHUB_TOKEN cho push
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
