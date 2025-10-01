@@ -2,7 +2,7 @@ name: Monitor Competitor Sites
 
 on:
   schedule:
-    - cron: "20 1 * * *"
+    - cron: "0 0 * * *"   # chạy mỗi ngày 00:00 UTC
   workflow_dispatch:
 
 # CẤP QUYỀN GHI CHO GITHUB_TOKEN
