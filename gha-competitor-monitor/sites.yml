@@ -1,19 +1,39 @@
 sites:
   - url: https://jupviec.vn/
     include_paths: []
-    exclude_paths: ["/amp/"]
+    exclude_paths: ["/amp/", "/tag/", "/author/", "/category/", "/search"]
   - url: https://be.com.vn/
     include_paths: []
-    exclude_paths: ["/amp/"]
+    exclude_paths: ["/amp/", "/tag/", "/author/", "/category/", "/search"]
   - url: https://www.guvico.com/
     include_paths: []
-    exclude_paths: ["/amp/"]
+    exclude_paths: ["/amp/", "/tag/", "/author/", "/category/", "/search"]
   - url: https://vuatho.com/vi
     include_paths: ["/vi"]
-    exclude_paths: ["/amp/"]
+    exclude_paths: ["/amp/", "/tag/", "/author/", "/category/", "/search"]
 
+  # 4 site bạn muốn thêm + bTaskee
+  - url: https://giupviecphuongnam.com/
+    include_paths: []
+    exclude_paths: ["/amp/", "/tag/", "/author/", "/category/", "/search"]
+  - url: https://giupviectot.vn/
+    include_paths: []
+    exclude_paths: ["/amp/", "/tag/", "/author/", "/category/", "/search"]
+  - url: https://vesinhhc.vn/
+    include_paths: []
+    exclude_paths: ["/amp/", "/tag/", "/author/", "/category/", "/search"]
+  - url: https://phuonggia.com/
+    include_paths: []
+    exclude_paths: ["/amp/", "/tag/", "/author/", "/category/", "/search"]
+  - url: https://btaskee.com/
+    include_paths: []
+    exclude_paths: ["/amp/", "/tag/", "/author/", "/category/", "/search"]
+
+
+# Ngưỡng thay đổi nội dung (ký tự)
 change_threshold: 2000
 
+# Hạn mức an toàn cho plan free
 limits:
   max_urls_per_site: 1500
   max_total_urls: 3000
