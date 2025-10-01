@@ -44,8 +44,19 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git pull --rebase
-          git add state.json logs/summary.csv || true
+          # cấu hình tác giả và remote dùng token (nếu chưa có step này ở trên)
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+      
+          # stage các thay đổi trước
+          git add state.json || true
+          git add logs/summary.csv || true
+      
+          # tự stash thay đổi cục bộ rồi rebase, sau đó tự pop stash
+          git pull --rebase --autostash
+      
+          # commit & push
           git commit -m "chore: update state & logs [skip ci]" || echo "no changes"
           git push
 
