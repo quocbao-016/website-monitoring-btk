@@ -39,12 +39,13 @@ jobs:
           # đảm bảo remote dùng token
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
 
-      - name: Commit state
+      - name: Commit state & logs
         working-directory: gha-competitor-monitor
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git pull --rebase
-          git add state.json
-          git commit -m "chore: update state [skip ci]" || echo "no changes"
+          git add state.json logs/summary.csv || true
+          git commit -m "chore: update state & logs [skip ci]" || echo "no changes"
           git push
+
