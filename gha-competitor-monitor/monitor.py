@@ -5,11 +5,18 @@ import requests
 from xml.etree import ElementTree as ET
 from bs4 import BeautifulSoup
 import yaml
+from datetime import datetime
+import csv
+from pathlib import Path
 
 STATE_FILE = "state.json"
 CONFIG_FILE = "sites.yml"
 
-SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")  # set in GitHub repo secrets
+# Secrets / env
+SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")            # Slack Incoming Webhook (bắt buộc)
+# Google Sheets (tùy chọn; nếu không set sẽ bỏ qua)
+GOOGLE_SERVICE_ACCOUNT_JSON = os.getenv("GOOGLE_SERVICE_ACCOUNT_JSON")
+SHEET_KEY = os.getenv("SHEET_KEY")
 
 DEFAULT_HEADERS = {
     "User-Agent": "CompetitorWatcher/1.0 (+https://github.com/your-repo)",
@@ -41,6 +48,7 @@ def load_config():
     return sites, change_threshold, limits, options
 
 def backoff_sleep(attempt):
+    # exponential backoff nhỏ: 0.5s, 1s, 2s, tối đa 4s
     time.sleep(min(2 ** attempt * 0.5, 4.0))
 
 def fetch(url, headers=None, timeout=20, retries=2):
@@ -68,6 +76,7 @@ def try_urls(urls, timeout, retries):
     return None, None
 
 def robots_sitemaps(base):
+    # đọc robots.txt để tìm dòng Sitemap:
     try:
         robots = urljoin(base, "/robots.txt")
         r = fetch(robots, timeout=10, retries=1)
@@ -80,6 +89,7 @@ def robots_sitemaps(base):
         return []
 
 def parse_sitemap_collect(url, timeout, retries, limits):
+    # Đệ quy: sitemap index -> sitemap -> urlset
     collected = set()
     seen = set()
     stack = [url]
@@ -96,10 +106,12 @@ def parse_sitemap_collect(url, timeout, retries, limits):
         except Exception:
             continue
 
+        # sitemapindex
         for loc in root.findall(".//sm:sitemap/sm:loc", ns):
             loc_url = loc.text.strip()
             stack.append(loc_url)
 
+        # urlset
         for loc in root.findall(".//sm:url/sm:loc", ns):
             loc_url = loc.text.strip()
             collected.add(loc_url)
@@ -121,17 +133,19 @@ def discover_sitemaps(base_url, timeout, retries):
 def discover_rss_feeds(base_url, timeout, retries):
     feeds = []
     base = base_url.rstrip("/")
+    # common paths
     common = ["/feed", "/rss", "/rss.xml", "/atom.xml"]
     for path in common:
         u = urljoin(base, path)
         try:
             r = fetch(u, timeout=timeout, retries=retries)
-            ct = r.headers.get("content-type", "")
+            ct = (r.headers.get("content-type") or "").lower()
             if "xml" in ct or "rss" in ct or "atom" in ct or r.text.strip().startswith("<?xml"):
                 feeds.append(u)
         except Exception:
             pass
 
+    # parse homepage <link rel="alternate" type="application/rss+xml">
     try:
         r = fetch(base, timeout=timeout, retries=retries)
         soup = BeautifulSoup(r.text, "html.parser")
@@ -144,6 +158,7 @@ def discover_rss_feeds(base_url, timeout, retries):
     except Exception:
         pass
 
+    # unique
     dedup = []
     for f in feeds:
         if f not in dedup:
@@ -155,9 +170,11 @@ def parse_rss_items(feed_url, timeout, retries, limits):
         r = fetch(feed_url, timeout=timeout, retries=retries)
         root = ET.fromstring(r.text)
         urls = set()
+        # RSS 2.0
         for item in root.findall(".//item/link"):
             if item.text:
                 urls.add(item.text.strip())
+        # Atom
         for entry in root.findall(".//{http://www.w3.org/2005/Atom}entry/{http://www.w3.org/2005/Atom}link"):
             href = entry.get("href")
             if href:
@@ -179,7 +196,8 @@ def content_fingerprint(url, timeout, retries, polite_ms):
     text = normalize_text(r.text)
     h = hashlib.sha256(text.encode("utf-8")).hexdigest()
     length = len(text)
-    time.sleep(polite_ms / 1000.0)  # small courtesy delay
+    # lịch sự một chút (ms -> sec)
+    time.sleep(max(0.0, polite_ms / 1000.0))
     return h, length
 
 def should_include(url, include_paths, exclude_paths):
@@ -214,8 +232,58 @@ def save_state(state):
         json.dump(state, f, ensure_ascii=False, indent=2)
 
 def clamp_urls(urls, limits, remaining_total_budget):
+    # cắt theo limit mỗi site và ngân sách tổng
     take = min(limits.max_urls_per_site, remaining_total_budget)
     return set(list(urls)[:take])
+
+# ---------------- Google Sheets logging (rolling theo tháng) ---------------- #
+
+def append_to_google_sheets(summary_rows):
+    """
+    Ghi log vào Google Sheets theo dạng rolling theo tháng:
+    - Tên worksheet: summary_YYYY_MM (vd: summary_2025_10)
+    - Tự tạo sheet nếu chưa có, tự thêm header.
+    - Append batch 1 lần để tiết kiệm quota.
+    """
+    if not GOOGLE_SERVICE_ACCOUNT_JSON or not SHEET_KEY:
+        return  # Không bật ghi Google Sheets
+
+    try:
+        import json as pyjson
+        import gspread
+        from google.oauth2.service_account import Credentials
+        from datetime import datetime
+
+        scopes = ["https://www.googleapis.com/auth/spreadsheets"]
+        info = pyjson.loads(GOOGLE_SERVICE_ACCOUNT_JSON)
+        creds = Credentials.from_service_account_info(info, scopes=scopes)
+        gc = gspread.authorize(creds)
+        sh = gc.open_by_key(SHEET_KEY)
+
+        ym = datetime.utcnow().strftime("%Y_%m")
+        ws_title = f"summary_{ym}"
+
+        try:
+            ws = sh.worksheet(ws_title)
+        except gspread.WorksheetNotFound:
+            ws = sh.add_worksheet(title=ws_title, rows=1000, cols=5)
+            ws.append_row(["run_ts", "site", "new_count", "changed_count", "gone_count"])
+
+        # Phòng ngừa tab mới chưa có header
+        try:
+            if ws.acell("A1").value is None:
+                ws.append_row(["run_ts", "site", "new_count", "changed_count", "gone_count"])
+        except Exception:
+            # một số trường hợp quota/permission có thể ném lỗi acell, bỏ qua
+            pass
+
+        if summary_rows:
+            ws.append_rows(summary_rows, value_input_option="USER_ENTERED")
+
+    except Exception as e:
+        print("Google Sheets append error:", e)
+
+# --------------------------------------------------------------------------- #
 
 def main():
     sites_cfg, change_threshold, limits, options = load_config()
@@ -226,7 +294,10 @@ def main():
 
     remaining_total = limits.max_total_urls
     all_reports = []
-    first_run_domains = []
+
+    # Thu thập số liệu tổng hợp cho Sheets (mỗi site một dòng)
+    summary_rows = []
+    run_ts = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")
 
     for site in sites_cfg:
         base = site["url"].rstrip("/")
@@ -237,12 +308,7 @@ def main():
         print(f"==> Processing {base}")
         site_state = state["sites"].get(domain_key, {"urls": {}, "last_run": 0})
 
-        # Đánh dấu site mới khởi tạo (chưa có lịch sử gì)
-        site_first_run = (site_state.get("last_run", 0) == 0) and (len(site_state.get("urls", {})) == 0)
-        if site_first_run:
-            first_run_domains.append(domain_key)
-
-        # 1) Thu thập URL
+        # 1) Thu thập URL từ sitemap
         sitemap_url = discover_sitemaps(base, timeout=limits.request_timeout_sec, retries=limits.request_retries)
         urls = set()
         if sitemap_url:
@@ -250,11 +316,13 @@ def main():
         else:
             print(f"  No sitemap found for {base}")
 
+        # 2) Thêm từ RSS nếu bật discover
         if options.get("discover_rss", True):
             feeds = discover_rss_feeds(base, limits.request_timeout_sec, limits.request_retries)
             for f in feeds:
                 urls |= parse_rss_items(f, limits.request_timeout_sec, limits.request_retries, limits)
 
+        # 3) Lọc include/exclude + limit ngân sách
         urls = [u for u in urls if should_include(u, include_paths, exclude_paths)]
         urls = clamp_urls(urls, limits, remaining_total)
         remaining_total -= len(urls)
@@ -262,6 +330,7 @@ def main():
 
         new_urls, changed_urls, gone_urls = [], [], []
 
+        # 4) So sánh fingerprint
         for u in urls:
             try:
                 h, L = content_fingerprint(u, limits.request_timeout_sec, limits.request_retries, limits.polite_sleep_ms)
@@ -279,6 +348,7 @@ def main():
                         changed_urls.append(u)
             site_state["urls"][u] = {"hash": h, "len": L}
 
+        # 5) URL biến mất (trong state nhưng không còn ở sitemap/RSS)
         current_set = set(urls)
         for u in list(site_state["urls"].keys()):
             # nếu nay cấu hình đã siết include/exclude thì bỏ qua URL ngoài phạm vi
@@ -287,7 +357,7 @@ def main():
             if u not in current_set:
                 gone_urls.append(u)
 
-        # Xây thông điệp (chỉ dùng khi KHÔNG phải lần đầu)
+        # 6) Tạo thông điệp (chỉ gửi nếu không phải cold start)
         blocks = []
         if new_urls:
             blocks.append("🔔 URL mới:\n" + "\n".join(new_urls[:20]) + (f"\n…(+{len(new_urls)-20})" if len(new_urls) > 20 else ""))
@@ -296,10 +366,18 @@ def main():
         if gone_urls:
             blocks.append("⚠️ URL biến mất khỏi sitemap/RSS:\n" + "\n".join(gone_urls[:10]) + (f"\n…(+{len(gone_urls)-10})" if len(gone_urls) > 10 else ""))
 
-        # Chỉ gom report khi không phải lần đầu
-        if blocks:
+        if blocks and not is_cold_start:
             msg = f"*[{domain_key}]* cập nhật:\n\n" + "\n\n".join(blocks)
             all_reports.append(msg)
+
+        # 7) Ghi summary cho Sheets (mỗi site một dòng)
+        summary_rows.append([
+            run_ts,
+            domain_key,
+            len(new_urls),
+            len(changed_urls),
+            len(gone_urls),
+        ])
 
         site_state["last_run"] = int(time.time())
         state["sites"][domain_key] = site_state
@@ -308,13 +386,18 @@ def main():
             print("Reached total URL budget; stopping early.")
             break
 
-    # Lưu state lên đĩa trước khi thông báo
+    # 8) Lưu state lên đĩa trước khi thông báo
     save_state(state)
 
-    # Chính sách gửi Slack:
-    # - Nếu là "cold start" (hoặc có site mới khởi tạo) và KHÔNG có report nào khác: gửi 1 dòng khởi tạo.
-    # - Ngược lại: gửi các báo cáo như bình thường; nếu rỗng -> gửi câu "Không có thay đổi đáng kể".
-    if (is_cold_start or first_run_domains) and not all_reports:
+    # 9) Ghi Google Sheets (rolling theo tháng)
+    try:
+        append_to_google_sheets(summary_rows)
+    except Exception as e:
+        print("Google Sheets append error:", e)
+
+    # 10) Chính sách gửi Slack
+    if is_cold_start and not all_reports:
+        # Lần chạy đầu: chỉ gửi 1 dòng khởi tạo
         post_to_slack(SLACK_WEBHOOK_URL, f"🚀 Khởi tạo theo dõi lần đầu ({len(sites_cfg)} site). Không gửi danh sách URL.")
         return
 
