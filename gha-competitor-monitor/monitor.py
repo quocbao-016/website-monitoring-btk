@@ -179,7 +179,7 @@ def content_fingerprint(url, timeout, retries, polite_ms):
     text = normalize_text(r.text)
     h = hashlib.sha256(text.encode("utf-8")).hexdigest()
     length = len(text)
-    time.sleep(polite_ms / 1000.0)
+    time.sleep(polite_ms / 1000.0)  # small courtesy delay
     return h, length
 
 def should_include(url, include_paths, exclude_paths):
@@ -220,9 +220,13 @@ def clamp_urls(urls, limits, remaining_total_budget):
 def main():
     sites_cfg, change_threshold, limits, options = load_config()
     state = load_state()
-    remaining_total = limits.max_total_urls
 
+    # Phát hiện "cold start": chưa có state nào
+    is_cold_start = (not os.path.exists(STATE_FILE)) or (not state.get("sites"))
+
+    remaining_total = limits.max_total_urls
     all_reports = []
+    first_run_domains = []
 
     for site in sites_cfg:
         base = site["url"].rstrip("/")
@@ -233,6 +237,12 @@ def main():
         print(f"==> Processing {base}")
         site_state = state["sites"].get(domain_key, {"urls": {}, "last_run": 0})
 
+        # Đánh dấu site mới khởi tạo (chưa có lịch sử gì)
+        site_first_run = (site_state.get("last_run", 0) == 0) and (len(site_state.get("urls", {})) == 0)
+        if site_first_run:
+            first_run_domains.append(domain_key)
+
+        # 1) Thu thập URL
         sitemap_url = discover_sitemaps(base, timeout=limits.request_timeout_sec, retries=limits.request_retries)
         urls = set()
         if sitemap_url:
@@ -250,9 +260,7 @@ def main():
         remaining_total -= len(urls)
         print(f"  Collected {len(urls)} URLs after filters/limits")
 
-        new_urls = []
-        changed_urls = []
-        gone_urls = []
+        new_urls, changed_urls, gone_urls = [], [], []
 
         for u in urls:
             try:
@@ -273,11 +281,13 @@ def main():
 
         current_set = set(urls)
         for u in list(site_state["urls"].keys()):
+            # nếu nay cấu hình đã siết include/exclude thì bỏ qua URL ngoài phạm vi
             if include_paths and not should_include(u, include_paths, exclude_paths):
                 continue
             if u not in current_set:
                 gone_urls.append(u)
 
+        # Xây thông điệp (chỉ dùng khi KHÔNG phải lần đầu)
         blocks = []
         if new_urls:
             blocks.append("🔔 URL mới:\n" + "\n".join(new_urls[:20]) + (f"\n…(+{len(new_urls)-20})" if len(new_urls) > 20 else ""))
@@ -286,12 +296,10 @@ def main():
         if gone_urls:
             blocks.append("⚠️ URL biến mất khỏi sitemap/RSS:\n" + "\n".join(gone_urls[:10]) + (f"\n…(+{len(gone_urls)-10})" if len(gone_urls) > 10 else ""))
 
+        # Chỉ gom report khi không phải lần đầu
         if blocks:
             msg = f"*[{domain_key}]* cập nhật:\n\n" + "\n\n".join(blocks)
-            post_to_slack(SLACK_WEBHOOK_URL, msg)
             all_reports.append(msg)
-        else:
-            print("  No significant changes.")
 
         site_state["last_run"] = int(time.time())
         state["sites"][domain_key] = site_state
@@ -300,9 +308,20 @@ def main():
             print("Reached total URL budget; stopping early.")
             break
 
+    # Lưu state lên đĩa trước khi thông báo
     save_state(state)
 
-    if not all_reports:
+    # Chính sách gửi Slack:
+    # - Nếu là "cold start" (hoặc có site mới khởi tạo) và KHÔNG có report nào khác: gửi 1 dòng khởi tạo.
+    # - Ngược lại: gửi các báo cáo như bình thường; nếu rỗng -> gửi câu "Không có thay đổi đáng kể".
+    if (is_cold_start or first_run_domains) and not all_reports:
+        post_to_slack(SLACK_WEBHOOK_URL, f"🚀 Khởi tạo theo dõi lần đầu ({len(sites_cfg)} site). Không gửi danh sách URL.")
+        return
+
+    if all_reports:
+        for m in all_reports:
+            post_to_slack(SLACK_WEBHOOK_URL, m)
+    else:
         post_to_slack(SLACK_WEBHOOK_URL, "✅ Không có thay đổi đáng kể (> threshold) trong lần quét hôm nay.")
 
 if __name__ == "__main__":
