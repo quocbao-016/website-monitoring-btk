@@ -631,48 +631,48 @@
           "len": 2284
         }
       },
-      "last_run": 1759720845
+      "last_run": 1759806842
     },
     "be.com.vn": {
       "urls": {
         "https://be.com.vn/tin-tuc/hop-dong-van-chuyen-hanh-khach-theo-hop-dong-dien-tu-xe-o-to/": {
-          "hash": "5f4de4f95ffade936a2f99dc6801390c30e217a6e748ac998d499a101eec5af9",
-          "len": 2885
+          "hash": "129b8975ccbea19f35a5a3b454be311c4500b32f03db5f0f45d8e7930f7629dc",
+          "len": 2910
         },
         "https://be.com.vn/tin-tuc/ra-mat-dich-vu-giao-hang-sieu-re-4h/": {
-          "hash": "e2f5852ac30e5f3adcdd03dde534aea9ac650d5f550e56ab093cdf8a76b15125",
-          "len": 3887
+          "hash": "3a3eee8c8d794d2e64a49f5616544daac9013f71c76b9b6913a0d99ef4d188f7",
+          "len": 3912
         },
         "https://be.com.vn/be-airport/huong-dan-don-xe-oto-becar-ga-quoc-noi-t3-ga-den-cot-33a-tang-1-tret/": {
           "hash": "3e5c408bbafde668f55620cd2475b5e5628b6db3cc1b9850b4c79af68b3d408d",
           "len": 3788
         },
         "https://be.com.vn/tin-tuc/quy-che-dich-vu-be-di-chung/": {
-          "hash": "67d1d914d17e2d3392efd073a1c680e149bb598201e5eae4498fe2522340b3f6",
-          "len": 2850
+          "hash": "19fdb423bb93242e77f77bfc4287ed4471556db34284da3ef597a2cc1296bcfc",
+          "len": 2875
         },
         "https://be.com.vn/tin-tuc/bedelivery-thu-thach-giao-hang-nhan-bien-hieu-doc-quyen/": {
-          "hash": "9120b8d0fa77fb927cf0d8849065722616139c49112d7acb12b9a6eaefd170ee",
-          "len": 3533
+          "hash": "ef7a65c735ce05149d55f6ef433c1282c7a6b4f3ba110a384a9cdcebf4a0a79f",
+          "len": 3545
         },
         "https://be.com.vn/tin-tuc/dac-quyen-gia-nhap-hoi-chu-shop/": {
-          "hash": "39ace8aac49abc3bdf8a37c5d6cd273a438894dda526f2e13c3c9de4aa29aaad",
-          "len": 4728
+          "hash": "c59c3dc2cc7e3bc47e8f8f04f2b588da21ae532711d1e9afc6ccf48167d6676b",
+          "len": 4774
         },
         "https://be.com.vn/be-airport/huong-dan-don-xe-may-bebike-ga-quoc-noi-t3-duong-18e/": {
           "hash": "9dc7b65013bd02ac6b9c9245b7f969416d4d8cc261c6a9499f9531bb8cdc57e5",
           "len": 3920
         },
         "https://be.com.vn/uncategorized/be-group-hoan-thanh-day-du-nghia-vu-thue-2025/": {
-          "hash": "174f0c70fbe7417533e0f6fda0bd8e5a2dc541132d7572fa8776874a213dc069",
-          "len": 4123
+          "hash": "c440454bdb0e7886bc6f7e145dceae60457bedc090e5b7971e1f3f6e2fb15f84",
+          "len": 4169
         },
         "https://be.com.vn/tin-tuc/hop-dong-van-chuyen-hanh-khach-theo-hop-dong-dien-tu-bang-xe-o-to-be-di-chung/": {
-          "hash": "9bd9e083cdb89067325143249311bae443fed429054337d001341b893312339e",
-          "len": 2901
+          "hash": "658081c080c77c77fd5d827f61ab952e1d22c6931ed77ee83054484a21c7bb56",
+          "len": 2926
         }
       },
-      "last_run": 1759720872
+      "last_run": 1759806867
     },
     "www.guvico.com": {
       "urls": {
@@ -1761,7 +1761,7 @@
           "len": 8918
         }
       },
-      "last_run": 1759721935
+      "last_run": 1759808091
     },
     "vuatho.com": {
       "urls": {
@@ -3020,9 +3020,21 @@
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-sua-bep-tu-tai-nha-gia-re-chi-tu-100k-sua-lay-lien": {
           "hash": "a1a32a6052bf87aded4616d50a3586806fd2aefd58dbd8f9d2fb13194b8c110b",
           "len": 8742
+        },
+        "https://vuatho.com/vi/press/tin-tuc/sua-bep-tu-bosch-tan-nha-gia-re-chi-tu-100k-co-bao-hanh": {
+          "hash": "7a8bdebc868c390b40aaae83aa45add4257d03fecc6b41a1fc6bc2253e267458",
+          "len": 8208
+        },
+        "https://vuatho.com/vi/press/tin-tuc/dich-vu-sua-bep-dien-tu-gia-re-sua-bep-tu-gia-100k-co-bh": {
+          "hash": "6658af6ab5aec1787d673744c66e78fb6e4133ddbade89fd4f6565cd7e91e389",
+          "len": 6201
+        },
+        "https://vuatho.com/vi/press/tin-tuc/sua-may-in-gan-day-gia-re-nhanh-chong-co-bao-hanh-dich-vu": {
+          "hash": "762811d19c15b06f228cc631d12d11f7403f82efcf2302877311a6177b1cdac6",
+          "len": 5622
         }
       },
-      "last_run": 1759722577
+      "last_run": 1759808736
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -7807,7 +7819,7 @@
           "len": 46826
         }
       },
-      "last_run": 1759724314
+      "last_run": 1759810527
     },
     "giupviectot.vn": {
       "urls": {
@@ -13850,9 +13862,17 @@
         "https://giupviectot.vn/xin-lam-giup-viec-theo-gio/": {
           "hash": "1ed741e9e49cbd248d0cfca666848a50d47d53c631937ad83efb6027647e0ade",
           "len": 6573
+        },
+        "https://giupviectot.vn/dich-vu-trong-tre/": {
+          "hash": "dbf1a12566cdfca4ae3a2497ebc38c858f8e48076d562d2c1c47dece0ac52055",
+          "len": 4858
+        },
+        "https://giupviectot.vn/don-nha-theo-gio-gia-re/": {
+          "hash": "4175c3336efb1d5511dc95fd98253ff7095e2657c1b5070baf542a838ea574cc",
+          "len": 5604
         }
       },
-      "last_run": 1759726565
+      "last_run": 1759812915
     }
   }
 }
