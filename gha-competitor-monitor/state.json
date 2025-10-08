@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1759806842
+      "last_run": 1759893272
     },
     "be.com.vn": {
       "urls": {
@@ -672,7 +672,7 @@
           "len": 2926
         }
       },
-      "last_run": 1759806867
+      "last_run": 1759893296
     },
     "www.guvico.com": {
       "urls": {
@@ -1761,7 +1761,7 @@
           "len": 8918
         }
       },
-      "last_run": 1759808091
+      "last_run": 1759894357
     },
     "vuatho.com": {
       "urls": {
@@ -1890,8 +1890,8 @@
           "len": 8451
         },
         "https://vuatho.com/vi/press/tin-tuc/cap-nhat-bao-gia-ve-sinh-may-giat-2025-chuan-va-moi-nhat": {
-          "hash": "820ee47596e1d9bfff8dcc535155e68a5f3f0810d858be9dc0e5f4459201834f",
-          "len": 7797
+          "hash": "8e2ce86e790a66b5de8cc07201eaac7cba5b530562ab06a6b0e02f1c426853be",
+          "len": 7800
         },
         "https://vuatho.com/vi/press/doi-song/5-dau-hieu-may-lanh-sap-hong-dat-vua-tho-ngay1743476602352": {
           "hash": "1d384996bb6ac601f0c19779a1ff3cef51e9055c1a9c54aaca0a949aa47dbac4",
@@ -3032,9 +3032,17 @@
         "https://vuatho.com/vi/press/tin-tuc/sua-may-in-gan-day-gia-re-nhanh-chong-co-bao-hanh-dich-vu": {
           "hash": "762811d19c15b06f228cc631d12d11f7403f82efcf2302877311a6177b1cdac6",
           "len": 5622
+        },
+        "https://vuatho.com/vi/press/tin-tuc/dich-vu-bao-duong-dieu-hoa-tai-nha-tho-gioi-gia-chi-tu-100k": {
+          "hash": "df2765aca74129edf4ba5c2973a98619ecdf25fe82e9225c9aa675c94e97c2e0",
+          "len": 6806
+        },
+        "https://vuatho.com/vi/press/tin-tuc/sua-bep-gas-tai-nha-gia-re-sua-lay-lien-bao-gia-truoc-khi-den": {
+          "hash": "386184b7d8a3926eeab404be3e54ef3c0e07651367a59da4e68f736126f64ee9",
+          "len": 6376
         }
       },
-      "last_run": 1759808736
+      "last_run": 1759894980
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -7819,7 +7827,7 @@
           "len": 46826
         }
       },
-      "last_run": 1759810527
+      "last_run": 1759898342
     },
     "giupviectot.vn": {
       "urls": {
@@ -13872,7 +13880,7 @@
           "len": 5604
         }
       },
-      "last_run": 1759812915
+      "last_run": 1759900253
     }
   }
 }
