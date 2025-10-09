@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1759893272
+      "last_run": 1759979887
     },
     "be.com.vn": {
       "urls": {
@@ -672,7 +672,7 @@
           "len": 2926
         }
       },
-      "last_run": 1759893296
+      "last_run": 1759979915
     },
     "www.guvico.com": {
       "urls": {
@@ -1761,7 +1761,7 @@
           "len": 8918
         }
       },
-      "last_run": 1759894357
+      "last_run": 1759980872
     },
     "vuatho.com": {
       "urls": {
@@ -3040,9 +3040,17 @@
         "https://vuatho.com/vi/press/tin-tuc/sua-bep-gas-tai-nha-gia-re-sua-lay-lien-bao-gia-truoc-khi-den": {
           "hash": "386184b7d8a3926eeab404be3e54ef3c0e07651367a59da4e68f736126f64ee9",
           "len": 6376
+        },
+        "https://vuatho.com/vi/press/tin-tuc/cuc-nong-dieu-hoa-la-gi-cau-tao-cuc-nong-co-nhung-gi": {
+          "hash": "37398d89550c40ebaf7cc1ba6f717519e7b1cee04b2dab5b8c40e39dcf8e061b",
+          "len": 6865
+        },
+        "https://vuatho.com/vi/press/tin-tuc/dich-vu-sua-bep-tu-frico-gia-re-chi-tu-100k-co-bao-hanh": {
+          "hash": "95b4783300b24f8fa3766bdc877f83cbcea2c139d9ca769cdd9d9bac0c5a3675",
+          "len": 6872
         }
       },
-      "last_run": 1759894980
+      "last_run": 1759981563
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -7827,7 +7835,7 @@
           "len": 46826
         }
       },
-      "last_run": 1759898342
+      "last_run": 1759984497
     },
     "giupviectot.vn": {
       "urls": {
@@ -13880,7 +13888,7 @@
           "len": 5604
         }
       },
-      "last_run": 1759900253
+      "last_run": 1759986552
     }
   }
 }
