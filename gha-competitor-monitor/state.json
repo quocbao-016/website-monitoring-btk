@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1759979887
+      "last_run": 1760066313
     },
     "be.com.vn": {
       "urls": {
@@ -670,9 +670,13 @@
         "https://be.com.vn/tin-tuc/hop-dong-van-chuyen-hanh-khach-theo-hop-dong-dien-tu-bang-xe-o-to-be-di-chung/": {
           "hash": "658081c080c77c77fd5d827f61ab952e1d22c6931ed77ee83054484a21c7bb56",
           "len": 2926
+        },
+        "https://be.com.vn/uncategorized/be-group-khang-dinh-vi-the-cong-nghe-viet-voi-chien-thang-kep-tai-better-choice-awards-2025/": {
+          "hash": "e1c5b49ba79e7e2b5553214e4a087e6345250a37254a2ec0c3cea3b036ad4ad8",
+          "len": 6958
         }
       },
-      "last_run": 1759979915
+      "last_run": 1760066336
     },
     "www.guvico.com": {
       "urls": {
@@ -1761,7 +1765,7 @@
           "len": 8918
         }
       },
-      "last_run": 1759980872
+      "last_run": 1760067248
     },
     "vuatho.com": {
       "urls": {
@@ -2202,8 +2206,8 @@
           "len": 5913
         },
         "https://vuatho.com/vi/press/doi-song/tham-khao-bang-gia-sua-may-lanh-cap-nhat-2025": {
-          "hash": "7da806ddaf7f7b0863cbbd3e8006a0c3a2dd4a26f951cc89b9f7cb15746c5f50",
-          "len": 4265
+          "hash": "b21d7f6796350e9f12e6a8a97aec7b5ba89a0b85188a0181f212d26b85d1a91e",
+          "len": 4269
         },
         "https://vuatho.com/vi/formal-dress-code": {
           "hash": "f472a506ed73a4207ee79a401fc9588764949b4bd3679b1aee45b754c485a01b",
@@ -3048,9 +3052,17 @@
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-sua-bep-tu-frico-gia-re-chi-tu-100k-co-bao-hanh": {
           "hash": "95b4783300b24f8fa3766bdc877f83cbcea2c139d9ca769cdd9d9bac0c5a3675",
           "len": 6872
+        },
+        "https://vuatho.com/vi/press/tin-tuc/cuc-nong-dieu-hoa-khong-chay-nguyen-nhan-and-cach-khac-phuc": {
+          "hash": "6a011ad7dd3619e330037001c7d31c942eae4866b653059b8a9ca94ea34e6e2e",
+          "len": 5339
+        },
+        "https://vuatho.com/vi/press/tin-tuc/dieu-hoa-1-cuc-la-gi-nen-chon-dieu-hoa-1-cuc-hay-2-cuc": {
+          "hash": "8790410e40005ebc9f941487e8c1fa0273ac982edcd498d31eedd90df79acad6",
+          "len": 6050
         }
       },
-      "last_run": 1759981563
+      "last_run": 1760067949
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -7835,7 +7847,7 @@
           "len": 46826
         }
       },
-      "last_run": 1759984497
+      "last_run": 1760070954
     },
     "giupviectot.vn": {
       "urls": {
@@ -13888,7 +13900,7 @@
           "len": 5604
         }
       },
-      "last_run": 1759986552
+      "last_run": 1760072990
     }
   }
 }
