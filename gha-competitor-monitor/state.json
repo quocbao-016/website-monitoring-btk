@@ -631,29 +631,29 @@
           "len": 2284
         }
       },
-      "last_run": 1760239223
+      "last_run": 1760326780
     },
     "be.com.vn": {
       "urls": {
         "https://be.com.vn/tin-tuc/hop-dong-van-chuyen-hanh-khach-theo-hop-dong-dien-tu-xe-o-to/": {
-          "hash": "129b8975ccbea19f35a5a3b454be311c4500b32f03db5f0f45d8e7930f7629dc",
-          "len": 2910
+          "hash": "3b07cb4d8ac046ffb4b8fddb83f656be4fa49a30fff3b5dbb1f698b40893d351",
+          "len": 2877
         },
         "https://be.com.vn/tin-tuc/ra-mat-dich-vu-giao-hang-sieu-re-4h/": {
-          "hash": "3a3eee8c8d794d2e64a49f5616544daac9013f71c76b9b6913a0d99ef4d188f7",
-          "len": 3912
+          "hash": "b37182400ea949eef68092923042239331c87e405dc52605030a404fb5ff724a",
+          "len": 3879
         },
         "https://be.com.vn/be-airport/huong-dan-don-xe-oto-becar-ga-quoc-noi-t3-ga-den-cot-33a-tang-1-tret/": {
           "hash": "3e5c408bbafde668f55620cd2475b5e5628b6db3cc1b9850b4c79af68b3d408d",
           "len": 3788
         },
         "https://be.com.vn/tin-tuc/quy-che-dich-vu-be-di-chung/": {
-          "hash": "19fdb423bb93242e77f77bfc4287ed4471556db34284da3ef597a2cc1296bcfc",
-          "len": 2875
+          "hash": "342b981984520b697fccd14569f4da2a9e9b083d8e23aa1bbaa3963769b136d2",
+          "len": 2842
         },
         "https://be.com.vn/tin-tuc/bedelivery-thu-thach-giao-hang-nhan-bien-hieu-doc-quyen/": {
-          "hash": "ef7a65c735ce05149d55f6ef433c1282c7a6b4f3ba110a384a9cdcebf4a0a79f",
-          "len": 3545
+          "hash": "24bea548e98b549ff75f7843d8a5680ca6a9da219940cfbb4afb74c149f6b040",
+          "len": 3564
         },
         "https://be.com.vn/tin-tuc/dac-quyen-gia-nhap-hoi-chu-shop/": {
           "hash": "c59c3dc2cc7e3bc47e8f8f04f2b588da21ae532711d1e9afc6ccf48167d6676b",
@@ -668,15 +668,15 @@
           "len": 4169
         },
         "https://be.com.vn/tin-tuc/hop-dong-van-chuyen-hanh-khach-theo-hop-dong-dien-tu-bang-xe-o-to-be-di-chung/": {
-          "hash": "658081c080c77c77fd5d827f61ab952e1d22c6931ed77ee83054484a21c7bb56",
-          "len": 2926
+          "hash": "e0c4c79d709df9c8d5a28aee438d23b519564658ff78719f247d0b03deaf758a",
+          "len": 2945
         },
         "https://be.com.vn/uncategorized/be-group-khang-dinh-vi-the-cong-nghe-viet-voi-chien-thang-kep-tai-better-choice-awards-2025/": {
           "hash": "e1c5b49ba79e7e2b5553214e4a087e6345250a37254a2ec0c3cea3b036ad4ad8",
           "len": 6958
         }
       },
-      "last_run": 1760239594
+      "last_run": 1760326805
     },
     "www.guvico.com": {
       "urls": {
@@ -1761,11 +1761,11 @@
           "len": 29050
         },
         "https://www.guvico.com/blog/": {
-          "hash": "e71d2b041a3ab944334d0122de0e629edbabfcafa6cf9ec5de60df3b85ce1e9f",
-          "len": 8918
+          "hash": "55509f4956add140405612885e0292f82e4f77f16d445c289e7d676d6e8a2cc6",
+          "len": 8851
         }
       },
-      "last_run": 1760240686
+      "last_run": 1760328012
     },
     "vuatho.com": {
       "urls": {
@@ -3074,7 +3074,7 @@
           "len": 6318
         }
       },
-      "last_run": 1760241398
+      "last_run": 1760328693
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -7859,7 +7859,7 @@
           "len": 46826
         }
       },
-      "last_run": 1760243152
+      "last_run": 1760330438
     },
     "giupviectot.vn": {
       "urls": {
@@ -13912,7 +13912,7 @@
           "len": 5604
         }
       },
-      "last_run": 1760245163
+      "last_run": 1760332623
     }
   }
 }
