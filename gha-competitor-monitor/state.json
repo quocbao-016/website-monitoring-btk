@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1760326780
+      "last_run": 1760411973
     },
     "be.com.vn": {
       "urls": {
@@ -676,7 +676,7 @@
           "len": 6958
         }
       },
-      "last_run": 1760326805
+      "last_run": 1760412126
     },
     "www.guvico.com": {
       "urls": {
@@ -1765,7 +1765,7 @@
           "len": 8851
         }
       },
-      "last_run": 1760328012
+      "last_run": 1760412584
     },
     "vuatho.com": {
       "urls": {
@@ -3072,9 +3072,25 @@
         "https://vuatho.com/vi/press/tin-tuc/bep-ga-am-loai-nao-tot-top-5-mau-ban-chay-nhat-20251759978311694": {
           "hash": "1cd50f2163642379c791f2e065f9500fe3496fed655733dece23fa77f66dc735",
           "len": 6318
+        },
+        "https://vuatho.com/vi/press/tin-tuc/bep-ga-am-loai-nao-tot-top-5-mau-ban-chay-nhat-2025": {
+          "hash": "1cd50f2163642379c791f2e065f9500fe3496fed655733dece23fa77f66dc735",
+          "len": 6318
+        },
+        "https://vuatho.com/vi/press/meo-vat/may-ep-cham-nao-tot-hien-nay-top-5-mau-nen-so-huu-nhat-2025": {
+          "hash": "9485cbcbc7ffa2c2031cad967af0266303d32489713074d38b35bafdb01f31cd",
+          "len": 9056
+        },
+        "https://vuatho.com/vi/press/tin-tuc/sua-noi-com-dien-nhanh-chong-sua-lay-lien-tho-bao-gia-truoc": {
+          "hash": "a776c917d023c4045cad268cbfdf9c4e5712ace28e7664e1e6d87aed462a5e01",
+          "len": 6506
+        },
+        "https://vuatho.com/vi/press/tin-tuc/bang-gia-sua-chua-lo-vi-song-cap-nhat-moi-nhat-t102025": {
+          "hash": "8a987772a79b5d3009d4d4151ae6975fc6faadf4913880f70e0acfd32049dbaa",
+          "len": 7148
         }
       },
-      "last_run": 1760328693
+      "last_run": 1760413291
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -7859,7 +7875,7 @@
           "len": 46826
         }
       },
-      "last_run": 1760330438
+      "last_run": 1760415071
     },
     "giupviectot.vn": {
       "urls": {
@@ -13912,7 +13928,7 @@
           "len": 5604
         }
       },
-      "last_run": 1760332623
+      "last_run": 1760417630
     }
   }
 }
