@@ -631,25 +631,25 @@
           "len": 2284
         }
       },
-      "last_run": 1760411973
+      "last_run": 1760498572
     },
     "be.com.vn": {
       "urls": {
         "https://be.com.vn/tin-tuc/hop-dong-van-chuyen-hanh-khach-theo-hop-dong-dien-tu-xe-o-to/": {
-          "hash": "3b07cb4d8ac046ffb4b8fddb83f656be4fa49a30fff3b5dbb1f698b40893d351",
-          "len": 2877
+          "hash": "a6f7385c5781e4a0e66348bf559f4e186a4ff5cece7a216ff23cf90116eee728",
+          "len": 2944
         },
         "https://be.com.vn/tin-tuc/ra-mat-dich-vu-giao-hang-sieu-re-4h/": {
-          "hash": "b37182400ea949eef68092923042239331c87e405dc52605030a404fb5ff724a",
-          "len": 3879
+          "hash": "bd3630e8b4f6dc859e47e00102cdac2b4e729f7950ac14b11c6dd9cd37622ed7",
+          "len": 3946
         },
         "https://be.com.vn/be-airport/huong-dan-don-xe-oto-becar-ga-quoc-noi-t3-ga-den-cot-33a-tang-1-tret/": {
           "hash": "3e5c408bbafde668f55620cd2475b5e5628b6db3cc1b9850b4c79af68b3d408d",
           "len": 3788
         },
         "https://be.com.vn/tin-tuc/quy-che-dich-vu-be-di-chung/": {
-          "hash": "342b981984520b697fccd14569f4da2a9e9b083d8e23aa1bbaa3963769b136d2",
-          "len": 2842
+          "hash": "707c2d2ffb0a70196fced223500363b8eec96341bf798f5ff573c152c8ff30f3",
+          "len": 2899
         },
         "https://be.com.vn/tin-tuc/bedelivery-thu-thach-giao-hang-nhan-bien-hieu-doc-quyen/": {
           "hash": "24bea548e98b549ff75f7843d8a5680ca6a9da219940cfbb4afb74c149f6b040",
@@ -664,19 +664,23 @@
           "len": 3920
         },
         "https://be.com.vn/uncategorized/be-group-hoan-thanh-day-du-nghia-vu-thue-2025/": {
-          "hash": "c440454bdb0e7886bc6f7e145dceae60457bedc090e5b7971e1f3f6e2fb15f84",
-          "len": 4169
+          "hash": "f6cadbc6f6cc69882d1083eb3d2b6bb6c459e09305a8cb12069f52db22d01383",
+          "len": 4224
         },
         "https://be.com.vn/tin-tuc/hop-dong-van-chuyen-hanh-khach-theo-hop-dong-dien-tu-bang-xe-o-to-be-di-chung/": {
-          "hash": "e0c4c79d709df9c8d5a28aee438d23b519564658ff78719f247d0b03deaf758a",
-          "len": 2945
+          "hash": "87c835370ebda3f1e0e54e46adacc164f82a00d1c5d917db5e2411fe3e7b0cdf",
+          "len": 3002
         },
         "https://be.com.vn/uncategorized/be-group-khang-dinh-vi-the-cong-nghe-viet-voi-chien-thang-kep-tai-better-choice-awards-2025/": {
-          "hash": "e1c5b49ba79e7e2b5553214e4a087e6345250a37254a2ec0c3cea3b036ad4ad8",
-          "len": 6958
+          "hash": "0f372b572fd46521c359ab36c0678ed228c453d47cf27ef85e24f9ad242201c3",
+          "len": 7013
+        },
+        "https://be.com.vn/uncategorized/ra-mat-dich-vu-be-thue-xe-theo-gio-berentals/": {
+          "hash": "a2344a0ba98c0cc855ff170788d2d265c782fba033b3991ddabe420157235218",
+          "len": 4632
         }
       },
-      "last_run": 1760412126
+      "last_run": 1760498854
     },
     "www.guvico.com": {
       "urls": {
@@ -721,8 +725,8 @@
           "len": 9215
         },
         "https://www.guvico.com/blog-left-2column/": {
-          "hash": "9e65ef902dc8138feb7ccfeb3a8a6458211dbf2c0d656e0e29e2e1e9dac8ebb5",
-          "len": 10278
+          "hash": "27b458bba75b4a285bc29b3dc2340b8b1b2f3a676bd13a44ad4cab49b89b1ce7",
+          "len": 10292
         },
         "https://www.guvico.com/guvi-khai-truong-van-phong-moi-7-8-2022/": {
           "hash": "93b98773efbd5d9f7256eab920a8aedf42e03adc8027f376297e524531c91f2a",
@@ -1473,8 +1477,8 @@
           "len": 18506
         },
         "https://www.guvico.com/guvi-partner/": {
-          "hash": "ec8487c3e19d6fe57376ef052f60ba26494e8d8699bb405b8f806c4d2133d438",
-          "len": 8696
+          "hash": "594e534d5773aceb117ad21e1ca047d443039b155a76f459f80d19718aa132d4",
+          "len": 8946
         },
         "https://www.guvico.com/giat-sofa-tai-nha-tphcm/": {
           "hash": "09551c4c0c497704e3410b0c2435a3b3282c7a3e063f0349a2b299c35c60bb08",
@@ -1489,8 +1493,8 @@
           "len": 13042
         },
         "https://www.guvico.com/blog-left-sidebar/": {
-          "hash": "19a16b22c1dfd6fb29b265229191f4e31d3ad648ad2aac0e7a4014e3451c5887",
-          "len": 10941
+          "hash": "d5fb6cc87e8000b32b4e2cacd99becfa5a208dc59987f2f1684062a0b1415eec",
+          "len": 10955
         },
         "https://www.guvico.com/giup-viec-theo-gio-da-nang/": {
           "hash": "1fb92e3953c94bc31454748eb9a16e63643adf0855c462aa17c5b3248d69bcf2",
@@ -1765,7 +1769,7 @@
           "len": 8851
         }
       },
-      "last_run": 1760412584
+      "last_run": 1760500118
     },
     "vuatho.com": {
       "urls": {
@@ -3088,9 +3092,17 @@
         "https://vuatho.com/vi/press/tin-tuc/bang-gia-sua-chua-lo-vi-song-cap-nhat-moi-nhat-t102025": {
           "hash": "8a987772a79b5d3009d4d4151ae6975fc6faadf4913880f70e0acfd32049dbaa",
           "len": 7148
+        },
+        "https://vuatho.com/vi/press/tin-tuc/sua-lo-nuong-tai-nha-gia-re-tho-bao-gia-truoc-khi-den": {
+          "hash": "a422895edbd3c75bb5ac16c1dacd7668249e3749a7bc465ecad652e2345044f6",
+          "len": 6812
+        },
+        "https://vuatho.com/vi/press/tin-tuc/top-5-nguyen-nhan-chinh-khien-lo-vi-song-khong-nong": {
+          "hash": "ee2e2e6fe55c1bfe38a44d1e62bc93ba0d43f77de0c1c0182b7c29ac9fe2f3f4",
+          "len": 5144
         }
       },
-      "last_run": 1760413291
+      "last_run": 1760500803
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -7875,7 +7887,7 @@
           "len": 46826
         }
       },
-      "last_run": 1760415071
+      "last_run": 1760504974
     },
     "giupviectot.vn": {
       "urls": {
@@ -13928,7 +13940,7 @@
           "len": 5604
         }
       },
-      "last_run": 1760417630
+      "last_run": 1760507248
     }
   }
 }
