@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1760584982
+      "last_run": 1760671164
     },
     "be.com.vn": {
       "urls": {
@@ -644,8 +644,8 @@
           "len": 3946
         },
         "https://be.com.vn/be-airport/huong-dan-don-xe-oto-becar-ga-quoc-noi-t3-ga-den-cot-33a-tang-1-tret/": {
-          "hash": "3e5c408bbafde668f55620cd2475b5e5628b6db3cc1b9850b4c79af68b3d408d",
-          "len": 3788
+          "hash": "43e9fd278247e3f5156dd4f162a0a602cb96af86904cb0078999a55b13673cf5",
+          "len": 3946
         },
         "https://be.com.vn/tin-tuc/quy-che-dich-vu-be-di-chung/": {
           "hash": "707c2d2ffb0a70196fced223500363b8eec96341bf798f5ff573c152c8ff30f3",
@@ -660,8 +660,8 @@
           "len": 4774
         },
         "https://be.com.vn/be-airport/huong-dan-don-xe-may-bebike-ga-quoc-noi-t3-duong-18e/": {
-          "hash": "9dc7b65013bd02ac6b9c9245b7f969416d4d8cc261c6a9499f9531bb8cdc57e5",
-          "len": 3920
+          "hash": "f71d8fb0e2c61b794da1e32447365b9bec5ec393e06029d7c9d9f1f919706d69",
+          "len": 3937
         },
         "https://be.com.vn/uncategorized/be-group-hoan-thanh-day-du-nghia-vu-thue-2025/": {
           "hash": "f6cadbc6f6cc69882d1083eb3d2b6bb6c459e09305a8cb12069f52db22d01383",
@@ -680,7 +680,7 @@
           "len": 4632
         }
       },
-      "last_run": 1760585025
+      "last_run": 1760671193
     },
     "www.guvico.com": {
       "urls": {
@@ -953,8 +953,8 @@
           "len": 25899
         },
         "https://www.guvico.com/giup-viec-co-dinh/": {
-          "hash": "22ef0f8176a8fb50e9190c22fc57c454cca7ccb2d214aaa1d241280b1fdda06e",
-          "len": 18106
+          "hash": "2d91ab499835c171a417f0bbff35b063c6ca043dffde4feb8da6063e04ec0259",
+          "len": 18425
         },
         "https://www.guvico.com/xuqtgivu/": {
           "hash": "11dd983f40b9b84802838c8c6bc631aeeb4d198bcb0b386cec9043928befe1e1",
@@ -1767,9 +1767,93 @@
         "https://www.guvico.com/blog/": {
           "hash": "55509f4956add140405612885e0292f82e4f77f16d445c289e7d676d6e8a2cc6",
           "len": 8851
+        },
+        "https://www.guvico.com/guvi-dong-hanh-giai-tennis-tba-mo-rong-nam-2025/": {
+          "hash": "04c91304780a422efeca468f8edd550f09fb5beac0e06a8753be2bdd8a878e0a",
+          "len": 11481
+        },
+        "https://www.guvico.com/test-post-for-wordpress-2/": {
+          "hash": "ae206bb091cca4fc108c00674c89c322460dd3632283334d496918b9130a20c5",
+          "len": 8937
+        },
+        "https://www.guvico.com/gia-giup-viec-theo-gio-ngay-tet/": {
+          "hash": "c6fb3f389e5c7e85780ebbe6fff1dbf65f9bd780a1da84cb751e0fd5b6511812",
+          "len": 17116
+        },
+        "https://www.guvico.com/giup-viec-nha-theo-gio-phuong-ben-thanh/": {
+          "hash": "65fa31b7c08ecfe716e7563e1b4fec42793bb38049b56e5f2dcf1d0075f69f44",
+          "len": 20579
+        },
+        "https://www.guvico.com/ve-sinh-may-lanh/": {
+          "hash": "490e349adf1f17e8ff7a748a25dd2df1404596abb7e188ab13f48222ae231bd6",
+          "len": 14121
+        },
+        "https://www.guvico.com/can-tuyen-giup-viec-nha-theo-gio/": {
+          "hash": "63ac2dd666e7e958dab0f9638fd7879525fe506c263fc4d9dacf13f533057f85",
+          "len": 19527
+        },
+        "https://www.guvico.com/bang-gia-dich-vu-don-nha-theo-gio-tai-ha-noi/": {
+          "hash": "4c90c66e77c33bec2fa901983e9763d52365bf80fb6561217e02759a44bc7d20",
+          "len": 19665
+        },
+        "https://www.guvico.com/enjoyday-ranh-tay-giua-tuan/": {
+          "hash": "4ccda929978da3317f8d0cb96458350058a2e84b74cce73beca0e805ec75ea72",
+          "len": 9535
+        },
+        "https://www.guvico.com/dich-vu-giup-viec-nau-an-theo-gio-uy-tin/": {
+          "hash": "03d0530f814ad5e010caa7dfbf5eba269093ee39f6542584472820ab208b226b",
+          "len": 18774
+        },
+        "https://www.guvico.com/gia-thue-don-nha-theo-gio-tai-ha-noi-moi-nhat-2025/": {
+          "hash": "ec769a1a09c2f100566ad25d03ad74a6df8a558e89b66e8586475154b499c810",
+          "len": 18036
+        },
+        "https://www.guvico.com/thong-bao-hoat-dong-trong-le-quoc-khanh-tu-guvi/": {
+          "hash": "494c10dc73cddfc7a23eb214872986efdaa29cfd51b8b4aff643c25bf2730715",
+          "len": 10802
+        },
+        "https://www.guvico.com/uu-dai-27-000d-don-le-quoc-khanh-them-vui/": {
+          "hash": "92850902e7b2bc5cd93cf879a930a78991369f51a2c6a3b6ea59d6fc43f744c6",
+          "len": 9754
+        },
+        "https://www.guvico.com/cong-ty-gioi-thieu-nguoi-giup-viec-nha/": {
+          "hash": "aae905578a4f5666dccea9a3b34f96157f79c953d5e177afb316a23f58a6fb76",
+          "len": 23436
+        },
+        "https://www.guvico.com/chuong-trinh-uu-dai-dac-biet-mung-80-nam-quoc-khanh-2-9/": {
+          "hash": "3e258f74439d93b4640c149c95620fba93cf2e86d43b02b111cd211aa3d8a762",
+          "len": 10495
+        },
+        "https://www.guvico.com/giup-viec-nha-theo-gio-cho-nguoi-nuoc-ngoai/": {
+          "hash": "ac1b35fea84ce0064e4f21a8e881c87659b3831cc7a274b2cf961c81d72559b8",
+          "len": 17768
+        },
+        "https://www.guvico.com/guvi-dong-hanh-cung-giai-cau-long-tba/": {
+          "hash": "3502d3aa0090adcc9fbc42c461ad2f7115a7635a1b392663f25ee80fe250d04d",
+          "len": 10697
+        },
+        "https://www.guvico.com/test-post-for-wordpress/": {
+          "hash": "9d98dfbff7cee37e900b541c8a1d1c96c25e6a32b4d958a43b7f59d00a9e85b5",
+          "len": 8937
+        },
+        "https://www.guvico.com/giup-viec-nha-theo-gio-chinh-chu-uy-tin/": {
+          "hash": "133d1f8c13d5cc93bbeaaa167f75392a37f52bc5d6e6a19df6683c7c83e5d8fb",
+          "len": 18542
+        },
+        "https://www.guvico.com/ve-sinh-sofa-rem-tham-nem-tai-nha/": {
+          "hash": "b465a4cd5da3b844134a386da0a7bd76a9ad1d1295e4aa3fe237dc8f8d6dd93c",
+          "len": 12516
+        },
+        "https://www.guvico.com/combo-voucher-giup-viec-theo-gio/": {
+          "hash": "088db7a1be59be25d0397d0fbce7bb9a497995f5d656997143ac5bf0dc5b9e41",
+          "len": 9910
+        },
+        "https://www.guvico.com/banmoi-trong-tay-uu-dai-toi-ngay/": {
+          "hash": "21ee450924ce724083168e344cf652fe5c805d5c744fb05207aed06154adeb53",
+          "len": 9690
         }
       },
-      "last_run": 1760586107
+      "last_run": 1760672637
     },
     "vuatho.com": {
       "urls": {
@@ -3108,9 +3192,17 @@
         "https://vuatho.com/vi/press/tin-tuc/sua-chua-may-xay-sinh-to-gia-re-tai-tphcm-sua-lay-lien": {
           "hash": "1fc962e78578e764583805ac3ffd7eb2518dca07b520efa0d129510a03a59252",
           "len": 5663
+        },
+        "https://vuatho.com/vi/press/tin-tuc/sua-may-say-quan-ao-tphcm-dich-vu-sua-tan-nha-gia-re": {
+          "hash": "d3c8fdf2fd563f5af7888482bf8200b94f26477a14d4215111cc6c1d651ec96e",
+          "len": 7777
+        },
+        "https://vuatho.com/vi/press/tin-tuc/may-xay-cam-tay-tai-nha-gia-re-tho-chuyen-nghiep": {
+          "hash": "18540dec7cc2991d0b3acc7fe44b09cc8ecbcbd29078253fa0ef3fd3ad89b7d9",
+          "len": 5856
         }
       },
-      "last_run": 1760586827
+      "last_run": 1760673306
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -7895,7 +7987,7 @@
           "len": 46826
         }
       },
-      "last_run": 1760588564
+      "last_run": 1760676153
     },
     "giupviectot.vn": {
       "urls": {
@@ -13948,7 +14040,7 @@
           "len": 5604
         }
       },
-      "last_run": 1760590633
+      "last_run": 1760677937
     }
   }
 }
