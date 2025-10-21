@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1760931970
+      "last_run": 1761017097
     },
     "be.com.vn": {
       "urls": {
@@ -680,7 +680,7 @@
           "len": 4632
         }
       },
-      "last_run": 1760932016
+      "last_run": 1761017468
     },
     "www.guvico.com": {
       "urls": {
@@ -953,8 +953,8 @@
           "len": 25899
         },
         "https://www.guvico.com/giup-viec-co-dinh/": {
-          "hash": "2d91ab499835c171a417f0bbff35b063c6ca043dffde4feb8da6063e04ec0259",
-          "len": 18425
+          "hash": "22ef0f8176a8fb50e9190c22fc57c454cca7ccb2d214aaa1d241280b1fdda06e",
+          "len": 18106
         },
         "https://www.guvico.com/xuqtgivu/": {
           "hash": "11dd983f40b9b84802838c8c6bc631aeeb4d198bcb0b386cec9043928befe1e1",
@@ -1765,8 +1765,8 @@
           "len": 29050
         },
         "https://www.guvico.com/blog/": {
-          "hash": "55509f4956add140405612885e0292f82e4f77f16d445c289e7d676d6e8a2cc6",
-          "len": 8851
+          "hash": "781ff59625a86f8e2874aa4981f258aabbb75b76f58b631967c02ee71f1b1dae",
+          "len": 8777
         },
         "https://www.guvico.com/guvi-dong-hanh-giai-tennis-tba-mo-rong-nam-2025/": {
           "hash": "04c91304780a422efeca468f8edd550f09fb5beac0e06a8753be2bdd8a878e0a",
@@ -1853,7 +1853,7 @@
           "len": 9690
         }
       },
-      "last_run": 1760932075
+      "last_run": 1761019139
     },
     "vuatho.com": {
       "urls": {
@@ -3198,12 +3198,12 @@
           "len": 7777
         },
         "https://vuatho.com/vi/press/tin-tuc/may-xay-cam-tay-tai-nha-gia-re-tho-chuyen-nghiep": {
-          "hash": "18540dec7cc2991d0b3acc7fe44b09cc8ecbcbd29078253fa0ef3fd3ad89b7d9",
-          "len": 5856
+          "hash": "9f31559fd928cbc0e3dd744a58559f799779339359f3aec110599e612b2372f9",
+          "len": 5892
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-loc-khong-khi-tai-nha-gia-re-sua-nhanh-chong-co-bh": {
-          "hash": "e2a063bf5d51ba9113b726806ec4e20902e2b2fbe41c37140050008966ec843a",
-          "len": 5574
+          "hash": "a5635ee29f1223182a532b354ca0a01ec0eba199ff5bb073e9e94c90621b106f",
+          "len": 5640
         },
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-sua-chua-quat-tran-khac-phuc-nhanh-gia-re-co-bh": {
           "hash": "b52871584e66ffe5053da66c10906559679b962617446c89cf6f3ce05747f7c1",
@@ -3212,9 +3212,17 @@
         "https://vuatho.com/vi/press/tin-tuc/sua-may-loc-khong-khi-sharp-gia-re-tho-chuyen-nghiep": {
           "hash": "902e42bdffab4fe049c996100dc451ea13398c7dbf691ae951d459f90a8b298d",
           "len": 7278
+        },
+        "https://vuatho.com/vi/press/tin-tuc/sua-may-loc-khong-khi-daikin-tan-nha-gia-re-co-bh": {
+          "hash": "4ef50c0e60bc2899355ae1ed5c5154f42a0edee1371a8520e302660395b3d20e",
+          "len": 8654
+        },
+        "https://vuatho.com/vi/press/tin-tuc/sua-may-loc-khong-khi-coway-gia-re-khac-phuc-moi-van-de": {
+          "hash": "59ec62b640a5bb1141e8234ec76dd73830b7e45989452127b321ea4402e91c9c",
+          "len": 9389
         }
       },
-      "last_run": 1760932874
+      "last_run": 1761019892
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -7999,7 +8007,7 @@
           "len": 46826
         }
       },
-      "last_run": 1760934575
+      "last_run": 1761022181
     },
     "giupviectot.vn": {
       "urls": {
@@ -14052,7 +14060,7 @@
           "len": 5604
         }
       },
-      "last_run": 1760937164
+      "last_run": 1761024252
     },
     "vesinhhc.vn": {
       "urls": {
