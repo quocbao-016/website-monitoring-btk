@@ -631,25 +631,25 @@
           "len": 2284
         }
       },
-      "last_run": 1761104430
+      "last_run": 1761189778
     },
     "be.com.vn": {
       "urls": {
         "https://be.com.vn/tin-tuc/hop-dong-van-chuyen-hanh-khach-theo-hop-dong-dien-tu-xe-o-to/": {
-          "hash": "a6f7385c5781e4a0e66348bf559f4e186a4ff5cece7a216ff23cf90116eee728",
-          "len": 2944
+          "hash": "f0116e4a7086c67573a60b9b9ef9f2fe032e8de7ef4d2d05ed9cb705fdb1afa3",
+          "len": 2964
         },
         "https://be.com.vn/tin-tuc/ra-mat-dich-vu-giao-hang-sieu-re-4h/": {
-          "hash": "bd3630e8b4f6dc859e47e00102cdac2b4e729f7950ac14b11c6dd9cd37622ed7",
-          "len": 3946
+          "hash": "533b01d16a4853c106f8f50ac17033adca1789e59bb8e1b25f694dab4b2ffaf0",
+          "len": 3930
         },
         "https://be.com.vn/be-airport/huong-dan-don-xe-oto-becar-ga-quoc-noi-t3-ga-den-cot-33a-tang-1-tret/": {
           "hash": "43e9fd278247e3f5156dd4f162a0a602cb96af86904cb0078999a55b13673cf5",
           "len": 3946
         },
         "https://be.com.vn/tin-tuc/quy-che-dich-vu-be-di-chung/": {
-          "hash": "707c2d2ffb0a70196fced223500363b8eec96341bf798f5ff573c152c8ff30f3",
-          "len": 2899
+          "hash": "1b3f225d96fd7386286f9c2e5783ccac9e20741740af23fc8717a59a25818642",
+          "len": 2883
         },
         "https://be.com.vn/tin-tuc/bedelivery-thu-thach-giao-hang-nhan-bien-hieu-doc-quyen/": {
           "hash": "24bea548e98b549ff75f7843d8a5680ca6a9da219940cfbb4afb74c149f6b040",
@@ -668,8 +668,8 @@
           "len": 4224
         },
         "https://be.com.vn/tin-tuc/hop-dong-van-chuyen-hanh-khach-theo-hop-dong-dien-tu-bang-xe-o-to-be-di-chung/": {
-          "hash": "87c835370ebda3f1e0e54e46adacc164f82a00d1c5d917db5e2411fe3e7b0cdf",
-          "len": 3002
+          "hash": "cb6b0de509301f0d28b17d3dd21762013c16798340f9c94a836c412b9e1917df",
+          "len": 2986
         },
         "https://be.com.vn/uncategorized/be-group-khang-dinh-vi-the-cong-nghe-viet-voi-chien-thang-kep-tai-better-choice-awards-2025/": {
           "hash": "0f372b572fd46521c359ab36c0678ed228c453d47cf27ef85e24f9ad242201c3",
@@ -680,7 +680,7 @@
           "len": 4632
         }
       },
-      "last_run": 1761104483
+      "last_run": 1761189835
     },
     "www.guvico.com": {
       "urls": {
@@ -1853,7 +1853,7 @@
           "len": 9690
         }
       },
-      "last_run": 1761104942
+      "last_run": 1761190735
     },
     "vuatho.com": {
       "urls": {
@@ -3228,9 +3228,17 @@
         "https://vuatho.com/vi/press/tin-tuc/sua-may-loc-khong-khi-lg-gia-re-sua-lay-lien-trong-ngay": {
           "hash": "a310a10056d105cb20acbf0adffc507db6c192dd123647cb92c9a8eebd7efd89",
           "len": 7278
+        },
+        "https://vuatho.com/vi/press/tin-tuc/top-5-may-ep-cham-panasonic-duoc-tin-chon-nhieu-nhat-2025": {
+          "hash": "cc7165a86645cc27da13358d474f75dfc19160040a447f7b57e5bec4a9795d68",
+          "len": 5152
+        },
+        "https://vuatho.com/vi/press/tin-tuc/sua-may-loc-khong-khi-xiaomi-tai-nha-gia-re-co-bao-hanh": {
+          "hash": "2af9fbc1dd637f0a5647c809a3abc6c920fb4a4ccf2f5508ba76f749685654ec",
+          "len": 7564
         }
       },
-      "last_run": 1761105718
+      "last_run": 1761191478
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8015,7 +8023,7 @@
           "len": 46826
         }
       },
-      "last_run": 1761109648
+      "last_run": 1761193082
     },
     "giupviectot.vn": {
       "urls": {
@@ -14068,7 +14076,7 @@
           "len": 5604
         }
       },
-      "last_run": 1761112142
+      "last_run": 1761195048
     },
     "vesinhhc.vn": {
       "urls": {
