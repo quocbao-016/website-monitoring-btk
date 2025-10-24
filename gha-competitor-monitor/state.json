@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1761189778
+      "last_run": 1761275901
     },
     "be.com.vn": {
       "urls": {
@@ -678,67 +678,79 @@
         "https://be.com.vn/uncategorized/ra-mat-dich-vu-be-thue-xe-theo-gio-berentals/": {
           "hash": "a2344a0ba98c0cc855ff170788d2d265c782fba033b3991ddabe420157235218",
           "len": 4632
+        },
+        "https://be.com.vn/be-airport/huong-dan-don-xe-oto-becar-ga-quoc-noi-t3-ga-den-cot-49-54-tang-1-tret/": {
+          "hash": "43e9fd278247e3f5156dd4f162a0a602cb96af86904cb0078999a55b13673cf5",
+          "len": 3946
+        },
+        "https://be.com.vn/uncategorized/be-group-dat-loi-nhuan-ebitda-duong-duoc-vinh-danh-doanh-nghiep-xuat-sac-chau-a-tai-apea-2025/": {
+          "hash": "d09601261225994c098ba4fe420dfc157adc55070c1c404ed045cc88da9c97c1",
+          "len": 7597
+        },
+        "https://be.com.vn/tin-tuc/danh-sach-truong-goi-xinh-vien/": {
+          "hash": "56af95143b9601bfafa79e47bafe1624d54b8717e1582ad357b3f4bc4eea5cef",
+          "len": 55836
         }
       },
-      "last_run": 1761189835
+      "last_run": 1761275954
     },
     "www.guvico.com": {
       "urls": {
         "https://www.guvico.com/uu-dai-vuot-troi-10-voi-giup-viec-co-dinh/": {
-          "hash": "fa071bb1020a37781ebca66942c51bf0e9a9e6e02d66b2203d77912507c30742",
-          "len": 10154
+          "hash": "668af10a13c6a81c8759b7491aa8c510e380cd0f67abdf6aa1edaf0a8e84deeb",
+          "len": 10170
         },
         "https://www.guvico.com/tin-tuc-nau-an-tai-nha/": {
-          "hash": "e692f8f0a29a36411806097bb88b47e18e9d65363b32168ee7326e9d6b9b0fcb",
-          "len": 8714
+          "hash": "8ed38c915c2788e51e26316af9113748a705439c9a494a3cf907feec9b9f2ea2",
+          "len": 9075
         },
         "https://www.guvico.com/co-nen-lam-giup-viec-theo-gio-khong/": {
-          "hash": "ccee9986034eac6355759b8068f1c5c91f06d6eb33d4531398e2ea6d754244e3",
-          "len": 15100
+          "hash": "364a5206406185ea9403a0ec108dbc7739d92b4f9150406ec0e84522285c44d3",
+          "len": 15116
         },
         "https://www.guvico.com/co-gi-trong-giup-viec-theo-gio-guvi/": {
-          "hash": "a9f761d8a15e819cda8915e9a38882b6d945256bd23e3c63019fa74a5dbe03fe",
-          "len": 9843
+          "hash": "5474aa56c1fe2f80b9b7a1fb168c82e200827b61867ca6e5f12d0eb479491906",
+          "len": 9859
         },
         "https://www.guvico.com/giat-sofa-quan-4/": {
-          "hash": "1f9b97083af4c22ce5fe5841c5e2305757ab1cfc4f9680125462696671d74ba7",
-          "len": 24975
+          "hash": "fe77099b4af2265087cbfad21440a2720186141d28035fdf2eb4433dc1e59b31",
+          "len": 24991
         },
         "https://www.guvico.com/dich-vu-giup-viec-cham-nguoi-gia-guvi/": {
           "hash": "c1d565d30d6f1911f500214dfbf3c81759ed54d8ad125e962368d089eb880a4d",
           "len": 16867
         },
         "https://www.guvico.com/hanh-trinh-nang-tam-nghe-giup-viec/": {
-          "hash": "06331c65afca8ff0726b74abb0095d5c01f6dadc3d47f21b51318d419d013d75",
-          "len": 14629
+          "hash": "e3dce5d7902ad75e6cb51be9379a6dc17a6f705b6fca0e2c7cdd8ff2f869fb76",
+          "len": 14645
         },
         "https://www.guvico.com/toi-da-loi-ich-cung-g-points-khi-dat-lich-tren-guvi/": {
-          "hash": "c165c227eed8b165bb3bef888ad2bd9f50c7df13ab80702ca79e28edb7199bef",
-          "len": 10141
+          "hash": "335a8b69a9b5441439fc5a9bcb52bc64d1f71c43cd47d20450c5bf393ade70ce",
+          "len": 10157
         },
         "https://www.guvico.com/don-vi-giup-viec-nha-theo-gio-quan-11/": {
-          "hash": "87214b5a6b954fadfe7db8f4ca6579b82102093eb8d70480b95ac2ac2aa9aae4",
-          "len": 19588
+          "hash": "18e7aeeecb40aaf5fc5307191ee0d4f30cc6c01398ccd7fcc90a3b42c1fcef86",
+          "len": 19604
         },
         "https://www.guvico.com/ho-tro-doi-tac-guvi-partner/": {
-          "hash": "36098b42210cdcda01d454bac3c619ddad668b584dd1f61c7240b46151f97d46",
-          "len": 9215
+          "hash": "da8199b9b13714b1c7f4f5ebc69386f8077edddc784a677dd7ae2738c4e9cb0d",
+          "len": 9231
         },
         "https://www.guvico.com/blog-left-2column/": {
-          "hash": "27b458bba75b4a285bc29b3dc2340b8b1b2f3a676bd13a44ad4cab49b89b1ce7",
-          "len": 10292
+          "hash": "78c09d2098331348504658038dbf8f34701a89aa8e25f07f309aabc45103bc27",
+          "len": 10334
         },
         "https://www.guvico.com/guvi-khai-truong-van-phong-moi-7-8-2022/": {
-          "hash": "93b98773efbd5d9f7256eab920a8aedf42e03adc8027f376297e524531c91f2a",
-          "len": 11550
+          "hash": "d9ae6115d72e9c8258bd94fd4de95ca185d22d4b7fe870dd9a13f5df2b726230",
+          "len": 11566
         },
         "https://www.guvico.com/cach-ve-sinh-mat-than-may-lanh-don-gian-dung-cach/": {
-          "hash": "33ba4389e4d300f6cee0402e4cca63e5f1d0f9944d0d7b81f182f7f460a39abe",
-          "len": 16115
+          "hash": "a0c6834ea30b28e5d8ad579f93d5508dade3faa06be8db64c73b83defbaf970f",
+          "len": 16131
         },
         "https://www.guvico.com/giat-sofa-quan-5/": {
-          "hash": "6defe8e97c75da5a4da5cc2374c6e4199ef5bd54327be9cdc06cc1af49005b66",
-          "len": 27835
+          "hash": "4cc71dd10df3efa0c6061dff13e69f66f8daa44382290df7390467008e1422df",
+          "len": 27851
         },
         "https://www.guvico.com/gioi-thieu-doi-tac-giup-viec/": {
           "hash": "0a48afc4969396256adcbf610ca3f4fdc0b8e3c7b6a62ec702788f2806789f00",
@@ -749,208 +761,208 @@
           "len": 13892
         },
         "https://www.guvico.com/giat-sofa-quan-tan-binh/": {
-          "hash": "1dc8fc492de8971dafb796eb367283b446bb7ce9ef6c0ca11d9f12536e50f192",
-          "len": 26609
+          "hash": "7c778c6d5e0806bc08d276d7b70661444bb6219295b2f4ea1e34df8df6f96dd7",
+          "len": 26625
         },
         "https://www.guvico.com/cach-giat-kho-ghe-sofa/": {
-          "hash": "97cc1f4345d5b12400d3c11795adf5323e64064ac867cab3d09901a9b8f85dcf",
-          "len": 16285
+          "hash": "925be2eef81d0e7252c62f7a7d966c781186f824ded10b6b4686669b20e961cc",
+          "len": 16301
         },
         "https://www.guvico.com/ve-sinh-may-lanh-quan-1/": {
-          "hash": "decbad476878860b1ba1aa5bfcbf2b586f599d1accd90fdbedd1f66ffe7a7901",
-          "len": 27772
+          "hash": "4f30fcd5cf18e11af1c630719068e06048276e2e99a550510aa6dafe3097b762",
+          "len": 27788
         },
         "https://www.guvico.com/giup-viec-theo-gio-cho-nguoi-nuoc-ngoai/": {
-          "hash": "fb5458ce8847ed090c03d74324b66d04cc47a2c383b7db1bfd02926a1bf53355",
-          "len": 17659
+          "hash": "62c2b6f467e87265e7fbdba8e8da02449e1b28ec164a2c7e55a627822e3c6250",
+          "len": 17675
         },
         "https://www.guvico.com/dich-vu-ve-sinh-van-phong-tai-tphcm/": {
-          "hash": "2917d563a9148234971912cad6f14be500e3c90156ecef0293201bb148209400",
-          "len": 23199
+          "hash": "22638d14b1669ce610dc745e9c2ccce60cfba0bb62cd588e851ff735f5f81df6",
+          "len": 23215
         },
         "https://www.guvico.com/tin-tuc-ve-sinh-rem-tham-sofa-nem/": {
-          "hash": "ef0d4d30e2701e26b417e1416a4910416a1ba2cf39538090c7dd40f5a97fcdbb",
-          "len": 10937
+          "hash": "cbeaba5b9b8e3839427444200960b20cfd1230b4c498e82b9abea4bdbb30b527",
+          "len": 10953
         },
         "https://www.guvico.com/giup-viec-theo-gio-binh-duong/": {
-          "hash": "34170742a3e642765d9d40ee3f863f00e36bb7c9da120f9d8ff06dea0f4e6361",
-          "len": 18917
+          "hash": "ad130b0c9858cf05db3c0ff38af3df8cff942bfc6e5fede21c6d984cb16a76f3",
+          "len": 18933
         },
         "https://www.guvico.com/ve-sinh-may-lanh-quan-11/": {
-          "hash": "e6d518d0ec8468755cba902d3ed00dbc5d2ae59aea26d6c42b0a6c74407d7bb4",
-          "len": 18267
+          "hash": "faee1f096d041bdcacbcc29db94791fb8dd039d5b6913dfdaf38d4b091b0d827",
+          "len": 18283
         },
         "https://www.guvico.com/dich-vu-giat-nem-tai-nha/#comment-2124": {
-          "hash": "241619b080b890ad9b2709b78aaec3c0d4d58702eccfd769b6ea326ba5131079",
-          "len": 17977
+          "hash": "d342150fe6465d718445a8b695f290a374792c00d4391bf34fe3c64c3a0d46d7",
+          "len": 17993
         },
         "https://www.guvico.com/giat-sofa-quan-12/": {
-          "hash": "12788cf17a5d4fa368db3e0b7a0c72b2fa4146f0ef488d81cce8c049e5c3f594",
-          "len": 27306
+          "hash": "93a63ce69b4cfe6246525d5193ccc5a182832922af41b2698e1b12200d8282a4",
+          "len": 27322
         },
         "https://www.guvico.com/giat-sofa-quan-1/": {
-          "hash": "459aecd3745f599ceb94f95e01ad34a91cac6d66fee3623eaf7204af1ad0105d",
-          "len": 26315
+          "hash": "b5a227f42b07d35b37bd33b9397cef8cb2eb51dba9f7d9cb6dbb3ecb5dcee93e",
+          "len": 26331
         },
         "https://www.guvico.com/tong-ve-sinh-nha-cua/": {
-          "hash": "4c5e30c674dbd9aa5754bd1c5fa254106d7053f0abd2c51cbb169d3a37f5a531",
-          "len": 16735
+          "hash": "ca44b52896b262586b1cf75119437af04392316888ab523d6ff5c33ba0492d96",
+          "len": 16751
         },
         "https://www.guvico.com/giup-viec-theo-gio-quan-nam-tu-liem/": {
-          "hash": "9b65a9671eb7d6b25a7ccde003f956b1df05354a4e0371550e5941ca0100377d",
-          "len": 14038
+          "hash": "2fc8e0c8bb95ae80db130351cb5b09aa7541c509b161b16314c889b03d812784",
+          "len": 14054
         },
         "https://www.guvico.com/bao-chi/": {
           "hash": "916a243caba667c9e602f35392194094ba12349aebf5c3ddeb4315c3f1734113",
           "len": 8935
         },
         "https://www.guvico.com/giup-viec-co-dinh-an-tam-gap-boi-uu-dai-gap-doi/": {
-          "hash": "4f087cb0ede8ec615637b79a84847c089ed1faed2e96b531cd78075c20a94a2b",
-          "len": 9816
+          "hash": "f5e5d218197ff924792bc0c9a56361bf754c21e512969581a79c1a13f74facbf",
+          "len": 9832
         },
         "https://www.guvico.com/dich-vu-ve-sinh-chung-cu/": {
-          "hash": "72cf460409c1416486e6d096160f5672917b93aaab023a0d2c22eb553ae5d016",
-          "len": 18578
+          "hash": "67396d3a7141fd56f3d297a49feb5431c5cf2c0b59174cf153ebef52aab875f1",
+          "len": 18594
         },
         "https://www.guvico.com/giat-sofa-quan-dong-da/": {
-          "hash": "cca3d5438922b6b93e69b07f3bc98c97e699219bcdf6dd9b8aa2baa4b2ee999c",
-          "len": 20313
+          "hash": "9affc0da345affd5ac5b0a8d29cf578025f2ed1175cf9e0b8c18b1ea92658c53",
+          "len": 20329
         },
         "https://www.guvico.com/cach-ve-sinh-rem-cua/": {
-          "hash": "5e8c702bd5f06800df7d54eee584bff73aa80448d9823f200878be59e8277319",
-          "len": 16978
-        },
-        "https://www.guvico.com/loi-ich-thue-giup-viec-theo-gio/": {
-          "hash": "70bdbb38445524163be50265f4411f5ed642d8ff42472256a9ee48d06fadbe8e",
-          "len": 14448
-        },
-        "https://www.guvico.com/cong-ty-giup-viec-nha-theo-gio-quan-9/": {
-          "hash": "23161180a4d32b3992f990cb694003c2e176eb6dc6c37f1439394c90103f5c57",
-          "len": 19842
-        },
-        "https://www.guvico.com/uu-dai-dich-vu-giup-viec/": {
-          "hash": "b260ea25326c0b46b0b626d8e152841dc43ae49d5663b8ada0a927c246a43631",
-          "len": 11792
-        },
-        "https://www.guvico.com/giup-viec-nha-theo-gio-quan-3/": {
-          "hash": "d5dbb0e82859b2d7268c52ed34bbfc3184d8c9476219ce0adedfdd2f7aad9d70",
-          "len": 19628
-        },
-        "https://www.guvico.com/doi-diem-g-points-don-nha-tet-ga-khong-lo-ve-gia/": {
-          "hash": "30c9468464a0ddab37309d95a5f53c72e96a443d1c74b33834b13fba531c6ad1",
-          "len": 10063
-        },
-        "https://www.guvico.com/top-ung-dung-giup-viec-nha-theo-gio/": {
-          "hash": "d24ee52d8fc92c0692ce8da8e9b566a386d570a136c56657c5af0d0e4d53aadb",
-          "len": 20927
-        },
-        "https://www.guvico.com/giat-nem-quan-8/": {
-          "hash": "f17bd6351dedc25ce6fa8d0e498ab20e7c11fadff77ee0aeac362846f8009343",
+          "hash": "6fd80d607686fbb56cd01d293c005eb86103c1530b0724dc282fd94cc6b1931a",
           "len": 16994
         },
+        "https://www.guvico.com/loi-ich-thue-giup-viec-theo-gio/": {
+          "hash": "1162a3f0a08deda57ad1d6381829122dac2b2ce381e8a9d9947e7df1dc293a63",
+          "len": 14464
+        },
+        "https://www.guvico.com/cong-ty-giup-viec-nha-theo-gio-quan-9/": {
+          "hash": "d80764037be90e4bad22a39a6479a66aaf2e1fa14f4155a874ee0a927382511f",
+          "len": 19858
+        },
+        "https://www.guvico.com/uu-dai-dich-vu-giup-viec/": {
+          "hash": "2c638dade586eef696d762018b820a077705c2289c2e485e6569cb17c683c3df",
+          "len": 11808
+        },
+        "https://www.guvico.com/giup-viec-nha-theo-gio-quan-3/": {
+          "hash": "45f079438bd3a10f161b6a5f739afe369a8c22209127c9f2d9ea0fdcd46bb331",
+          "len": 19644
+        },
+        "https://www.guvico.com/doi-diem-g-points-don-nha-tet-ga-khong-lo-ve-gia/": {
+          "hash": "745c030fc51b5489e453bbee72bcfd1cd13ea97d5175e8c2964d7a9ed4820ebc",
+          "len": 10079
+        },
+        "https://www.guvico.com/top-ung-dung-giup-viec-nha-theo-gio/": {
+          "hash": "2cf607041ee4e9e111156296945e769f33ffdc1d6332b8796e0684cfeb0fd340",
+          "len": 20943
+        },
+        "https://www.guvico.com/giat-nem-quan-8/": {
+          "hash": "387c52eac749c735bcb738def4c9f3de855facad83cda6238a46e1ebe1524455",
+          "len": 17010
+        },
         "https://www.guvico.com/giup-viec-theo-gio-quan-tay-ho/": {
-          "hash": "e5180a38f2661140c5ccd0bf3c84f03f8a84b8e7e0332e376b98f9c165082574",
-          "len": 16401
+          "hash": "19f79b17a13942a860124b399eb59ac6df0ef74f5f100338d22a4686427f037b",
+          "len": 16417
         },
         "https://www.guvico.com/ve-sinh-dieu-hoa-quan-ha-dong/": {
-          "hash": "7310e0fbeb152edf2e821bc0dd184e426286c0a5221c2527cdab5f30c6a7e3d3",
-          "len": 23327
+          "hash": "3224cbd8286fb297e7f1adc9d8dd4d7fc293da08dc70526459574369aef5ede5",
+          "len": 23343
         },
         "https://www.guvico.com/giat-sofa-quan-6/": {
-          "hash": "f6b4c7b4e16368064c13ab2e14d7b1a4a5a2888947971eb9362cfec15d4482af",
-          "len": 27796
+          "hash": "28700dcfe1f15fd39099a7072d4273ca88af81f4f50f7bf86d4c80d644072cc2",
+          "len": 27812
         },
         "https://www.guvico.com/happy-monday-dat-lich-thu-2-hai-ngay-deal-xin/": {
-          "hash": "6d65b8481a77cd75f950beabb88eeeee42cb57c86a22ae8fb33bae4fe091f0ca",
-          "len": 9478
+          "hash": "d3e4c1cdfa76c6a1f3b64078d2ffc4e3584e46bdaaca81dbdce2872bb2cb182f",
+          "len": 9494
         },
         "https://www.guvico.com/cach-ve-sinh-nha-moi-xay/": {
-          "hash": "7098e68b4764fc8eaaf8d0435407e47b2fb44e884af4b21e4e2efc20a87c11c1",
-          "len": 18072
+          "hash": "edcb9a1daebc616e95d6c8c2dc0328b6d9cff3e5c3e81c0e613c1915aa8d3f07",
+          "len": 18088
         },
         "https://www.guvico.com/giup-viec-nha-theo-gio-quan-1/": {
-          "hash": "28da8527bdc8532d0d523c4def2b253cbed60396346caa75a3fa180d56f267e6",
-          "len": 18888
+          "hash": "b01f70849320fcc860fc7a966b986471faa1d230f117c5f99e6b90010898cccc",
+          "len": 18904
         },
         "https://www.guvico.com/gioi-thieu-guvi-ung-dung-don-dep-giup-viec-nha/": {
           "hash": "71765e69fc3930df64ef4bac2525e1ee5a275a7e8d3902cebf404230e6aac37a",
           "len": 13354
         },
         "https://www.guvico.com/tba-dung-hang-tba-va-keu-goi-doi-tac-dung-hang-tba/": {
-          "hash": "62f31809f6e3aff1d9fe5b3be1fea40b625df2137fa1aee7e01667b68b95cf41",
-          "len": 12231
+          "hash": "be6fda9d41839da77b6b97b699dfc4529fb1916088b6b13ee8a7bab20f00e2a4",
+          "len": 12247
         },
         "https://www.guvico.com/giat-sofa-quan-8/": {
-          "hash": "328962758eea28cb63066230b99fed17036ae753dde8237b25a8f2e6a2e63c94",
-          "len": 28149
+          "hash": "b545a638f6acda2e910050fa2ff8b0e621136b7b395fe9a22101b0524e97b465",
+          "len": 28165
         },
         "https://www.guvico.com/giat-sofa-quan-11/": {
-          "hash": "6deae55573783082e0e3dc98a15b6386e1f257b44114b9ca026f2eee01835565",
-          "len": 28309
+          "hash": "767745fb1260bbf1060a49960ea3a0b8ab16c0b9d96c2438efe329e3cbffc7c3",
+          "len": 28325
         },
         "https://www.guvico.com/giat-nem-thu-duc/": {
-          "hash": "679efee58f8620167ec57d2325db3aec33a478cd8c12923663cb452574eb7cc9",
-          "len": 17374
+          "hash": "85edc876f4c8f0a4c40ff61781aa1847eeb954bbccb22726210b958f9cc00b77",
+          "len": 17390
         },
         "https://www.guvico.com/cong-tac-vien-giup-viec/": {
           "hash": "8b688691be2b315b1bb40911b043056ff08b58d4614aab86dae67795d0d72c8a",
           "len": 12186
         },
         "https://www.guvico.com/dich-vu-don-dep-van-phong/": {
-          "hash": "3c6d1323835ecbe41996a6de0aecb0cd82ef4448e8c399270c77603bfadbf716",
-          "len": 13476
+          "hash": "ac009cbf0b277a5a6f5ceace74e909c253be2f5bb181290c7fcce55293dad08d",
+          "len": 13492
         },
         "https://www.guvico.com/ve-sinh-cong-nghiep/": {
           "hash": "2c2e419237c1aed3cf36d3e08cbd4c667a5e9dfc0ee9b028ca8929b718b19c2b",
           "len": 16231
         },
         "https://www.guvico.com/bao-gia-ve-sinh-van-phong/": {
-          "hash": "65284598ff6391047c09919397983f01995ebefe4e24290d5dad2ddab8296f8a",
-          "len": 16252
+          "hash": "ec61bc62dec9a0f2f4a62416802335113e81ae6c25c77728124b998424efc66e",
+          "len": 16268
         },
         "https://www.guvico.com/ve-sinh-may-lanh-quan-tan-phu/": {
-          "hash": "e1fa951e879735b20ace611cb7848eceeadb7e2df46d005d01228ef8ab626215",
-          "len": 18101
+          "hash": "090014d91cec1ed769c744a5b02b74241612163a064775fcca233d402cbfcb76",
+          "len": 18117
         },
         "https://www.guvico.com/giat-sofa-quan-binh-thanh/": {
-          "hash": "5391e9427eefc97bd49215b61f960dd23db63420e5227fbb496818e370b0f2b5",
-          "len": 27464
+          "hash": "600fce611e289221e98fe07689443ac8ec443e03491a534b88fafcd4fa2caad9",
+          "len": 27480
         },
         "https://www.guvico.com/tin-tuc-ve-sinh-cong-nghiep/": {
-          "hash": "25e6b4778f9affa3b63e0ba585e2f63e67956a792f16b2e16829b1286ec12a6d",
-          "len": 8938
+          "hash": "a76e94130c1649d3ea581605da351e488202845b5f49a65913b38b388e23f070",
+          "len": 8954
         },
         "https://www.guvico.com/dich-vu-giu-tre-tai-nha/": {
           "hash": "81ee28ba8fe8305a73844f3202af4f003ec872e54ec818f07ce294eec68ed175",
           "len": 18615
         },
         "https://www.guvico.com/giat-sofa-quan-hai-ba-trung/": {
-          "hash": "a47dc696c73aeb6d39d29c858713fb0eba4acaf045cd31d46cd43754defc1984",
-          "len": 17760
+          "hash": "f4826aa79f234be04d34656b6d418e377089a5c1d9844904fe62579841857149",
+          "len": 17776
         },
         "https://www.guvico.com/ve-sinh-may-lanh/#comment-2417": {
           "hash": "490e349adf1f17e8ff7a748a25dd2df1404596abb7e188ab13f48222ae231bd6",
           "len": 14121
         },
         "https://www.guvico.com/giat-nem-quan-tan-phu/": {
-          "hash": "a8bd02e5ee8ebc406c9948dffb48df7349b56cdf46da1c534fc924e63852fda2",
-          "len": 18694
+          "hash": "21ca9fc3dcd2cd9c045dd5aa7118e77a2a93bc0eec799ba3e15bc457dc983ee2",
+          "len": 18710
         },
         "https://www.guvico.com/giup-viec-theo-gio-quan-ba-dinh/": {
-          "hash": "fbe7971389f4ce1c4290ca99203c2e2a184ac9da295849eb40b203e3211d6199",
-          "len": 14842
+          "hash": "0841dd46cfddd03d378861d538701c6f7f1d7739b8fd99fc217de692aded493b",
+          "len": 14858
         },
         "https://www.guvico.com/giat-sofa-quan-long-bien/": {
-          "hash": "c07c1992d6951201375b415453b27701dc5d31ba78b6b4363a333b905b80699f",
-          "len": 17192
+          "hash": "3a384b489152ce26d2c35fda91b6206b1d3d56b8ccdead39ec7d23ef730dd776",
+          "len": 17208
         },
         "https://www.guvico.com/may-lanh-chay-luc-manh-luc-yeu/": {
-          "hash": "12fb36972ac12e0130999e7df29e5a4968f87d64ebf232af16714eb7775c4834",
-          "len": 16249
+          "hash": "e46cc4f506108362ae5030400ae3b6a0fa5c9c29faf939dbb993c6f490aac336",
+          "len": 16265
         },
         "https://www.guvico.com/giat-sofa-quan-phu-nhuan/": {
-          "hash": "a5248f0a86a6fe51d82c384d39558070a2caa5d71966c77ff59ef9daac22720b",
-          "len": 25899
+          "hash": "910671e59d1d6da1f999d5bb5bee335f388e409b28c3ddeb08d571326c8a94eb",
+          "len": 25915
         },
         "https://www.guvico.com/giup-viec-co-dinh/": {
           "hash": "22ef0f8176a8fb50e9190c22fc57c454cca7ccb2d214aaa1d241280b1fdda06e",
@@ -961,48 +973,48 @@
           "len": 23885
         },
         "https://www.guvico.com/dich-vu-giat-nem-tai-nha/#comment-2123": {
-          "hash": "241619b080b890ad9b2709b78aaec3c0d4d58702eccfd769b6ea326ba5131079",
-          "len": 17977
+          "hash": "d342150fe6465d718445a8b695f290a374792c00d4391bf34fe3c64c3a0d46d7",
+          "len": 17993
         },
         "https://www.guvico.com/ve-sinh-dieu-hoa-quan-cau-giay/": {
-          "hash": "958206e4a22559bf8d607677497a5bc1cc03e73ddc0d561f1299f235c0b4c1b6",
-          "len": 21109
+          "hash": "931ab220426c3f966f77e6b497c6c2aa5b6cec49f6a0a69bea1cef66ddc85351",
+          "len": 21125
         },
         "https://www.guvico.com/giup-viec-nha-theo-gio-go-vap/": {
-          "hash": "4a32ddf9bf3f771cb74bb68c70ca7ff6c3f5830ae1e33a316111b88891bd74e7",
-          "len": 18025
+          "hash": "654ea232e6ed193aede27091dc55d7c062aa5a0080eb6b32f8e01347273ff0af",
+          "len": 18041
         },
         "https://www.guvico.com/dich-vu-giup-viec-cham-nguoi-benh-guvi/": {
           "hash": "44fa49716ea7f7d7013749c5fb5a6e4939b80d21bf92e674ab0206c82a15a707",
           "len": 16858
         },
         "https://www.guvico.com/dich-vu-giat-sofa-quan-hoang-mai/": {
-          "hash": "dfe17875c0f69435eb93a9ebd0b55f59f27551129f3f857aa99e6f5ac9508b82",
-          "len": 15638
+          "hash": "147f41afde3bae7f64c4bd849fbd02cfdd75bdef873d7b5f474066671d011cce",
+          "len": 15654
         },
         "https://www.guvico.com/giup-viec-theo-gio-o-chung-cu-nhung-dieu-can-luu-y/": {
-          "hash": "5d556a795f5ed7bbfc13fbd9890a55476e757adcbc5f997aff56c833f5ad2279",
-          "len": 22183
+          "hash": "a6438ddfce02a0d2ec2e196e6df1378509119a16dbbce08a07005ff06107c314",
+          "len": 22199
         },
         "https://www.guvico.com/dich-vu-giat-sofa-quan-bac-tu-liem/": {
-          "hash": "bc3ce382a730b8fbe10bd7a1ce7dcc11a37d53c9065d076f38df3e389ffc97bd",
-          "len": 13235
+          "hash": "3d4596cc7c59f532e7be6191622075f5a863c2b76acd97e6985b9bbe2b8cb064",
+          "len": 13251
         },
         "https://www.guvico.com/ve-sinh-dieu-hoa-quan-tay-ho/": {
-          "hash": "7beacbb4de36d9db37bcd94851d1d04bca3c1c3edaf95087c49e1731dad03e3d",
-          "len": 24526
+          "hash": "88add1153130d858451e60e4b623558195e2e091a6c349256775717a7118fad1",
+          "len": 24542
         },
         "https://www.guvico.com/bang-gia-giat-sofa-tai-nha/": {
-          "hash": "bd8d7b304cc4bd5bf3b5d89ee3a999785e1c707b3c280566cbbd4f64ac96023d",
-          "len": 24603
+          "hash": "76277488d94f897e04606b760c805324c7b90264c825f6f9199ec9bde345be13",
+          "len": 24619
         },
         "https://www.guvico.com/cach-ve-sinh-may-lanh-cong-nghiep-chuan-chinh/": {
-          "hash": "4e5348d450ed8eb9fe31489dc7ab0fae2f2368ffa8a9b7b97492ce9e5f422160",
-          "len": 17580
+          "hash": "5c4da0fa0142a6acf73444400344831c222b67cb20f3f69517a25be0f3738db6",
+          "len": 17596
         },
         "https://www.guvico.com/ve-sinh-dieu-hoa-quan-hai-ba-trung/": {
-          "hash": "31093c6ec4b18caf66cb24bb94744cdbe23e2878f7d42b96298b87137af5a90b",
-          "len": 18240
+          "hash": "42bde004a081ee59f4e02a23001c988be854d0081c0707bd2bdbeeecde0f3e42",
+          "len": 18256
         },
         "https://www.guvico.com/ve-sinh-may-lanh/#comment-1856": {
           "hash": "490e349adf1f17e8ff7a748a25dd2df1404596abb7e188ab13f48222ae231bd6",
@@ -1013,280 +1025,280 @@
           "len": 13781
         },
         "https://www.guvico.com/giat-nem-quan-phu-nhuan/": {
-          "hash": "2feb4d6c66497642d90159fc326f45d7f95c7131a7148db04a024b65aafcafb2",
-          "len": 16625
+          "hash": "77814e5c8abe1f086f019d1bf5f62871272b8297c0b8e0160b2387b056918936",
+          "len": 16641
         },
         "https://www.guvico.com/dang-ky-don-dep-buong-phong/": {
           "hash": "c21997117bd9326dbf06d52e454f93ab50c174285f3208711ff6deefd754973f",
           "len": 10261
         },
         "https://www.guvico.com/dich-vu-giat-sofa-quan-thanh-xuan/": {
-          "hash": "fa27efe8ce98640fcd0dda74988d1a324f71d3cb8f619e4ad32566e4266e9480",
-          "len": 17545
+          "hash": "74b0dadd519d6f5e98fa0286d7322074ce5e68ca07f4e017389d136ef7096149",
+          "len": 17561
         },
         "https://www.guvico.com/app-giup-viec-nha/": {
-          "hash": "5748f3e0db5d063c9a0e782bbc060258195a12e291c9185221b9009260d2b266",
-          "len": 17544
+          "hash": "293d2a7c40b5e0ee2b681acc43d0df309a03f661f48e1234ddd537ec08276045",
+          "len": 17560
         },
         "https://www.guvico.com/giat-sofa-quan-binh-tan/": {
-          "hash": "4b27896d6322c7c9490cdd6b0be6c12338946de77d03a0759e0605607139f70d",
-          "len": 25820
+          "hash": "2365fe7cf0f0f26d15ab610ff702e210e2a0287ae3c9e7ae0852c599f81751d8",
+          "len": 25836
         },
         "https://www.guvico.com/bien-ban-thoa-thuan-hop-tac/": {
           "hash": "8f45e42c2cb2b04230b3c221ffeb56c7f9710870081504b39672872687fccf53",
           "len": 18873
         },
         "https://www.guvico.com/giat-nem-quan-5/": {
-          "hash": "a5b7978bdaa793987ea792ae1d91175233b30999d45eb0a95c7d332197d673c6",
-          "len": 18086
+          "hash": "6a5c8e40ed38a97f0be86e58c8915af82712aa358b8d0683f81077def89629e5",
+          "len": 18102
         },
         "https://www.guvico.com/giat-sofa-quan-3/": {
-          "hash": "f36c330e555208d07112ab41648a4ccf88ecb1d4642ff22c0f88f75400eb8204",
-          "len": 27437
+          "hash": "013704378db3d4c0467e767e8353247b138823df0c8e541fecaab97df8d3c7d7",
+          "len": 27453
         },
         "https://www.guvico.com/giat-sofa-quan-cau-giay/": {
-          "hash": "02386f9944c19acb9f42413633cdd78bd53fb84486f7b26a865335e78749ba27",
-          "len": 18569
+          "hash": "4d8b76941d75a3aca9ce1086184fa6310a26092062ee8ebca6017d9afd1ddda5",
+          "len": 18585
         },
         "https://www.guvico.com/tin-tuc-giup-viec-theo-gio/": {
-          "hash": "efea21ce57f39f14c9dfba31dca4608d9a5bdb267850e1663b6658fbaaf24961",
-          "len": 10879
+          "hash": "59bba1f096e34951d89a87f39b41cb645cca3133a51267b81d99ac9eb63f2d2c",
+          "len": 10895
         },
         "https://www.guvico.com/cach-ve-sinh-tham-lot-san-phong-khach/": {
-          "hash": "c7c1a520ef23921ab527118d5ef317691b3ac83665665fbd56c30592b7466758",
-          "len": 17593
+          "hash": "15d9f2b336f9fecaea5cca5b3bbc560de72a0fdf542d197a5b8ff0fb44e7c841",
+          "len": 17609
         },
         "https://www.guvico.com/dich-vu-di-cho-ho-guvi/": {
           "hash": "c106d4b5109d15cc8f7ab7a001559e927d3a281edfc1b54c29c8b9a7155f1cc0",
           "len": 10321
         },
         "https://www.guvico.com/tin-tuc-doanh-nghiep-guvi/": {
-          "hash": "460e44595790d63d21cc5cd5662cb48c65fb9968518fdc3a3c069461a7492afb",
-          "len": 10900
+          "hash": "3fce54cc35b5d003a169c4d6449055f2298368612ce9666662e3d55b633f6d96",
+          "len": 10951
         },
         "https://www.guvico.com/ve-sinh-may-lanh-quan-7/": {
-          "hash": "6f35e3081d7bfef8c256e9892b90bdd05f468bb8b34978149def8f2b472378f0",
-          "len": 25295
+          "hash": "1cb76d090917d66ca84687ae67f1e24bce3d7d64673f6cba891fe2ce9d39376b",
+          "len": 25311
         },
         "https://www.guvico.com/chinh-sach-bao-mat-quyen-rieng-tu-guvi/": {
           "hash": "7e768dc094bb6377b801b83322ef334016239f56051263bc1b4bda9a0c5e6587",
           "len": 24590
         },
         "https://www.guvico.com/giat-sofa-thu-duc/": {
-          "hash": "34d6d4eee6e09ce26fd66cb4a0cdd1415cd434375c12493f85d9181fbf9e4374",
-          "len": 26595
+          "hash": "4fbab10dcef882aac35693492f5f4d9c3beb0bcb9fa4cb69ff6679ea0238591c",
+          "len": 26611
         },
         "https://www.guvico.com/ru-ban-chung-tay-may-lanh-mat-ngay/": {
-          "hash": "74dbdbc4e8e87920cc4fcdc3bbe0b5c812887b38410efbc2d05729f851c44a96",
-          "len": 9513
+          "hash": "7f8649bcb3ee1404f6e6f02f9fe714429b83cdfc70fb025de8cb1766ac6ec90f",
+          "len": 9529
         },
         "https://www.guvico.com/giup-viec-nha-guvi-xuat-hien-tren-tuan-bao-quoc-te/": {
-          "hash": "1fdfeb7a2dd9625db826fffdc5b6cd544a9a3f4737b1dd6e02f8052fd4dcce5d",
-          "len": 15711
+          "hash": "d4e971dba3cdf1ad119c8fb70aa7bdb243022353dcda445c710863c7467b767b",
+          "len": 15727
         },
         "https://www.guvico.com/dat-lich-tha-ga-voi-voucher-uu-dai-happy-day-len-den-10/": {
-          "hash": "b3efbb85a5f7d94b9eb6f6f17871bcb711dd778102fcbac1d14402fc2468c2b5",
-          "len": 10047
+          "hash": "fdb0a065c0fdebdda6a09ab841d97b4c2e3d5d4e37deb4c0a283bc0b8328a8ea",
+          "len": 10063
         },
         "https://www.guvico.com/giat-nem-quan-3/": {
-          "hash": "3ebdc8f3e51512a11bd89c3a76c077532cb60949f1b17d3e193ce1c6b123c142",
-          "len": 20449
+          "hash": "6a7c38661f98e5d6e86e2605dc0134dfc874ee64c808d18b5dd3e84cda76eecc",
+          "len": 20465
         },
         "https://www.guvico.com/dich-vu-giat-nem-tai-nha/#comment-2125": {
-          "hash": "241619b080b890ad9b2709b78aaec3c0d4d58702eccfd769b6ea326ba5131079",
-          "len": 17977
+          "hash": "d342150fe6465d718445a8b695f290a374792c00d4391bf34fe3c64c3a0d46d7",
+          "len": 17993
         },
         "https://www.guvico.com/giup-viec-theo-gio/": {
           "hash": "2f1d8e2a903dfa2136982c5b69d42db578ac04660cf0f4b0359e6938bb2e4c6b",
           "len": 17332
         },
         "https://www.guvico.com/tin-tuc-giup-viec-co-dinh/": {
-          "hash": "3ed05a927b38de9247c155bf2ba9634fd65d5a03327550fc9f4e6d457ec11653",
-          "len": 8787
+          "hash": "f3494e4397acba2a4695c05f41fdc8e965680b3e1f25caa146a2a9ea5874c2ac",
+          "len": 8803
         },
         "https://www.guvico.com/quy-trinh-ve-sinh-khach-san/": {
-          "hash": "2f692adc3dfc2a5944e71307e9de8785c6d83f27507066d38ffc05007efbdc8e",
-          "len": 20353
+          "hash": "b4e0c3c365e518bccb8713b2b17ebd2bced2c2d13c775ee17d472fa30ee2410b",
+          "len": 20369
         },
         "https://www.guvico.com/giat-sofa-quan-10/": {
-          "hash": "155ee46c4c955d89a14f77a064eb3ccefe6292d1ce1a0413ab9739624f3e8a36",
-          "len": 28250
+          "hash": "22e67569838199a1d1e6f01da4ff305b024976406562d91edc57f6c0982ad9a2",
+          "len": 28266
         },
         "https://www.guvico.com/cau-hoi-thuong-gap-dich-vu-giup-viec-gia-dinh/": {
-          "hash": "2a36d12080deb90fa940e64f8e94151d78bb8b46c4cd5b1fc280176e74749d00",
-          "len": 20452
+          "hash": "15f75bb85d9c372ebfec43bb331f3dcb1b317247938ade8af352b1d69e819318",
+          "len": 20468
         },
         "https://www.guvico.com/dich-vu-giat-sofa-quan-ha-dong/": {
-          "hash": "1c7772f9304ced0acc8ff9b606c33bdfaddc9c997507c080198f0b59fa21b792",
-          "len": 16607
+          "hash": "1cf0837ea9c1fadb2cfccbef8afa9ae6c2883aa2d41571293c801bba94b13e49",
+          "len": 16623
         },
         "https://www.guvico.com/ve-sinh-dieu-hoa-quan-nam-tu-liem/": {
-          "hash": "5e878a16d225d40cc59a766a819aa9ae35ac89e8f662ee07ba0e284e9f9f86dc",
-          "len": 18483
+          "hash": "0196edef4793de09db13259ee423e4e28541c315c0785ef7841a96a229f339f6",
+          "len": 18499
         },
         "https://www.guvico.com/ve-sinh-may-lanh-quan-4/": {
-          "hash": "7c3b2821dc6c9dadabc4bb90ddbdf3e160ca4327a1bfffdf89d4ee131651bcc7",
-          "len": 28450
+          "hash": "55971a21dad737c3731a39b1d07129dfca198db8810d19b32b554a1b41da7767",
+          "len": 28466
         },
         "https://www.guvico.com/dich-vu-giat-sofa-quan-nam-liem/": {
-          "hash": "e2fa177babdbfd65437f2d84b6c4695ccc6d7f28a80f4e7300d3f089b5c27514",
-          "len": 16967
+          "hash": "49f94bf8d8938d6325db17e799b4c7d0d840f4540e349a33af0516eb75a74bd0",
+          "len": 16983
         },
         "https://www.guvico.com/bo-dung-cu-ve-sinh-may-lanh-bao-gom-nhung-gi/": {
-          "hash": "afd58459ce1514173730cf8e1a8cb12095a36d69f85270eb5b78c7454e0a585c",
-          "len": 18464
+          "hash": "fd8c68a3301122950c0345ecb877795383a0781bfce72f2b485fe646b2a86002",
+          "len": 18480
         },
         "https://www.guvico.com/ve-sinh-may-lanh-tphcm/": {
           "hash": "09551c4c0c497704e3410b0c2435a3b3282c7a3e063f0349a2b299c35c60bb08",
           "len": 7583
         },
         "https://www.guvico.com/ve-sinh-may-lanh-quan-hoc-mon/": {
-          "hash": "95a50d4491c5fe6d230f8c59c45b4faa1d67ca4687d0b6a5edb961f44a7291c7",
-          "len": 17424
+          "hash": "4c23a04a305681b9a10652b63285b0a22c32d0cf1f18e53f146446d62b62ab66",
+          "len": 17440
         },
         "https://www.guvico.com/may-lanh-bi-chay-nuoc-sau-khi-ve-sinh-nguyen-nhan/": {
-          "hash": "733a20e10792a1708f8b71b664f3087a07c38d2b91ba8a49a3e91205395e8714",
-          "len": 18235
+          "hash": "05cc159617b603726d5b917ac54a22f020d5f667efe5e7df6131f5a20b7f42d5",
+          "len": 18251
         },
         "https://www.guvico.com/giat-sofa-quan-go-vap/": {
-          "hash": "722a78dff56154c05cf6f9530db5541927cfb6b9fe48d10e8e4e53a96e689a3d",
-          "len": 25774
+          "hash": "7faeebaad60a7ab5231cf9cb75a43e4f9ff6bf0d3f4343cf820631b6d33b5d0f",
+          "len": 25790
         },
         "https://www.guvico.com/giat-sofa-quan-tan-phu/": {
-          "hash": "d2e169384411409f926820ae78f6d117dc064ae6bf3b927ab3459ac16a3f3856",
-          "len": 25868
+          "hash": "f4ed3f0cf8108d771259da95c309e02dca98722bb6cf2c2afa0a122ce28f7de5",
+          "len": 25884
         },
         "https://www.guvico.com/giat-sofa-quan-tay-ho/": {
-          "hash": "94cebb51e269a888f2a8c8dac869700427393ba91604cb376bcf302e128c572e",
-          "len": 16716
+          "hash": "0973c53182a23c25c22f538d3d62d12b3fc7b3417dfa8a67d212b697d8e6a5fa",
+          "len": 16732
         },
         "https://www.guvico.com/giup-viec-theo-gio-lua-chon-cua-cac-gia-dinh/": {
-          "hash": "49e92ee057473bec6e4686d9e15be5fbd90e6818fa2b2f050fc89f61021b0c2a",
-          "len": 13581
+          "hash": "18d112f0a09db06410b6f11745d708ea13b2a07238de7c4f4c2c144d2ccd9edc",
+          "len": 13597
         },
         "https://www.guvico.com/giat-sofa-quan-ba-dinh/": {
-          "hash": "186cb70db6c46c3a494608b45f6869413691ebb20141fe303456229cfdde3d67",
-          "len": 15758
+          "hash": "3a1265ffefbe8562fd302aed33a69ca96bfd2b4e18cde531ef7e6043f54a98b3",
+          "len": 15774
         },
         "https://www.guvico.com/happyday-uu-dai-sieu-hoi-danh-tang-ban-ngay-thu-3/": {
-          "hash": "95f36b1884389d9880dd465498a83fd75ca9fbdc06aa71ec7654db7f5811e9a1",
-          "len": 9592
+          "hash": "091db0ce92b11431a74cde76263752eaa0cef10d1da37fb0b247d9c9845c5967",
+          "len": 9608
         },
         "https://www.guvico.com/": {
           "hash": "eb96451fd84ad8cec40bbd88f119e5897d1a65761c81b3abde865722a9bcb6f6",
           "len": 11413
         },
         "https://www.guvico.com/giup-viec-nha-theo-gio-quan-binh-thanh/": {
-          "hash": "31ec7e8dad1acb3db56ea9a2d71d990ebe219ad6317a20cbfba7d09c1fcbcd1a",
-          "len": 17546
+          "hash": "066945da1e1c9a2b55b7c7738e33bb3da24d17d04df87b93e55d490fca36283f",
+          "len": 17562
         },
         "https://www.guvico.com/giup-viec-theo-gio-quan-10/": {
-          "hash": "e0e4cfb0c9d927cb386b69d210b575f979b894a58cf13409abca5b99bcdfbf7e",
-          "len": 15293
+          "hash": "e98a67d8b770d8be8a4cfbb637d3a1757ecc026d356009844fbfbb3790a4f604",
+          "len": 15309
         },
         "https://www.guvico.com/cac-chinh-sach-cua-ctv-guvi/": {
           "hash": "3934f8cb95980663c5115757cd9bfa7ae8bfa2799d918b7631c9f9c4efc0834c",
           "len": 9502
         },
         "https://www.guvico.com/giup-viec-theo-gio-quan-tan-binh/": {
-          "hash": "b079cc5294f11372ffb9fddd0e946703aa8905c7bd7ef6aef0c82d135b3cb984",
-          "len": 17853
+          "hash": "5bc33bf9e9f26e9676ecad24c8b8aa8dc1c4140205f580ef36b65a24240c0e85",
+          "len": 17869
         },
         "https://www.guvico.com/dai-tiec-mua-le-hoi/": {
-          "hash": "8be36bd8a38783af6bd91e8cd7205a324136bf53a7ee29cccc7ee994df374810",
-          "len": 10563
+          "hash": "a97da93370518caf8ca17b85fd3fced89fa683423d3431fabb40c773b176b4f3",
+          "len": 10579
         },
         "https://www.guvico.com/giup-viec-theo-gio-quan-hoan-kiem/": {
-          "hash": "a34db8dcbc2566b8c96b8f6a5f300e1aec2e25a4d6e7ceaa1f860084ec85131b",
-          "len": 15540
+          "hash": "c7ad4582c7f8e5a4d22a7eb0856b39bbac3806c9aada95b89dd3930e96fbf80f",
+          "len": 15556
         },
         "https://www.guvico.com/app-don-ve-sinh-theo-gio-guvi/": {
-          "hash": "d35fe4d2504abcb61eeb7c89619864c2f3ddac2802f335bed2f1fcb0ae7f6620",
-          "len": 14792
+          "hash": "817e239a30ad4dbf3bed3949c4b923cf6ec7fd02e2fa5878c793a04ad5ecf07c",
+          "len": 14808
         },
         "https://www.guvico.com/giat-sofa-quan-7/": {
-          "hash": "8a27dcce937f7ef7806ed3301b801dbdc53b2fb0505c2172124cc0884ac11276",
-          "len": 26106
+          "hash": "cdfb0e92486bbcee04bdd64ceafa26a5616326ea59bcdfa1e9390ef4a46ba029",
+          "len": 26122
         },
         "https://www.guvico.com/tuyen-tap-vu-van-phong-luong-cao/": {
-          "hash": "632e5a928d857750fa12ce9ffff6d23c1a5e1dbe17da24fe563d6770d3ca2268",
-          "len": 12174
+          "hash": "43f8b2b513228c4fb8c317cd1ac0bb0bd615a598cb9bba3b0f0777cdb3cd91eb",
+          "len": 12190
         },
         "https://www.guvico.com/muon-don-nha-nhieu-buoi-tuan-nhung-van-tiet-kiem-chi-phi/": {
-          "hash": "f13f578a0f1b2e9bc29786ce90200a0284b0f3cce317ec0b8058b38314567bad",
-          "len": 9895
+          "hash": "d0980941d4f7f961bdffb4283f830acaf129dcaf8f12eaac89eb9635681afcd5",
+          "len": 9911
         },
         "https://www.guvico.com/dich-vu-nau-an-tai-nha-guvi/": {
           "hash": "9f32f0c5d65f64bad5afd04224552f94a82bf9f7b2621588fab00959e5f207e2",
           "len": 11453
         },
         "https://www.guvico.com/giup-viec-theo-gio-quan-bac-tu-liem/": {
-          "hash": "9723dacc41752d461cf50b13028a4d14e6717e68c3db835dfcff73bdb44608f6",
-          "len": 15701
+          "hash": "e2a24014468b3336fd39e219b729f3bbdf48bf28d015fab69c7618ec9ed3ff35",
+          "len": 15717
         },
         "https://www.guvico.com/ve-sinh-may-lanh-quan-binh-thanh/": {
-          "hash": "a26de33cde7153998e30dff8b01680ce457fcccf1d8b81a90480b01d98dc5d89",
-          "len": 18049
+          "hash": "280827b3970b1fdfd3026947df72ae76bbdfa7814dfc125e9c6da5979e3cebad",
+          "len": 18065
         },
         "https://www.guvico.com/kinh-nghiem-chon-cong-ty-ve-sinh-theo-gio/": {
-          "hash": "e4c59ab696d0cf29a37a14b340c846a0ba3ac5801925c45f74b11587e51343ef",
-          "len": 17433
+          "hash": "6cb1c7ecc5a4b89486a08ca9cee92be1cbb8e59785b00927c15d1c4d13ba2516",
+          "len": 17449
         },
         "https://www.guvico.com/cach-ve-sinh-sofa-vai/": {
-          "hash": "c575a31d12587d9396021f904b9eb8252a13a7ef0092bff74111c6fd2d9d9341",
-          "len": 15622
+          "hash": "0f512d732469368661cc57bfbbdfc26379a41ff9c877d0d7269c27506edde2fd",
+          "len": 15638
         },
         "https://www.guvico.com/giup-viec-theo-gio-quan-6/": {
-          "hash": "8a792f1e8d990504da0c7e00e4d5086b4e964dd6e4b16e9f0098136d1622cfbd",
-          "len": 18763
+          "hash": "1e7d678e1aaa7e4d29d0a4ffef0502944451832f3fd886d81a173628f141ebe9",
+          "len": 18779
         },
         "https://www.guvico.com/cong-tac-vien-nau-an/": {
           "hash": "96232c1ae24e0f907725dcac9d46ca4d82ce702945244b479dc2648843568f57",
           "len": 12419
         },
         "https://www.guvico.com/uu-dai-len-den-10-nhan-ngay-gia-dinh-viet-nam/": {
-          "hash": "7826e25da6379bf7efbdb73d8eb9cba5842473ee90b234ccc81c26ce3ab46aa4",
-          "len": 9897
+          "hash": "5e5776f177ec6efb6714b7cec73ff8c027631efc88e5ec5b34a163ed7bd03335",
+          "len": 9913
         },
         "https://www.guvico.com/cach-ve-sinh-sofa-da-that/": {
-          "hash": "5df9e9d4aa47b111750d421b4f30c74ee6a2f547e02dc8e393d7580c138ab045",
-          "len": 19839
+          "hash": "2036782e9d98625e23485c467ee5111dc2ef57eb5010ab34fe2895cea8f8f1d2",
+          "len": 19855
         },
         "https://www.guvico.com/giat-nem-quan-tan-binh/": {
-          "hash": "f7b9147a6910abe8557fa58b34c02efa6088d92f90a941fac6bcd0a88653fa92",
-          "len": 17445
+          "hash": "70df358980365fc498d73e93e3d0e550a74b2ef4473ed42e6b3256bc0f776675",
+          "len": 17461
         },
         "https://www.guvico.com/giup-viec-theo-gio-quan-hai-ba-trung/": {
-          "hash": "051dec42f99e7ea375bb2e621c395a2a63f0c6d7dfe42e952c16b0ea446c7b6b",
-          "len": 16574
+          "hash": "0cbd24d4e3d009f3c8b02be7319db152ae7a2aabf21426dccfe9e04ab33c1814",
+          "len": 16590
         },
         "https://www.guvico.com/ve-sinh-may-lanh-quan-12/": {
-          "hash": "cd176f4f1894334689bc9b3c09fd500f6a4aa86219e45e74a926442d325fbbd4",
-          "len": 18892
+          "hash": "cf45859de05ca81690afa39fa1d5be7bd2402cbcc7437c3f0d88af8da80914e9",
+          "len": 18908
         },
         "https://www.guvico.com/tu-hao-80-nam-quoc-khanh-viet-nam/": {
-          "hash": "201e9f183871fb7146d1b106fd7b57e42d9ae70381c74cda65878a35584be909",
-          "len": 9906
+          "hash": "1e0c41aeaf8f435a172d6e72f1fe70571384129ad4600326bc9c4aad68055bec",
+          "len": 9922
         },
         "https://www.guvico.com/ve-sinh-may-lanh/#comment-2419": {
           "hash": "490e349adf1f17e8ff7a748a25dd2df1404596abb7e188ab13f48222ae231bd6",
           "len": 14121
         },
         "https://www.guvico.com/giup-viec-theo-gio-o-chung-cu/": {
-          "hash": "3ff00f00385b09f3515e7096edf58934df1341a8fb39daf3600c7274f40e3a94",
-          "len": 14854
+          "hash": "767d656833c12a04d5fa70a3affd3e9de8dfb5848eefce21a6135bcb92259298",
+          "len": 14870
         },
         "https://www.guvico.com/cach-ve-sinh-cuc-nong-dieu-hoa-tai-nha/": {
-          "hash": "45bbd3a160ab65647450dca49fe896ec8313d2074737fcaa5bd2093a2243a1b4",
-          "len": 16917
+          "hash": "71a7a5b3a32f593a2f4eafbd5ec9b703a4255f6de4c005208f9d1743b0453031",
+          "len": 16933
         },
         "https://www.guvico.com/ve-sinh-dieu-hoa-quan-dong-da/": {
-          "hash": "6b2eaa1045d3d2fc2c1fb11e330ba4affcedcb2455ca0beb51d14b6c9a3c8e05",
-          "len": 20830
+          "hash": "02fc64042fe0511412d787ab5fc6e42ee666de681b812d8fd0bcacbaf330c108",
+          "len": 20846
         },
         "https://www.guvico.com/cau-hoi-thuong-gap-dich-vu-giup-viec-gia-dinh/#comment-2416": {
-          "hash": "2a36d12080deb90fa940e64f8e94151d78bb8b46c4cd5b1fc280176e74749d00",
-          "len": 20452
+          "hash": "15f75bb85d9c372ebfec43bb331f3dcb1b317247938ade8af352b1d69e819318",
+          "len": 20468
         },
         "https://www.guvico.com/dang-ky-doi-tac-giat-ui/": {
           "hash": "b7cf5c0e97beef7f50c957f987334ddab7511e70e1bd26d0b9b1c6d8d60a5e82",
@@ -1297,188 +1309,188 @@
           "len": 10511
         },
         "https://www.guvico.com/giup-viec-chung-cu-can-ho/": {
-          "hash": "a120b67892c79735dd5da729622a947526370e4fe489961be431bf0163a93d24",
-          "len": 17628
+          "hash": "0c5aa2e5879ac2c3c16586f8a65b46d16d8a3b12d08dcbf8cf491454a070d520",
+          "len": 17644
         },
         "https://www.guvico.com/guvi-boquytacungxu/": {
           "hash": "35f676e97de05dfe73c9e639af426cbb213e7b3a3e2b1097bc7acd8ddeff3692",
           "len": 24653
         },
         "https://www.guvico.com/tin-tuc-tong-ve-sinh/": {
-          "hash": "29551511b62e5e5a48cf60b052a4b734c58187d134f635cdcd96dd2d9e84adb3",
-          "len": 8753
+          "hash": "e86e6b2425444fa69f928ae707ffcce3c935b8b3048a299db0152a0b40878ca3",
+          "len": 8769
         },
         "https://www.guvico.com/khuc-trao-mua-guvi-trao-deal-g/": {
-          "hash": "f8fa76ee5b67a8e5b2239a0100754e617255c51d4ced15e52bcc11ed6b9c67a5",
-          "len": 9821
+          "hash": "d03e35dccbf96a3fde9f86c4f2f207aa9ed6906d8c9885208bac55c1b918ea9e",
+          "len": 9837
         },
         "https://www.guvico.com/cach-ve-sinh-sofa-ni/": {
-          "hash": "4809fb6ce2bb9721decede525988b0a56800bd5d0969142447edd24c11ae8e9b",
-          "len": 20536
+          "hash": "86b747baf51a4d19660e6cb0ccbfb4ffe524083da02c97d5a08d45c4f95759d2",
+          "len": 20552
         },
         "https://www.guvico.com/ve-sinh-may-lanh-quan-go-vap/": {
-          "hash": "d4b8d461d22eaa4b4d7cf2b543d0fd3e3757335ce4d3363a57df6643513cd82f",
-          "len": 19427
+          "hash": "3739168464bff6e2eccb4dd43b68c6ed8f38c733002f45ebb30c48d7f642031a",
+          "len": 19443
         },
         "https://www.guvico.com/ve-sinh-dieu-hoa-quan-hoan-kiem/": {
-          "hash": "f41760e17b9980062d6ae3bb3a68ea5c36a4b4197ef5323897630202eeccfaad",
-          "len": 21781
+          "hash": "429cbf66eab49a9563b5e6c3feb754db48f2c66e32b99a1e00645c09d9e97315",
+          "len": 21797
         },
         "https://www.guvico.com/giup-viec-theo-gio-quan-hoang-mai/": {
-          "hash": "2bb3702733cbfa74f6992bf0866f07bd637d9aa76c65385920ccc816556be245",
-          "len": 16363
+          "hash": "850ca1d1578baa5d3ce77dcf9b90b0b7bcf74680be46a57644d6b74094247b5f",
+          "len": 16379
         },
         "https://www.guvico.com/cach-ve-sinh-may-lanh-hitachi/": {
-          "hash": "3e55a9290bb0687661e5abe04e5e60e1e8ce122b8b740f3299341318a0ffa58d",
-          "len": 17155
+          "hash": "1dc2e9f9703129ca9cb51ea86be12a678f98684daf4cb5b8faff92bbe3bc9156",
+          "len": 17171
         },
         "https://www.guvico.com/dich-vu-giat-ui-guvi/": {
           "hash": "4ec219d8e968364053d4378aca795097f33118d1cccc36da40ce5cbb862a1d41",
           "len": 11356
         },
         "https://www.guvico.com/cach-ve-sinh-ghe-van-phong/": {
-          "hash": "6e77ec1e823341124c25dca30e31cfcdbc9786beae759bf26903bc87bfa5bd71",
-          "len": 16911
+          "hash": "7cb17c59be47e1c61bd817bbab5a184ba85b08a91a48552222fbb3f4d597e610",
+          "len": 16927
         },
         "https://www.guvico.com/ve-sinh-may-lanh-quan-10/": {
-          "hash": "559242f3f39c6f89e228bc24e2af11cfa71516a0f05c0481100d7664f3258c90",
-          "len": 28745
+          "hash": "656d32ce3d7e395c5d6fa700c3b3ac330fb4cc8c113e6ac47e3b58fa7b1fbf48",
+          "len": 28761
         },
         "https://www.guvico.com/ve-sinh-may-lanh-quan-thu-duc/": {
-          "hash": "15356f3631a2aefda95dc77a358797fa267ae2b317154373383aa3559ed386f6",
-          "len": 17487
+          "hash": "c0d3e2a1634d40f29bd8ae3992a5f991047b4b2a61b43a92c438a4a566b95e88",
+          "len": 17503
         },
         "https://www.guvico.com/dich-vu-ve-sinh-ghe-van-phong/": {
-          "hash": "868a6699feea1852bfeebc21331e08351e8b8a5216acc4cffafa94c94f7c3b60",
-          "len": 20481
+          "hash": "823560504018a845442ddab3d3a0ab771780545e517c72a9c5aac3fcf128423f",
+          "len": 20497
         },
         "https://www.guvico.com/cau-hoi-thuong-gap-dich-vu-giup-viec-gia-dinh/#comment-2418": {
-          "hash": "2a36d12080deb90fa940e64f8e94151d78bb8b46c4cd5b1fc280176e74749d00",
-          "len": 20452
+          "hash": "15f75bb85d9c372ebfec43bb331f3dcb1b317247938ade8af352b1d69e819318",
+          "len": 20468
         },
         "https://www.guvico.com/giup-viec-theo-gio-quan-ha-dong/": {
-          "hash": "0a3c308e93844233c4054825e4501aef353dc40f1d627e2ac338bff8e124f81f",
-          "len": 14304
+          "hash": "ce640f2de10bc0566893ac567f2a20dcb3e34f457ec89defdf1ee670d9309b25",
+          "len": 14320
         },
         "https://www.guvico.com/giup-viec-theo-gio-o-quan-4/": {
-          "hash": "97341f9e25df846b91f66aa1ffa1fb4fb75513beb7afda99b94832d0262173dc",
-          "len": 17143
+          "hash": "5bab00036afc67423b9241725ae2a37a889d936563c55fdbd057e380a9f555db",
+          "len": 17159
         },
         "https://www.guvico.com/ngay-doi-9-9-san-deal-xinh-sach-nha-minh/": {
-          "hash": "12265fee925a2c661dd82ffb2c2986f7b2b3ae810bd7886c12118f8d700a45cf",
-          "len": 9650
+          "hash": "d8b53e903bc1b1771fc969e7639a0c98179dbfc612239cb1fde0de11d3894601",
+          "len": 9666
         },
         "https://www.guvico.com/ve-sinh-may-lanh-tphcm-2/": {
-          "hash": "370baf170319597b6df71b106f75bc64b67136845c6d483d21e7c9e69c5f6bf9",
-          "len": 8704
+          "hash": "683899d7de6b1de5292ac53363c7822abfe97dbf64fe5b1096223ec770bb44d1",
+          "len": 8720
         },
         "https://www.guvico.com/giat-nem-quan-go-vap/": {
-          "hash": "cb8244c8ae16767b73796ff7558688aef9800105e3d8241e408550da8f396594",
-          "len": 18353
+          "hash": "ad98a4cbe11680ef68d684d5c45df9f28ce6f6f0d1c5d5d24cd5ded99b1a7e4c",
+          "len": 18369
         },
         "https://www.guvico.com/ve-sinh-van-phong-thu-duc/": {
-          "hash": "bcbc3de20d155f18327e185959ad9952cef40616fc299d0ccdc96b1aca90b21b",
-          "len": 14754
+          "hash": "e77eae069743e3bf9617a92b0b29187e3426cf9504bdcb7a4413257f410cbfc1",
+          "len": 14770
         },
         "https://www.guvico.com/dich-vu-giat-nem-tai-nha/#comment-2122": {
-          "hash": "241619b080b890ad9b2709b78aaec3c0d4d58702eccfd769b6ea326ba5131079",
-          "len": 17977
+          "hash": "d342150fe6465d718445a8b695f290a374792c00d4391bf34fe3c64c3a0d46d7",
+          "len": 17993
         },
         "https://www.guvico.com/giat-nem-quan-7/": {
-          "hash": "0f9887b97f86b29c9231d28ab8f0d3f334bf678542533ff5ae5c16711b09fb54",
-          "len": 17290
+          "hash": "021d37ecef6d3c85d8446bc2c7d05704f495fcd85b09a0795abd626627df8c83",
+          "len": 17306
         },
         "https://www.guvico.com/giat-nem-quan-6/": {
-          "hash": "f9ec5c7fb83bb7a673e3a2c77f5ac23754c596097e19875edd3b34a98c69366a",
-          "len": 15914
+          "hash": "ed94417016e5b14a8412b309b01e12780915c29f18ae79a1fb325e6bd15ed54e",
+          "len": 15930
         },
         "https://www.guvico.com/giat-nem-quan-2/": {
-          "hash": "f53713463364e630abe0ac38681599d769f9eee84ff647f7d4c7de188c9fdbea",
-          "len": 17854
+          "hash": "7fed98389df4e183d98c07174db3c2981d76a0f3fa509d91b1135bb6ab3ea205",
+          "len": 17870
         },
         "https://www.guvico.com/ve-sinh-may-lanh-quan-2/": {
-          "hash": "d4cdc30d2bf240ac14f20df8fe5c7cd815a54d10584137bfe0cf93918cd7da4b",
-          "len": 28356
+          "hash": "62fff2f5be5f21d96d0c115940afeb3b742a064119e20080720c568451aa11c1",
+          "len": 28372
         },
         "https://www.guvico.com/giat-nem-quan-9/": {
-          "hash": "9cf47d169967ae7a52bd3c3ecca2c86e11b92d3fa9083eccd09804bb02754f5f",
-          "len": 20645
+          "hash": "a2618de7e1f5eeb38e1c6eab7fcbbcd94dcdb73c04ce0e4cdef49a242108d4fb",
+          "len": 20661
         },
         "https://www.guvico.com/giat-nem-quan-1/": {
-          "hash": "441cf17c74f853950d99f2bf304c650214b563c048c43fe142b7987ca9b35856",
-          "len": 14204
+          "hash": "064482318b7ed8911804ba3a900e240ccbb56f476909b97286dff7276d0ff9ab",
+          "len": 14220
         },
         "https://www.guvico.com/gia-thue-giup-viec-theo-gio-guvi/": {
-          "hash": "6c1bb2a7fd194fb13aa2cf2072424bf1866728ede825976c298bc0f1b5709c97",
-          "len": 18684
+          "hash": "9d296b140ffa9231ca0c71c8f0ecd7b492337405472de9bbc8a51fae605e889b",
+          "len": 18700
         },
         "https://www.guvico.com/giat-nem-quan-binh-tan/": {
-          "hash": "49cfd8676282ca67e76c661888c57579551b180f6ce695d8f1f375a7f760f696",
-          "len": 15062
+          "hash": "2f9711ee2f70e25ac55e301821db7aa2c22049ad5025d5b26ce16a1770a45cce",
+          "len": 15078
         },
         "https://www.guvico.com/chao-ky-nguyen-34-tinh-thanh/": {
-          "hash": "1d20b4ba0896d7432e6e4a3427038ba04fed81a5960558edea45bcf8d51893eb",
-          "len": 10406
+          "hash": "e05ca310a1f5006755d3d3973e8bdea260a13492500fc7da757fb5080d0233c8",
+          "len": 10422
         },
         "https://www.guvico.com/cach-nap-tien-vao-vi-g-pay-tren-ung-dung-guvi/": {
-          "hash": "812ae3d74734658efdcbcdadd3ec0ce42a5653d30036143a2b3e63207ebc9503",
-          "len": 10230
+          "hash": "fb9c2332acdc92e0646d641c63a0ce7938bdc6545bf224796a8f40e946595665",
+          "len": 10246
         },
         "https://www.guvico.com/giup-viec-theo-gio-o-quan-2/": {
-          "hash": "e7be73bc9eb5e7005d8a0c8406a387b73414a0621c991f4e047d563d9b5a540b",
-          "len": 17353
+          "hash": "540049d27e58a086e452a8626cd6173cd938cad8823a5158f5410d2ae0edecbb",
+          "len": 17369
         },
         "https://www.guvico.com/giup-viec-nha-theo-gio-phuong-cau-ong-lanh-uy-tin/": {
-          "hash": "693b9ef09a129594272da516a6823eda55e5693915f62d1c478b8513bb820d06",
-          "len": 21530
+          "hash": "43f1e64c41e5c6bc723bb2bb4b171991342502d4e4ff8c8bd113834acca36da3",
+          "len": 21546
         },
         "https://www.guvico.com/uu-dai-cho-ve-sinh-rem-tham-sofa/": {
-          "hash": "a86f2f85b92aa0e30d4aa0b9effaae9ffa12ffe279b5aedcbb6145bb70dfca64",
-          "len": 10152
+          "hash": "f131ee71beb1a58c576330abf3ab25b627326d25fd4bac14934d58fa66970ae3",
+          "len": 10168
         },
         "https://www.guvico.com/ve-sinh-dieu-hoa-quan-hoang-mai/": {
-          "hash": "f568bae3b36d5c422be85f3c4b41bca86c7a236320d6d6b907bbe910ba2afc9b",
-          "len": 21678
+          "hash": "41f1f3d4e61c0f176f71ca2fe8eb475c03e96a1a794d53f9af5314ecb8b60815",
+          "len": 21694
         },
         "https://www.guvico.com/giat-sofa-quan-2/": {
-          "hash": "20879497797da06a1c6b44eb84c6a84d964427caa259326e7db8f63258e4a187",
-          "len": 26465
+          "hash": "483fa6a0977ef3ac9e16cbd19ff99196491b7be4f5b1288b62032ef279ab40ec",
+          "len": 26481
         },
         "https://www.guvico.com/project-3column/": {
           "hash": "43ea3e14f96540c7e6176f62f5e736c26ebf193e2341ec956f802a5612a1432a",
           "len": 7776
         },
         "https://www.guvico.com/cong-ty-giup-viec-theo-gio-quan-8/": {
-          "hash": "130a782ffcad735333e3437c24a10c6b27b5a8f63af5a4b12180fa95f00081de",
-          "len": 19770
+          "hash": "dc18628e343d7b4b91999b936d9018c47e86936543a751d65969d5148f05a255",
+          "len": 19786
         },
         "https://www.guvico.com/giup-viec-nha-theo-gio-quan-5/": {
-          "hash": "29308354061a78b40e4e0d984918ac0f769153d94e19527322578eafbd885899",
-          "len": 18956
+          "hash": "3bd55c0b8011d8e78edb8a5c45f113f7519e5df59880fe2e03c3a2af2e2f1874",
+          "len": 18972
         },
         "https://www.guvico.com/quy-trinh-don-dep-van-phong-cuoi-nam/": {
-          "hash": "df85d8305e6989d0fba4f778746ba1a6d42522f8a89431c13f299e910cab7469",
-          "len": 15185
+          "hash": "cdc89f53d9f574919bb270a783739de8d2342ade59dfa2dc0aed7315b8b4c703",
+          "len": 15201
         },
         "https://www.guvico.com/cach-ve-sinh-ong-thoat-nuoc-may-lanh-bi-tac/": {
-          "hash": "7556e9b6f60cb679cfb858071c11b029a7eff6586c4f17436d79c6c129c2874b",
-          "len": 18486
+          "hash": "a68433872964e17d9e0e795874abef7d4b0ba7ba9801fee19a9306703c4955f3",
+          "len": 18502
         },
         "https://www.guvico.com/dich-vu-giup-viec-nha-co-dinh-quan-1-gia-re/": {
-          "hash": "ce27f885e19b99ea807480059554b6275182bb56b2390fac66a16b822975069f",
-          "len": 12342
+          "hash": "8fbe0da107cb2a02d1fd6269111fb37f15e71a7c9398bf79e1d1bd89c20cb8a9",
+          "len": 12358
         },
         "https://www.guvico.com/giat-nem-quan-4/": {
-          "hash": "dfe955f839913b159256ff597fd647643b0690c001132e7c849de431c1b4191d",
-          "len": 16020
+          "hash": "a51444633c02325ce5969e3bf9dff87e6130b6a909b10985df4401786518f85c",
+          "len": 16036
         },
         "https://www.guvico.com/cach-ve-sinh-may-lanh-tai-nha/": {
-          "hash": "3e0b109010a562e6b97c2dfe1259564ac49fd86890cafc6b92f3a7e3976fd876",
-          "len": 18506
+          "hash": "c98cddb483705d6ae57aca79acd890cb34a768b0d95a0ac7af0f9fe985cda1f5",
+          "len": 18522
         },
         "https://www.guvico.com/guvi-partner/": {
-          "hash": "213a33f544dd6de3cc8b24a7b2f2f50c750272269a0e7789a7b029f3f9299459",
-          "len": 9196
+          "hash": "e5137d2f2fa02930ffe0e2d877e9b47fb6818865e677fb5fedc73d0f289bbc7e",
+          "len": 11668
         },
         "https://www.guvico.com/giat-sofa-tai-nha-tphcm/": {
           "hash": "09551c4c0c497704e3410b0c2435a3b3282c7a3e063f0349a2b299c35c60bb08",
@@ -1493,24 +1505,24 @@
           "len": 13042
         },
         "https://www.guvico.com/blog-left-sidebar/": {
-          "hash": "d5fb6cc87e8000b32b4e2cacd99becfa5a208dc59987f2f1684062a0b1415eec",
-          "len": 10955
+          "hash": "fcf49f193e61947d71308d7f4b55127b62f6732214eef70fd2cc3a7b353d3c03",
+          "len": 10997
         },
         "https://www.guvico.com/giup-viec-theo-gio-da-nang/": {
-          "hash": "1fb92e3953c94bc31454748eb9a16e63643adf0855c462aa17c5b3248d69bcf2",
-          "len": 14726
+          "hash": "300e758f7bc165c239c1144a64b6340e587baa70e4f033279d72f1467931d3c1",
+          "len": 14742
         },
         "https://www.guvico.com/giup-viec-nha-theo-gio-thu-duc/": {
-          "hash": "b7eae41df919238cead26dc5d4d05d4744f0be418dd6e92e7b1b0da34373cae0",
-          "len": 23879
+          "hash": "ad358f3a076a9106276c86fccc0db593ac3e751f8ecc11706639c31e22fb1ce5",
+          "len": 23895
         },
         "https://www.guvico.com/giup-viec-theo-gio-quan-7/": {
-          "hash": "0033278c8ec1f269d534093827689aa600d5020d1e501013fdcba7951248e85a",
-          "len": 18537
+          "hash": "45a62f48fa8603ab907488add506d974767e551b3f7bd1eb271904d253a1f8d4",
+          "len": 18553
         },
         "https://www.guvico.com/dich-vu-giat-nem-tai-nha/": {
-          "hash": "241619b080b890ad9b2709b78aaec3c0d4d58702eccfd769b6ea326ba5131079",
-          "len": 17977
+          "hash": "d342150fe6465d718445a8b695f290a374792c00d4391bf34fe3c64c3a0d46d7",
+          "len": 17993
         },
         "https://www.guvico.com/dieu-khoan-su-dung/": {
           "hash": "a185844b2acb9650331fb52fece40b41b80dd8b0fb38364a3b1832277ebdc9a8",
@@ -1521,252 +1533,252 @@
           "len": 7885
         },
         "https://www.guvico.com/ve-sinh-may-lanh-quan-binh-tan/": {
-          "hash": "c12c53a3a067450b3271b929ac7b75cb360692948cf397c658cda874a3af524d",
-          "len": 16736
+          "hash": "3382047f2c4a489a0e5994015095ca97482a245a7ec0a7b25ecec7988833bd24",
+          "len": 16752
         },
         "https://www.guvico.com/giat-sofa-quan-9/": {
-          "hash": "1b3d29fb261815a311b38c28b8f49e155dfd3892c19abf821febf75268f2188a",
-          "len": 27486
+          "hash": "59990d4c6ff6d12797195e709a12bd77f15b5141ca605e73156b24f409e4ec11",
+          "len": 27502
         },
         "https://www.guvico.com/tin-tuc-ve-sinh-may-lanh/": {
-          "hash": "752e66768b229ec2fd0e2deb3f26db89e7e74584ee99e6e09574354881ef298a",
-          "len": 10844
+          "hash": "060df5e1e5024877379c7208efcef668d7666bf2c70da610de5a4f5439985f40",
+          "len": 10932
         },
         "https://www.guvico.com/ve-sinh-may-lanh-quan-8/": {
-          "hash": "d2f973954ac6a8311ac961e6e4d2811afc7f46b0e58ebe75cb9f4615074a6cf2",
-          "len": 25332
+          "hash": "d4e5b316e38ca17d428f0e8a53e30ff36dfcbe22a892eb8b0e77470773f120eb",
+          "len": 25348
         },
         "https://www.guvico.com/gvtdt33333/": {
           "hash": "59f8d2a80cc9ba8a81d19f30eb5fb1681ed75ef691498474aa661cb569205724",
           "len": 10713
         },
         "https://www.guvico.com/ve-sinh-dieu-hoa-quan-long-bien/": {
-          "hash": "6020082699818e027a1e6df800fd64348cd03bb01b81b7e4c1de796bfb71b5ea",
-          "len": 21353
+          "hash": "e97318decf4b8cb841f142584ebbad4b71ede0db31658136cca5f477e0a7a484",
+          "len": 21369
         },
         "https://www.guvico.com/giat-nem-quan-binh-thanh/": {
-          "hash": "d67884b4b016ed86de8a25340386c226cd00e5cebeb3cf5303ffc0772d24e501",
-          "len": 20935
+          "hash": "f660fd40c97212c89c235039879d807e098590f5ecac3dc578d6c94da63e4fef",
+          "len": 20951
         },
         "https://www.guvico.com/ve-sinh-may-lanh-quan-3/": {
-          "hash": "681da7da33f45fe4aa77725c8c80255a291043fb05fecc05324f0bf479b8a21c",
-          "len": 28338
+          "hash": "07d3963f2f7d98091aa7e1d8b3f46bfe791ad184328cb4380ff9c1e5c3137c4a",
+          "len": 28354
         },
         "https://www.guvico.com/gia-thue-giup-viec-nha-theo-gio-phuong-tan-dinh/": {
-          "hash": "4a7332e7332959bd7a57697ddf2d35140683c07df04c10dc5ae02b60935cef4b",
-          "len": 15946
+          "hash": "d9dbba18e2cb0f58e6213813ef4b7ad65125c3ac406e2eb6339e7c3e40662501",
+          "len": 15962
         },
         "https://www.guvico.com/giat-nem-quan-11/": {
-          "hash": "f6efa5f1e02f16c3e8f068ff39af4f499ab1f1ce9282582123ae5e698ec6c1b1",
-          "len": 18237
+          "hash": "cd14923c764f27159800034c798e307863183d6d86c455968c21c292871c25b4",
+          "len": 18253
         },
         "https://www.guvico.com/cach-bom-ga-may-lanh-an-toan/": {
-          "hash": "0d482ad7ec8f9433a7592dd7638aa4e06f05af5adf81029cdd2ba3452a163d50",
-          "len": 13931
+          "hash": "993e07b1412e85fac4e5d1fe0a5fed21ecd2a5898b35e6a5affccd2d2e5bb3ff",
+          "len": 13947
         },
         "https://www.guvico.com/giup-viec-theo-gio-quan-cau-giay/": {
-          "hash": "92cb5290d4c72bbe07289f7c996313ed237f802e3c42dda7b76f7ebf0ac75431",
-          "len": 14406
+          "hash": "755d725de3b0bf0868d4b64c83b1a3553a9490dfe5724da1fa72b6284912c97c",
+          "len": 14422
         },
         "https://www.guvico.com/giup-viec-theo-gio-quan-long-bien/": {
-          "hash": "1405db51fa6c5343f2170e7fa3035fd2a482459f2cde61ea6e4541eeb5aa304b",
-          "len": 15038
+          "hash": "a3dfbce7991f2c9796c752ff98a97eba046a33b79502ea7d2e562d42c5d42019",
+          "len": 15054
         },
         "https://www.guvico.com/giup-viec-theo-gio-quan-tan-phu/": {
-          "hash": "f1216648686afa7abf772c8c836236110e16904e3038abe19873658e9e0797bc",
-          "len": 17980
+          "hash": "37fd7431e1cc8d80c83ce8a33bf9473813141d863558df72e2597bef5c22eee8",
+          "len": 17996
         },
         "https://www.guvico.com/ve-sinh-may-lanh-quan-9/": {
-          "hash": "3f430661f16ae5d32a0dc2f6ac99c63e5ed1e27e88fe2fedac1210816c906e8a",
-          "len": 24278
+          "hash": "04184b77538163c5e122cd93d5aef556faa85d18617e68d2937a72ce370001e0",
+          "len": 24294
         },
         "https://www.guvico.com/tin-tuc-ve-sinh-van-phong/": {
-          "hash": "29d360ac7c0c6d8b0a68079d303c98cb0e2a20dd6fc7236ae51883850d2f9ce3",
-          "len": 10275
+          "hash": "27439847b6c16d4fa2a4ea24ff3563e2126006da2e3cbdb2fd5adfd372d245a9",
+          "len": 11254
         },
         "https://www.guvico.com/giup-viec-theo-gio-quan-binh-tan/": {
-          "hash": "3ca131f799389bacd619d14ec439912b1eb015916651ee048bb7b8ae8dfe0047",
-          "len": 21843
+          "hash": "4cb5a856caee7b6efbb8a942ae4918f8512af5f0e02467c5140e7dba97c08f7b",
+          "len": 21859
         },
         "https://www.guvico.com/giat-nem-quan-12/": {
-          "hash": "65ba534201ed80e7b2ceb0de8c5e496d793abde5eda44c12a1e636385aee7d2c",
-          "len": 16889
+          "hash": "bb605829fd109d47f465238bcd46cea6f9624e360e620ec87c55022accbccd04",
+          "len": 16905
         },
         "https://www.guvico.com/hoi-sinh-vien-giup-viec-nha-theo-gio/": {
-          "hash": "11288037df6f9707a6f55cb68ad393a573834146cb10030bfd11948bf01138d8",
-          "len": 20509
+          "hash": "f0aaf52c2dd26bf168a2b72931a621a405eb643a112f95a51d4fe3c14a3b78e8",
+          "len": 20525
         },
         "https://www.guvico.com/dich-vu-don-dep-phong-khach-san-guvi/": {
           "hash": "43ae71defbdec837cb29997777538353fccdbd7abb2796f7e7dedf7715086e2c",
           "len": 10724
         },
         "https://www.guvico.com/tai-app-guvi-app-dich-vu-don-dep-tong-ve-sinh-hang-dau-ca-nuoc/": {
-          "hash": "fa1ddebad05f6e4e18323efa631c18c268810a120f818327174f714cef22fd0d",
-          "len": 10426
+          "hash": "903d9fe4f715e70e65cbb28a6a025cf4f2fb22df4a3ec866be1948df22ab0d4c",
+          "len": 10442
         },
         "https://www.guvico.com/dich-vu-giup-viec-van-phong-theo-gio-uy-tin-tai-tphcm/": {
-          "hash": "0f801593f7d4359657cde63020f292603d07b0479145f8351cdeadd76e7bb448",
-          "len": 16643
+          "hash": "db8e60d16d3805b0bca255cb5ef82380030953be490d324d9f77635c78433713",
+          "len": 16659
         },
         "https://www.guvico.com/hao-khi-doc-lap-hanh-phuc-ngap-tran/": {
-          "hash": "b7fd3616e4e198f20e4f9c2565fb7fad6c6e8a3f401f670763580bc2d96a0496",
-          "len": 9905
+          "hash": "6521669279948ff1bca912790dbb0cea0ec7ab3b4513e055fcb2888537b469db",
+          "len": 9921
         },
         "https://www.guvico.com/ve-sinh-dieu-hoa-quan-ba-dinh/": {
-          "hash": "2be1de5f8a21afcf02238670036189fb344642d0418e44205712fd1adb9584b4",
-          "len": 23173
+          "hash": "8be26fe4769652162f79d0a25fc195a6fceebf8bc699dee831762aae233de2a5",
+          "len": 23189
         },
         "https://www.guvico.com/guvi-ung-dung-dich-vu-don-dep-giup-viec-5-0-tan-tam-an-toan-chuyen-nghiep/": {
-          "hash": "80a79821c532349afbce5ee8017850f99353c36e30b5fa7aae4784181ba11476",
-          "len": 11344
+          "hash": "2b431d09727826725a800567a9005a7d11013414563b71f09c4798c1a9957c98",
+          "len": 11360
         },
         "https://www.guvico.com/uu-dai-ve-sinh-may-lanh-len-den-10/": {
-          "hash": "fae667b50ddc6edcb5df20059298b61a0d94efd3be420db83c53e127452cd85e",
-          "len": 10100
+          "hash": "24b45b60e99600a7c0308161f524ad5374b75ae9da496d571e99888e6969c9c1",
+          "len": 10116
         },
         "https://www.guvico.com/giup-viec-theo-gio-quan-12/": {
-          "hash": "98dcbfa730b0e950567ca9a89366ba5942c82c8b8eb40f40a7f03a19e0375de8",
-          "len": 17489
+          "hash": "e8f1ef00f0d94a934fdc19b8f8546fe7a4681e69249df212c01e976f7bfb3249",
+          "len": 17505
         },
         "https://www.guvico.com/kinh-nghiem-thue-giup-viec-theo-gio-an-toan/": {
-          "hash": "9b10b4ad064ecec3e1660a80f05d9a11df073629f8a18f09ce170f7fa59b32d4",
-          "len": 15832
+          "hash": "1aad085584ba3ebc3543c7ee04f993c51007fdb8a1ec490d636c8932141cdcd7",
+          "len": 15848
         },
         "https://www.guvico.com/uu-dai-ban-moi-giam-ngay-10-cho-don-hang-dau-tien/": {
-          "hash": "a81ae971f592bce98c1e2e4e3d018047a3c9489b2e37edeab18490fbea438515",
-          "len": 10212
+          "hash": "2bd558f0a22ee8b92d3798d1f0d84e2c5ff03323474c4f740b21fe7e8a6c5ec0",
+          "len": 10228
         },
         "https://www.guvico.com/portfolio-full-4column/": {
           "hash": "8792dd25372266766cf7e6a5f80245ce3d01a742212d939342284b375aa9131c",
           "len": 7781
         },
         "https://www.guvico.com/blog-right-sidebar/": {
-          "hash": "23ca0d3ffccfd2e80ea955f7d26647826a8b97aeed939d97fb10e1c81611a7c6",
-          "len": 10829
+          "hash": "cd808e6ef91a5601fd30fff9bc3e510426dc9937b958ddac5b5a0f7189edd08e",
+          "len": 10845
         },
         "https://www.guvico.com/chuong-trinh-uu-dai-tu-guvi/": {
-          "hash": "85d5f5f7eaf15f14e5f962b57f1fae1dca448c7aa70156288bf135f80c74b31c",
-          "len": 10766
+          "hash": "b2f790b23ccb118f4dce2351d58f86153cc5a360ece50c0ed284b301c9840c5e",
+          "len": 10782
         },
         "https://www.guvico.com/giup-viec-theo-gio-quan-dong-da/": {
-          "hash": "4d374c60cfc54ee994d119aa2c2771752c20d8fe80fc005d7baf26a99ba58cd4",
-          "len": 15565
+          "hash": "238184a37d94b9ad433defe695f0beb9e9c83bf6d4a8706ac5179b7bd4e7e8f9",
+          "len": 15581
         },
         "https://www.guvico.com/cach-ve-sinh-may-lanh-am-tran-am-tuong/": {
-          "hash": "0393620fd83429485b54261f12052ec03e3aa7d859bc3c66d62debd5eb00ad39",
-          "len": 17453
+          "hash": "474d1eb75c9a76172587a94cbe4092949757fc31a4ba0ae0138a3839ae708350",
+          "len": 17469
         },
         "https://www.guvico.com/ve-sinh-may-lanh-quan-5/": {
-          "hash": "92c92018180dfde3c375012f849dc38c122490e77d820f0c6e11550c353267b9",
-          "len": 27968
+          "hash": "7c3557110f27cfcfb2a5f4095741e4b6db337544ade856aca665d37ccedad87d",
+          "len": 27984
         },
         "https://www.guvico.com/giat-nem-quan-10/": {
-          "hash": "0f0f6999dbe8d5970dc80175990521d609af39c34b8560a23e6816217041a62e",
-          "len": 16883
+          "hash": "44c8b52f660b9fddb622236aa01c7920173f98cb284f23c699bd6460b639df66",
+          "len": 16899
         },
         "https://www.guvico.com/cap-nhat-muc-luong-giup-viec-theo-gio-moi-nhat/": {
-          "hash": "83c49cbe381ce7d9339b238cc8afea14e57b12be1e2091710700daaaa0bfb89f",
-          "len": 21738
+          "hash": "66a932b9a800b06af14567550952bd59f4205a0355559ad1df5015dc70b08a4e",
+          "len": 21754
         },
         "https://www.guvico.com/giup-viec-theo-gio-quan-thanh-xuan/": {
-          "hash": "35f46ee955280a007b567cde81962adda5bd26e6455bd772d96c6f3f66e0e457",
-          "len": 14395
+          "hash": "6520014563631c5158564f196f041c8ecb9b6edb8fb556b4e9a6a34c17f22feb",
+          "len": 14411
         },
         "https://www.guvico.com/doi-tac-doanh-nghiep/": {
           "hash": "4da5351e20810b87b5cc0d554ce4a091e6f84cb736bc3aa18cf15bd236534048",
           "len": 10989
         },
         "https://www.guvico.com/ve-sinh-may-lanh-quan-tan-binh/": {
-          "hash": "0ce559cd19eabd15376b835a2f52e60c6182732dd70d25a0fd2133fd13cd3e0a",
-          "len": 15869
+          "hash": "5d6ad83b3329535ca1e25e4fdd2fbc9720d432968962a5f5dece5b396009e6b3",
+          "len": 15885
         },
         "https://www.guvico.com/lien-he-guvi/": {
           "hash": "c6e96bdfe72f4d7a2ca4efabf6db61ce4c73822dd18d36c2cf2c4c0c041f6f3b",
           "len": 8390
         },
         "https://www.guvico.com/cach-ve-sinh-ong-dong-may-lanh-cuc-de-tai-nha/": {
-          "hash": "21ddc9498cbc55cd0805986bf46706ffb6fb0b76abe55ff83343c44d9bc1a8ca",
-          "len": 17480
+          "hash": "275123b78bfad967f0a148c68db0389bc7818a4f52f03fd25ce075134c6ccf02",
+          "len": 17496
         },
         "https://www.guvico.com/guvi-tham-du-le-ky-niem-5-nam-thanh-lap-cong-ty-zavico-viet-nam/": {
-          "hash": "1f5bc3f8f97ef9b3ec92a3176ebb45fd97c1c4389f1790d74ac0d642ccb0ddd5",
-          "len": 10327
+          "hash": "3dd9605e5009d38295297f3b7fd7e324b6e398412b37bae110efea18f6a625c5",
+          "len": 10343
         },
         "https://www.guvico.com/giup-viec-theo-gio-phu-nhuan/": {
-          "hash": "89bb3713ff3fc32577204441d9a34ead7a363f0188e92cf52b9b085d9a25029b",
-          "len": 18950
+          "hash": "99574ab5933ef81f364ebd8ae1fcfbc681c1f5602e714e1ee90dc6fe2ba821e2",
+          "len": 18966
         },
         "https://www.guvico.com/tin-don-dep-buong-phong/": {
-          "hash": "31790b6410d5f3d1e76006ac883451b524a34d3f11571c0af69935dd21746a00",
-          "len": 8734
+          "hash": "ab6718aa58284e06b2c4dd4d76079b7b4e34a4e700c53ccb30f0ca9365bcbcaa",
+          "len": 9360
         },
         "https://www.guvico.com/blog-right-2column/": {
-          "hash": "bf3c88a7f8a668345548de1b3eca98669d69858cbfa5744d5db8111c133145ac",
-          "len": 10166
+          "hash": "c9d831dac2cf7c70aedf0694a20db3e700136dc431cc06969702b804fe8a5838",
+          "len": 10182
         },
         "https://www.guvico.com/ve-sinh-dieu-hoa-quan-bac-tu-liem/": {
-          "hash": "1c3096b3ffe43d1f4d503f3a1d235c14b6ba580ba925f9e3afef3911178a5c5a",
-          "len": 16595
+          "hash": "3daf8a4e4d3db91cdc51928362ad8b4e2b187de63ed2dae8453d9a19093baa4d",
+          "len": 16611
         },
         "https://www.guvico.com/dich-vu-ve-sinh-nha-ngay-tet/": {
-          "hash": "e374b0309ab344f37904c29953e2b6718e21944c5004c93af28cfab5eb343575",
-          "len": 16022
+          "hash": "87d912b9c06af676c7495a5aac31c33faf58464ce67d1dda90088510d546b015",
+          "len": 16038
         },
         "https://www.guvico.com/ve-sinh-may-lanh-quan-phu-nhuan/": {
-          "hash": "1c9fb307cc39df316deee479a40c5716ae6b250080eae74a0516f2d9c38597fc",
-          "len": 18492
+          "hash": "3c5889d8c20c1d57b60f56650aa10440ca1ae4895e02c84a67777a5032c5be7d",
+          "len": 18508
         },
         "https://www.guvico.com/nguoi-giup-viec-theo-gio/": {
-          "hash": "c1423690c8c99540f38318a897bce10975843611265178128ee89bedfdb92a1a",
-          "len": 15809
+          "hash": "5d173e688d40eecff08a96a98f4443eacb174f1dbfc88d2bc3d6a2b00e605c35",
+          "len": 15825
         },
         "https://www.guvico.com/dich-vu-giup-viec-dinh-ky/": {
-          "hash": "18ddba2a47d2b8a23dd9c143f6103c64c574b6ffcd131d673998a31f3b81de59",
-          "len": 10539
+          "hash": "513cefe8f727ed8e5803da685f28c9c8dae528189e104228eedd7240cee715dd",
+          "len": 10555
         },
         "https://www.guvico.com/dich-vu-giat-nem-tai-nha/#comment-2126": {
-          "hash": "241619b080b890ad9b2709b78aaec3c0d4d58702eccfd769b6ea326ba5131079",
-          "len": 17977
+          "hash": "d342150fe6465d718445a8b695f290a374792c00d4391bf34fe3c64c3a0d46d7",
+          "len": 17993
         },
         "https://www.guvico.com/cach-thanh-toan-bang-g-pay-tren-ung-dung-guvi/": {
-          "hash": "9daa4764319e761bd29d84c79d3cfa0b5417dd3a93b6c063cd417e70654dfd90",
-          "len": 9788
+          "hash": "fd163751cf72925ac4eeaa7d005fc7e2480180d97f1dc2a7f43fc66fd1824be1",
+          "len": 9804
         },
         "https://www.guvico.com/cach-giat-tham-long-dung-cach/": {
-          "hash": "d30abaca26b03c61109a2b11571061c01817ed839d03026a8d08bc0f94c4a58b",
-          "len": 19520
+          "hash": "dfe7d325c9f5ae08b03fa70617265cbae75da37e71038a5abb4a1e0f596c39c9",
+          "len": 19536
         },
         "https://www.guvico.com/ve-sinh-dieu-hoa-quan-thanh-xuan/": {
-          "hash": "0c552d2dac29213c073e46ffa28828a19409267f9783c195044334e033251eb9",
-          "len": 24655
+          "hash": "bf6c11d6aa58738b7494b276e82cf9f346ed73c451a22c27b9bb2c8eb344f989",
+          "len": 24671
         },
         "https://www.guvico.com/giat-sofa-quan-hoan-kiem/": {
-          "hash": "55a30bc6cc1e27655b1df6109f3e74b330caec4e9e7885bd7448b67d07f292c9",
-          "len": 18387
+          "hash": "c8e60a6adad4d28e3721a1cc46f3061ee0d81ae6dd34646d9b472e0b0a61e478",
+          "len": 18403
         },
         "https://www.guvico.com/dich-vu-giup-viec-nau-an-theo-gio/": {
-          "hash": "55e1fad690b437a60731fce6fc9785b569632ea51780d2bd02be0385fcd75696",
-          "len": 15584
+          "hash": "53a4005a3b3ae988a0b6b1a5527bbcd7f8e97627220593d2fdb8b21b5428b742",
+          "len": 15600
         },
         "https://www.guvico.com/dich-vu-ve-sinh-van-phong-guvi/": {
           "hash": "5b2cca8e901cdc75077b3c6d02b9ffdbcb3722058728c20bc2ea5963740160ff",
           "len": 14016
         },
         "https://www.guvico.com/guvi-hoat-dong-xuyen-dai-le-30-4-va-1-5/": {
-          "hash": "93fbf3ffca20e3353bf8588c9d03c55888b5167e31c3557bdf6b2914c11d80a2",
-          "len": 10904
+          "hash": "c85b54b63d6d2c1e2f00d68bc2b4dba2dd95ef96444c3831f6cac3768fb6a08c",
+          "len": 10920
         },
         "https://www.guvico.com/yeu-cau-xoa-tai-khoan/": {
           "hash": "1a7449463b58ac9112d4532c7539238b39b69355ff3a2d00dfe061c9ec1ed895",
           "len": 7599
         },
         "https://www.guvico.com/ve-sinh-may-lanh-quan-6/": {
-          "hash": "9838cd0cf9e01a3c30a7672da6120b831a5ad9e714293cf864d630a106229a7e",
-          "len": 29050
+          "hash": "193fea625b0e6e83987c54a2b0656dfda0d8b427d9c6a11a7c5e9f560055e816",
+          "len": 29066
         },
         "https://www.guvico.com/blog/": {
-          "hash": "781ff59625a86f8e2874aa4981f258aabbb75b76f58b631967c02ee71f1b1dae",
-          "len": 8777
+          "hash": "88711f4b153eaa15f7bf5998d73922b16775efa5b9e762347065f9a1bba3f382",
+          "len": 8793
         },
         "https://www.guvico.com/guvi-dong-hanh-giai-tennis-tba-mo-rong-nam-2025/": {
           "hash": "04c91304780a422efeca468f8edd550f09fb5beac0e06a8753be2bdd8a878e0a",
@@ -1853,516 +1865,516 @@
           "len": 9690
         }
       },
-      "last_run": 1761190735
+      "last_run": 1761276846
     },
     "vuatho.com": {
       "urls": {
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-sua-binh-nang-luong-mat-troi-tai-nha-bao-gia-truoc": {
-          "hash": "4a9370fc995b2a38597f7690f5c7a740322d40b9bf8a9d00f1b98e1e1098f28c",
+          "hash": "657dc26e3ab8b1ed96f36840eb0ca747b05581dc70790355a1d06f7497745a1c",
           "len": 6635
         },
         "https://vuatho.com/vi/press/doi-song/tho-sua-dien-gan-day-tai-quan-2-dat-tho-nhanh-tren-app-vua-tho1747381370340": {
-          "hash": "c3e99eaa5a573ea6f3ce7bee8e823cb166766089340cca9ebebad1e124a94941",
+          "hash": "3dfbde308418b46ea057b05a53a2604c23cfde3bd5aa3da3be1a687e33987607",
           "len": 9608
         },
         "https://vuatho.com/vi/press/meo-vat/4-meo-su-dung-dieu-khien-dieu-hoa-panasonic-inverter-2025": {
-          "hash": "b1e1c9cc8a40a83c304a2428ceca21b41350066d4ae62699a5f1ad5ef185b722",
+          "hash": "0b91b2dc96d28d0c62c97b50d270fa7a752273f1fe60e34250e824dad4840570",
           "len": 6606
         },
         "https://vuatho.com/vi/press/tin-tuc/can-tho-sua-may-giat-quan-go-vap-gap-tim-ngay-vua-tho": {
-          "hash": "9ff022866f90091b705d43d8b5ca9b684f7191b775f57e4470a27438e34e153c",
+          "hash": "4714122ff88f3453afe51dfc8500d072de71f53b9eeeeb1b22cb72617d46354a",
           "len": 5663
         },
         "https://vuatho.com/vi/press/doi-song/sua-may-lanh-gan-day-tai-tphcm-nhanh-chong-and-chuyen-nghiep": {
-          "hash": "566ea77cedc45fe6db7d3f47406a2a9e23deb8003a4ae57aceb1a1c8280cc7c7",
+          "hash": "a86f7cb86bab481cbcebcad22d3907f2e7d2b8b909259803423436707ad78a7c",
           "len": 6703
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-nuoc-nong-quan-6-chuyen-nghiep-co-bao-hanh-dai": {
-          "hash": "29b8fb316cca3065516d64cb4b95c042899f0d3e9e0b43a4bd6406d2c4ecee58",
+          "hash": "011f3bf8f3da09bdd2f6dbabdb0fdfaa99f1dd9a9bb9bb60941fd369e2740dad",
           "len": 6071
         },
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-sua-may-nuoc-nong-quan-11-tan-nha-gia-re-co-bh": {
-          "hash": "8d748a42faee1295434b327c8d88f99e613f1d2fb978bd677dfc3e2dd79c318c",
+          "hash": "d095218daff0a1ffcbb1558bbeb4c3a06e90e3d0c0830521140dfade10dc266f",
           "len": 6296
         },
         "https://vuatho.com/vi/press/doi-song/nen-chon-may-giat-hang-nao-tot-nhat-hien-nay": {
-          "hash": "677a777067f6460ad1cda47d367c393700bbaf0067ef137595abef8fda22d35d",
+          "hash": "ad78ea152913db4074240feb0c778f74d4b0572ede4b576a29f8237a327bd122",
           "len": 5866
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-xe-dap-dien-tai-nha-gia-re-dat-app-tho-bao-gia-ngay": {
-          "hash": "8c476b0386f2561232ff39a732b303e0f0d61e4b73838678167f7fdc8c2a8b19",
+          "hash": "b071e529501abda4c69250f277190de03e06c9171de024e0b68a70761d83b131",
           "len": 6504
         },
         "https://vuatho.com/vi/press/tin-tuc/thong-cong-nghet-quan-10-tron-goi-bao-gia-truoc-khi-lam": {
-          "hash": "2c26ad1dc710eff66b527b663afae8354633c406d9482f03f4eab262331723ac",
+          "hash": "6ed765402c42cb7e7bd8b7168ef87f3f8f307ae5c9c741f8d6465d4adc3a3310",
           "len": 5935
         },
         "https://vuatho.com/vi/press/su-kien/tai-app-vua-tho-co-hoi-trung-honda-wave-rsx": {
-          "hash": "8f1810efad3d6dc6847d524c846b80763a33a8072684f48872f0ea9072d8a3c3",
+          "hash": "f2406b057d449f44764e054a1fbbbe34278a4c8c5f64a54abf4d1df559f75d60",
           "len": 3167
         },
         "https://vuatho.com/vi/press/meo-vat/nhung-luu-y-quan-trong-truoc-khi-bao-hanh-may-rua-bat-bosch": {
-          "hash": "1616929b3ea918fc67313f891def186a3b4ced56f209a9e43960f1b98422b79d",
+          "hash": "a2059467fe5f7ea0339e0ce1a0ee84ce1c4cbaf08af6e6c153c41f693a5448ca",
           "len": 6413
         },
         "https://vuatho.com/vi/press/doi-song/dich-vu-sua-tu-lanh-quan-11-vua-tho": {
-          "hash": "99e0ac7bfa17b971a4feece77ecc3c4abd9e6cef0a4ca3541d28dcd330c4ffe7",
+          "hash": "417a3af2fac8924c8de6ffccb7f8f8fce1d3cf1553b00b6b1abad9b9dce7f057",
           "len": 5208
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-tu-lanh-quan-12-co-tho-gan-nha-bao-gia-ro-rang": {
-          "hash": "9ef53ce1bf012bca4ccbdfa6e61dd0411482e52166162f369d586120969a46ab",
+          "hash": "b0e16b3ca7ceaf4d1c4ea8ea0c91e91f8751492c5e2c9506569a9a198efa2039",
           "len": 5453
         },
         "https://vuatho.com/vi/press/tin-tuc/thong-cong-nghet-quan-9-gia-re-bao-gia-truoc-khi-den": {
-          "hash": "0ff6c9d5391b644d68bdbfb217d1ce269836132f6b62702c416f23b611d9cd2a",
+          "hash": "aa69942620c58584649502947b390307332e9fceee8068811685326e46c3b991",
           "len": 6404
         },
         "https://vuatho.com/vi/press/tin-tuc/tong-hop-bang-ma-loi-may-giat-toshiba-chi-tiet-2025": {
-          "hash": "ad336242e00b4cfc63651bb45b34f69058e0a6d7b96cf6993ff5586911bbda3d",
+          "hash": "428f91d63a532a2105ad0508182f565ef720a23eb8b3c0ba85bb21fc3ac90182",
           "len": 8143
         },
         "https://vuatho.com/vi/press/doi-song/sua-chua-dieu-hoa-uy-tin-dat-tho-nhanh-chi-1-phut1747195290522": {
-          "hash": "b96b1eb0ec62260477fce59422eb2a622466163996c2fdba098cb73687b2a0ee",
+          "hash": "e52a9f83196a3aaac0e7bea595957aa2c2629c3e1cfabf9d6226cadd11795208",
           "len": 5647
         },
         "https://vuatho.com/vi/press/tin-tuc/cung-ung-dung-vua-tho-kiem-tra-cac-thiet-bi-dien-dinh-ky-trong-gia-dinh-ban1719464618637": {
-          "hash": "27846a979c7f1ae7afb23a1bdfc2fb491ea0e9a60c0de0757e2b979c03ac5df7",
+          "hash": "306902e0287638093c3a4b585df13dd78650c230c4eb10de07f2e4760e699b3f",
           "len": 3101
         },
         "https://vuatho.com/vi/press/doi-song/loi-loc-nuoc-karofi-nen-mua-loai-nao-va-thay-khi-nao": {
-          "hash": "9b4281731f2eb1ff96aa4afcec1825bb2edc5fd4a7243fc61393ce286570cd23",
+          "hash": "93e2223f67d07d92559f676b06dc12aab3fbc915e161466b373319b861166fca",
           "len": 7156
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-tu-lanh-quan-9-chuyen-nghiep-sua-moi-van-de-ve-tu-lanh": {
-          "hash": "8b301fefd0686ae7c2f3211e7a3070b51c6c3e923b4cf9f54ad1a15f99f6ed49",
+          "hash": "22ff8e1c95602bef867bde9faa59f5d23e2373722a30184a6280409fd69cdc66",
           "len": 4761
         },
         "https://vuatho.com/vi/press/doi-song/may-lanh-tiet-kiem-dien-inverter-co-that-su-tiet-kiem-dien-khong": {
-          "hash": "208a74f79362b659f0406cd4e720446e4eb001f12ee1becbd5c929ef37373856",
+          "hash": "7329c6aaf9a2b4539a16a73dadde35b13a1ba8bef7b4075487fba47908758bff",
           "len": 7422
         },
         "https://vuatho.com/vi/press/doi-song/review-chi-tiet-dieu-hoa-casper-12000-btu": {
-          "hash": "7673d4255afabbd4318fd41dd9c8acddc33dcb85509adb13cddac62a533e303c",
+          "hash": "21fb6f279611ba09f2db9de3bfd75ca8f80f4f71e303164f7566fdebf6cc281c",
           "len": 8786
         },
         "https://vuatho.com/vi/press/meo-vat/loi-e2-may-giat-aqua-nguyen-nhan-va-cach-khac-phuc": {
-          "hash": "cede4732cf2b522fed20983f636fca83ab15ed487246c3a3a7fffb424ec6ae4d",
+          "hash": "86951ce82a23e62b2054a58ffcc40cd3e66989456e54b81a020094db4bca4086",
           "len": 5950
         },
         "https://vuatho.com/vi/press/doi-song/may-lanh-am-tran-lg-uu-diem-meo-chon-mua": {
-          "hash": "e8f33ab71d5a642cc4aba8c44204882d9b05968d4ce0e7e188e4f881fa7d82bb",
+          "hash": "39047cd88b8792f3ffcee8ed2331a676f222b72c2284e63b443ac806f945ac1e",
           "len": 8415
         },
         "https://vuatho.com/vi/press/doi-song/tu-ve-sinh-may-lanh-tai-nha-nen-hay-khong-tai-sao": {
-          "hash": "fc44e808e042f84e663c8bffacb2a30185f0a1828a41db5c3ee41e8905055178",
+          "hash": "63f3879bcef7a9a7f6c463f5677b3e2097493e0ebbc7c107eef6f767791cfbf9",
           "len": 7011
         },
         "https://vuatho.com/vi/press/meo-vat/ma-loi-may-giat-lg-tong-hop-ma-loi-pho-bien-and-cach-xu-ly": {
-          "hash": "03262ec75aac0abc2bbcc044b9584a7d9b6b92a45b89edc0fb7f263152a6d360",
+          "hash": "75c09fb4d701d4716912faa1ea1c682be44a289ae667635586467ee1d0e66343",
           "len": 10106
         },
         "https://vuatho.com/vi/press/doi-song/tho-sua-dien-lanh-gia-re-gan-nha-quan-go-vap-vua-tho1742479428375": {
-          "hash": "cea964623a51d517ce86b9fe22aee36db97854bf35623eae2f21d26f84cfa807",
+          "hash": "1fd2ec724dbf3ecd6b4f56fdc83a88e21bb56a93afefa89f1cf35163f9325ac3",
           "len": 6482
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-nuoc-nong-quan-8-tan-tam-gia-re-bao-hanh-lau-dai": {
-          "hash": "854c64adb098c0806817185c4561970781eb2294d8ee53566378182dc8c485f7",
+          "hash": "2dacac64f270af655657cf6637e06344326a6c9818eb319c275b766a6fe6bfd5",
           "len": 6027
         },
         "https://vuatho.com/vi/press/meo-vat/4-buoc-ve-sinh-may-giat-cua-ngang-tai-nha-don-gian": {
-          "hash": "57002d8cce159a721e9dbd6c2561f7068cd066c8e880e3f2ce6e6cfc231b5342",
+          "hash": "18b4bd700a1891233d3f05cfdcca0186e7e5d857e76871387e75551a5a0706b0",
           "len": 5194
         },
         "https://vuatho.com/vi/press/meo-vat/cach-hen-gio-dieu-hoa-don-gian-va-hieu-qua-nhat-2025": {
-          "hash": "4dff13a0bdc72505ccca0903c82b520563f410f16d9631ef0226ff5844accb2c",
+          "hash": "3e8fad9ba0d71c228d9ede028d40bbd3cb21e50df3addcd1eacd83b3df133fae",
           "len": 9191
         },
         "https://vuatho.com/vi/press/meo-vat/cach-xu-ly-may-giat-electrolux-bao-loi-e10-de-dang-tai-nha": {
-          "hash": "e8d9c68d0a709726f2864c1528f22e70eeb46cb7a1618a7d8c630096f50ebe4d",
+          "hash": "b40ec7b5786e79468f27a5ab37a576c240a7b32beaed0858495898a7b3703622",
           "len": 8451
         },
         "https://vuatho.com/vi/press/tin-tuc/cap-nhat-bao-gia-ve-sinh-may-giat-2025-chuan-va-moi-nhat": {
-          "hash": "8e2ce86e790a66b5de8cc07201eaac7cba5b530562ab06a6b0e02f1c426853be",
+          "hash": "2b6fe14bb367f09ce45c54fbabd489d2964a58e81589f6eba4344b733cd42e31",
           "len": 7800
         },
         "https://vuatho.com/vi/press/doi-song/5-dau-hieu-may-lanh-sap-hong-dat-vua-tho-ngay1743476602352": {
-          "hash": "1d384996bb6ac601f0c19779a1ff3cef51e9055c1a9c54aaca0a949aa47dbac4",
+          "hash": "4625c812ab47f4d266e50ae14be2827cfc299c90eae785fa69ffa35fdabc6874",
           "len": 8395
         },
         "https://vuatho.com/vi/press/doi-song/chi-phi-lap-dat-may-lanh-va-5-luu-y-de-chon-dich-vu-uy-tin1740999233565": {
-          "hash": "313781df3dbc0aa8f21651c505a85bfbbc93bcb4032cd979679c8a43c97114aa",
+          "hash": "06eb6fdbef34d98250442e7ef875790b2ed7871bd5508a513d15ee03bf4e3d3f",
           "len": 5553
         },
         "https://vuatho.com/vi/press/tin-tuc/hut-be-phot-gia-re-tai-tphcm-dich-vu-tron-goi-co-bao-hanh": {
-          "hash": "8f1a90dc947f81d5f10cbb7f269ecda03a8ec063e7b2b011c226f60cc06d177e",
+          "hash": "e37e0d4cc8b5876e8b809c801c32df840b0bf43926f71166933a61f4fbb6d035",
           "len": 6276
         },
         "https://vuatho.com/vi/press/su-kien/the-le-chuong-trinh-tai-app-vua-tho-trung-ngay-wave-rsx": {
-          "hash": "533114abc69e0bd9ee6c08790e6757f70d975e118632b5ef329f3f5fb6d985cb",
+          "hash": "39eb8936a553f7857a54dd2f7af5b5e87b1c6c318211f89f23b12ba87e62d36d",
           "len": 9085
         },
         "https://vuatho.com/vi/press/tin-tuc/thong-cong-nghet-huyen-hoc-mon-gia-re-khac-phuc-triet-de": {
-          "hash": "7c4e226db76cd37e6092481c0077971887fed16dbf9936b0d27bb82cfd9f2a75",
+          "hash": "b01677b065a352cf659c4a44aa1b90e758aff5502a14e47aab5fe8bc458317c1",
           "len": 5116
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-nuoc-nong-quan-1-tu-van-mien-phi-bao-gia-nhanh": {
-          "hash": "5ffebc651f3166672085a4f06572da7ad84f972ae13a9dde68554e36f87d97e5",
+          "hash": "5294b5d342fe8841647d1b9abd16b125cdcbe08624a9ad4b4d841d93522a9a90",
           "len": 6170
         },
         "https://vuatho.com/vi/press/tin-tuc/cach-ve-sinh-may-lanh-tu-dung-tai-nha-chuan-ky-thuat-2025": {
-          "hash": "293a5ce908350957eb7f0b0862c8f44efd81daf0edac0c43444a42624103d3f0",
+          "hash": "cedd519c55e501a9b8cd5c389960d7deebe2438732f34b5a85ed2996b13d3870",
           "len": 9446
         },
         "https://vuatho.com/vi/press/doi-song/sua-ve-sinh-lap-dat-may-lanh-quan-2-khong-lo-bi-ep-gia1741271021539": {
-          "hash": "503724031743d8978076ff58044e6057ee587020256376106aa91d96dcf1e88d",
+          "hash": "a5e52fc60377a04cc6a4690bb42a7d883a2ac943759ae9dba3d781c14c997448",
           "len": 6136
         },
         "https://vuatho.com/vi/press/tin-tuc/thong-cong-nghet-quan-go-vap-tho-den-nhanh-gia-minh-bach": {
-          "hash": "5f3e3f89dbb7b32a23ed0e01a874a45bcdbd77b359b1e5ddc3d4edf03f94cb7c",
+          "hash": "0c7b288b504431baeb7b1fe0fe4f25cdce444676bfbc2713b9622cab618773e6",
           "len": 5254
         },
         "https://vuatho.com/vi/press/doi-song/uu-dai-dac-biet-cho-khach-hang-moi-giam-ngay-20k-khi-dat-dich-vu-dien-lanh1744182890767": {
-          "hash": "8f80e6e5e334ed3894c0bfa559092b8c98d79e669610f926e7ff7a61e5877d55",
+          "hash": "b831853e3bec96b924ba9737bcf7febefe6a83caff1b305c48a3d414c35e28bd",
           "len": 5888
         },
         "https://vuatho.com/vi/press/meo-vat/bo-tui-5-meo-sua-ong-nuoc-tai-nha-ban-nen-biet": {
-          "hash": "3003fccff77714c8954255a62bed8798435afc77720d5d6f49ff756a9a703f33",
+          "hash": "e4a15c740fcee5df0be170d034211cab2b571acc37cf927d43c77e8d32adf035",
           "len": 7389
         },
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-thong-tac-cong-gia-tot-tai-tphcm": {
-          "hash": "11da39eefb4c354bd09198a7373275c3984ae1449598bc3d1f08846b66c41e40",
+          "hash": "8e9e8e352ce1e917e30384aab269526a0497eeba301b7aa403a582a15b45e592",
           "len": 6177
         },
         "https://vuatho.com/vi/press/tin-tuc/bang-gia-sua-tu-lanh-tai-nha-cap-nhat-moi-nhat-2025": {
-          "hash": "3b956985637702d3b2d17ec4d0b037c2a443ee6207c680265fe624afe8329f99",
+          "hash": "d373a05580d71e3ca7fabeb53698c5d8cfd30c03af8a29ae31d79245de4a2323",
           "len": 10186
         },
         "https://vuatho.com/vi/press/tin-tuc/4-buoc-khac-phuc-loi-e5-may-giat-toshiba-cuc-don-gian-tai-nha": {
-          "hash": "59dd6e16519a40b3f70716bd9b7705ef505adf2c30297bad1787063eafd2f05a",
+          "hash": "e631d187151b947dd3f2fe98d47a2913874db28cf1c31808414ebc3a62fc4c33",
           "len": 6293
         },
         "https://vuatho.com/vi/press/tin-tuc/tho-sua-may-giat-quan-2-chuyen-nghiep-bao-gia-minh-bach": {
-          "hash": "a47029155b6199cd719fadb0007e329aad44c6b594bca205bb2277479ba56eea",
+          "hash": "a4120354b0d832d7f45aa3c4d3f64ea01bc402b5bf084bfc720f08427407711c",
           "len": 6612
         },
         "https://vuatho.com/vi/press/tin-tuc/thong-cong-nghet-quan-binh-thanh-giai-phap-nhanh-chong-va-hieu-qua": {
-          "hash": "2f06086072a0c862267008e4195d61c98e1eae51c5156eebef227e8d21407627",
+          "hash": "7cd647dc58a2f30d4e9dac25cc451149a5e3eac044c61b0c331ca5d0b934eeb9",
           "len": 6264
         },
         "https://vuatho.com/vi/press/doi-song/tho-sua-may-lanh-quan-2-den-trong-ngay-bao-gia-truoc1747796946265": {
-          "hash": "7d2038ab7ff5774aaea208eed79ff56e4837877ae6e3fd402ab69e7321db7f1e",
+          "hash": "895e08fce69ceca475ee0b0a2d3a7f1a8f6e16e7c8dc24014f854425a7a85fe4",
           "len": 4719
         },
         "https://vuatho.com/vi/press/tin-tuc/tho-sua-ong-nuoc-tai-nha-tphcm-uy-tin-nhanh-chong-va-gia-re": {
-          "hash": "d3f823c428a2df4b0940cc9116cea1219e9aef3e8ec4b2892240a4f4972ff649",
+          "hash": "79b672529f2999456ea0330775d501bd4de1600fa34ba20014c9d11e2fb132c1",
           "len": 11066
         },
         "https://vuatho.com/vi/about-us": {
-          "hash": "4db2680a01f2656c58987490247cbfabca06f4f66c4014c33929b7d8d4e89439",
+          "hash": "6afbc43d9a9068ec183501886386f01068ad3c79738d89a5b586edd6f46b9c19",
           "len": 2776
         },
         "https://vuatho.com/vi/press/xa-hoi": {
-          "hash": "32fdaa448ce536aa3cb4eb78dd2fc99dd074fa109e4b37c3aec2bc0bbdf75351",
+          "hash": "34067fb95f79bb19e475bc05fc67e313446405d2f24e2c60faa3fc4e47081349",
           "len": 663
         },
         "https://vuatho.com/vi/press/doi-song/dich-vu-ve-sinh-may-lanh-am-tran-tphcm-uy-tin-nhanh-chong": {
-          "hash": "0a0f8a42ecf3123b4eeeecd9fb64d612409e968db7817dc89eb784943604b2d7",
+          "hash": "5c781ff715d8287907df8f74819034446b0d4d123da1d613a826ff90b13f6171",
           "len": 4899
         },
         "https://vuatho.com/vi/press/tin-tuc/bang-gia-sua-tivi-samsung-sony-lg-tcl-asanzo-re-nhat-2025": {
-          "hash": "f71d82eca52f8dcba70ac9c0849961d5b327c0e91b75a4163801f73fd87bee8b",
+          "hash": "0748b79be1ab3718ff5732ff998ab3ce6faaf0f0ce3ff13bf0abe05238cf9bea",
           "len": 6140
         },
         "https://vuatho.com/vi/press/tin-tuc/thong-cong-nghet-quan-6-gia-re-nhanh-chong-va-triet-de": {
-          "hash": "0cffad4cd8956d625888e228a5601d323e4273f239dca2423dcacf2fa7f45a10",
+          "hash": "28f735acaed1b6aabb589063f739b777d86f58155f475339307306d376af6f7b",
           "len": 6105
         },
         "https://vuatho.com/vi/press/doi-song/dieu-hoa-am-tran-giai-phap-lam-mat-hien-dai-cho-moi-khong-gian1747623959722": {
-          "hash": "b67fe54d1075ba959f7715fb75fd8a60593edfd278b4afa11b39e1287b0dca5d",
+          "hash": "1f21682cc5818cfae0a6a15abb1441d554f202f141f2c18d5c8c9f06f32ee6f8",
           "len": 7302
         },
         "https://vuatho.com/vi/press/meo-vat/huong-dan-tat-hen-gio-dieu-hoa-panasonic-dung-cach": {
-          "hash": "99ff25625b356d08492f826c2b829788f2c0ed257d8a6bd51b8e53f9a807acfe",
+          "hash": "8f9a2c0168a09da0db777131705c70e9ed7b11f693af6fcee478f6eea0341408",
           "len": 5278
         },
         "https://vuatho.com/vi/press/quy-tac/huong-dan-chi-tiet-naprut-tien-cho-tho-va-thanh-toan-cho-khach-hang-tren-ung-dung-vua-tho1728296145080": {
-          "hash": "5a017134fc3484be64a17a1411dfe9cf874689819e02935a1a49d6e0399d21c0",
+          "hash": "1181806f07a1d53e86fc2515ee4a66d12f5a0e336fd533e64c93146530632c11",
           "len": 6242
         },
         "https://vuatho.com/vi/press/quy-tac/neu-ban-tin-vao-nang-luc-cua-minh-hay-ton-trong-doi-thu-va-canh-tranh-lanh-manh1748580547649": {
-          "hash": "cabbe60a8387a959f579d2bac9293d2ff1c042ef062e76945baf02ead14b1ace",
+          "hash": "2d98b3b4ea5f89aac8a33ad8f4ac994ab8e5d6904a4689404dfd7f57bf1b5272",
           "len": 2137
         },
         "https://vuatho.com/vi/press/tin-tuc/son-nha-cung-vua-tho-4-luu-y-khi-chon-mau-son-de-ngoi-nha-them-thang-hang1726110078316": {
-          "hash": "8cee11acb8bc2a7a720ba9766eb9369b12392e7e92e6f94b0edd028c9817e5cb",
+          "hash": "ef9eb584d8409884dde892685d69479cbcc71a82a5425ec9b2edf57900f49464",
           "len": 4255
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-tu-lanh-quan-tan-binh-dat-dich-vu-tang-ngay-1-trieu": {
-          "hash": "33548e1b6f5e7d5309bdb71a0a6266fe92af1d3319ccc8bfca086cce15a4827f",
+          "hash": "5ab351cce85b70c66f6ca1a78ee0c6c83b08f3a062d85bef704ec59048652edc",
           "len": 6087
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-nuoc-nong-quan-12-gia-re-tho-chuyen-nghiep-tan-tam": {
-          "hash": "5b612aab8140d7344585ceac4c94ac4d792210e45527b67eaa7dbd414c9dea5d",
+          "hash": "ce2129d111d096ae2578fff4139ab3245417d23484b6d62ed5437e1babb1f95b",
           "len": 5438
         },
         "https://vuatho.com/vi/press/doi-song/5-loi-pho-bien-va-cach-sua-quat-mitsubishi-tai-nha-hieu-qua": {
-          "hash": "227b8f004f27c5ff17676989e13848f7e0a44af664f0a8f64e9c12d284fdbc74",
+          "hash": "d412cad29ed4153a5aaa26290043989425d14c373a7b6a6ff71dc6efdd4f04dc",
           "len": 5436
         },
         "https://vuatho.com/vi/press/tin-tuc/thong-cong-nghet-quan-8-sach-100percent-co-bao-hanh-dich-vu": {
-          "hash": "c50bf7b0d4acf46a96d656f9894f8141d25d4ffe925dcd3c73ab2476aabbbfd0",
+          "hash": "4913c2f57ff4fd99b68880bd6ea21f5833790cb6b920ee7c1948847d0aeda976",
           "len": 5703
         },
         "https://vuatho.com/vi/press/quy-tac/tieu-chuan-tien-phong-cua-nguoi-tho-dang-cap-tu-tung-hanh-dong-nho1726216927869": {
-          "hash": "daa415ab4423c11aa0df0e5de7e427ae9304c9c1306a52cfd114d3d627cb2991",
+          "hash": "47cc1cc2916d53739e5621dd8558961e882db80765fad722ffb7e0ed0cfd5579",
           "len": 3224
         },
         "https://vuatho.com/vi/press/tin-tuc/loi-e40-may-giat-electrolux-nguyen-nhan-and-cach-khac-phuc": {
-          "hash": "ba38b347321a80327d6e0d72366bc1e1d9412703017afeddb04b2aa634219b05",
+          "hash": "7b51180b0bf78b56fc9a8d531381fbe1ffd758571a6af9ad72d84919d0b13a7b",
           "len": 5904
         },
         "https://vuatho.com/vi/press/quy-tac/khi-hop-tac-cung-nhau-chung-ta-se-tao-thanh-mot-tap-the-vung-manh1748581170087": {
-          "hash": "9690e24beb7d18836eb9c66114ec6afe1d1b81ac7609ba5a2f2785b4f353da22",
+          "hash": "0c2147f3af8cae58c8515f6863f5bb7f2918931be9adf13d36ca2676a3800168",
           "len": 2815
         },
         "https://vuatho.com/vi/press/tin-tuc/thong-cong-nghet-tphcm-uy-tin-triet-de-gia-tot-or-vua-tho": {
-          "hash": "2fde1f04f15e87e0af1c49274ad10f02bd82c231fc156ce777534a4730a9183e",
+          "hash": "3d436b2881df87845279441be76189c381b86ed00d2df4b42c590014b0548fbc",
           "len": 7703
         },
         "https://vuatho.com/vi/press/doi-song/so-sanh-gia-ve-sinh-may-lanh-tren-thi-truong-dat-dich-vu-o-dau-la-hop-ly": {
-          "hash": "3333e8f1b3a03531d25e6b83ea69f083c3cba6846c2723d848d094aa6089610a",
+          "hash": "16bed597f95d065f68387f06276ac726a5e0ae91191d61e64593683258c00859",
           "len": 4794
         },
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-thong-bon-cau-gia-re-tho-chuyen-nghiep-co-bao-hanh": {
-          "hash": "2726bf7c75c90e36ce6e3cdd37a257f704b5918d7dc11c8c50792678c364a60b",
+          "hash": "b10d71d27cc6db4aa8962220e9955897562b3758a44579b9a2bd8a80b96b2556",
           "len": 7116
         },
         "https://vuatho.com/vi/terms-and-condition": {
-          "hash": "f149261b7442c6b8784523b64e9a1fa321ee1ad5339e2c1e412cfa2c4c5afa23",
+          "hash": "375420a9268ea80ba42948d21b21553e7004ec63c71167b797464d23545ad414",
           "len": 22855
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-tu-lanh-hoc-mon-tai-nha-tim-tho-qua-app-chuyen-nghiep": {
-          "hash": "041914fa57b771bfadedee02b53d3b82d6814d967faf548ac5f65a1ec57a6d2e",
+          "hash": "613ce0f5d8b4c855c7a2ef23cc422a45a38f5c89dd7646a76319de84543ac7f6",
           "len": 5871
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-tu-lanh-binh-chanh-nhanh-chong-khac-phuc-moi-van-de": {
-          "hash": "877f87016725231f2e0e8ace97af41073a6c4dfa23c903b67ace62813e9ce031",
+          "hash": "463cd656611a09aa792ba9225d595623e574b4e676e677154cdfc82e8aa87fae",
           "len": 5530
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-tu-lanh-tai-nha-tphcm-gia-minh-bach-tho-den-trong-30p": {
-          "hash": "9e460fe32468c1151d52da61e7b9992213eb1144b513d8fa7aca39f3338f1ece",
+          "hash": "4e11de2735af4fb11ffeaf394308393e0fb1d91239b500335d9b731de00213da",
           "len": 11119
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-tu-lanh-quan-10-chuyen-nghiep-tho-bao-gia-truoc-khi-den": {
-          "hash": "77cdb09933ba484d02d403a40f19dda72c0e9bec6c184930e03c35a1a24233f2",
+          "hash": "8c7167c63c80f9f10fbf5756c8ad3050306af590e456c92e92e9cb3fee7f9473",
           "len": 5225
         },
         "https://vuatho.com/vi/press/doi-song": {
-          "hash": "23e5159bc790879596cb13b8e853e2a8d222746f3490c3d8d3ce639aef22c1b8",
+          "hash": "26ed613f397e684155710dcf272b9c4ea5c51e6dd0c4c3042d686256f5d7ab91",
           "len": 665
         },
         "https://vuatho.com/vi/press/tin-tuc/thong-cong-nghet-quan-3-gia-re-nhanh-chong-va-an-toan": {
-          "hash": "1a924ea6bde9c2ae8238dcfa83f6ba3b2ef549b3b061ec856f77c00b780459f7",
+          "hash": "60927668af166d6a5ea3bac4769fe9ba708daeb0b1202a1444199eb2531189a4",
           "len": 6566
         },
         "https://vuatho.com/vi/press/doi-song/may-nuoc-nong-gian-tiep-la-gi-nen-dau-tu-loai-nao-phu-hop": {
-          "hash": "926467cfa8669284665f06d2f1d7e355758b13875f6a1626119fb7fa1d8a1724",
+          "hash": "a3ff39182aecebb4c2dfff8bbff23fb90f2f628fa398a5f00af7ba937c5448cb",
           "len": 7162
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-nuoc-nong-quan-binh-thanh-gia-re-gia-cong-khai": {
-          "hash": "1c8da0a55c8bba53c2466b58a6eed52142ae546bf7718a1f689d81fbfe98f264",
+          "hash": "25dba42c9ad234a63702e982e511bcd2bd3eae722e0b5f67b7201cb583311a1a",
           "len": 6398
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-tu-lanh-quan-8-bao-gia-minh-bach-khac-phuc-moi-su-co": {
-          "hash": "adb291817a015c3a782ba61ce466a0e0125d46af602c67c908ba5ab50638cd3a",
+          "hash": "efb58d417bfce3a18836b2571bec5aec2697e46cc5ad5315fc34267b505bc4c0",
           "len": 5818
         },
         "https://vuatho.com/vi/find-services-provider": {
-          "hash": "5833ce5e9cd5d92630ed483fae672449fefcc2825e3ff5cf3d43eb0643d423df",
+          "hash": "3c724af70be6381d4a2ffd188fa6da7332b600e030a65dccedf5c9f982231405",
           "len": 1706
         },
         "https://vuatho.com/vi/press/doi-song/top-10-may-giat-ban-chay-nhat-trong-6-thang-dau-nam-2025": {
-          "hash": "29c56594a5016fe780e19987fcceb06b3308130ad2c5695f9e7be0d2b9385a32",
+          "hash": "ea3950d54986188682461ada1f76125c0b42f501a2f11a974fd8dced91ec5ac9",
           "len": 5675
         },
         "https://vuatho.com/vi/press/doi-song/dieu-hoa-cay-panasonic-giai-phap-lam-mat-ben-bi": {
-          "hash": "51f07edf6a434be131192c238ee1c52d1859f9ae990b414eaa49a15b6afd6097",
+          "hash": "620500c960ba87dd2d4e4bb6d187db37866ff619530645de415e50fe2d925d0e",
           "len": 8128
         },
         "https://vuatho.com/vi/press/su-kien/vua-tho-chinh-thuc-ra-mat-cong-dong-tho-viet": {
-          "hash": "8598a7b581908ea3dc21c149f2253f348534194cc0598d79a1ccbfc730a9d98e",
+          "hash": "241cf7b44cf8dbfb1e250ebda423beb4d53f5a6d13dda129e3373e35e6bff5a2",
           "len": 3092
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-tu-lanh-quan-binh-thanh-uy-tin-khac-phuc-moi-loi-tu-lanh": {
-          "hash": "b45e93296b6578acfccb0ac3ea7daf21862301b4f4210363c92fb727468e5279",
+          "hash": "9a2269e7dbba82831c5cdf024cc1338ebcda2aa0564894dfbf602083df2b400b",
           "len": 4651
         },
         "https://vuatho.com/vi/press/tin-tuc/thong-cong-nghet-quan-tan-phu-gia-re-co-bao-hanh-dich-vu": {
-          "hash": "21c9febb13c7e9b4e0a1993ea55baf08142dc367f390bd7c950cb5ce2b89d249",
+          "hash": "0bd371a9950c9833f96599ba48271b62600e50acb5ad168da4e08e3f6759398a",
           "len": 5678
         },
         "https://vuatho.com/vi/press/tin-tuc/dat-tho-sua-may-giat-quan-3-co-ngay-gia-cong-khai-khong-phi-an": {
-          "hash": "1d52c5621fa70e85d47296ae398dd99c74b7ac3c38820dcddd687e17b6ce65d0",
+          "hash": "5c8105facb9c274e8b49feaf98c0aadc6d2b03435f8c2bddaf3bd44e4c2f9ad2",
           "len": 5849
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-xe-may-luu-dong-chuyen-nghiep-tho-bao-gia-truoc": {
-          "hash": "9112c523e3611efc6f6f69ca855db01f4845443aacbe2da97d1a769e5c5da6e5",
+          "hash": "20ec424210bb3af5914f247d6b3376ad8e7526bb1952d8475ca580d07ca197c4",
           "len": 7381
         },
         "https://vuatho.com/vi/press/doi-song/ve-sinh-may-lanh-quan-binh-thanh-vua-tho1741578142194": {
-          "hash": "84ce86c44f987795c2dde230d68682bd8f1c853a9526b8a2a585c2d48b320443",
+          "hash": "563cbf4d0ebf5cfeddbceb8a54b532cac72ece4b5af678a752e0f79565cee3a3",
           "len": 6864
         },
         "https://vuatho.com/vi/press/quy-tac/4-cach-xay-dung-ho-so-ca-nhan-chuyen-nghiep-tang-co-hoi-nhan-don-nhanh-chong1724925083203": {
-          "hash": "f84a20965d0ffd426da2f9c28bc7c6703de38a40400507434d00d891c0638b73",
+          "hash": "07c2cbcf7525227af4f76a016710101d2b7ed7d7af1bae70d350f0aa6416bb24",
           "len": 4659
         },
         "https://vuatho.com/vi/press/doi-song/tips-tiet-kiem-dien-khi-su-dung-thiet-bi-dien-lanh1743062707591": {
-          "hash": "5df2e51ea08cbed73a89dfc22a0b2c4ac9e755c8a13ea95f6e50ba6be2642486",
+          "hash": "a3bbde4d3f70556555c3cbb618fcd3d51d71b1799efdd3c9720d07f7be39b39b",
           "len": 7262
         },
         "https://vuatho.com/vi/press/doi-song/tim-hieu-ve-vi-chi-phi-va-vi-doanh-thu": {
-          "hash": "a22a9f8a640473c08504f62f21ca470f79a685a3de66c16abe3a4a0cd41aadd2",
+          "hash": "53c273b991434a094fa1adb5100ebd71ab56ef5f07749b284b88b5d8bc400a3e",
           "len": 3277
         },
         "https://vuatho.com/vi/press/tin-tuc/thong-cong-nghet-quan-7-triet-de-gia-re-co-bao-hanh": {
-          "hash": "bf45b96ebfd9839ed99d387e9924cad64b87e29f439d8a9db583ffec6f97ee75",
+          "hash": "ff7ddbbc1440fa01e849a57bfd50141a8af13efc0a6af8574a74150bf0f85eb5",
           "len": 5336
         },
         "https://vuatho.com/vi/press/tin-tuc/so-sanh-gia-sua-may-giat-quan-6-va-cac-quan-khac": {
-          "hash": "14d59eb6e06f048a47e9136ca492c47285ad12baeb60587dd9c8fbddc5ed3365",
+          "hash": "441ced8ba6af956aa008b1541e53e24d9a30241fa8caacd11b69fd79d973cb3f",
           "len": 6180
         },
         "https://vuatho.com/vi/press/meo-vat/loi-ae-may-giat-lg-nguyen-nhan-va-cach-khac-phuc": {
-          "hash": "f493c6d3cbdb7e516c8fefd71ee73c97c1fd612e8a87b52b5ab28a49de893918",
+          "hash": "59ae7e33240539557a9cea89493b4f0dd83d1c3e1f58bf75501d8eedd6596b86",
           "len": 5928
         },
         "https://vuatho.com/vi/press/tin-tuc/bao-duong-binh-nang-luong-mat-troi-huong-dan-toan-dien-a-z": {
-          "hash": "c09babc8f7f43eb2dfba895a7de553b2b72a144bf7daf0ca2533b854ea14219c",
+          "hash": "990d2b4135ad7ae7833d0718e708c2b5454be1cc020b9f98718280b0edc61559",
           "len": 5641
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-giat-quan-7-chuyen-nghiep-co-bao-hanh-gia-minh-bach": {
-          "hash": "bfdd998fd3f3ecbcd3ac1521927ed45e1aee0cdcc0039bfc75134795fb79745d",
+          "hash": "62d72d7db157060a05cfef61fdf435d61900f86cf0c8bc38dec98d51df7a916b",
           "len": 5680
         },
         "https://vuatho.com/vi/press/doi-song/bao-duong-may-lanh-gia-re-quan-7-vua-tho1742350911122": {
-          "hash": "d4b83ab3d8e547b928e15503d7b8dddee72b346ca819fd39f6406c50832727a1",
+          "hash": "f36ad66d99c978019d2216994ab63f5ac5d2e3b815367113098b8528b96b1d54",
           "len": 6970
         },
         "https://vuatho.com/vi/press/doi-song/sua-may-lanh-gan-day-top-5-dich-vu-nhanh-chong": {
-          "hash": "453055c46fcea08c4bceec4caa1802000d50993cc30902f1144aab04e487c544",
+          "hash": "cee22789617278584e25ac2716b7ea1c8559a2b9d560e004a4f16197fab7618f",
           "len": 8486
         },
         "https://vuatho.com/vi/press/xa-hoi/dich-vu-sua-ong-nuoc-chuyen-nghiep-va-tiet-kiem-tai-tphcm-vua-tho-1740974173638": {
-          "hash": "aa80c232f6cd0d59c5ab17d4dca08c192d7cf90c37e8ba6ef1b47cc25a7d3708",
+          "hash": "0791813fa8e1589beabcf0583cff848e219f6a25336a4af57e47db0c1860ad38",
           "len": 6245
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-nuoc-nong-quan-5-tan-tam-gia-re-bao-gia-truoc": {
-          "hash": "54171bb6c33bfbbb6f6f821d08588ee438a68b47623dc645b5da8a3eb6d78f76",
+          "hash": "ae5ace859cf1cbafaf429f4ab9558713c7f5e61bc1cd5e20b094129f1da7ad4c",
           "len": 6506
         },
         "https://vuatho.com/vi/press/doi-song/bom-ga-may-lanh-bao-lau-cap-nhat-phi-bom-ga-moi-nhat-2025": {
-          "hash": "fd8918c864ec9489086ba8ca4b3387f9bc0be79e6b3bb5c74b45e52590ef825e",
+          "hash": "9e06b9797a556e3158ddd3ba5f5d7d082c8e4059103b6a84e59ed608c074d096",
           "len": 5743
         },
         "https://vuatho.com/vi/press/meo-vat/loi-u4-may-giat-aqua-la-gi-cach-khac-phuc-cuc-de-tai-nha": {
-          "hash": "5ee89335cc899ab259030ca5dc9a0adaaa47a455461cdba7beeb34c5b7b85ea8",
+          "hash": "feea4eb399b2a13df114b470f573424a00a37e2116e35ae597213b1e84d2fa4a",
           "len": 5952
         },
         "https://vuatho.com/vi/press/quy-tac/bao-ve-quyen-loi-cua-khach-hang-bat-dau-tu-viec-bao-mat-thong-tin-cho-ho1748580934167": {
-          "hash": "85d41c84dd89326b0d49f1720fe2b6f9f74b0c12d21a17d93c646d2b552510b5",
+          "hash": "387bb315e46c28f4b41323ca4ee55ec65e777e3f2577b870564d9084e215367d",
           "len": 1871
         },
         "https://vuatho.com/vi/press/doi-song/so-sanh-gia-dieu-hoa-cay-lg-voi-cac-thuong-hieu-khac": {
-          "hash": "4f4c4cd93ab994e9f804d38b70d9a89c09f7703af0923344639b191263ede46d",
+          "hash": "e513bb5e6ba61a2f9415a5f5d2d626269347d7a86ac38bc81fb0efaa5af4c32d",
           "len": 10436
         },
         "https://vuatho.com/vi/press/tin-tuc/bao-gia-sua-may-lanh-quan-12-va-cac-lua-chon-toi-uu-nhat": {
-          "hash": "5ce9e1948227972e29df9473de0434571451e718d6d3dc6e02f790129988c36c",
+          "hash": "e55deaee676cf5757c61087c73d40d9f88dc2b6b6e39bce663bd3d31d18a38e9",
           "len": 5625
         },
         "https://vuatho.com/vi/press/doi-song/dieu-hoa-khong-mat-nguyen-nhan-cach-khac-phuc-hieu-qua": {
-          "hash": "db50866ef699dfd27846cdec9a324a6b954327c5e2a99473d51703cd3b553a8f",
+          "hash": "1d5f94509a1fc0ffb6ea93a2961fa0343116588bbe3e152709a9089483ede1a3",
           "len": 4146
         },
         "https://vuatho.com/vi/press/tin-tuc/kham-pha-cac-ky-hieu-remote-may-lanh-thong-dung": {
-          "hash": "dc27710080adddd5daae66b54d3d30d8f7549b97d428016891e3d5315036c2a9",
+          "hash": "5bc0d03ea1e5b161f675b6a88f99ea8b06b05ed8e0aab2cf56df934aa81262d1",
           "len": 6504
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-nuoc-nong-quan-2-tai-nha-bao-gia-truoc-khi-den": {
-          "hash": "b4f7acb36f081d45a03cc4d3f1d117f08399a1c10831311928da8e043c05b618",
+          "hash": "bb62234fb8a9dbfece255d9e59f82c96afbc82880c870c7da6e8179f6a2a1e80",
           "len": 5913
         },
         "https://vuatho.com/vi/press/doi-song/tham-khao-bang-gia-sua-may-lanh-cap-nhat-2025": {
-          "hash": "b21d7f6796350e9f12e6a8a97aec7b5ba89a0b85188a0181f212d26b85d1a91e",
+          "hash": "16dd57b3b110cc024fac79d35a00066504bfc46f5ef6ed0d0c530f71fac59350",
           "len": 4269
         },
         "https://vuatho.com/vi/formal-dress-code": {
-          "hash": "f472a506ed73a4207ee79a401fc9588764949b4bd3679b1aee45b754c485a01b",
+          "hash": "1aa30ad4e10644b6f1d64582b6aed824e9a74f01e546c4d9d66f25686fe5b1d3",
           "len": 3500
         },
         "https://vuatho.com/vi/press/doi-song/9-meo-vat-gia-dinh-ho-bien-viec-nha-tro-nen-de-dang": {
-          "hash": "64bd2ed590c12c4184f2718f534be5b9bcbd5a921c9938d9231a0683e3cd2e2c",
+          "hash": "74b160940c19af217c5cae6db38437d8128a31eaa99c5dcf22a7cb643e22f0eb",
           "len": 6690
         },
         "https://vuatho.com/vi/press/doi-song/top-7-meo-bao-quan-loi-loc-karofi-hieu-qua-tai-nha": {
-          "hash": "94ec95a8179b1d0e2848624caf6f1a011c7f5562e8ae62977e8e1b8675b387bd",
+          "hash": "cc6cfb06e2f4b8f9035e80a7f243eddb1906f70eb05a71b58ec4c230db0a8c82",
           "len": 7852
         },
         "https://vuatho.com/vi/press/doi-song/huong-dan-cach-dung-dieu-khien-dieu-hoa-panasonic-don-gian": {
-          "hash": "41320383a04fa09c8a44a1d9103401aaf51d7d3bef09af7cf48cd17c39379870",
+          "hash": "9d8f69a48c3426b8c678a2f20dc215be23547247bfe5ba46dd257901ce0f234d",
           "len": 6378
         },
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-sua-may-nuoc-nong-tai-nha-bao-gia-truoc-khi-den": {
-          "hash": "dd63297a4ded66f6c52b8e1f00a18f9bf702153254ca3bc375adec7524566383",
+          "hash": "87019c5a2a5e1c692d85c64634e150acfd78cc08b65a8ee6ab8c82f39cf5b68c",
           "len": 5556
         },
         "https://vuatho.com/vi/press/doi-song/co-nen-ve-sinh-may-lanh-dinh-ky-tan-suat-loi-ich-gia-tien1741147807844": {
-          "hash": "a1bf0e384b78c6af9a7adbfe96242189bf8b141f00e1b4e81aabd69a94af1a80",
+          "hash": "e3e1bd8d0b8d474701c49caedbba047a1f23d99e43aabce6bf705c187ef81666",
           "len": 5591
         },
         "https://vuatho.com/vi/press/quy-tac/cach-phan-biet-giua-gia-du-kien-va-gia-chot": {
-          "hash": "25bbd11e552c552d9d6e198430732b332562f84c06611c543c896789c8e1b60f",
+          "hash": "f39099cf2481e41e89e66fd26aaadcde228ba9e987a874bf9636c806fb8593bc",
           "len": 7058
         },
         "https://vuatho.com/vi/press/su-kien": {
-          "hash": "923b3481a8f09494f2ef6a523367ebe76efe6d2cadd42ba6ee5c7ef7767c562a",
+          "hash": "403fe4e68881c3a347e335c5486927add1be5761048744f8f2281c0ea2eef06e",
           "len": 664
         },
         "https://vuatho.com/vi/press": {
-          "hash": "fef8a8638f93a4b42ad08c5ead485c2b2ad19767549309a79c90b672de39c363",
+          "hash": "e9080556c000e37ccf8d49565acabfb636e9cb682d9fa37b6ccca963935e68a8",
           "len": 647
         },
         "https://vuatho.com/vi/press/doi-song/tai-sao-may-lanh-hay-bi-chay-nuoc-cach-khac-phuc-nhanh-chong1744961093807": {
-          "hash": "c11e703cc1020dd9ea71547a0402cb88d32359ee7e2104e811e94ca7db322bf7",
+          "hash": "c06d342ffcc70479db1079ff3e0b2f23297a719a6655cdd8f5dd65344984db9d",
           "len": 4643
         },
         "https://vuatho.com/vi/press/doi-song/tim-tho-ve-sinh-may-lanh-quan-1-gan-nha-vua-tho1741876816268": {
-          "hash": "cc203c78f6af55096512d997edcdde368d1153b019f14d19990eec792aeca420",
+          "hash": "759ca8b2a71a48cc4a3d762ed0b57a6d846ee7c52b87737de8e33adf72829f49",
           "len": 6794
         },
         "https://vuatho.com/vi/press/doi-song/cach-lap-dat-den-led-tai-nha-don-gian-vua-tho1741930199487": {
-          "hash": "35d2bc860f9d0785a9383055b0e4500b31c29da07fe58faedfe730a9e5f837a1",
+          "hash": "477b7c81a25f5902493e028303e620b461e1be7348842b7f4be9e6141cb7cb21",
           "len": 6582
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-xe-may-tai-nha-dich-vu-sua-xe-may-gia-re-chuyen-nghiep": {
-          "hash": "c9e78e279ef1cf49990099fb5fbd36c89f853c8db04e2ae3b52e1e443273a9f2",
+          "hash": "4b9b6def3ae70b57b90b991dedc8f16032ce402954c8492ab51ffc32c03146b7",
           "len": 5085
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-tu-lanh-quan-11-tai-nha-nhanh-chong-tho-co-mat-sau-30p": {
-          "hash": "e3529c6eef7c1ca47c46e15e786c054aa92a1fd3befb89f2510c53367ad11d40",
+          "hash": "1d4511e1a086438849bd02eec9388536dfd03d92991d46d11ecedbfd2ac452da",
           "len": 6086
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-giat-toshiba-tai-nha-uy-tin-and-bao-gia-minh-bach": {
-          "hash": "2a3fe80c08e2f7e4bba309a5daa87633f07d08f0e2aac3575e691afb55d583c4",
+          "hash": "bc7af6b247805db95b3ced3fc4b42d6b2a2d24b0fecf7b97555fb1684f85f7c5",
           "len": 5292
         },
         "https://vuatho.com/vi/press/meo-vat/5-phuong-phap-thong-bon-cau-tai-nha-hieu-qua-99percent": {
-          "hash": "1eb4d4f63ac58f3567ee7bbc2c9c849e9af90dc01438196cb623999ca2857df7",
+          "hash": "501d96d22f74684d83de26735d316853a658ada93d9512dd2f5397f3ab821373",
           "len": 5678
         },
         "https://vuatho.com/vi/press/doi-song/dat-lich-ve-sinh-may-lanh-tien-loi-tren-app-vua-tho": {
-          "hash": "c9334a76a20af5099505c70e7d9c83733860f6266c4ea7518962283c74ca613a",
+          "hash": "cd9d4520acb50dea9a0636c9474c63e9a37a6c3caf1c69adae65dc0c0a3f259e",
           "len": 7848
         },
         "https://vuatho.com/vi/toa-sang-cung-vua-tho": {
@@ -2370,651 +2382,651 @@
           "len": 9473
         },
         "https://vuatho.com/vi/press/doi-song/cach-bat-dieu-hoa-lau-khong-ton-dien-va-an-toan-suc-khoe": {
-          "hash": "09e89f9553535a158b73ae70799f03c91bdf104e9c3c4ad95edda83cef36b684",
+          "hash": "2ddf976dac9a3ced3468bbbc2f68eb9ba1b9fdb4a2c403403de342fa313b1940",
           "len": 4483
         },
         "https://vuatho.com/vi/press/quy-tac/bi-quyet-tao-an-tuong-chuyen-nghiep-va-hai-long-khach-hang1726218151578": {
-          "hash": "7ffde78bab57934f8b842b9bf165a2d7e4fe396b645851ba33af4a5d5209552a",
+          "hash": "0e81684e288486633d93369cc1787e081a8c1dfc620b330ffa5e502320ac99f8",
           "len": 3232
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-tu-lanh-quan-12-tho-den-trong-30-phut-bao-gia-minh-bach": {
-          "hash": "0acab1c6216d1bec9a2ea699907e6489e48c51405f0512be3c9ba4e73a640aca",
+          "hash": "ff56f6b2f180656f6879ad36bef25230105fae14787b8823bd6733035402471a",
           "len": 5985
         },
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-thao-lap-may-lanh-quan-7-uy-tin-nhanh-chong": {
-          "hash": "1619d3f908ea527b631a76e84970067096e85dbe1fd44d2796b89eb32537ea61",
+          "hash": "fcdc88984246f023bd657d81c44b2f12641311c29d3564d97f1458e6876437a6",
           "len": 5703
         },
         "https://vuatho.com/vi/press/tin-tuc/ve-sinh-may-giat-bao-nhieu-tien-gia-dich-vu-ve-sinh-may-giat-2025": {
-          "hash": "d7eb839a088c48ac49572b546d06b3a37d96154b24dd4971ad08140de428faa8",
+          "hash": "2e9fe3263bf54e834c0bf7eb8033c76f9d7fe8c4244441e32433d2955eeada37",
           "len": 10635
         },
         "https://vuatho.com/vi/press/meo-vat/kham-pha-remote-may-lanh-sharp-huong-dan-toan-dien-2025": {
-          "hash": "fd215ca1d81b1259b82f0d19629ff2676d396203dd784b8d4cc3f9f1a639302d",
+          "hash": "419747a6b424f69f8b258731ae61a87565fd0cd64e960d6b84a60b8737874beb",
           "len": 7815
         },
         "https://vuatho.com/vi/press/doi-song/ve-sinh-may-lanh-quan-9-gia-re-gan-nha-vua-tho1741746696223": {
-          "hash": "8640d96dfafd3334fac12966cc9978e39a36c33d89e69b5652248d01b9a4d709",
+          "hash": "3a4db5431ef7759ea2089c2ce549226658746968d0e3bc9d501a1ccbe728a927",
           "len": 6046
         },
         "https://vuatho.com/vi/press/doi-song/7-cach-chinh-may-lanh-panasonic-pho-bien1747121828839": {
-          "hash": "143824b47bda2064bdd9d1f49e0e6e51a48a991559921a6c3cbf42e6d9596e75",
+          "hash": "6273375a802d763515d07ad0b2bbb6333d7f301acd58753429f460ccf753a532",
           "len": 6852
         },
         "https://vuatho.com/vi/press/cong-nghe/top-7-tinh-nang-moi-ban-phai-thu-tren-ios-26-public-beta": {
-          "hash": "ececc01102b5038f7ed3a182b807de1e424c0cbad15faa2e5e4d1363502135dd",
+          "hash": "781dadc18bb08f3d3a5942345ea2e15f21e63fdd0bf57a6bd567a006cf114a19",
           "len": 6477
         },
         "https://vuatho.com/vi/press/tin-tuc/can-tim-sua-dien-tai-nha-2424h-tho-sua-nhanh-dung-hen": {
-          "hash": "f0dad2e4431225fc1c28638115e23333c875c5af27066ff5188c439eca809a54",
+          "hash": "4126b15e39148fc859f6998b9150db0768576af507ead65fccab69679f5d2167",
           "len": 5223
         },
         "https://vuatho.com/vi/press/doi-song/dich-vu-bao-duong-dieu-hoa-am-tran-tai-tphcm": {
-          "hash": "71fa15f686d5c84bf1ff4fe0d49dee13d96834d6f9f7ef67f1bf9b6a282385c7",
+          "hash": "c989b19e29b5deff5286a9ea756269cbced1344d5f9d28455885c0c4d706ee33",
           "len": 6187
         },
         "https://vuatho.com/vi/press/tin-tuc/tong-hop-bang-ma-loi-may-giat-aqua-cap-nhat-moi-nhat-2025": {
-          "hash": "3fe4abb7495f5e20b467b12f83bedf32393efaba436bb5bf7d828ba5fa6d82fe",
+          "hash": "ff19c04bab80e0bfd5816ce990be607566e7276802f390c8a4ac6043b82d12d2",
           "len": 4239
         },
         "https://vuatho.com/vi/press/quy-tac/hay-cung-vua-tho-xay-dung-cong-dong-tho-trach-nhiem1748515918132": {
-          "hash": "4bce09438eaeceffd5df5c0259af29986484d9ce09968cfac5d0c862229acba7",
+          "hash": "9e5bc938e1dcdd601e7aa5453ea6e14802d0365327bf4dc7614ed2de16656545",
           "len": 2470
         },
         "https://vuatho.com/vi": {
-          "hash": "1c31f4b6a44bee7a219c12807a5666ddec76540bbe45651e91e0e5aa1b40b1c4",
+          "hash": "fbc55714c88a76f4434877f359c60536f11ebce16047521183f5940c19880ce1",
           "len": 8723
         },
         "https://vuatho.com/vi/press/tin-tuc/nhung-tips-de-tao-an-tuong-tot-voi-khach-hang1730454279895": {
-          "hash": "0ec28ac6b55fc30fc97c863ad83e7669954f901f80e06a8f791f00abec22baf6",
+          "hash": "da2b2d63b4b58d90596c00a0e35aea5ef816db7108c50d80f5d83d8af5c33afb",
           "len": 3147
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-tu-lanh-quan-4-tan-tam-tho-bao-gia-truoc-khi-den": {
-          "hash": "0ec45fc772acd4d3f1d19f09612901b0b248d01a4380a46bd9584d483aff7e0c",
+          "hash": "c4d79a5a5c9da315683cdff915b8416baadcbeae20be18639f8fbe0c1515f10a",
           "len": 6896
         },
         "https://vuatho.com/vi/press/doi-song/khi-can-sua-chua-thiet-bi-trong-nha-ban-se-goi-ai1748856656266": {
-          "hash": "55132199167fc3636c85a62fce089ed87b572441848b12a7cd673e6e0ca48f4b",
+          "hash": "4cb4d355c3d20576fad27be63a3bd1ef09a0e9df6db130bd27ddc24defd1b316",
           "len": 2919
         },
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-thao-lap-may-lanh-quan-10-chuyen-nghiep": {
-          "hash": "d331a017f6ff5aa8676f1801753bc50e0c488783e899e01995d64708f6053e4d",
+          "hash": "2995f030d84f39c37ba4762fbc927821cf91e8c07bdd4abb7974f8c835f5927e",
           "len": 9232
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-nuoc-nong-quan-9-gia-re-co-bao-hanh-dich-vu": {
-          "hash": "e39cc2a448ab5b5f92cc8ee5a30fa16beef526bbb1c0939ac4c08f3516ee154a",
+          "hash": "abda99302fe77af37fbd267625ef240bc17616e6be38ecca96e8eb9c60ce23ee",
           "len": 5401
         },
         "https://vuatho.com/vi/press/doi-song/chi-phi-sua-chua-va-ve-sinh-may-lanh-treo-tuong-tai-tphcm": {
-          "hash": "e4fe9f8fc250e3e626c2faf0999cb1cde0c8b9b6f72ad4624c1887c8c0bf3987",
+          "hash": "7a8288bdbe5f6dc076e3a4a88f487d69fd3477b7840e4b33f7cb04ff90b534ba",
           "len": 4420
         },
         "https://vuatho.com/vi/press/tin-tuc/thong-cong-nghet-quan-5-nhanh-chong-chuyen-nghiep-sach-se": {
-          "hash": "e4fa6ab3e214448f7b923d99ff852e9ef3c565d717dcf548dc58f87cea33a640",
+          "hash": "61edb7a89f49ba45bdf1e2a8faeb679e2c0379e0ea726c944b73066c04c3ff5d",
           "len": 6996
         },
         "https://vuatho.com/vi/press/meo-vat/may-giat-aqua-bao-loi-e1-nguyen-nhan-va-cach-khac-phuc-hieu-qua": {
-          "hash": "937dbb734feadd93aefa114628d82ed6c81fe65437ae636eba508f293e05f4a5",
+          "hash": "e36c853746d59aa46e8cf88b12db5085bb1b5b8147c177cab5f60d3d778c6842",
           "len": 6022
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-nuoc-nong-go-vap-bao-gia-chi-tiet-tho-gioi-lanh-nghe": {
-          "hash": "14145e2ca1261877779c507301b9e7dba09af8832c5041ea4a0fbb8fe29876bd",
+          "hash": "cd5d15324be2ca9b621693ebddc3bba3f7736bc90ac55d042aa223745ef9f4f8",
           "len": 8598
         },
         "https://vuatho.com/vi/press/tin-tuc/bao-duong-dieu-hoa-gia-re-chi-tu-100k-co-bao-hanh-dich-vu": {
-          "hash": "6fb517aaadcbc24ae2335b016b1a908cca0e79503b21cfbd78aedfce903f0180",
+          "hash": "f7e2e4c58ce20b9bc5f5756e4f6e1d1e72911db8c7c117bc9a0620127ae9d8da",
           "len": 6599
         },
         "https://vuatho.com/vi/rule-of-behavior": {
-          "hash": "64f114951830787c2e46205a978830f1514e2fe983e8177ebe440872475c1b6b",
+          "hash": "2efef02625359ace49896fdba4e277e433640fe8c42a87e1e24fc5688839fcf0",
           "len": 7523
         },
         "https://vuatho.com/vi/press/su-kien/tai-app-vua-tho-co-co-hoi-rinh-qua-tang-hon-20-trieu": {
-          "hash": "4d77555ae6dd1e7e50ff82b5e123b84c689cf3ca3c37105b8ceccf61056e65cd",
+          "hash": "9ad4c6e66d38e8fde96c39c91f1d2846d8c3cf2b322e2cd5f1577201f060f3d0",
           "len": 5541
         },
         "https://vuatho.com/vi/press/quy-tac/khong-yeu-cau-thanh-toan-ngoai-ung-dung-tai-sao-day-la-lua-chon-an-toan-hon1726215596524": {
-          "hash": "0607fdf2d604cf0ac6170e6891d3db2ddd8fc9a4713e42a4681f8242ca07f04d",
+          "hash": "5e00d1a1acb5a919a2704a1c77f79055dcfb97b2ccd38eafcfe704fef8a9914d",
           "len": 3484
         },
         "https://vuatho.com/vi/press/doi-song/ve-sinh-dieu-hoa-huong-dan-day-du-va-hieu-qua-tai-nha": {
-          "hash": "b81d37c676c759a074fdf03dc66a58ce44115813d1161a2876606d2dbb32f554",
+          "hash": "92ed8453a4c68f4c288490cf1e600b0bc1e174e23bde9eb58440271f63a3211f",
           "len": 5145
         },
         "https://vuatho.com/vi/press/tin-tuc/cuu-ho-xe-may-giai-phap-khan-cap-cho-moi-su-co-tren-duong": {
-          "hash": "38bfafd2b87451f1194c6f6f12b6499013dfabf8e1b64143009bebb13549ba86",
+          "hash": "846b2dac80d50215593dc241b2c527d4f0c13a5784858ae6fbd5eae04178883d",
           "len": 6370
         },
         "https://vuatho.com/vi/press/doi-song/chinh-sach-bao-hanh-and-bao-ve-khach-hang-khi-dat-tho-tren-vua-tho1744181947330": {
-          "hash": "e849db81cd07395cda77a10b28e9412c21c9178be7be8f25691e9377a97e1782",
+          "hash": "feec8cf3b64081f394526be19ea336e5109ecd6f9cbdd10db7dd530085336831",
           "len": 6599
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-tu-lanh-quan-1-tan-noi-gia-minh-bach-and-co-bao-hanh": {
-          "hash": "0a1121b7a521c5916b0d7f0525783bb7e5affba2c9f58804bae6d8744eafc036",
+          "hash": "91c8c1005f6ec90e8c45a25d409529b4fd1bb4e41342466d396b289f7cfb6920",
           "len": 7337
         },
         "https://vuatho.com/vi/press/doi-song/nap-gas-may-lanh-5-dau-hieu-cho-thay-may-lanh-can-nap-gas": {
-          "hash": "ff471e5d8fd02b1536804aa9b0aae69ede3a4edea5317c11812b46697cd2f888",
+          "hash": "1f7bb147fcbc9f6cedfd0d8dd52b18d5943c90f99b2b8f3b63c01f0f2edbe902",
           "len": 8699
         },
         "https://vuatho.com/vi/press/quy-tac/tieu-chuan-cong-dong-cua-vua-tho1728381445648": {
-          "hash": "58bdfe9012d7b25cd02ae7d266e0021ffb4f015951e5e6228403ad6edd5058f7",
+          "hash": "551d3e141d1da1b0064beed4547b6cf8342365d4819f08d1b9206a000afd4a6b",
           "len": 6304
         },
         "https://vuatho.com/vi/press/doi-song/cach-tinh-cong-suat-dieu-hoa-btu-phu-hop-voi-dien-tich": {
-          "hash": "49625dabd66195dc13763543523392d2f38b0e6201dd2a60d170ec8e462e45e7",
+          "hash": "0f7be458e1d53bba9b0f90be7bdae864f5d21e6a1b25f701c73673173e3d1fda",
           "len": 5435
         },
         "https://vuatho.com/vi/press/tin-tuc/tong-hop-ma-loi-may-lanh-toshiba-moi-nhat-2025": {
-          "hash": "700aeba18e94cecd29f6bfcc6ca169605d1aa8c2942b5bce9a76709f926f1880",
+          "hash": "c75e5da76336188e9b3aa76ca273977e54f3be02c5e773c7959185ab239f75f7",
           "len": 6940
         },
         "https://vuatho.com/vi/press/tin-tuc/5-buoc-chuan-quy-trinh-sua-loi-e2-may-giat-aqua-ngay-tai-nha": {
-          "hash": "88e702818f0a489a7d7299b420802b149956f662564154a982adbc62f55687ef",
+          "hash": "7ab5c4aafde389d104ed9c05041f9fa7c029cb9265ff6a49cf0da50a38f254dc",
           "len": 6121
         },
         "https://vuatho.com/vi/press/tin-tuc/13-meo-thong-tac-bon-cau-tai-nha-cuc-don-gian-va-hieu-qua": {
-          "hash": "6fd0a5bcc2d1e25777ac475684ad8180582ed0b042f8b4715462d3131fae6afb",
+          "hash": "6623022d2d9ad4fc81960bbb929e729a8a8b61bffa0515418c9dfde77f24dd6c",
           "len": 5533
         },
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-hut-ham-cau-gia-re-co-bao-hanh-ro-rang": {
-          "hash": "6307ec3423daa27aae933675752d06a74de2d9c976ad22a08f83206d194e8c20",
+          "hash": "fc813af7e7706732233616eacceb3b7810b1765c3c12ce002fbfd88b9ac391ae",
           "len": 7126
         },
         "https://vuatho.com/vi/press/doi-song/chi-phi-bao-duong-may-lanh-va-sua-chua-may-lanh-20251740997872305": {
-          "hash": "43f8a26188f9968977f754ce913e65cb29edf12cfd0bc6214162f5d9a6952c5a",
+          "hash": "24475668ab8c9bc2050040e9b6922bd48ffbc9fe4ff7f5545415d318bbaf5553",
           "len": 6466
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-giat-tphcm-nhanh-chong-gia-minh-bach-co-bao-hanh": {
-          "hash": "17895b295ddd76fd1a9b7ba0778241c1aede598ec55ef50c60b2b9a18a9e7e1c",
+          "hash": "0bf319fae8fd5448ab827e945fa3e96b90e636b912f5f58b55df1e7165686ab2",
           "len": 13343
         },
         "https://vuatho.com/vi/press/doi-song/nen-mua-may-lanh-cu-hay-may-lanh-moi-loi-ich-tac-hai-va-rui-ro1741659839288": {
-          "hash": "87d438b4d4eda20ed276a44f08964ac49a87eff82c2b3f065ec7363e1b6f1e93",
+          "hash": "9344065349157087b68b4831707171a966c7d4852b721410278ce21f3c7aa570",
           "len": 6384
         },
         "https://vuatho.com/vi/become-services-provider": {
-          "hash": "502229ae220fe1876df191a0bc4c2309428ca90871606e4df363295e203a190b",
+          "hash": "6954aded620f317fafe48ead2d31b75c55097b908b3cb230d6c62311c3a71acc",
           "len": 1745
         },
         "https://vuatho.com/vi/press/tin-tuc/nha-bao-lon-noi-gi-ve-chien-dich-tang-1-trieu-cua-vua-tho": {
-          "hash": "45b5506921a50c3f43d4fe1ded9e895787e66702e2c2a47bff96cccbf8c2399c",
+          "hash": "4873693fb71a51743419fb79c3c559fe46470b19509f8e2d973a46da83c5892f",
           "len": 4476
         },
         "https://vuatho.com/vi/press/doi-song/tiet-kiem-tien-dien-the-nao-sau-khi-ve-sinh-may-lanh-vua-tho1744181235816": {
-          "hash": "8e0019ba3300083fb8efdd6ed70781d5e703e687e5dedf34318b8b0dcca22898",
+          "hash": "053dada5a76ef91f422e64f9012cdcc2829457cf0774a140b4e9c527ead4a9b0",
           "len": 5073
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-bep-hong-ngoai-tai-nha-gia-re-khac-phuc-triet-de-co-bh": {
-          "hash": "5b5451544d71915f03f1ff4ee53a97280c1a63291d248ba98de91965872d9d47",
+          "hash": "4d2c9ec41494d5f377ca57c4f94b9a854c912ed7fa1c8c72e509dc91c334af42",
           "len": 5684
         },
         "https://vuatho.com/vi/press/doi-song/kham-pha-dich-vu-tho-sua-ong-nuoc-gan-day-nhanh-chong-2424": {
-          "hash": "2502e44b4294bb5299a3d5fadc4bdb3d9d4c35f0e5e8030900a47a05cb606001",
+          "hash": "0d94855a75f11ef95224ce890ce71e8741e12b7e1a19639adf9ce8f96ba762ca",
           "len": 10657
         },
         "https://vuatho.com/vi/press/tin-tuc/bao-gia-dich-vu-thong-cong-nghet-moi-nhat-thang-82025": {
-          "hash": "824614389bafb512c664f09068fbc279fec0de0b0572adf205d1e1c0a75f57b9",
+          "hash": "2bed13e4fe860eddff85c2a9615673d0f83f7f6f9b2e732832cb559c9e465307",
           "len": 6827
         },
         "https://vuatho.com/vi/press/xa-hoi/vua-tho-trao-tang-non-bao-hiem-tao-co-hoi-viec-lam-cho-nguoi-khuyet-tat-nhan-dip-quoc-khanh-291724986894257": {
-          "hash": "9085d3fe90dc93fd8c1723cde5f14822463970bf8ba1e461599891f52d93a3cb",
+          "hash": "7a37bd12695091ec328ff43877828f15c81a860b2ade9fb36e2c33a2b5fac859",
           "len": 3338
         },
         "https://vuatho.com/vi/press/meo-vat/chia-se-kinh-nghiem-sua-chua-may-giat-cho-nguoi-moi-bat-dau": {
-          "hash": "1e0133134f5858d729c75e456de09a18c77515bdacd49b9ab3458a9ad7bd8a91",
+          "hash": "184c2d9a49f1515530a1da7131224bb3236157fe966c4aaae078293e63e2d980",
           "len": 7420
         },
         "https://vuatho.com/vi/tuyen-dung": {
-          "hash": "35885db833930be1e03a49e7739412cbb82924e9a0b6bf1006a7e9606b0ea77c",
+          "hash": "cc80e5e8dc7d74df9be08342d6ef81c98f591bedc15c5691c0cc2b007b41a708",
           "len": 638
         },
         "https://vuatho.com/vi/faq": {
-          "hash": "60aea8d4204391c0be1b87cb209338dd480ced79c71643cab20733c0e8b238db",
+          "hash": "55c4a66dbc65a4564a35dffaaa9e678dfca9de5e38584c48f116e3e5b10d50ba",
           "len": 1520
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-giat-quan-4-gia-minh-bach-khong-phi-phat-sinh": {
-          "hash": "6d87821d0b24073af055724911ffbe258682d65b71747ceecde8bf58e4db078e",
+          "hash": "6377ae6e21dfe6ad406a8b6052cfb6e018607a220ce8eff1380a4fe632447579",
           "len": 6492
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-nuoc-nong-lanh-tai-nha-tphcm-gia-re-nhanh-chong": {
-          "hash": "76a5876d8a767a94840aad82f3fa4167ada1b858fd35d4d7ea942458a1eb682c",
+          "hash": "c16ff7151e3d38b666ee8f8941ad7510c46adf535b4f9d21abc6b33d8dd345c3",
           "len": 5270
         },
         "https://vuatho.com/vi/press/tin-tuc/vua-tho-tham-du-hoi-nghi-so-ket-cong-tac-giao-duc-nghe-nghiep-tren-dia-ban-tp.hcm-7-thang-dau-nam-20241724924704060": {
-          "hash": "217429349e8a938a3a66f54677e4bf236c5d1b46d5be62c2dc579cae942e0b3e",
+          "hash": "3a079e2d98776a65d8f9192dbee20e2df2fc727536c533b61d4c072f2c959810",
           "len": 2946
         },
         "https://vuatho.com/vi/press/tin-tuc/bang-ma-loi-may-giat-electrolux-tong-hop-chi-tiet-moi-nhat-2025": {
-          "hash": "16fcb29527b74b5a190facdfd3fbc271a4a42aeb507b95be4c32f7978045534c",
+          "hash": "ff9488dbfe8f1715fd43cbf57043b9c4fafe056e214b360766ac600e4db7f546",
           "len": 11865
         },
         "https://vuatho.com/vi/press/doi-song/cach-bao-duong-may-giat-de-keo-dai-tuoi-tho1743057448995": {
-          "hash": "d32c2cea45d4a7776a266ccf22b1d6d1d0c7711299809de13d23d0e3594e15de",
+          "hash": "803e72bff56b13ef6928268e3d49c81b70698e14f8021beb1e05871459ff4641",
           "len": 7251
         },
         "https://vuatho.com/vi/press/tin-tuc/cach-sua-may-giat-toshiba-bao-loi-e7-4-chuan-ky-thuat-2025": {
-          "hash": "a6a232a3e785f32ef528d2f6b3bd2115e97741f93b43706af6808a9c8501b66f",
+          "hash": "15c266c7dd2cc8ada0f6165ab0b9972a71800bb82ff6a15c3d9b1126bf729394",
           "len": 4742
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-giat-quan-binh-thanh-gia-cong-khai-khong-phi-phat-sinh": {
-          "hash": "43e25ab5cf4b4b6654d2342f4ef0acf3436d15e45318ceaf6220db4d6786c916",
+          "hash": "2d3c90ea0869740852924e68e49bdb477f30f340f1b6b12f732bc6326cb5d157",
           "len": 6054
         },
         "https://vuatho.com/vi/press/tin-tuc/dieu-hoa-daikin-xu-huong-moi-va-cong-nghe-dot-pha-moi": {
-          "hash": "e95dcfea97a727b5ff144d1f78f241729b04dac32dce7b7d2ed7854ab2a9a2b0",
+          "hash": "ef202e681e53bdc1a2a8f3ddc27e9710e32f11d1b1624c3eda38e0eebc186c9b",
           "len": 5600
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-giat-quan-phu-nhuan-uy-tin-co-bao-hanh-dich-vu": {
-          "hash": "2c0ce699c81405286a5945b815b5d8e6e400c2d965d05a6095bece94b875dcd8",
+          "hash": "2fcf9a6b71f87a44208f217483b8ce8c3c887ab57191db341a42f7357c72d236",
           "len": 6606
         },
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-sua-tu-lanh-quan-tan-phu-chuyen-nghiep-tho-lanh-nghe": {
-          "hash": "e51988d5376b581ee9e85cfe23199e323392528695f6a8e61de013905ec664fd",
+          "hash": "860ec62717800dddf1e6842b22e11083d1e51af9d1756447c2a7bef9e94d8846",
           "len": 6342
         },
         "https://vuatho.com/vi/press/tin-tuc/nen-tranh-3-loi-pho-bien-nay-khi-mua-dieu-hoa-cay": {
-          "hash": "ee85531b64aa0349313aa584ab297fe96afa3db42515915fc31edc17167b2c23",
+          "hash": "5d1a308ce010ae0ddc339da3780027b950d1008c2db97341e797bb7b62879a5f",
           "len": 7500
         },
         "https://vuatho.com/vi/press/tin-tuc/may-lanh-casper-giai-phap-lam-mat-hien-dai-tiet-kiem": {
-          "hash": "8c6447ab6cde3fd3227a9da9296b9116cd4bbc7c4bd7055a9f80a79afe530afd",
+          "hash": "47291b363da39d514df8867cabbcec278d29225ce90f084e880471fd1fcd6e01",
           "len": 8284
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-tu-lanh-quan-3-tan-nha-bao-gia-minh-bach-co-bao-hanh": {
-          "hash": "3f70a1ce513686d3fac602eb7b474d48321886943a71d834780b325fe34a97f9",
+          "hash": "85680752319ebd03ace0c4a562204401508edb91a316cbb0d36b32272af3ec12",
           "len": 5734
         },
         "https://vuatho.com/vi/press/tin-tuc/kham-pha-cac-tinh-nang-cua-dieu-khien-dieu-hoa-mitsubishi": {
-          "hash": "ffae8bc724002b85211e1251b2bc26845c21eafbc3ff0c381a316dafa84b8393",
+          "hash": "422ed6801a7153b71b857ea4a0e8cf785217570a3f8a96f31519b7e2f045db7e",
           "len": 5701
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-giat-quan-10-tan-tam-khong-ve-voi-gia-minh-bach": {
-          "hash": "697d5cc8bd2da52822fca297f2c39cf914d50194025e33d1a027353881b44e26",
+          "hash": "faccb321f909509b66e404e87bad7094a00d9cd9b4fa117463a545d717241532",
           "len": 5418
         },
         "https://vuatho.com/vi/press/tin-tuc/top-3-may-lanh-am-tran-lg-dang-mua-nhat-trong-nam-2025": {
-          "hash": "1b3fa3b3fa9b2f7bf3dde4a3d7537f0944a19f61ff1513a0c91673f14ba55b7a",
+          "hash": "4e51f081827a70ff1504dc8638d70d9ae55a3cc6db1b4b544de76c43f8a603f5",
           "len": 6670
         },
         "https://vuatho.com/vi/press/doi-song/ong-dong-may-lanh-la-gi-bang-gia-and-dich-vu-thay-ong-dong-tai-nha": {
-          "hash": "fb635095166a05673a8325f458df8ea7e256a0431cbcdfdbba1a1c1f5beadcfb",
+          "hash": "860de949f4364889ebc95042e90dd823ae4adfb25ac0e504f1d5e379518b1e01",
           "len": 7308
         },
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-sua-may-lanh-quan-10-nhanh-chong-va-chuyen-nghiep": {
-          "hash": "ea48c2d0ba3c7f12ba051061bf38b16eac2c18c660d03c5b356fa113ba75b57a",
+          "hash": "8ebcda948eeda320a4563e7bd4a03318b0ba1460a0e2ebe33306cf1968b9d5a4",
           "len": 8747
         },
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-tho-sua-dien-dan-dung-gia-re-tho-bao-gia-truoc": {
-          "hash": "f786b91dc7e814f8c7cb2e447ddd00b9d96b6db648220eefc561b6482d78b0a4",
+          "hash": "0fceeea62d631228bc8f9df76fffd4054a02317fe39a01d8ba883cea0956385b",
           "len": 6357
         },
         "https://vuatho.com/vi/press/tin-tuc": {
-          "hash": "e99b17f0dbb629d8d9b9e6da0c6d01677b167694227c7cd801514a4d11d1be8f",
+          "hash": "f8ee412d92c4bcf360e3b771f11defd5dd7223f41cab016eb14860517b0979e5",
           "len": 664
         },
         "https://vuatho.com/vi/press/doi-song/nen-mua-may-giat-hang-nao-top-10-may-giat-dang-mua-nhat-2025": {
-          "hash": "b23da4cfb7fd1ac86fd8b2c5b7ab70e487319e05bae37e38c7e8812c512b4b79",
+          "hash": "c0094195e26312417cc9a27bddf2f92d229c166ddfc9a01ae037ab331c4e6590",
           "len": 9823
         },
         "https://vuatho.com/vi/press/tin-tuc/thong-cong-nghet-quan-12-giai-phap-hieu-qua-cho-tinh-trang-tac-nghen": {
-          "hash": "fb8a896593d8b35b521208010e8cc3984c4bbe442969e08201ced59821753374",
+          "hash": "76dbb348e4db6ccb947496c9c52433871ce06f7326321fa346890ab6d6336adb",
           "len": 5389
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-nuoc-nong-quan-3-gia-re-sua-tan-tam-co-bao-hanh": {
-          "hash": "2d6f99e1a90cb9e18aa9dedb061a0ad8e07a9dbd185f3181771398a74f7b567e",
+          "hash": "fe0995a9d5b05ef49325bf0bf7815f891985b679212ebeb35a0ca8536a77f9e1",
           "len": 6791
         },
         "https://vuatho.com/vi/press/tin-tuc/review-may-lanh-casper-1hp-giai-phap-lam-mat-cho-dien-tich-nho": {
-          "hash": "af67504e96d46ad0ac7728c824332cdf67156e0eea0c14adff97ac5e3dde6bb7",
+          "hash": "647d036a1149f20ad21e9c9d1f4d9f14fafb242b0b7d2676e8addcda670c4b1a",
           "len": 5860
         },
         "https://vuatho.com/vi/press/tin-tuc/so-sanh-dieu-hoa-cay-casper-moi-2025-1-chieu-va-2-chieu": {
-          "hash": "3d2386a54f9a1d8689df3409cf8b994b407825662eaf588a76b66fda5eb100e9",
+          "hash": "776d2409e94aa1720fd53c9c4fa8b35c241d78cd2f4b43a4a72833745e9dded1",
           "len": 11757
         },
         "https://vuatho.com/vi/press/tin-tuc/may-giat-toshiba-loi-e2-nguyen-nhan-and-cach-khac-phuc1752656091211": {
-          "hash": "41b391d7bd78ab349f3c4ff91ff4866277a39928809b7077b27b42c9d35c0cfb",
+          "hash": "d527138fd57d8af1798b9acbf2d7b5986b45295b80597b9b5569cef1077064bb",
           "len": 6482
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-tu-lanh-quan-6-khac-phuc-moi-su-co-co-bao-hanh": {
-          "hash": "2d967dff57697974baeeac26d2aa62916ba6210394c89b6822a4efdd53daad17",
+          "hash": "8c11b050faa80b5298202c314981314bfa93c2ddf87f43953400ba5042d2065d",
           "len": 6544
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-giat-quan-tan-binh-uy-tin-khac-phuc-triet-de-moi-van-de": {
-          "hash": "42920fdc722c8678e5a2b4e00fc9d895bb67fc6e84b8fefd85c6cf7b3c99ccc4",
+          "hash": "29f06070df6ea22e86492bb4404be43bc558da05f43a4790ad02d679b6709cf8",
           "len": 6087
         },
         "https://vuatho.com/vi/press/doi-song/ve-sinh-may-lanh-gia-re-dich-vu-chat-luong-tiet-kiem-cho-mua-he-20251746604795424": {
-          "hash": "1c9f842551287cb913db407ceacfce89d936a8f86e1ce548e5bdfdf3f466906f",
+          "hash": "01fcc276feabb705813dfbaced272cb710e8fb6d4c0f26948f77381191365b2e",
           "len": 6869
         },
         "https://vuatho.com/vi/press/tin-tuc/thong-cong-nghet-quan-binh-tan-nhanh-chong-phuc-vu-tan-tam": {
-          "hash": "ed65a2967e47185f6e0eba2c42978bda070959526adfd5e56957b4d3153bef1b",
+          "hash": "37704f472daad3837a62a7e7866e4bbeb9158c195f47a522290023d8f55aa730",
           "len": 7229
         },
         "https://vuatho.com/vi/press/doi-song/may-rua-chen-cong-nghiep-la-gi-tat-tan-tat-ve-uu-nhuoc-diem": {
-          "hash": "5200840115e2a478c09f4db9889989f9cf80b19d0e991e458d504db891b018c5",
+          "hash": "9cbcea87e27872a58a40dfde713678b7d85d1bb12ac57807434df8a78b687bbb",
           "len": 5820
         },
         "https://vuatho.com/vi/press/doi-song/ung-dung-ket-noi-dich-vu-vua-tho-ho-tro-lao-dong-pho-thong-va-tang-cuong-co-hoi-viec-lam": {
-          "hash": "7501674516c0bf346504b034a4422bc93ceddaac6d99704285cb700e939b3336",
+          "hash": "640a27d759e3eee5b7e5705d3b363f1951c92e0788ad1e3bc4a858ddb773e31f",
           "len": 3464
         },
         "https://vuatho.com/vi/press/doi-song/khac-phuc-tu-lanh-bi-moc-sau-1-thoi-gian-khong-su-dung1743044635981": {
-          "hash": "ee17628f51dcfbacaa0254d1b7a5a53e6d49090dc2388dcdf8962548ee5b07b1",
+          "hash": "a5c89f75af9d31db6d4f785617e2c8c23af8fcad5ddf87e9e7267d212d6055ae",
           "len": 6347
         },
         "https://vuatho.com/vi/press/doi-song/kham-pha-dich-vu-sua-may-lanh-quan-2-chat-luong-cao1747974559748": {
-          "hash": "213d84683087ac2802f75d5d73f460cff7df55b21599c91e54563e18e95a13f2",
+          "hash": "c9df96a2d2c1a66b10eb7158e4fee45831e2b592b1955a42fd01d81597be8253",
           "len": 10406
         },
         "https://vuatho.com/vi/press/doi-song/cuc-nong-dieu-hoa-keu-to-nguyen-nhan-va-cach-xu-ly": {
-          "hash": "c92b18ae390c5f5463973975a6aa68bd3379f1138729f105d34292bb3b8bddf1",
+          "hash": "2b7bc8b4a379137320212d7275c1feb78e6f6693ff87704eb415dd9227452a50",
           "len": 5288
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-nuoc-nong-quan-4-nhanh-chong-bao-gia-truoc-khi-lam": {
-          "hash": "31805d52a8cc64f1ce70faabf4e0c500820a06611c17a791cbf0af13c89f4848",
+          "hash": "a94cc2f3890cf414c4d85d22ce9f3fb3c4398e2a2cb7d943326ad8c73fb3ba96",
           "len": 5340
         },
         "https://vuatho.com/vi/press/doi-song/tho-sua-dien-gan-day-tai-app-vua-tho-co-tho-ngay": {
-          "hash": "3c288d5f625341a5adc4813146e9bd2d9435c566f59334ec2e3c5c026b77d561",
+          "hash": "653810e2db57b9d271aca5f3a7a46ba852c6114404627329fb0144473aebc66f",
           "len": 6725
         },
         "https://vuatho.com/vi/press/doi-song/meo-tiet-kiem-dien-khi-su-dung-may-lanh-trong-mua-nong-vua-tho1744174298150": {
-          "hash": "8a6dec0f3e1c3dcded91f3f1c2905fbbbc9c1b1f37ed1d77c2efa08b2a46af8b",
+          "hash": "258a84db17f66b0a6ee3fc5c98c4f13b46c7c96ba25025a07887e49aca8767f1",
           "len": 6573
         },
         "https://vuatho.com/vi/press/tin-tuc/hieu-ro-loc-nuoc-ro-la-gi-va-tan-suat-thay-dinh-ky": {
-          "hash": "a8d4af344d55f029adfd9eb937813500e8375de77330a9882bd737a7278bca46",
+          "hash": "27c54cd3df31389f88ce64974cb2b881f72a7c2c25aa3416a1cf1274c4954a0b",
           "len": 8568
         },
         "https://vuatho.com/vi/press/cong-nghe/ios-26-kham-pha-nhung-tinh-nang-moi-nhat-cua-apple": {
-          "hash": "f2495aff159cfc1b6a916c97918c59eaf78d5128c998ba6b28063e3ab35c1b05",
+          "hash": "b0a0be5d3c02a9c7fbda364e29015ef70b8c016d059ca16822dd93da0325338d",
           "len": 14040
         },
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-hut-ham-cau-chuyen-nghiep-tai-tphcm-gia-minh-bach": {
-          "hash": "3573b141de716945d48dbad7eae83d80dbf7b00e3dca27357b25a2dbeeb3c50e",
+          "hash": "9a7fe5386f79f60fa446ae52e8a7144a17154db8b09d9b27fc21c820e81fb3ec",
           "len": 6444
         },
         "https://vuatho.com/vi/press/tin-tuc/thong-cong-nghet-quan-1-chuyen-nghiep-bao-gia-truoc-khi-lam": {
-          "hash": "a7eb740579ce3549e57cde0df27d2ba5d9dcd8b4aea899d61dbe435d65a830bf",
+          "hash": "b72623beee35e05ee6794ea459b9e2af466f027a3e844c5601b06136aabde86d",
           "len": 4520
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-tu-lanh-quan-binh-tan-tho-lanh-nghe-sua-moi-van-de": {
-          "hash": "9d21528136c095d6b24f4736295a91ab8332af390661aa3491e9f8c7431c209b",
+          "hash": "8c3db161ad65e141df4a8a11b310327198eb129d1b18b5cbc45cd203b625da91",
           "len": 5195
         },
         "https://vuatho.com/vi/press/doi-song/may-lanh-keu-to-nguyen-nhan-va-cach-khac-phuc-hieu-qua-nhat": {
-          "hash": "7dca4a3b96e7283e72e18019abd6ddfe9150dc593d9c1f7ded3cf51ba93e2ca1",
+          "hash": "1c6252e9ef59595207bbb484571592dc0a46afd0f4f24697c8c209a9742e96ac",
           "len": 4731
         },
         "https://vuatho.com/vi/press/quy-tac/su-trung-thuc-cua-ban-la-niem-tu-hao-cua-vua-tho1748580065094": {
-          "hash": "fb28f3ef118ecda47bd0d64d649306ae7b5b390d51c1e248c7cbfd149c501123",
+          "hash": "217bbf5bee4b107165412f781ed73bd306fcbc795a1b85b9d01321b8340d1a27",
           "len": 2156
         },
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-sua-tu-lanh-quan-go-vap-tai-nha-sua-tan-goc-van-de": {
-          "hash": "d084b305f0bf742fecf0c19727ab29633e98e60fd860dac45fd4094a3c6cdb38",
+          "hash": "fea5adbc17f5d67ae04fd3013af7907d9032fcfb998f6bc1031cf87a6bca51c2",
           "len": 6101
         },
         "https://vuatho.com/vi/press/tin-tuc/cap-nhat-bang-gia-bom-ga-may-lanh-2025-r22-r410a-va-r32": {
-          "hash": "79c0f2b0fc95c9595eedc6ec97fbe66e24d119eb38aeda4506717ba2c3df3280",
+          "hash": "de5adb61008d791932e5904d6d5f296c31a3a0fa0ae5fa94bfe1a452213f22d4",
           "len": 7584
         },
         "https://vuatho.com/vi/services": {
-          "hash": "04a2180c5359d278cf4e33c32fed9401845538d4a2f132e1ae9b736de74d7428",
+          "hash": "7b5473378c2e1e6c4f44138a14c874c5df68ce71969f0f9eea90e01b4c7718ba",
           "len": 630
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-nuoc-nong-quan-binh-tan-nhanh-chong-bao-gia-truoc": {
-          "hash": "3f7b03aa41b0e7e78431e4d2766c4daa5cfe6916c96b296394075beddb48d43b",
+          "hash": "0a7180d25730061d88528452be17abf889f09b9488f5b013a8b4269bd9f6547d",
           "len": 6618
         },
         "https://vuatho.com/vi/press/meo-vat": {
-          "hash": "20d191d912ee8cae40d8b3280adb02c00827a15e87a104c558727fca48400015",
+          "hash": "04563a2b9182b30f8f70acff9e50343bae49e605ac39e149c9797cff5cea986a",
           "len": 664
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-nuoc-nong-quan-7-tan-tam-gia-re-tai-ngay-vua-tho": {
-          "hash": "3f4325458c6cbb2f6e436669eaf727bc6612f543084b07ab13dcd8e30d9d2e27",
+          "hash": "ba7992fb8a266d91f941a45f509805b61ba4c83f1f501c31941fbccd86ec9632",
           "len": 6120
         },
         "https://vuatho.com/vi/press/tin-tuc/tho-sua-may-giat-quan-1-chuyen-nghiep-co-bao-hanh-dich-vu": {
-          "hash": "f96cef14f8590e574a2d8d586497ee5e57106798803063f191382989ba0885c3",
+          "hash": "f0273e25b9680ad7c39417b58e075ab154c1eb44b3e5d4238594943f4793bf05",
           "len": 6949
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-giat-quan-8-tai-nha-gia-minh-bach-co-bao-hanh": {
-          "hash": "2f3d83d6e707ac697f90d0cb4a5b3e06627a59174468fd93af86bc0176cbd948",
+          "hash": "cc178ff6e5e017b9e90a1eee430b4b93459b49780cad05d74c80daea7fc5d6ce",
           "len": 6255
         },
         "https://vuatho.com/vi/press/doi-song/lap-dat-may-lanh-uy-tin-o-quan-5-vua-tho1742182641371": {
-          "hash": "8a511a59d46274b5ceabd9e3ea278938cfbeda94a866e4a49f5b93d95c6fa370",
+          "hash": "79bf0091097b8af0605c66e1f187297c0540ecee86b3fb04bffd50ec2b7e1c33",
           "len": 6671
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-giat-hoc-mon-tan-nha-bao-gia-minh-bach": {
-          "hash": "f50bb5921e5974c99513e864ab88b744aae9d7b0c1fd561d5f228ce880ff5414",
+          "hash": "ed272485604a17ff26b86c90ab142a7c2cd2a56de63cd8ec4a27fd9aff228174",
           "len": 6733
         },
         "https://vuatho.com/vi/press/cong-nghe/may-lanh-am-tran-co-ton-dien-khong-meo-su-dung-tiet-kiem-dien": {
-          "hash": "9a89877cfc1e435e478cc6010e119e168a0a658c0291a84b9c994d6d33786abb",
+          "hash": "a55af26bff5df8208b87dc4f626d28f8f18ead53f21263d26997038a7304c2c3",
           "len": 6210
         },
         "https://vuatho.com/vi/press/meo-vat/may-giat-toshiba-bao-loi-e3-cach-khac-phuc-don-gian-tai-nha": {
-          "hash": "3b39a17a1baca0eca21775fa057b1c7e9cc208db1316ae4db0c760ff6323b36a",
+          "hash": "00a6b3a00a905eb97990fc80a77fb0cf011d80c8aec0e1d757921d27773ae564",
           "len": 5988
         },
         "https://vuatho.com/vi/press/tin-tuc/thong-cong-nghet-gia-re-cap-nhat-bang-gia-moi-nhat-2025": {
-          "hash": "609ba4544ebf4f8a661c716fe2a0314b4a53bdbd4f55cfcd18a646974badb28c",
+          "hash": "e159f544c99c1fb8350150b4985c3930582a09eb7b43e46133d389e29e38e33c",
           "len": 6768
         },
         "https://vuatho.com/vi/press/tin-tuc/thong-cong-nghet-quan-11-gia-re-co-bao-hanh-den-trong-30p": {
-          "hash": "06795c0c201eac17af7098f05163620a0209befbfa89d0458a734ae920ba0831",
+          "hash": "3f99775cf5c1c048fc9a5c53b72ea3b4cc1160b9cc90b5014163d2e910c562bc",
           "len": 5030
         },
         "https://vuatho.com/vi/press/tin-tuc/thong-bao-lich-nghi-tet-nguyen-dan-20251737442857238": {
-          "hash": "130c60b6da49143c48cce43841a71c1d5cb2aeb9b9f8f5a13e7da969c326319c",
+          "hash": "64d9edcf9b55e39ffc9447c5f755bc85056df97b75d6fae782817c065b87c6d7",
           "len": 1808
         },
         "https://vuatho.com/vi/press/meo-vat/loi-4c-may-giat-samsung-cach-khac-phuc-cuc-don-gian-tai-nha": {
-          "hash": "18bac69d6830b5b268102befcbd88dc6793537ac771336b6363a2fb2552725bd",
+          "hash": "943561f10cdd3cbab6d9981dfc222f531cebb7bcf3e988c25813ceedf03dcb8e",
           "len": 5283
         },
         "https://vuatho.com/vi/press/doi-song/cach-chon-may-lanh-phu-hop-voi-dien-tich-phong1743056164491": {
-          "hash": "10660b911ea70998b020bedd71b47c94bb2ab5c20f526b1dc03d1107f01c7def",
+          "hash": "f36cfa4e20b2f8f8f38592d5fe84dfd64d0f39310cb16c52b65fb2322a4fed03",
           "len": 6761
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-tu-lanh-quan-phu-nhuan-nhan-ngay-1-trieu-vao-vi": {
-          "hash": "daf838345e864c83d112bccdf1a733a7066f5ca538df9b9a74b910f74450b5d2",
+          "hash": "9f64015811291357d96163dee77473bb5fa8c62a21740ea129e55a2b8c57382c",
           "len": 5213
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-nuoc-nong-tai-nha-khac-phuc-moi-van-de-co-bh": {
-          "hash": "e179201833fb2431ad21de1128b6bf4604aafe8a818e0c47a2e0f60641106989",
+          "hash": "6608aed69e79b903401c2fa7ae9bfcf31dd22295a7ef28280512d85643f2f382",
           "len": 5258
         },
         "https://vuatho.com/vi/press/tin-tuc/ung-dung-tim-tho-sua-may-giat-quan-5-nhanh-chong-va-gan-nha": {
-          "hash": "b2b840b9e49bcf776dd77d4eb7320bb5a2a795361977eeaa18f0e4580b24ae6d",
+          "hash": "5221024518f457b82d73151a11793b66225c4dfd453d65051306bdd0db940897",
           "len": 5247
         },
         "https://vuatho.com/vi/press/tin-tuc/nhung-loi-ich-khi-dang-ky-lam-tho-tren-ung-dung-vua-tho1722504843501": {
-          "hash": "724a3026e9bc54b3e93f7150062532813ce389b82eb91c0a9f9b7959cebd08d2",
+          "hash": "bed36b0635f49d71cf9054e4504486b28ded942e05a35f45c0fbdd2b3ab82f1f",
           "len": 1974
         },
         "https://vuatho.com/vi/press/doi-song/dieu-hoa-am-tran-daikin-giai-phap-lam-mat-hien-dai": {
-          "hash": "e296ec0d2df098d8d32e1195ffd58bebda326ef8f069670eddfa41db8a450ac8",
+          "hash": "d3a08466e7f686b7e6114b0addc3074b2910e3d853563d702b3afafe24982155",
           "len": 8910
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-nuoc-nong-nang-luong-mat-troi-chuyen-nghiep-gia-re": {
-          "hash": "3f94345224b6f5a7dca0de6720d5f44e6530f1d736fff331b631c51c3fcaf520",
+          "hash": "3c6ce6ac02a349d3632c069b2c4af1316b820f24a8dff80334718a3e637bbd8f",
           "len": 7300
         },
         "https://vuatho.com/vi/press/tin-tuc/thong-bao-cap-nhat-so-tai-khoan-cong-ty-tnhh-cong-nghe-vua-tho1730433587251": {
-          "hash": "2ab4f6fd9d71a7574f6a8384b954f301dd40217fac290a06da1c94cf1acdf787",
+          "hash": "f3172a1bca030ac2a70920919dcadd6755d106fd0cf5cb04b5566f8e488c8cdd",
           "len": 2202
         },
         "https://vuatho.com/vi/press/quy-tac/toi-uu-hoa-ho-so-cua-ban-de-thu-hut-nhieu-khach-hang-hon1730453702045": {
-          "hash": "235bd489b0cc502c72adf197611c4d89f36bdeac708be424dd3cf6a71ace26e8",
+          "hash": "e5c175a93c03564cfcbea466d26a719c1dfb6c91124ad9198d2641168c7443a0",
           "len": 3046
         },
         "https://vuatho.com/vi/press/tin-tuc/cach-ve-sinh-long-giat-tai-nha-chuan-ki-thuat-cuc-ki-don-gian": {
-          "hash": "6c752bb194b75fcdb055f91b793e00a925b196c2d39336ce28353e7b0d66b208",
+          "hash": "f4da0acfc2eb15c6a9e034fac1a2284b1cd55b3579dc8742b869f929ace3d538",
           "len": 3933
         },
         "https://vuatho.com/vi/press/quy-tac/tai-vua-tho-chung-toi-de-cao-su-chuyen-nghiep1748571167771": {
-          "hash": "c9c0970dc255a8ac6c252657cf8e056b37b72ea96951debbc4af5d67fd41bf41",
+          "hash": "8d6d541dfdba935d2449053ae22dad77f80d019f1c413190be0f2a694b3aeefc",
           "len": 2226
         },
         "https://vuatho.com/vi/press/tin-tuc/top-nhung-hang-muc-sua-chua-cho-can-nha-cua-ban-can-chuan-bi-cho-mua-mua-bao1726635560947": {
-          "hash": "d08e4bcace10560b7bd9777d45ca2c92c6a366ffe7891b702be1984d6eb2ac98",
+          "hash": "242bd7ea53428b40c5b67006dbd04689547767802c67ca8623fecfe25f524546",
           "len": 4713
         },
         "https://vuatho.com/vi/press/tin-tuc/cong-tac-tu-may-nuoc-nong-la-gi-kham-pha-chi-tiet-tu-a-z": {
-          "hash": "e7b843b3377983d3b58d65a16db5203a9b3f969a2e67262d348ad6f49e4e7f62",
+          "hash": "b58cd48d3a31b77779e0ecedcdb2fe3e2373e983d97a4e8a0fa754772ac8a473",
           "len": 8713
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-nuoc-nong-quan-9-chuyen-nghiep-gia-re-co-bao-hanh": {
-          "hash": "2e44b0afc6b51cf76367c64266de2c34d52e477cdf61d22c6391d0f899817924",
+          "hash": "5c78ff75c59c075cab9671375cadf4c22a8c588c6589a4587cfb7bbd7d0cee59",
           "len": 7284
         },
         "https://vuatho.com/vi/press/tin-tuc/cap-nhat-bang-gia-tho-sua-ong-nuoc-tai-nha-moi-nhat-2025": {
-          "hash": "53191ca0438ef87fd0ad38e6a8a00b01e2e333374865aabe64a9bb6a0ca3a9ec",
+          "hash": "6866c7c6f15ee095a66c6c1b75745be24a607bc1d7ba5610016bead85469a3d0",
           "len": 8541
         },
         "https://vuatho.com/vi/press/tin-tuc/top-6-cach-sua-cay-nuoc-nong-lanh-tai-nha-hieu-qua-nhat-2025": {
-          "hash": "052f41c4606feca52d9ad98e4f25434c9424c10945766e011d6e0a0de230ba07",
+          "hash": "aec6b013f2cd238e81e866a7b0d8544c8dbe28ee1ab290582c5109e5476806ca",
           "len": 8176
         },
         "https://vuatho.com/vi/press/tin-tuc/thong-cong-nghet-quan-2-gia-re-bao-hanh-dich-vu-lau-dai": {
-          "hash": "19591ab704f942b189e01ecbabbd4108ca112b1700b97b59976b741cbf91d3c8",
+          "hash": "2f784fb7cae30845a950777bde22f147cf3b5e5051fb3c1fabd2683c158f2dbd",
           "len": 6815
         },
         "https://vuatho.com/vi/press/meo-vat/cach-hen-gio-tat-may-lanh-don-gian-hieu-qua-nhat-2025": {
-          "hash": "70eaa0fc262e6b8301942d8ae1a190382e207156887ddc7bf89903a69ea218e1",
+          "hash": "fdd44a35d709c7ddc0e08792caa6dac9ad650e42e162d43d729b48f894dfecc3",
           "len": 6279
         },
         "https://vuatho.com/vi/press/tin-tuc/bo-tui-ngay-vai-meo-nay-de-sua-tivi-tai-nha-hieu-qua-nhat": {
-          "hash": "a5120405218f0c518044b116a492e0d0352fd1f027dec849f2d45def514ea674",
+          "hash": "d5522e19681dee3fe5d7a06450163cffa32d47de9169776f2ba4a433e92fe233",
           "len": 8921
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-tu-lanh-quan-7-tai-nha-khac-phuc-moi-van-de-co-bao-hanh": {
-          "hash": "0237a13daf91eda0076191028922026120c88fb888c394c26eff4252e4ab2a32",
+          "hash": "a669a8a55e0904545420cdf8142095bf8c192dcb619e00bb7acf9f50626cdd09",
           "len": 7129
         },
         "https://vuatho.com/vi/press/meo-vat/may-giat-aqua-bao-loi-e4-cach-khac-phuc-don-gian-tai-nha": {
-          "hash": "7716433713e3c93dc4299b5c7eab3170a8e1bd7ce863718cdd210d1e4166c7d0",
+          "hash": "42e046e9194a148dcb99f9d32a40379cf79034f5031858bdd38b413b9c786358",
           "len": 4865
         },
         "https://vuatho.com/vi/press/tin-tuc/kham-pha-dich-vu-ve-sinh-may-lanh-quan-6-chuyen-nghiep": {
-          "hash": "379da9ae488908bdd7a325dc75759769e09508c6d1b3c1ec70c28337b0de6ed3",
+          "hash": "6c4aee5f61b58a194debb9dd0130628c33f2bc166823070141dd3db5998fe814",
           "len": 6978
         },
         "https://vuatho.com/vi/press/meo-vat/meo-nhan-biet-khi-nao-can-thay-loc-nuoc-kangaroo": {
-          "hash": "52e6f47c16c6e53f7922c211e237cc3c3a8bdd3bf92ff3baa6270dfa410e086d",
+          "hash": "c4bb81d1ecf260cc53a6195e8c77112edc7822d0ecb9882778bac9db5570bcaf",
           "len": 5954
         },
         "https://vuatho.com/vi/press/tin-tuc/may-giat-cua-ngang-loai-nao-tot-nhat-2025-nen-chon-loai-nao": {
-          "hash": "9e14abe0878cccdf0adc468bd29e8f5903840f22d21c475332c00a0d74f567bb",
+          "hash": "fbc3781b0dda16286def34621986cf4cc0f08ca9002458e8921b6240d7691c1f",
           "len": 9158
         },
         "https://vuatho.com/vi/press/doi-song/rua-may-lanh-tai-nha-quan-2-den-nhanh-bao-gia-truoc": {
-          "hash": "135de86760048287b6eb6ac1dd40e1080a45a7897deadbd18b65b5355aac3409",
+          "hash": "1068ae47424a7f8c4b2cefa4e2f9e5aa84110a40bc24e3cb462370bc7c46adc9",
           "len": 5391
         },
         "https://vuatho.com/vi/press/doi-song/dieu-hoa-cassette-la-gi-cach-ve-sinh-dieu-hoa-cassette": {
-          "hash": "0d9c294c7b7063c72f393225bcc3e50f05cae593d6d047419ad4f7ad68a92b8c",
+          "hash": "5855b174dc0ce00da931255efd91efee89ecb449ae4c8585533ac8892cf5d3ce",
           "len": 6485
         },
         "https://vuatho.com/vi/press/doi-song/chi-phi-sua-may-lanh-quan-3-vua-tho1742378696696": {
-          "hash": "a0fe675a90fd77cedf176a3228bffcccfb6419a7e7c1fd8620b4e8bfd20d7216",
+          "hash": "6c2ab9bd183ac56737b4b3a630e72c3584195f77951c4315cbb69039882abfba",
           "len": 7162
         },
         "https://vuatho.com/vi/press/doi-song/9-meo-chon-dich-vu-sua-chua-dien-lanh-tai-nha-uy-tin-nhat": {
-          "hash": "084b1f31bc14cad8baf6aea0d056ab5c1c13e378f77b66d66c271965109bf1ee",
+          "hash": "72743fce4bcc6d1f184daffa1e5035552daa31092df401c1b8bf942a80281a77",
           "len": 5564
         },
         "https://vuatho.com/vi/privacy-policy": {
-          "hash": "dcdb9aa630cbd901b428699ee2b1ab2f1da0342333a3417b837a0fb6ea7e0740",
+          "hash": "d27d32cc86af66d97d0c7160c395bf4929a31ca012a8b612bc025ffbeb5fdc8f",
           "len": 11946
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-nuoc-nong-quan-10-chuyen-nghiep-bao-hanh-lau-dai": {
-          "hash": "0885427184ae7e214049c03240fae4e06925aa602ce88a39fbfcb9882da73fab",
+          "hash": "4f942c598a4cf56d531c8efa7b1b242afc8547e2011c990dc7ea7d93657c8e66",
           "len": 7693
         },
         "https://vuatho.com/vi/press/doi-song/may-lanh-ban-co-the-anh-huong-den-suc-khoe-cua-ban-nhu-the-nao1744959918804": {
-          "hash": "860e2d29ddbc63fac2b7ac7f75d39bf71cf385ae2737845427559814bd3e14e2",
+          "hash": "068a31c265451929b5d0e11fb9b280644f406a295a8d0cd0ba8c9df5b9bd7f40",
           "len": 5045
         },
         "https://vuatho.com/vi/press/doi-song/cap-nhat-bao-gia-tho-sua-dien-nuoc-tai-nha-2025-moi-nhat": {
-          "hash": "29f69b9e14e40ad13bfc41c4d53e3c2d49cbde648afdb187e02f7d25cb7853e9",
+          "hash": "46a56ad971fef0d00ab49a7360ed7cb4e9dabbf9cf2b1812ea06948459577be6",
           "len": 5057
         },
         "https://vuatho.com/vi/press/tin-tuc/may-giat-toshiba-bao-loi-e23-nguyen-nhan-va-cach-khac-phuc": {
-          "hash": "f4d881e21c4671f562f2514aa6083274343c921e8bde8aa282118c17140971b4",
+          "hash": "c811d19e41092d2f89e399bb922b1a1d76d5ee3c474fd6e01c894a2e7e0539a1",
           "len": 6169
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-xe-luu-dong-cuu-ho-xe-may-2424-co-bao-gia-truoc": {
-          "hash": "d23796b94e259ee2fbd82e92197de0d305f44e40a662b7c6bfb6eebbf566474b",
+          "hash": "8d76825e026246a12eaec467056364157cd437694bba502547ac067f1abe8766",
           "len": 6661
         },
         "https://vuatho.com/vi/press/tin-tuc/6-bi-quyet-bao-quan-may-lanh-don-gian-va-hieu-qua-giup-cho-mua-he-cua-ban-luon-mat-lanh.1722571007759": {
-          "hash": "1a76a32c888ca43bd606f058b18e67ac4046b436089fd39693d8d41ed42c9014",
+          "hash": "fb8a69b053173ab9bfe8bad4efeed51e82c3259069ac654ddd39bffea65220c6",
           "len": 2791
         },
         "https://vuatho.com/vi/press/cuoc-thi-toa-sang": {
-          "hash": "54a433d0028f881d79636c65d98df77a2b927ebe7b39d1b94f2405584648f1c7",
+          "hash": "1d4cd84db1b92e17f91e0cd0f7c9cc895efcb41babd823c395988a83dc088118",
           "len": 679
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-giat-quan-12-nhanh-chong-tho-lanh-nghe-gia-cong-khai": {
-          "hash": "dc8606f42424402d8d94f05b7dd0d22a7ae33c0f94ca3d9cf7c15b5e567d10a0",
+          "hash": "03cc1078c7e61c6d1bb58d1b1bed4edd86e4514556f1d5714280491a218284c3",
           "len": 5826
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-tu-lanh-quan-5-gia-re-tho-co-mat-30p-co-bao-hanh": {
-          "hash": "295b7d12c7590ee6f6b8b31273ab4583dc405e844fef79a924d18a69bd7d63cc",
+          "hash": "15ef90f3db21ff39c821c3a6772a696e42dfe9b19f47235e274ccaab420e0d95",
           "len": 5269
         },
         "https://vuatho.com/vi/press/doi-song/may-giat-mini-la-gi-co-nen-dau-tu-may-giat-mini-khong": {
-          "hash": "571690defd756310463b9d2d90276659036e3ef50f068ef5e5c35ab7043edc3e",
+          "hash": "adf60aa41bd76a674f5d65486eca5950acd7db1df84c27c2feb6ab4a348e988f",
           "len": 6322
         },
         "https://vuatho.com/vi/press/meo-vat/sua-cay-nuoc-nong-lanh-tai-nha-cach-lam-don-gian-and-hieu-qua": {
-          "hash": "88157c0500b29df0997f6b4c5bbe9fff017e24e0975610dbdf2b9af2ff0b9484",
+          "hash": "bbfcef5f93fa6b63397ca50416316c6d1b488fea17de28a471e62eba617f0775",
           "len": 6013
         },
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-sua-tivi-tai-nha-tho-lanh-nghe-gia-re-sua-tan-tam": {
-          "hash": "17a981250cae3794830c7ac9d0be73e214eb1986b9fedd906c581b269fba9d33",
+          "hash": "65150c388c6cbbaab4999581a7a1cdd4350e0460646a1d9ff0ab2affe49a8d18",
           "len": 5736
         },
         "https://vuatho.com/vi/rule-of-behavior/hanlding-violations": {
-          "hash": "731a5a1f2a0cf5bb229f6238e0a51a21b33e8612098e02baf765f1fcc48cd877",
+          "hash": "d465dfe464ab313ce676ddc676de5f2957b4e07addf7a4c152071ebc9035db20",
           "len": 17711
         },
         "https://vuatho.com/vi/press/doi-song/review-vua-tho-danh-gia-chan-thuc-tu-khach-hang1743565290868": {
-          "hash": "2dac532e1275af22fa75bf2ac16918eddd4ef67266ff13fd99d9c413fa6aa656",
+          "hash": "6457f08e922debda7462168a4496d61a443246651efb63baaa6d53a0f29a1e47",
           "len": 5806
         },
         "https://vuatho.com/vi/press/tin-tuc/nhung-quan-trong-dieu-can-biet-khi-lap-dat-may-lanh-dung": {
-          "hash": "b52503c23af0eb9a7afc8cc474ef4da4cc4e4c11ba2cc82583ec8040ff692f00",
+          "hash": "85e8b43fc798e42ce7ce4088fb6c79704454dd8407f4e38794695ee914029ff5",
           "len": 9609
         },
         "https://vuatho.com/vi/press/tin-tuc/nguyen-nhan-loi-e1-may-giat-toshiba-va-cach-sua-sieu-de": {
-          "hash": "d4acfd8b06223b7c23e262a11445183aa0b2cbbb5e5aa3720706f676a9cdd6ee",
+          "hash": "c5d9b7bb0802ed8c3a0432363b6c8c38fc587ecbdf34460006bf6d1fee2b3efa",
           "len": 5391
         },
         "https://vuatho.com/vi/press/meo-vat/3-phuong-phap-sua-may-giat-panasonic-bao-loi-u12-chuan-chinh": {
-          "hash": "bd2dcdc3ed8b1860eb0f73c54e6f314061660f3d6b625cd91758eee063245045",
+          "hash": "01d8aa3cd405275f86747c8e9d85239765e1c32ca47f2674e2e4f8556c2c57a6",
           "len": 7225
         },
         "https://vuatho.com/vi/press/quy-tac/de-lam-mot-nguoi-tho-tot-truoc-het-ban-phai-la-mot-cong-dan-tot1748580764746": {
-          "hash": "930dde4d1da41c0314fc7376cadbc177fd5777dccff4c14fb5c655fb3a72c023",
+          "hash": "fb69c046e1c2b174707ba46717b7faac0c98cd1269880f10dae82eac9c874885",
           "len": 1955
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-cay-nuoc-nong-lanh-chuyen-nghiep-gia-re-co-bao-hanh": {
-          "hash": "e692bce43b719b039d5c0d2fb8a5faedaa83871bdcfca10d991ab606d8e55817",
+          "hash": "ee445acd24ee2bbb89353480b9dbdc10591d5d2c371f3534cc9b7b980325b6c4",
           "len": 5230
         },
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-cuu-ho-xe-may-gan-day-nhanh-chong-gia-re-2424": {
-          "hash": "5d63a139de5aabb41217380581e10717b4b0c7ae6e9691bffc557f40d68c0982",
+          "hash": "c8febb081a3c4b98983ce3f95785beb3795a100c5ee9e61b7b76ff173135e300",
           "len": 6994
         },
         "https://vuatho.com/vi/press/doi-song/ve-sinh-may-lanh-co-thuc-su-giup-giam-hoa-don-tien-dien-khong1744865402877": {
-          "hash": "4f31236821fa2e442cb7b97168148e4ba230184e06e95770331dedf7cdb1bac8",
+          "hash": "e6ad992cc5decdbc9b737aed43f31d105722619be75ea0eb03e0e2c60a022d2d",
           "len": 7581
         },
         "https://vuatho.com/vi/press/su-kien/toa-sang-cung-vua-tho-co-hoi-lan-toa-cau-chuyen-nguoi-tho-va-gianh-giai-thuong-200-trieu-dong1732868474860": {
@@ -3022,139 +3034,139 @@
           "len": 2348
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-tu-lanh-quan-2-chuyen-nghiep-co-bao-hanh-dich-vu": {
-          "hash": "29a39d6bcd7c6950c84d4016e0f1f99b1ea35e09bb447b9480bc25f0995070d1",
+          "hash": "06ff2bf9be2b2ec9be8f4aad12f3ac5ca6382825cee9f8ba9f08d2a45485da87",
           "len": 6708
         },
         "https://vuatho.com/vi/press/tin-tuc/loi-loc-nuoc-kangaroo-nen-mua-loai-nao-khi-nao-can-thay": {
-          "hash": "ac8e50c0be8f98bcab577da1092423e150bcf5d13c3f3adff41de70af9a54f23",
+          "hash": "692e3439f2c2c50c9b1a899018273b866e8850c4ade13089b3596acaebd87b45",
           "len": 6718
         },
         "https://vuatho.com/vi/press/tin-tuc/thong-cong-nghet-quan-4-uy-tin-nhanh-chong-va-triet-de": {
-          "hash": "4e545bccbb8c661df1764ba50c2252e88e19e60485704303f7a63c3f22f030e3",
+          "hash": "93c2525b1d4e3224e3f6c5a2ffa2de0fef7f9aeced7b84216beb11e6942862b7",
           "len": 8005
         },
         "https://vuatho.com/vi/press/meo-vat/loi-ea-may-giat-aqua-cach-khac-phuc-sieu-don-gian-tai-nha": {
-          "hash": "2685161c9df1f7e63bef24ad56ad76a2b87a05123a0980f8300ac6485f50ddbd",
+          "hash": "4b7946f197371035934fd44235d55a7d490d5eff4755f1a3492572957896c576",
           "len": 5217
         },
         "https://vuatho.com/vi/press/doi-song/dat-tho-dien-lanh-tren-vua-tho-co-loi-ich-gi-so-voi-goi-tho-truyen-thong1743585541995": {
-          "hash": "fc260d4bbb4ffcbe0010b546113c53f96c39ed00df1bda7a36c41b53d39bb5f7",
+          "hash": "ea126c8313ddefb002c64ec558b1434ee70872a26cc3bcfb143a9da34c14cedb",
           "len": 5679
         },
         "https://vuatho.com/vi/press/cong-nghe": {
-          "hash": "bb0b8bc3b12014a0b2a12677fe7d6b6424fff3a0b0d8c3ab2a3456b175bb78c8",
+          "hash": "dd058fdb550e9b3681f9ccb29654dcd3b95937611d459a770ce05dca231ed92b",
           "len": 666
         },
         "https://vuatho.com/vi/press/quy-tac/thong-bao-quan-trong-ve-viec-ap-dung-chinh-sach-dong-phuc1733914332543": {
-          "hash": "8288cfd764cdafcf3a2874f9d9005c4ca0c708a517a3a5eb01d4a28dccc13c2e",
+          "hash": "079c8edeb23bf75ce3e115df715258f253b4650ae6b680f030f50da0a2adcd53",
           "len": 2610
         },
         "https://vuatho.com/vi/press/doi-song/cach-xu-ly-khi-dieu-hoa-chay-nuoc": {
-          "hash": "9c7adea6a5d1a88c4e46327aba9746c8fca0e40de6bc8af469209d3c3012f9ca",
+          "hash": "11626db55da6964e34d787f0a5de6b8250d20ba7bd654fb071318bf0cf35103a",
           "len": 5351
         },
         "https://vuatho.com/vi/press/tin-tuc/ve-sinh-may-lanh-quan-7-co-mac-hon-quan-khac-khong": {
-          "hash": "d726f16dfdbd26bcae0a6deceeb3700811b0e586411924e9e2aab437948cb471",
+          "hash": "853879894811bb44b449ae742c3ff0b9259dc57510f71e45fe593614d8f8f2ff",
           "len": 5498
         },
         "https://vuatho.com/vi/press/meo-vat/giai-quyet-triet-de-loi-ie-may-giat-lg-tai-nha-chi-voi-5-buoc": {
-          "hash": "fb14516096e5a23a0a33974cfb231cba4697a9b7097ecc4a39b52069ec602ece",
+          "hash": "674e8c89b94e992da723b344e07ede4ce283e480f564f79e2d15ab47edc21889",
           "len": 6104
         },
         "https://vuatho.com/vi/press/quy-tac": {
-          "hash": "06fc7b9be2a273381addabe4ab6c235f85eb2a98b398d6011e2b61fdabe0d851",
+          "hash": "a83643193286fd7f65f3ffa34ebc85674b7a412f6b2d028904ffa510b0089d7e",
           "len": 664
         },
         "https://vuatho.com/vi/press/doi-song/che-do-eco-may-lanh-la-gi-co-that-su-tiet-kiem-dien": {
-          "hash": "e3814e0f55c354f2c87d3538e31b830dee6514ecf9e7eddda88e43486efc4aeb",
+          "hash": "531d99a285e90157d162890abe56c904de2858adae7a8ea9552020f0ca7888ff",
           "len": 6194
         },
         "https://vuatho.com/vi/press/doi-song/cach-su-dung-may-lanh-dung-cach-de-khong-anh-huong-den-suc-khoe1743569938713": {
-          "hash": "0781b5dc1a502eae5ebc33f7005977a9f4870ec84f66bd1160a04c3f3d6a0f80",
+          "hash": "fbc3126c8204924d2066c5616af6ac64aeeae9695f44a4a7178a6e95778de9ea",
           "len": 6584
         },
         "https://vuatho.com/vi/press/tin-tuc/danh-gia-dieu-hoa-casper-qh-12iu36a-co-nen-chon-trong-2025": {
-          "hash": "17465a0588330c593963d77570566c437b4d93eee2113640568eca0622f80b59",
+          "hash": "85ba7491e5549acc80f2b24a719323d80326f70b7e3e0b93867624b8ff699d2e",
           "len": 7667
         },
         "https://vuatho.com/vi/press/tin-tuc/tong-hop-7-cach-thong-bon-cau-bi-tac-nang-tai-nha-don-gian": {
-          "hash": "789a4938992e87fa02c0294ea703711a96336990d87e3517c88130f91818d1a5",
+          "hash": "d57917742fef50a5893d4b4077ce4fea1797a7173f1753cdb3d7e73a1460b914",
           "len": 4440
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-giat-quan-9-tan-nha-bao-gia-ngay-khong-phi-phat-sinh": {
-          "hash": "f8a756a5f9e25802fa12dcf8f5b363e0f42857df1a17e0db5de767dd3e760a02",
+          "hash": "d9e1a1fd5f02c31352a72c59589191c34d564a7486456958f4670a425c20c8de",
           "len": 6131
         },
         "https://vuatho.com/vi/press/tin-tuc/cap-nhat-bang-gia-sua-may-nuoc-nong-tai-nha-moi-nhat-2025": {
-          "hash": "220c497870325d69f72a9616e48b0ba1a86c96082d1125d7b44031e39be464c0",
+          "hash": "81130e12fc774d3eeab0c4a706765defd9f47a42d19b0abd77c3bd0cf08f4e7a",
           "len": 6885
         },
         "https://vuatho.com/vi/store": {
-          "hash": "664197157a8b0d103d42c023ea4f3af8e636950a86754969dc4972329747b61b",
+          "hash": "831ac4fffe1f05ae2f74d871496a3e0aa1967c841b8a75a8afdc4d0799778f2e",
           "len": 607
         },
         "https://vuatho.com/vi/press/tin-tuc/bao-gia-dich-vu-bao-tri-may-lanh-moi-nhat-nam-2025": {
-          "hash": "709ca8ba3c26a2064143a3eb8fc43351859a2d8c2ea8a7039848602411f8a2d5",
+          "hash": "08d59ecb7569873065b671096762f5d1671c0cc0c002938851d4ac53cee72a45",
           "len": 6695
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-bep-tu-gan-day-tho-chuyen-nghiep-bao-gia-truoc": {
-          "hash": "01de65a75c7e5f891d61de5305b2e0ed9362f0272a417b61c2470bf70eca77df",
+          "hash": "e3966dd20d2bbd247b1cd29c173ee4149d0449dd040b34a45e4eacc6302cbaea",
           "len": 5704
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-laptop-gan-day-sua-laptop-tai-nha-nhanh-chong-co-bh": {
-          "hash": "ef5db74dccbc0690cb8e68bde541d44314ff950073e72e5533c415fdb30413ab",
+          "hash": "1d278500b4c7b891b882ec20fa98916081777363fe5a7d20de659e6de5d97c64",
           "len": 6413
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-chua-bep-tu-tai-tphcm-dich-vu-nhanh-chong-co-bao-hanh": {
-          "hash": "84f9c0f0b1132ba90d38f31c0ab8721ba81bc7921327ddcd082670cefa9fa13a",
+          "hash": "300b7da6805c8cad3c0afd25eb33109d6561dae995b588cd354d9e627e250148",
           "len": 5613
         },
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-sua-bep-tu-tai-nha-gia-re-chi-tu-100k-sua-lay-lien": {
-          "hash": "a1a32a6052bf87aded4616d50a3586806fd2aefd58dbd8f9d2fb13194b8c110b",
+          "hash": "1dbd74db2e447868d9c3fcdfd353cb972fb8f1a5cea8e77eabc0a8ae660a6b51",
           "len": 8742
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-bep-tu-bosch-tan-nha-gia-re-chi-tu-100k-co-bao-hanh": {
-          "hash": "7a8bdebc868c390b40aaae83aa45add4257d03fecc6b41a1fc6bc2253e267458",
+          "hash": "93ce9661298c2df03f9730c4db61bccea0c71b697ae58f542efc908571931111",
           "len": 8208
         },
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-sua-bep-dien-tu-gia-re-sua-bep-tu-gia-100k-co-bh": {
-          "hash": "6658af6ab5aec1787d673744c66e78fb6e4133ddbade89fd4f6565cd7e91e389",
+          "hash": "b25acd4e71f416c0e8fb7d1ec7058a1789e5c9ba0fb0412a6fb3d62713233ec1",
           "len": 6201
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-in-gan-day-gia-re-nhanh-chong-co-bao-hanh-dich-vu": {
-          "hash": "762811d19c15b06f228cc631d12d11f7403f82efcf2302877311a6177b1cdac6",
+          "hash": "6bdac3654218dd1c68198b1b533b6bcb206afe38184291df507bd0c4300304cf",
           "len": 5622
         },
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-bao-duong-dieu-hoa-tai-nha-tho-gioi-gia-chi-tu-100k": {
-          "hash": "df2765aca74129edf4ba5c2973a98619ecdf25fe82e9225c9aa675c94e97c2e0",
+          "hash": "2488c96880d1a71e97c57d956b362108b2e90a14b5f2c1527a974da8610e0e14",
           "len": 6806
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-bep-gas-tai-nha-gia-re-sua-lay-lien-bao-gia-truoc-khi-den": {
-          "hash": "386184b7d8a3926eeab404be3e54ef3c0e07651367a59da4e68f736126f64ee9",
+          "hash": "8ef8dc7ff8fb3a45f96d6e0f4db9b7879070bde5b6db24a62ad376f7fc281b91",
           "len": 6376
         },
         "https://vuatho.com/vi/press/tin-tuc/cuc-nong-dieu-hoa-la-gi-cau-tao-cuc-nong-co-nhung-gi": {
-          "hash": "37398d89550c40ebaf7cc1ba6f717519e7b1cee04b2dab5b8c40e39dcf8e061b",
+          "hash": "9aefac3003d5b1725867181e00dd8a777f7058f6789abbc71c09a5a678c3704a",
           "len": 6865
         },
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-sua-bep-tu-frico-gia-re-chi-tu-100k-co-bao-hanh": {
-          "hash": "95b4783300b24f8fa3766bdc877f83cbcea2c139d9ca769cdd9d9bac0c5a3675",
+          "hash": "ec9f2ee4b80431c314d8af3b62a58a1f4c6de87adffc4cae4f8c8b91e9c7ee36",
           "len": 6872
         },
         "https://vuatho.com/vi/press/tin-tuc/cuc-nong-dieu-hoa-khong-chay-nguyen-nhan-and-cach-khac-phuc": {
-          "hash": "6a011ad7dd3619e330037001c7d31c942eae4866b653059b8a9ca94ea34e6e2e",
+          "hash": "9a7fc007f752a254403f64df66ea572dfcbc3bf37df45801cc488582a01df5ec",
           "len": 5339
         },
         "https://vuatho.com/vi/press/tin-tuc/dieu-hoa-1-cuc-la-gi-nen-chon-dieu-hoa-1-cuc-hay-2-cuc": {
-          "hash": "8790410e40005ebc9f941487e8c1fa0273ac982edcd498d31eedd90df79acad6",
+          "hash": "f7c9fe644fe2da625a831e739af2408e2d270d9ce31154fa4578d0d1ab3cb940",
           "len": 6050
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-robot-hut-bui-tan-nha-gia-re-tho-sua-lay-lien-co-bh": {
-          "hash": "2436d0b712cd114fc31b0293a70c0ecff1747063a33a388b6b6ffdd35db767a9",
+          "hash": "5e86225d2e739c5f8802aa66ee14b0399349031e252e8c4d0eff71da20d89fe9",
           "len": 6827
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-hut-bui-tai-nha-tho-chuyen-nghiep-sua-lay-lien": {
-          "hash": "a64c24ff41d9e7eaca6ed7320aafaafd2cd9dc93ee66a51deb4db8c75a5aa728",
+          "hash": "7bdb65e6b00e6326975d723e39a13b27778639782d07a7991a05944fe4af1239",
           "len": 6404
         },
         "https://vuatho.com/vi/press/tin-tuc/bep-ga-am-loai-nao-tot-top-5-mau-ban-chay-nhat-20251759978311694": {
@@ -3162,83 +3174,91 @@
           "len": 6318
         },
         "https://vuatho.com/vi/press/tin-tuc/bep-ga-am-loai-nao-tot-top-5-mau-ban-chay-nhat-2025": {
-          "hash": "1cd50f2163642379c791f2e065f9500fe3496fed655733dece23fa77f66dc735",
+          "hash": "9d37014071aee0179475fddfaf9bf85ef5c928951800c6256da47ae21f3659d1",
           "len": 6318
         },
         "https://vuatho.com/vi/press/meo-vat/may-ep-cham-nao-tot-hien-nay-top-5-mau-nen-so-huu-nhat-2025": {
-          "hash": "9485cbcbc7ffa2c2031cad967af0266303d32489713074d38b35bafdb01f31cd",
+          "hash": "a6592b163c1c0eb1ccf1a86207008b5618a1a3f4497fde7f17e9606aa578deb4",
           "len": 9056
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-noi-com-dien-nhanh-chong-sua-lay-lien-tho-bao-gia-truoc": {
-          "hash": "a776c917d023c4045cad268cbfdf9c4e5712ace28e7664e1e6d87aed462a5e01",
+          "hash": "3bed07cae98b09438265ea0da734c29fd6d5e968df40acda082dbbf1e182c8b1",
           "len": 6506
         },
         "https://vuatho.com/vi/press/tin-tuc/bang-gia-sua-chua-lo-vi-song-cap-nhat-moi-nhat-t102025": {
-          "hash": "8a987772a79b5d3009d4d4151ae6975fc6faadf4913880f70e0acfd32049dbaa",
+          "hash": "6bade06323f3bc21ce33269a70b62493372f2b21e6d4655170d52cbaf8f7bef7",
           "len": 7148
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-lo-nuong-tai-nha-gia-re-tho-bao-gia-truoc-khi-den": {
-          "hash": "a422895edbd3c75bb5ac16c1dacd7668249e3749a7bc465ecad652e2345044f6",
+          "hash": "e61de27b1599fb3caba1947c46fe0374c4cfdd09a34834ecd5296e43340e2a78",
           "len": 6812
         },
         "https://vuatho.com/vi/press/tin-tuc/top-5-nguyen-nhan-chinh-khien-lo-vi-song-khong-nong": {
-          "hash": "ee2e2e6fe55c1bfe38a44d1e62bc93ba0d43f77de0c1c0182b7c29ac9fe2f3f4",
+          "hash": "6b90bf62cb6b843cc3a0d93628414d81540761d9585c305167b860ad675ecdb8",
           "len": 5144
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-xay-sinh-to-gia-re-tai-tphcm-sua-lay-lien-co-bh": {
-          "hash": "e70fffd3c6d7bd4d07194416a233b188c58159fb85c836dd70f6b0d64854804a",
+          "hash": "7b22544a09e2bb9fa697f599943d60ac650864980caa047d07e806aa7689a134",
           "len": 5428
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-chua-may-xay-sinh-to-gia-re-tai-tphcm-sua-lay-lien": {
-          "hash": "1fc962e78578e764583805ac3ffd7eb2518dca07b520efa0d129510a03a59252",
+          "hash": "d0a225c9905dc43aabb829b44793b63619386c3bbd42f64adb3c0bd3c4ccb96b",
           "len": 5663
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-say-quan-ao-tphcm-dich-vu-sua-tan-nha-gia-re": {
-          "hash": "d3c8fdf2fd563f5af7888482bf8200b94f26477a14d4215111cc6c1d651ec96e",
+          "hash": "9ce42fe7f6dca3163c7ba5b0a874a19bdafa0701f41fd9bb6172b44b9dd11395",
           "len": 7777
         },
         "https://vuatho.com/vi/press/tin-tuc/may-xay-cam-tay-tai-nha-gia-re-tho-chuyen-nghiep": {
-          "hash": "9f31559fd928cbc0e3dd744a58559f799779339359f3aec110599e612b2372f9",
+          "hash": "01843f8118ab099966232fbd45a6c95a53aec2a8a318de183d446ad41b083f8d",
           "len": 5892
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-loc-khong-khi-tai-nha-gia-re-sua-nhanh-chong-co-bh": {
-          "hash": "a19aa43dce20738ce9620f9960910ac97a3356d48cc5a6160d3317bf9688e284",
+          "hash": "0bf777dc5a92bf87555e1a3ea948bb4a9f3fccce2454630f5df4b465b3198e91",
           "len": 5256
         },
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-sua-chua-quat-tran-khac-phuc-nhanh-gia-re-co-bh": {
-          "hash": "b52871584e66ffe5053da66c10906559679b962617446c89cf6f3ce05747f7c1",
+          "hash": "579c73777cb513329062628d7ff93ec18abbbd5dd4b23442ad9d36bd32b48021",
           "len": 7850
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-loc-khong-khi-sharp-gia-re-tho-chuyen-nghiep": {
-          "hash": "902e42bdffab4fe049c996100dc451ea13398c7dbf691ae951d459f90a8b298d",
+          "hash": "3ccaf5b0c1a5d29d360f6d41cc5745f60d355d6efa787791d430ea0c107e20eb",
           "len": 7278
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-loc-khong-khi-daikin-tan-nha-gia-re-co-bh": {
-          "hash": "4ef50c0e60bc2899355ae1ed5c5154f42a0edee1371a8520e302660395b3d20e",
+          "hash": "3221a2db50bfa29b4a167c1f0f9669f11abef6614af561304e5286295f10a21f",
           "len": 8654
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-loc-khong-khi-coway-gia-re-khac-phuc-moi-van-de": {
-          "hash": "59ec62b640a5bb1141e8234ec76dd73830b7e45989452127b321ea4402e91c9c",
+          "hash": "c7dd4bec7e7c3d9dd19f44aefeab6a81eca471616674dd99890862a3b05f7ba5",
           "len": 9389
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-loc-khong-khi-philips-tho-gioi-bao-gia-ngay": {
-          "hash": "fe480fecc53a43a53e04882707a0823e65b8fea90128ac33fc962e645dad75b5",
+          "hash": "cbf38187c4126c664ecd093d505a97aeb79a8627fce3bd5e913fa43da46f63c2",
           "len": 5889
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-loc-khong-khi-lg-gia-re-sua-lay-lien-trong-ngay": {
-          "hash": "a310a10056d105cb20acbf0adffc507db6c192dd123647cb92c9a8eebd7efd89",
+          "hash": "ecd139afd2500ff959e4de148574b3539b0f5288689bec2ea512a6aafe51e1f1",
           "len": 7278
         },
         "https://vuatho.com/vi/press/tin-tuc/top-5-may-ep-cham-panasonic-duoc-tin-chon-nhieu-nhat-2025": {
-          "hash": "cc7165a86645cc27da13358d474f75dfc19160040a447f7b57e5bec4a9795d68",
+          "hash": "ed2893c3348cf97996ab6b702665daa11458e69a9258ac367d10a39a6c9be01e",
           "len": 5152
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-loc-khong-khi-xiaomi-tai-nha-gia-re-co-bao-hanh": {
-          "hash": "2af9fbc1dd637f0a5647c809a3abc6c920fb4a4ccf2f5508ba76f749685654ec",
+          "hash": "3ecf4f14e372389976ddfbb7e77b52b0a855a70b67fb144b036931fe6567a428",
           "len": 7564
+        },
+        "https://vuatho.com/vi/press/tin-tuc/sua-quat-dieu-hoa-hoi-nuoc-tai-nha-gia-minh-bach-tho-gioi": {
+          "hash": "b2e8db70c6b033e76f7031f54461317638a79804d7449dd030423c7fba378cd4",
+          "len": 5626
+        },
+        "https://vuatho.com/vi/press/tin-tuc/sua-chua-quat-tran-panasonic-gia-re-tho-chuyen-nghiep": {
+          "hash": "c75586be9540a90bb3d72d508e2534def91f17005de7b146361223f0eaa42a81",
+          "len": 6186
         }
       },
-      "last_run": 1761191478
+      "last_run": 1761277619
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8023,7 +8043,7 @@
           "len": 46826
         }
       },
-      "last_run": 1761193082
+      "last_run": 1761279313
     },
     "giupviectot.vn": {
       "urls": {
@@ -14076,7 +14096,7 @@
           "len": 5604
         }
       },
-      "last_run": 1761195048
+      "last_run": 1761281331
     },
     "vesinhhc.vn": {
       "urls": {
