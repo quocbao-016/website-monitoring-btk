@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1761275901
+      "last_run": 1761362363
     },
     "be.com.vn": {
       "urls": {
@@ -692,7 +692,7 @@
           "len": 55836
         }
       },
-      "last_run": 1761275954
+      "last_run": 1761362384
     },
     "www.guvico.com": {
       "urls": {
@@ -1865,7 +1865,7 @@
           "len": 9690
         }
       },
-      "last_run": 1761276846
+      "last_run": 1761362789
     },
     "vuatho.com": {
       "urls": {
@@ -3256,9 +3256,21 @@
         "https://vuatho.com/vi/press/tin-tuc/sua-chua-quat-tran-panasonic-gia-re-tho-chuyen-nghiep": {
           "hash": "c75586be9540a90bb3d72d508e2534def91f17005de7b146361223f0eaa42a81",
           "len": 6186
+        },
+        "https://vuatho.com/vi/press/tin-tuc/sua-bo-mach-quat-hoi-nuoc-tai-nha-nhanh-chong-sua-lay-lien": {
+          "hash": "6662aae5a85753cb972e4ddfe5f2d049fb2713a13d9c98fcb76cdfac84f3117f",
+          "len": 5753
+        },
+        "https://vuatho.com/vi/press/tin-tuc/bang-gia-sua-quat-hoi-nuoc-cap-nhat-moi-nhat-thang-112025": {
+          "hash": "206b984ae5bd76984c4a54a0dde8e2f419e01b3439a21f5cd87e277ab3906a53",
+          "len": 8590
+        },
+        "https://vuatho.com/vi/press/tin-tuc/dich-vu-sua-quat-hoi-nuoc-tai-nha-tphcm-sua-nhanh-lay-lien": {
+          "hash": "d1696a2fff3d013b6b87a57fdaf1c5d266caa783b4be5fd0d1e282cab0ca5695",
+          "len": 5342
         }
       },
-      "last_run": 1761277619
+      "last_run": 1761363472
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8043,7 +8055,7 @@
           "len": 46826
         }
       },
-      "last_run": 1761279313
+      "last_run": 1761364878
     },
     "giupviectot.vn": {
       "urls": {
@@ -14096,7 +14108,7 @@
           "len": 5604
         }
       },
-      "last_run": 1761281331
+      "last_run": 1761366606
     },
     "vesinhhc.vn": {
       "urls": {
