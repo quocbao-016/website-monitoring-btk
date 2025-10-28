@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1761536942
+      "last_run": 1761622771
     },
     "be.com.vn": {
       "urls": {
@@ -692,7 +692,7 @@
           "len": 55836
         }
       },
-      "last_run": 1761536962
+      "last_run": 1761622800
     },
     "www.guvico.com": {
       "urls": {
@@ -1865,7 +1865,7 @@
           "len": 9690
         }
       },
-      "last_run": 1761537769
+      "last_run": 1761623653
     },
     "vuatho.com": {
       "urls": {
@@ -3268,9 +3268,21 @@
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-sua-quat-hoi-nuoc-tai-nha-tphcm-sua-nhanh-lay-lien": {
           "hash": "d1696a2fff3d013b6b87a57fdaf1c5d266caa783b4be5fd0d1e282cab0ca5695",
           "len": 5342
+        },
+        "https://vuatho.com/vi/press/tin-tuc/robot-hut-bui-lau-nha-loai-nao-tot-nhat-hien-nay1761555703693": {
+          "hash": "ced4c46c61342183292d20a8258b495c6270d05c626bb5247c912044aa412473",
+          "len": 9963
+        },
+        "https://vuatho.com/vi/press/tin-tuc/sua-quat-tran-mitsubishi-gia-re-sua-nhanh-chong-co-bao-hanh": {
+          "hash": "d58a2eb372905dbbb1362fdb11d1315a903786a1ecd14d3bb811c4bbe2d45de2",
+          "len": 6622
+        },
+        "https://vuatho.com/vi/press/tin-tuc/sua-quat-phun-suong-tai-nha-bang-gia-cap-nhat-moi-nhat-2025": {
+          "hash": "627bd69ebbc966cb7edb2b9eb047f7361cd3a5dc241bf35b07d0852bdb311930",
+          "len": 6348
         }
       },
-      "last_run": 1761538441
+      "last_run": 1761624388
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8055,7 +8067,7 @@
           "len": 46826
         }
       },
-      "last_run": 1761539826
+      "last_run": 1761625995
     },
     "giupviectot.vn": {
       "urls": {
@@ -14108,7 +14120,7 @@
           "len": 5604
         }
       },
-      "last_run": 1761542295
+      "last_run": 1761628628
     },
     "vesinhhc.vn": {
       "urls": {
