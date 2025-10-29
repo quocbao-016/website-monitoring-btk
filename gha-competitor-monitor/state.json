@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1761622771
+      "last_run": 1761709488
     },
     "be.com.vn": {
       "urls": {
@@ -692,7 +692,7 @@
           "len": 55836
         }
       },
-      "last_run": 1761622800
+      "last_run": 1761709507
     },
     "www.guvico.com": {
       "urls": {
@@ -1865,7 +1865,7 @@
           "len": 9690
         }
       },
-      "last_run": 1761623653
+      "last_run": 1761710333
     },
     "vuatho.com": {
       "urls": {
@@ -2194,8 +2194,8 @@
           "len": 1706
         },
         "https://vuatho.com/vi/press/doi-song/top-10-may-giat-ban-chay-nhat-trong-6-thang-dau-nam-2025": {
-          "hash": "ea3950d54986188682461ada1f76125c0b42f501a2f11a974fd8dced91ec5ac9",
-          "len": 5675
+          "hash": "873ce3eed1ac7d0e418ab838526ac9ba7e4ab9f1b48ead48218c4cfb6d5431ef",
+          "len": 5665
         },
         "https://vuatho.com/vi/press/doi-song/dieu-hoa-cay-panasonic-giai-phap-lam-mat-ben-bi": {
           "hash": "620500c960ba87dd2d4e4bb6d187db37866ff619530645de415e50fe2d925d0e",
@@ -3280,9 +3280,17 @@
         "https://vuatho.com/vi/press/tin-tuc/sua-quat-phun-suong-tai-nha-bang-gia-cap-nhat-moi-nhat-2025": {
           "hash": "627bd69ebbc966cb7edb2b9eb047f7361cd3a5dc241bf35b07d0852bdb311930",
           "len": 6348
+        },
+        "https://vuatho.com/vi/press/tin-tuc/sua-may-hut-am-tai-nha-gia-re-tho-bao-gia-truoc-khi-den": {
+          "hash": "550d5833bc66e367c6b969a7829a28dba0877cac6c4aca194c0eccad121a0a85",
+          "len": 9072
+        },
+        "https://vuatho.com/vi/press/tin-tuc/sua-tu-dong-tai-nha-gia-re-bao-gia-nhanh-co-bao-hanh": {
+          "hash": "4e68aaaf54b62e1498152c9e217c582e828942f02cc768f91b9b86dbecbf0aed",
+          "len": 6312
         }
       },
-      "last_run": 1761624388
+      "last_run": 1761710998
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -4259,7 +4267,7 @@
           "len": 31105
         },
         "https://giupviecphuongnam.com/gioi-thieu/": {
-          "hash": "1dc76f089045a0c975fc47db931e0ff50305e86d1baf48139158eebf7185d8fd",
+          "hash": "215297680452ca9b1ea65d3d0c0dbbbd1a92c46bdfcbff5bf89519cb54a4ae91",
           "len": 16429
         },
         "https://giupviecphuongnam.com/dich-vu-trong-tre-tai-quang-binh/": {
@@ -8067,7 +8075,7 @@
           "len": 46826
         }
       },
-      "last_run": 1761625995
+      "last_run": 1761714526
     },
     "giupviectot.vn": {
       "urls": {
@@ -14120,7 +14128,7 @@
           "len": 5604
         }
       },
-      "last_run": 1761628628
+      "last_run": 1761716221
     },
     "vesinhhc.vn": {
       "urls": {
