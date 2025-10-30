@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1761709488
+      "last_run": 1761795566
     },
     "be.com.vn": {
       "urls": {
@@ -692,7 +692,7 @@
           "len": 55836
         }
       },
-      "last_run": 1761709507
+      "last_run": 1761795600
     },
     "www.guvico.com": {
       "urls": {
@@ -1865,7 +1865,7 @@
           "len": 9690
         }
       },
-      "last_run": 1761710333
+      "last_run": 1761796457
     },
     "vuatho.com": {
       "urls": {
@@ -3288,9 +3288,17 @@
         "https://vuatho.com/vi/press/tin-tuc/sua-tu-dong-tai-nha-gia-re-bao-gia-nhanh-co-bao-hanh": {
           "hash": "4e68aaaf54b62e1498152c9e217c582e828942f02cc768f91b9b86dbecbf0aed",
           "len": 6312
+        },
+        "https://vuatho.com/vi/press/tin-tuc/tu-lanh-khong-dong-da-bat-mi-nguyen-nhan-va-cach-khac-phuc": {
+          "hash": "b261bbb6a4eb7cc6121e9b9fe04658dc2f967b2137200422da3472ec14f4a3d0",
+          "len": 8640
+        },
+        "https://vuatho.com/vi/press/tin-tuc/tu-lanh-khong-mat-dich-vu-sua-tu-mat-gia-re-nhanh-chong": {
+          "hash": "60e06e4dba9a195e6ae3e62c4eea0730f455b42a96fc331057cd1d762c772c2b",
+          "len": 5430
         }
       },
-      "last_run": 1761710998
+      "last_run": 1761797183
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8075,7 +8083,7 @@
           "len": 46826
         }
       },
-      "last_run": 1761714526
+      "last_run": 1761798907
     },
     "giupviectot.vn": {
       "urls": {
@@ -14128,7 +14136,7 @@
           "len": 5604
         }
       },
-      "last_run": 1761716221
+      "last_run": 1761801070
     },
     "vesinhhc.vn": {
       "urls": {
