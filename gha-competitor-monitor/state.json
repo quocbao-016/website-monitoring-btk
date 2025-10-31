@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1761795566
+      "last_run": 1761882054
     },
     "be.com.vn": {
       "urls": {
@@ -692,7 +692,7 @@
           "len": 55836
         }
       },
-      "last_run": 1761795600
+      "last_run": 1761882078
     },
     "www.guvico.com": {
       "urls": {
@@ -1865,7 +1865,7 @@
           "len": 9690
         }
       },
-      "last_run": 1761796457
+      "last_run": 1761882926
     },
     "vuatho.com": {
       "urls": {
@@ -3296,9 +3296,17 @@
         "https://vuatho.com/vi/press/tin-tuc/tu-lanh-khong-mat-dich-vu-sua-tu-mat-gia-re-nhanh-chong": {
           "hash": "60e06e4dba9a195e6ae3e62c4eea0730f455b42a96fc331057cd1d762c772c2b",
           "len": 5430
+        },
+        "https://vuatho.com/vi/press/tin-tuc/nguyen-nhan-tivi-bi-soc-doc-man-hinh-va-cach-sua-don-gian": {
+          "hash": "4138ba76ccea7bf61a79cbdc93980e34907a014000165a6938a23a465526b48a",
+          "len": 6467
+        },
+        "https://vuatho.com/vi/press/tin-tuc/giai-dap-nguyen-nhan-ngan-mat-tu-lanh-hitachi-khong-lanh": {
+          "hash": "6ab1808155e8d273b302200dc921c5ba7a2e240443991ee6f2e85bab212b95e8",
+          "len": 7524
         }
       },
-      "last_run": 1761797183
+      "last_run": 1761883670
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8083,7 +8091,7 @@
           "len": 46826
         }
       },
-      "last_run": 1761798907
+      "last_run": 1761885263
     },
     "giupviectot.vn": {
       "urls": {
@@ -14136,7 +14144,7 @@
           "len": 5604
         }
       },
-      "last_run": 1761801070
+      "last_run": 1761887717
     },
     "vesinhhc.vn": {
       "urls": {
