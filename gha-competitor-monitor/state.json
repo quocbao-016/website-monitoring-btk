@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1761882054
+      "last_run": 1761962697
     },
     "be.com.vn": {
       "urls": {
@@ -692,7 +692,7 @@
           "len": 55836
         }
       },
-      "last_run": 1761882078
+      "last_run": 1761962747
     },
     "www.guvico.com": {
       "urls": {
@@ -737,8 +737,8 @@
           "len": 9231
         },
         "https://www.guvico.com/blog-left-2column/": {
-          "hash": "78c09d2098331348504658038dbf8f34701a89aa8e25f07f309aabc45103bc27",
-          "len": 10334
+          "hash": "33f097bbaf9e4a9dfc8a281f75a6fccca542061d674d5b08de8914f60363d2e4",
+          "len": 10337
         },
         "https://www.guvico.com/guvi-khai-truong-van-phong-moi-7-8-2022/": {
           "hash": "d9ae6115d72e9c8258bd94fd4de95ca185d22d4b7fe870dd9a13f5df2b726230",
@@ -1505,8 +1505,8 @@
           "len": 13042
         },
         "https://www.guvico.com/blog-left-sidebar/": {
-          "hash": "fcf49f193e61947d71308d7f4b55127b62f6732214eef70fd2cc3a7b353d3c03",
-          "len": 10997
+          "hash": "7f190ee5e22aeae054a54e92989706b3bbf57dbdbfb7ce9d225909406ba3c041",
+          "len": 11000
         },
         "https://www.guvico.com/giup-viec-theo-gio-da-nang/": {
           "hash": "300e758f7bc165c239c1144a64b6340e587baa70e4f033279d72f1467931d3c1",
@@ -1865,7 +1865,7 @@
           "len": 9690
         }
       },
-      "last_run": 1761882926
+      "last_run": 1761963480
     },
     "vuatho.com": {
       "urls": {
@@ -3304,9 +3304,25 @@
         "https://vuatho.com/vi/press/tin-tuc/giai-dap-nguyen-nhan-ngan-mat-tu-lanh-hitachi-khong-lanh": {
           "hash": "6ab1808155e8d273b302200dc921c5ba7a2e240443991ee6f2e85bab212b95e8",
           "len": 7524
+        },
+        "https://vuatho.com/vi/press/meo-vat/tu-lanh-hitachi-ngan-duoi-khong-mat-bat-mi-cach-sua-tai-nha": {
+          "hash": "d2a01a5cc549446f0fe67e259ea528690dd35b6ebd8e967603e68d38a7425f4d",
+          "len": 7756
+        },
+        "https://vuatho.com/vi/press/meo-vat/song-wifi-manh-nhung-vao-mang-yeu-xem-ngay-bi-quyet-nay": {
+          "hash": "1df8d91ee5875815e780ce2352c8f7ffb3bf6a181f02c53e220bd84dedbcc52b",
+          "len": 8920
+        },
+        "https://vuatho.com/vi/press/meo-vat/tu-lanh-hitachi-ngan-duoi-khong-mat-bat-mi-cach-sua-tai-nha1761900695471": {
+          "hash": "a0dfc79b86223f2ff33347f713fcf77af7f2b427e894ea7302b484757ec80afd",
+          "len": 7756
+        },
+        "https://vuatho.com/vi/press/meo-vat/tu-lanh-van-chay-nhung-khong-dong-da-xem-ngay-cach-fix-nay": {
+          "hash": "cb9f271c94012d1e9dc852c6e47971c40ff749df86563d9a3556b8d82bbdee75",
+          "len": 5225
         }
       },
-      "last_run": 1761883670
+      "last_run": 1761964253
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8091,7 +8107,7 @@
           "len": 46826
         }
       },
-      "last_run": 1761885263
+      "last_run": 1761968756
     },
     "giupviectot.vn": {
       "urls": {
@@ -14144,7 +14160,7 @@
           "len": 5604
         }
       },
-      "last_run": 1761887717
+      "last_run": 1761970714
     },
     "vesinhhc.vn": {
       "urls": {
