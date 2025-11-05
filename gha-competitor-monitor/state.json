@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1762221779
+      "last_run": 1762308089
     },
     "be.com.vn": {
       "urls": {
@@ -692,7 +692,7 @@
           "len": 55836
         }
       },
-      "last_run": 1762221799
+      "last_run": 1762308110
     },
     "www.guvico.com": {
       "urls": {
@@ -1865,7 +1865,7 @@
           "len": 9690
         }
       },
-      "last_run": 1762222428
+      "last_run": 1762308930
     },
     "vuatho.com": {
       "urls": {
@@ -3328,9 +3328,17 @@
         "https://vuatho.com/vi/press/tin-tuc/sua-may-bom-tang-ap-sua-may-bom-tai-nha-chuyen-nghiep": {
           "hash": "e435e9c32a64a9303330cfbf14d1f9942d9d64cbfec7ac3981a7a0695f937695",
           "len": 7636
+        },
+        "https://vuatho.com/vi/press/tin-tuc/phao-dien-bon-nuoc-la-gi-tat-tan-tat-ve-phao-dien-bon-nuoc": {
+          "hash": "3d246b05752e621e3976b3af2516481a094514292d36892a6937212320dec6cd",
+          "len": 6495
+        },
+        "https://vuatho.com/vi/press/tin-tuc/phao-dien-va-phao-co-la-gi-nen-dung-loai-nao-tot-nhat": {
+          "hash": "c47ffbb80c722bf36c1549002f244dd33af461e7cd90457bf1af09550bce82d1",
+          "len": 6964
         }
       },
-      "last_run": 1762223215
+      "last_run": 1762309686
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8115,7 +8123,7 @@
           "len": 46826
         }
       },
-      "last_run": 1762227707
+      "last_run": 1762313064
     },
     "giupviectot.vn": {
       "urls": {
@@ -14168,7 +14176,7 @@
           "len": 5604
         }
       },
-      "last_run": 1762229722
+      "last_run": 1762315261
     },
     "vesinhhc.vn": {
       "urls": {
