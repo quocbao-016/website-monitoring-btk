@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1762394528
+      "last_run": 1762480782
     },
     "be.com.vn": {
       "urls": {
@@ -692,7 +692,7 @@
           "len": 55836
         }
       },
-      "last_run": 1762394548
+      "last_run": 1762480800
     },
     "www.guvico.com": {
       "urls": {
@@ -1865,7 +1865,7 @@
           "len": 9690
         }
       },
-      "last_run": 1762395421
+      "last_run": 1762481622
     },
     "vuatho.com": {
       "urls": {
@@ -3344,9 +3344,17 @@
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-dien-lanh-gan-day-tho-chuyen-nghiep-gia-re": {
           "hash": "9a87216c9269f0c397b37ba853d0cfe266b30fc32622fc179e5dc45c42498112",
           "len": 5146
+        },
+        "https://vuatho.com/vi/press/tin-tuc/thay-gas-dieu-hoa-bao-nhieu-tien-cap-nhat-gia-moi-nhat-2025": {
+          "hash": "b800201847142a658cf0a60dc8945c5728ea46d525d9ca7e947affb8eddea2ee",
+          "len": 6918
+        },
+        "https://vuatho.com/vi/press/tin-tuc/nap-gas-may-lanh-dau-hieu-can-nap-va-tai-sao-quan-trong": {
+          "hash": "87105a8f8d93d6f5c466d8724da815e8a1f040cdcf3264e18f45297310e0205d",
+          "len": 5762
         }
       },
-      "last_run": 1762396116
+      "last_run": 1762482280
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8131,7 +8139,7 @@
           "len": 46826
         }
       },
-      "last_run": 1762397804
+      "last_run": 1762485708
     },
     "giupviectot.vn": {
       "urls": {
@@ -14184,7 +14192,7 @@
           "len": 5604
         }
       },
-      "last_run": 1762399790
+      "last_run": 1762487624
     },
     "vesinhhc.vn": {
       "urls": {
