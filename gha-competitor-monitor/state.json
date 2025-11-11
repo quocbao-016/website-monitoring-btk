@@ -631,25 +631,25 @@
           "len": 2284
         }
       },
-      "last_run": 1762740369
+      "last_run": 1762826562
     },
     "be.com.vn": {
       "urls": {
         "https://be.com.vn/tin-tuc/hop-dong-van-chuyen-hanh-khach-theo-hop-dong-dien-tu-xe-o-to/": {
-          "hash": "f0116e4a7086c67573a60b9b9ef9f2fe032e8de7ef4d2d05ed9cb705fdb1afa3",
-          "len": 2964
+          "hash": "73dc9d01b9adb902c4ba439bcf07f2427f2e879d5077609c4524b36be30c5a06",
+          "len": 2945
         },
         "https://be.com.vn/tin-tuc/ra-mat-dich-vu-giao-hang-sieu-re-4h/": {
-          "hash": "533b01d16a4853c106f8f50ac17033adca1789e59bb8e1b25f694dab4b2ffaf0",
-          "len": 3930
+          "hash": "cffd74c047ca22cf5cf04dd85b4e66b2bb0b6c46e42a716aec40829b90c0dee8",
+          "len": 3922
         },
         "https://be.com.vn/be-airport/huong-dan-don-xe-oto-becar-ga-quoc-noi-t3-ga-den-cot-33a-tang-1-tret/": {
           "hash": "43e9fd278247e3f5156dd4f162a0a602cb96af86904cb0078999a55b13673cf5",
           "len": 3946
         },
         "https://be.com.vn/tin-tuc/quy-che-dich-vu-be-di-chung/": {
-          "hash": "1b3f225d96fd7386286f9c2e5783ccac9e20741740af23fc8717a59a25818642",
-          "len": 2883
+          "hash": "89fd41b23261dd79daf6c963f6939182437d4e5903776f58de4c0aa0c727381e",
+          "len": 2875
         },
         "https://be.com.vn/tin-tuc/bedelivery-thu-thach-giao-hang-nhan-bien-hieu-doc-quyen/": {
           "hash": "24bea548e98b549ff75f7843d8a5680ca6a9da219940cfbb4afb74c149f6b040",
@@ -688,11 +688,11 @@
           "len": 7597
         },
         "https://be.com.vn/tin-tuc/danh-sach-truong-goi-xinh-vien/": {
-          "hash": "56af95143b9601bfafa79e47bafe1624d54b8717e1582ad357b3f4bc4eea5cef",
-          "len": 55836
+          "hash": "3160cce1734bd8a80eb63f6db6a5d5a04c0907ac86e5a4292d1764db18dc957d",
+          "len": 55817
         }
       },
-      "last_run": 1762740392
+      "last_run": 1762826582
     },
     "www.guvico.com": {
       "urls": {
@@ -1865,7 +1865,7 @@
           "len": 9690
         }
       },
-      "last_run": 1762741212
+      "last_run": 1762827458
     },
     "vuatho.com": {
       "urls": {
@@ -3346,15 +3346,23 @@
           "len": 5146
         },
         "https://vuatho.com/vi/press/tin-tuc/thay-gas-dieu-hoa-bao-nhieu-tien-cap-nhat-gia-moi-nhat-2025": {
-          "hash": "b800201847142a658cf0a60dc8945c5728ea46d525d9ca7e947affb8eddea2ee",
-          "len": 6918
+          "hash": "c6918cd4d9aac7ec4fc61ca7025e6ca180fe511d3c6092427fdbca944f9a8fef",
+          "len": 6917
         },
         "https://vuatho.com/vi/press/tin-tuc/nap-gas-may-lanh-dau-hieu-can-nap-va-tai-sao-quan-trong": {
           "hash": "87105a8f8d93d6f5c466d8724da815e8a1f040cdcf3264e18f45297310e0205d",
           "len": 5762
+        },
+        "https://vuatho.com/vi/press/tin-tuc/bom-gas-dieu-hoa-bao-nhieu-tiennen-chon-gas-r32-hay-r410a": {
+          "hash": "d4b49a2c25a7189dcc06dab934f30067e359f4bd5ec70f0714cdfaefe8fbf5fc",
+          "len": 8120
+        },
+        "https://vuatho.com/vi/press/tin-tuc/gas-r32-la-gi-nen-chon-gas-r32-hay-gas-r410a": {
+          "hash": "faea993f4fe6b05fca7494fc70359dda935fc9a24868ec164b9d31793e5a6834",
+          "len": 7388
         }
       },
-      "last_run": 1762741880
+      "last_run": 1762828119
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8139,7 +8147,7 @@
           "len": 46826
         }
       },
-      "last_run": 1762743563
+      "last_run": 1762829819
     },
     "giupviectot.vn": {
       "urls": {
@@ -14192,7 +14200,7 @@
           "len": 5604
         }
       },
-      "last_run": 1762745734
+      "last_run": 1762831733
     },
     "vesinhhc.vn": {
       "urls": {
