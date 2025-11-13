@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1762912902
+      "last_run": 1762999399
     },
     "be.com.vn": {
       "urls": {
@@ -692,7 +692,7 @@
           "len": 55781
         }
       },
-      "last_run": 1762912924
+      "last_run": 1762999420
     },
     "www.guvico.com": {
       "urls": {
@@ -1865,7 +1865,7 @@
           "len": 9690
         }
       },
-      "last_run": 1762913814
+      "last_run": 1763000307
     },
     "vuatho.com": {
       "urls": {
@@ -2374,8 +2374,8 @@
           "len": 5690
         },
         "https://vuatho.com/vi/press/doi-song/dat-lich-ve-sinh-may-lanh-tien-loi-tren-app-vua-tho": {
-          "hash": "cd6d72955d38e0264de56d9839bdcf2d7c6e6e8a0b77d3ba650c8267cd235bd5",
-          "len": 7860
+          "hash": "f21edbfd5cf88d7b42d5d58acbd9133013bc494fd1adcef1186b813a76c98ccd",
+          "len": 7861
         },
         "https://vuatho.com/vi/toa-sang-cung-vua-tho": {
           "hash": "798fa8eb2bde0b796ef3891ec1e8f1b48ee6c13c0916c17d729cefb21826f974",
@@ -3370,15 +3370,23 @@
           "len": 2348
         },
         "https://vuatho.com/vi/press/tin-tuc/quat-hut-mui-nha-ve-sinh-la-gi-chi-tiet-nguyen-ly-hoat-dong": {
-          "hash": "efda6ff7a9b0d111e78eda1eec5c7d3c882001a03c2b763df3aa68d78a87c3ff",
-          "len": 5795
+          "hash": "2e039af2139592e9019704ca9b3354a05b68c9782b8738db5330e6871036a6dd",
+          "len": 5799
         },
         "https://vuatho.com/vi/press/tin-tuc/lap-may-giat-tai-nha-gia-re-tho-bao-gia-truoc-khi-lam": {
           "hash": "a9575e878fc8d7b3d79d8373ffca681d94890ba9a9b17835132df786fa2feeef",
           "len": 6898
+        },
+        "https://vuatho.com/vi/press/tin-tuc/voi-xit-bon-cau-loai-nao-tot-nhat-dau-la-loai-ben-bi-nhat": {
+          "hash": "9c5291349e5f0c65c4f68cb35e843c9c2bc33ca49f0c10a1f2e6973d87772a62",
+          "len": 7082
+        },
+        "https://vuatho.com/vi/press/tin-tuc/ong-dong-may-lanh-la-gi-tong-hop-gia-ca-va-vat-tu-lien-quan": {
+          "hash": "9973ac1d1af5056926e9c7f215a61e74d2b39e86abe7a11d9c2f1e62c444f9c4",
+          "len": 12590
         }
       },
-      "last_run": 1762914479
+      "last_run": 1763001008
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8163,7 +8171,7 @@
           "len": 46826
         }
       },
-      "last_run": 1762916171
+      "last_run": 1763002716
     },
     "giupviectot.vn": {
       "urls": {
@@ -14216,7 +14224,7 @@
           "len": 5604
         }
       },
-      "last_run": 1762918089
+      "last_run": 1763004679
     },
     "vesinhhc.vn": {
       "urls": {
