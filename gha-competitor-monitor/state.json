@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1763345009
+      "last_run": 1763431305
     },
     "be.com.vn": {
       "urls": {
@@ -700,7 +700,7 @@
           "len": 2900
         }
       },
-      "last_run": 1763345030
+      "last_run": 1763431327
     },
     "www.guvico.com": {
       "urls": {
@@ -1873,7 +1873,7 @@
           "len": 9690
         }
       },
-      "last_run": 1763345102
+      "last_run": 1763431402
     },
     "vuatho.com": {
       "urls": {
@@ -3412,9 +3412,13 @@
         "https://vuatho.com/vi/press/meo-vat/cach-ve-sinh-may-giat-cua-tren-tai-nha-don-gian-nhung-sach-se": {
           "hash": "4081be7acc732bcca3d1cb7bd0784f470d3f932711d9242c437812b51f07f860",
           "len": 9516
+        },
+        "https://vuatho.com/vi/press/tin-tuc/sua-chua-nuoc-tai-nha-gia-re-tho-chuyen-nghiep-co-bh": {
+          "hash": "94c415d5f5d6bbfbdfd1381406b6712677f3912b6f7abe4884cd430a41863ddc",
+          "len": 6557
         }
       },
-      "last_run": 1763345889
+      "last_run": 1763432168
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8199,7 +8203,7 @@
           "len": 46826
         }
       },
-      "last_run": 1763349727
+      "last_run": 1763435471
     },
     "giupviectot.vn": {
       "urls": {
@@ -9328,8 +9332,8 @@
           "len": 4716
         },
         "https://giupviectot.vn/ve-sinh-cong-nghiep-van-phong/": {
-          "hash": "44a654259e403a8935feb283102a7818d8ea0958b365e1ee050d858f7c3b7e37",
-          "len": 6001
+          "hash": "95ce6ca0ae5eb507b4f2e2ff8c82242437f84cb4a070077d0717363e9f1f13eb",
+          "len": 6016
         },
         "https://giupviectot.vn/dich-vu-giat-sofa-tai-nha-uy/": {
           "hash": "d9c27b28a7e3ac1543b576b168ea1ca65a81585c439cd9348afa6d5b8ad3df46",
@@ -9824,8 +9828,8 @@
           "len": 5028
         },
         "https://giupviectot.vn/viec-lam-tai-nha-thu-cong/": {
-          "hash": "bfc66425ed4a06329e079d7a585a806ec2b435c48e6de63599f238f4b8706c8a",
-          "len": 4796
+          "hash": "d9f0667078e74a14c65ba8840cc5fc7b0dacbc7349a5a7ce6d6847c2118d7c4b",
+          "len": 4811
         },
         "https://giupviectot.vn/bang-gia-giup-viec-theo-gio/": {
           "hash": "8bd561cbb1ae051799b8af19407f49f6e08756f938e4cfccea62f3b198a9276f",
@@ -10648,8 +10652,8 @@
           "len": 4651
         },
         "https://giupviectot.vn/khoi-nghiep-dich-vu-ve-sinh/": {
-          "hash": "4943ae360d57ea1e2d8a35befa043b0d3a9cd69a6fef844faa7bbf23889c8d7e",
-          "len": 7369
+          "hash": "fbaba955a6f1678880b282f193e31de0839c1a6ede39c724910c408fd7f4e4cf",
+          "len": 7384
         },
         "https://giupviectot.vn/ve-sinh-nha-moi-xay-xong/": {
           "hash": "d8b7c92b79bcf56bd1ba71b162c89092823977ab0a4b644240c6c10b8c4c5166",
@@ -10912,8 +10916,8 @@
           "len": 7427
         },
         "https://giupviectot.vn/nhan-giup-viec-gia-dinh/": {
-          "hash": "0a59ba4226fd9dd41b2b470938c0a9036171202046debbb77aac7e314cfa0abf",
-          "len": 4377
+          "hash": "8408fc7bd52ce4a17bf17785616de6b6811fe245cf2f970a05ef1d7c88d11184",
+          "len": 4392
         },
         "https://giupviectot.vn/can-nguoi-lam-gap/": {
           "hash": "1f0c417d2f95efac8158913e76d888b451a90b94eb1768619900f8598d5f86be",
@@ -11604,8 +11608,8 @@
           "len": 8779
         },
         "https://giupviectot.vn/cach-dung-may-giat-lg/": {
-          "hash": "9a89a85cbbecd7b960c7a0148287b1f48c4626062e946973b3c337f50ee816d7",
-          "len": 5698
+          "hash": "a68e6538d7bd082ea9763376227002e40796e4640afb520646df484570396613",
+          "len": 5713
         },
         "https://giupviectot.vn/dich-vu-don-dep-van-phong/": {
           "hash": "14eb788a78087be2198bee6382dc9eae48a34dfc7d99cf11093c036339fae3d6",
@@ -12836,8 +12840,8 @@
           "len": 7076
         },
         "https://giupviectot.vn/dung-dich-ve-sinh-ghe-sofa/": {
-          "hash": "c9744fdc1188b7b0bc9fd6fa517d5889c2988a9cac75b01138b5333b27032118",
-          "len": 5973
+          "hash": "a426bcbe97e4a48f88ac0553d498b3c4e48b21bddc4963588e7a15dcd99512f6",
+          "len": 5988
         },
         "https://giupviectot.vn/cach-giat-ghe-van-phong/": {
           "hash": "47448bd6f52aacff953447c1234730bebd2f13d31423f3ffc88b148479cefb0c",
@@ -13184,8 +13188,8 @@
           "len": 8748
         },
         "https://giupviectot.vn/bang-gia-ve-sinh-cong-nghiep-nam-2020-2/": {
-          "hash": "12d9ff9ac492594cb376adfc669bf964ffecaa9c5e4eca51f0126f2913d716cc",
-          "len": 3127
+          "hash": "36a43ccf7b0c122a07942558be23106f265886c5c4e8847ab6c0e364b23fa763",
+          "len": 3142
         },
         "https://giupviectot.vn/dich-vu-giat-nem-chuyen-nghiep/": {
           "hash": "295ff08eeff776c0f3b15ade5fa810334cb939f2981b357c8d68e43d1230f4bf",
@@ -13904,8 +13908,8 @@
           "len": 3212
         },
         "https://giupviectot.vn/giat-tham-long/": {
-          "hash": "3ad8282d55e1882f7c8585aa250ea62b347eb74fd3cf7d8521a969103225c3bc",
-          "len": 5210
+          "hash": "d967b9449936daf07229aa93a0569e6977fb1d17d1608ea5f85882f08970fcdc",
+          "len": 5225
         },
         "https://giupviectot.vn/giup-viec-theo-gio-chinh-chu/": {
           "hash": "9756dcaf45805ba05f51ed29d047a8a8e17833148a0f25faa838a0aab26977c4",
@@ -14000,8 +14004,8 @@
           "len": 5475
         },
         "https://giupviectot.vn/noi-com-dien-tiet-kiem-dien/": {
-          "hash": "39111b9529d5fd6e973cbb50fc8e3db03c3db54406bd08c6b4917c0725943cce",
-          "len": 5817
+          "hash": "c73855b4360d5d48dbb3119ce5e8fe0e99f2865be53fffb713037c772a12006c",
+          "len": 5832
         },
         "https://giupviectot.vn/ve-sinh-ghe-sofa-vai-bo/": {
           "hash": "8c709f8a0ea133368a40dcb27ea9050dd710d305b664100892abd6d970cd4f1f",
@@ -14264,7 +14268,7 @@
           "len": 5278
         }
       },
-      "last_run": 1763352210
+      "last_run": 1763437960
     },
     "vesinhhc.vn": {
       "urls": {
