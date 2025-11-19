@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1763431305
+      "last_run": 1763517631
     },
     "be.com.vn": {
       "urls": {
@@ -700,7 +700,7 @@
           "len": 2900
         }
       },
-      "last_run": 1763431327
+      "last_run": 1763517651
     },
     "www.guvico.com": {
       "urls": {
@@ -1873,7 +1873,7 @@
           "len": 9690
         }
       },
-      "last_run": 1763431402
+      "last_run": 1763517713
     },
     "vuatho.com": {
       "urls": {
@@ -3416,9 +3416,17 @@
         "https://vuatho.com/vi/press/tin-tuc/sua-chua-nuoc-tai-nha-gia-re-tho-chuyen-nghiep-co-bh": {
           "hash": "94c415d5f5d6bbfbdfd1381406b6712677f3912b6f7abe4884cd430a41863ddc",
           "len": 6557
+        },
+        "https://vuatho.com/vi/press/meo-vat/cach-sua-voi-nuoc-bi-ri-tai-nha-don-gian-hieu-qua-ngay": {
+          "hash": "22e5a5200e73a8525ba2b23640e821e413c26ea5e02cffdb4644c3e1a879110f",
+          "len": 8999
+        },
+        "https://vuatho.com/vi/press/tin-tuc/ve-sinh-may-giat-tai-tphcm-gia-re-co-bao-hanh-dich-vu": {
+          "hash": "e9f9cd1a66c8902a65b4e928c8914b00ef86dba05f55c834fec93a86f1839935",
+          "len": 7191
         }
       },
-      "last_run": 1763432168
+      "last_run": 1763518317
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8203,7 +8211,7 @@
           "len": 46826
         }
       },
-      "last_run": 1763435471
+      "last_run": 1763521643
     },
     "giupviectot.vn": {
       "urls": {
@@ -8752,8 +8760,8 @@
           "len": 6321
         },
         "https://giupviectot.vn/cach-nau-lau-ga-la-giang-ngon/": {
-          "hash": "50759ec7fbb3b04042dd507b3645a5bfd6ffbaeac3ac32e011da0ea2af5ba5b7",
-          "len": 5843
+          "hash": "45c74852ca8ec5dcce9176659f84bbff4f628ffa1bcd5cd2f01dd6627426ef1b",
+          "len": 5858
         },
         "https://giupviectot.vn/dich-vu-ve-sinh-cong-nghiep-gia-re-tai-ha-noi/": {
           "hash": "d489a19ba7659f0291b36ba100f2768ae3a4fe45f7aa5fcd8076c779550ba586",
@@ -10964,8 +10972,8 @@
           "len": 4041
         },
         "https://giupviectot.vn/nguoi-giup-viec/": {
-          "hash": "a6cd97c2c6792785acb811297e5f86a3bd21040299e9c5cfeea4171bc5ea5290",
-          "len": 9250
+          "hash": "4df1411d90acfc07295c503260edf22b56daa27bc6841986944bfdfdd6f8672c",
+          "len": 9265
         },
         "https://giupviectot.vn/muoi-cu-kieu-don-gian-nhat-va-bao-quan-lau-dai/": {
           "hash": "3c38af513543451c413fe179253f9ec30fc99b5a0210fd6f5a25248fb53dff76",
@@ -14268,7 +14276,7 @@
           "len": 5278
         }
       },
-      "last_run": 1763437960
+      "last_run": 1763524923
     },
     "vesinhhc.vn": {
       "urls": {
