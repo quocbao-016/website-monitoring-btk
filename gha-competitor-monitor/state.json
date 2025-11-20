@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1763517631
+      "last_run": 1763603997
     },
     "be.com.vn": {
       "urls": {
@@ -700,7 +700,7 @@
           "len": 2900
         }
       },
-      "last_run": 1763517651
+      "last_run": 1763604029
     },
     "www.guvico.com": {
       "urls": {
@@ -1873,7 +1873,7 @@
           "len": 9690
         }
       },
-      "last_run": 1763517713
+      "last_run": 1763604128
     },
     "vuatho.com": {
       "urls": {
@@ -2082,8 +2082,8 @@
           "len": 2901
         },
         "https://vuatho.com/vi/press/xa-hoi": {
-          "hash": "368505ec38420908dfdd208528b00d790488a17b7240233835cb09d69b76e539",
-          "len": 788
+          "hash": "4b25fe2193fbdeb510a19341be29f4ed72734da3803db5b1ac6cff0b8628b8c4",
+          "len": 1029
         },
         "https://vuatho.com/vi/press/doi-song/dich-vu-ve-sinh-may-lanh-am-tran-tphcm-uy-tin-nhanh-chong": {
           "hash": "fe250fee6ad675c3759a4276ba85986e9587632c067648e3736e959ccf87bac0",
@@ -2178,8 +2178,8 @@
           "len": 5350
         },
         "https://vuatho.com/vi/press/doi-song": {
-          "hash": "70bbd8861cff69cddd0c6189bde1c07216ab619db40bf865286df5b734505504",
-          "len": 790
+          "hash": "5911b9f86cd0e2c76625ce872078297bc9ec0efde2b8b3956fa50f6f03514e8b",
+          "len": 1031
         },
         "https://vuatho.com/vi/press/tin-tuc/thong-cong-nghet-quan-3-gia-re-nhanh-chong-va-an-toan": {
           "hash": "df1dade754c98bf416898928ecc6de2071ccb5b379d206a59c0ca60575ffaf9c",
@@ -2346,12 +2346,12 @@
           "len": 7183
         },
         "https://vuatho.com/vi/press/su-kien": {
-          "hash": "3b0d1c8177ccea4024d330add3bfa9f94286213296df7de2c1aa7b8e75b066f5",
-          "len": 789
+          "hash": "dde6ab9b859437c15072c33a858cfb10be36b50e02ce4d3b9e2b02094b566f16",
+          "len": 1030
         },
         "https://vuatho.com/vi/press": {
-          "hash": "4942f8169f2c42f9a6bddd3a3753723996192ef9b177c8daf4ca454a59c73c6f",
-          "len": 772
+          "hash": "f46ca3ba6f29e62ec13b9e7ae38dadce84bd44f2c039959973764ded37bfddc4",
+          "len": 1024
         },
         "https://vuatho.com/vi/press/doi-song/tai-sao-may-lanh-hay-bi-chay-nuoc-cach-khac-phuc-nhanh-chong1744961093807": {
           "hash": "79a118c25c36918f7a28cd73430abef1dada1c558b5a9d2a0ce8e239e180efeb",
@@ -2670,8 +2670,8 @@
           "len": 6482
         },
         "https://vuatho.com/vi/press/tin-tuc": {
-          "hash": "013ab35eef2abd4fa57d8cdbbcb493e5f66fca903672867b42d0e45471a02d81",
-          "len": 789
+          "hash": "4842fbc3a6be85c0c224a2f59dc12875df732231a1c0273871e1d2b9b05fe451",
+          "len": 1030
         },
         "https://vuatho.com/vi/press/doi-song/nen-mua-may-giat-hang-nao-top-10-may-giat-dang-mua-nhat-2025": {
           "hash": "c5eb0745e91d81237c4a051d0c183d711e3777b982b5f63f8d9cba9e1f0242ec",
@@ -2790,8 +2790,8 @@
           "len": 6743
         },
         "https://vuatho.com/vi/press/meo-vat": {
-          "hash": "b3555c35dcb1abfca9e8ba41df8383a3a37c679d06351ce37d843b7eae4bdba8",
-          "len": 789
+          "hash": "c769797eadc017f89168985a4be24144bce9ca4ae733870ae8da03725a97b943",
+          "len": 1030
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-nuoc-nong-quan-7-tan-tam-gia-re-tai-ngay-vua-tho": {
           "hash": "dbb30d7d8c5fda4cc8d72d7d2311de5b88e541fa0cdbb0c5c40617389be5903f",
@@ -2978,8 +2978,8 @@
           "len": 2916
         },
         "https://vuatho.com/vi/press/cuoc-thi-toa-sang": {
-          "hash": "76a0d0f71acce6ab7df1557cb522ada2badf09263c2c41ec792560c96de3bd95",
-          "len": 804
+          "hash": "18152cb9a0ccb5d5b3306446ef612ed93f3c51b62e8fc7b452f5820f55d787b4",
+          "len": 1045
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-giat-quan-12-nhanh-chong-tho-lanh-nghe-gia-cong-khai": {
           "hash": "0ba0ae64cb0801eab5862fb04cfe6930367a2e36b6f56449930fdaad4b30a275",
@@ -3062,8 +3062,8 @@
           "len": 5804
         },
         "https://vuatho.com/vi/press/cong-nghe": {
-          "hash": "81c58f3fbe13c11020cce4671e04a16a762e8b58b1784e41e430030c87759b1c",
-          "len": 791
+          "hash": "1f9df4b4f8bb3f40c0675e06371a068518873d7aab409ca06492fbc77b906277",
+          "len": 1032
         },
         "https://vuatho.com/vi/press/quy-tac/thong-bao-quan-trong-ve-viec-ap-dung-chinh-sach-dong-phuc1733914332543": {
           "hash": "682c1d3c8d047a5f69f8f28cb3ca65cff0b2e23cdff2d583b1514a632d8977a2",
@@ -3082,8 +3082,8 @@
           "len": 6229
         },
         "https://vuatho.com/vi/press/quy-tac": {
-          "hash": "bf554f49d775fa37b4b54ed05d0deb2ab6764b2b999d5728077307ed3b122122",
-          "len": 789
+          "hash": "f1b7f6fa567a1d5fb7d0349f5e7b7c5c45438eaec5e6319cb2a77bc9057415e9",
+          "len": 1030
         },
         "https://vuatho.com/vi/press/doi-song/che-do-eco-may-lanh-la-gi-co-that-su-tiet-kiem-dien": {
           "hash": "8ea66b2815f295103ec927e96f59f5fb6aca7097440b54d8b97f88a1d5b428ff",
@@ -3422,11 +3422,19 @@
           "len": 8999
         },
         "https://vuatho.com/vi/press/tin-tuc/ve-sinh-may-giat-tai-tphcm-gia-re-co-bao-hanh-dich-vu": {
-          "hash": "e9f9cd1a66c8902a65b4e928c8914b00ef86dba05f55c834fec93a86f1839935",
-          "len": 7191
+          "hash": "e0b89c4d37e56421865ec60f9cfd3d0c4da60386b6c1da1352e8e051ac40a723",
+          "len": 7195
+        },
+        "https://vuatho.com/vi/press/tin-tuc/ve-sinh-may-giat-quan-1-gia-re-tho-bao-gia-truoc-khi-lam": {
+          "hash": "643e4bdeb63011b9ae206adb967c94feff7a909a7449fe282da37506194d878d",
+          "len": 6727
+        },
+        "https://vuatho.com/vi/press/tin-tuc/ve-sinh-may-giat-quan-2-gia-minh-bach-tho-chuyen-nghiep": {
+          "hash": "220d6ee8485251e4fe1e678ac06166d3db282817be3a3ee553602bab17b8a1c2",
+          "len": 6697
         }
       },
-      "last_run": 1763518317
+      "last_run": 1763604830
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8211,7 +8219,7 @@
           "len": 46826
         }
       },
-      "last_run": 1763521643
+      "last_run": 1763606537
     },
     "giupviectot.vn": {
       "urls": {
@@ -14016,8 +14024,8 @@
           "len": 5832
         },
         "https://giupviectot.vn/ve-sinh-ghe-sofa-vai-bo/": {
-          "hash": "8c709f8a0ea133368a40dcb27ea9050dd710d305b664100892abd6d970cd4f1f",
-          "len": 6263
+          "hash": "b5230f6de3513d07d83395866c55a58f4354fed4fd2ea0bc371f83b2701905fe",
+          "len": 6278
         },
         "https://giupviectot.vn/ve-sinh-tham-2/": {
           "hash": "029bb7e1f05e193f274202f6a168c56fb35b9d33ab225e8ee3049ee9fac31a8e",
@@ -14276,7 +14284,7 @@
           "len": 5278
         }
       },
-      "last_run": 1763524923
+      "last_run": 1763609059
     },
     "vesinhhc.vn": {
       "urls": {
