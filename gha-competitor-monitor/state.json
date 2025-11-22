@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1763690458
+      "last_run": 1763776561
     },
     "be.com.vn": {
       "urls": {
@@ -700,7 +700,7 @@
           "len": 2900
         }
       },
-      "last_run": 1763690482
+      "last_run": 1763776582
     },
     "www.guvico.com": {
       "urls": {
@@ -1873,7 +1873,7 @@
           "len": 9690
         }
       },
-      "last_run": 1763690563
+      "last_run": 1763776647
     },
     "vuatho.com": {
       "urls": {
@@ -2886,8 +2886,8 @@
           "len": 4838
         },
         "https://vuatho.com/vi/press/tin-tuc/cong-tac-tu-may-nuoc-nong-la-gi-kham-pha-chi-tiet-tu-a-z": {
-          "hash": "aac450bc74db4b11dcb5fecf74c8c8c1d319e89dd8dab08caa3bbc8fdeb3ef74",
-          "len": 8798
+          "hash": "5a8497930621fe7169ed3e92d320e7e50bdd522c5ca3b177d791113277cd36c3",
+          "len": 8838
         },
         "https://vuatho.com/vi/press/tin-tuc/sua-may-nuoc-nong-quan-9-chuyen-nghiep-gia-re-co-bao-hanh": {
           "hash": "e826f0f663b499b80132e01e359dbc088314be6649a777c8fa7eca44e6ab55d2",
@@ -3444,9 +3444,17 @@
         "https://vuatho.com/vi/press/tin-tuc/ve-sinh-may-giat-quan-4-gia-re-tho-tan-tam-co-bao-hanh": {
           "hash": "49187dd56f439a8626b048e12dbb1efa44239a41a19faae146685837d035d007",
           "len": 6182
+        },
+        "https://vuatho.com/vi/press/tin-tuc/dich-vu-chong-tham-chuyen-nghiep-tho-gioi-gia-re-co-bh": {
+          "hash": "333a5f5a889dd0b8bd68ee6293d95804c68edc40941c9ab9d433785bd24e47f3",
+          "len": 7484
+        },
+        "https://vuatho.com/vi/press/tin-tuc/ve-sinh-may-giat-quan-5-gia-re-dat-tho-qua-app-nhan-1tr-d": {
+          "hash": "8be6aee2d5c02c9f0c79d5776cbf996b35c46360c4e3c914071132ddc94f6d43",
+          "len": 6407
         }
       },
-      "last_run": 1763691665
+      "last_run": 1763777254
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8231,7 +8239,7 @@
           "len": 46826
         }
       },
-      "last_run": 1763693352
+      "last_run": 1763779810
     },
     "giupviectot.vn": {
       "urls": {
@@ -14296,7 +14304,7 @@
           "len": 5278
         }
       },
-      "last_run": 1763695830
+      "last_run": 1763782413
     },
     "vesinhhc.vn": {
       "urls": {
