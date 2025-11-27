@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1764122565
+      "last_run": 1764208830
     },
     "be.com.vn": {
       "urls": {
@@ -700,7 +700,7 @@
           "len": 2900
         }
       },
-      "last_run": 1764122591
+      "last_run": 1764208983
     },
     "www.guvico.com": {
       "urls": {
@@ -1873,7 +1873,7 @@
           "len": 9690
         }
       },
-      "last_run": 1764122656
+      "last_run": 1764209053
     },
     "vuatho.com": {
       "urls": {
@@ -3472,9 +3472,21 @@
         "https://vuatho.com/vi/press/tin-tuc/ve-sinh-may-giat-quan-8-gia-re-tho-chuyen-nghiep": {
           "hash": "f55b60eb03623dd28c6b2abae89fc6a15247b52c096e65e7a70d49d000a92249",
           "len": 7036
+        },
+        "https://vuatho.com/vi/press/tin-tuc/ve-sinh-may-giat-quan-10-gia-re-tho-tan-tam-bao-gia-truoc": {
+          "hash": "62d6f9052497fb30cc5858961cc2d5c6cf73d70ea6da6cbba902f776ef425738",
+          "len": 7698
+        },
+        "https://vuatho.com/vi/press/doi-song/khac-phuc-tu-lanh-bi-moc-sau-1-thoi-gian-khong-su-dung": {
+          "hash": "fd386064c69867dd1282e704793f3f84f2af9f85051382423044a39f919792e9",
+          "len": 5766
+        },
+        "https://vuatho.com/vi/press/tin-tuc/top-9-gach-lat-nha-tam-dep-and-re-dang-lua-chon-nhat-2025": {
+          "hash": "a66e26ae27456b52cde4deecec377d475d8b059032a2831beae1fadd01047aec",
+          "len": 6752
         }
       },
-      "last_run": 1764123422
+      "last_run": 1764209749
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8687,7 +8699,7 @@
           "len": 27382
         }
       },
-      "last_run": 1764125237
+      "last_run": 1764211533
     },
     "giupviectot.vn": {
       "urls": {
@@ -14752,7 +14764,7 @@
           "len": 5278
         }
       },
-      "last_run": 1764127733
+      "last_run": 1764214092
     },
     "vesinhhc.vn": {
       "urls": {
