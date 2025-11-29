@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1764295247
+      "last_run": 1764381608
     },
     "be.com.vn": {
       "urls": {
@@ -700,7 +700,7 @@
           "len": 2900
         }
       },
-      "last_run": 1764295598
+      "last_run": 1764381860
     },
     "www.guvico.com": {
       "urls": {
@@ -1873,7 +1873,7 @@
           "len": 9690
         }
       },
-      "last_run": 1764295673
+      "last_run": 1764381936
     },
     "vuatho.com": {
       "urls": {
@@ -3496,9 +3496,17 @@
         "https://vuatho.com/vi/press/tin-tuc/ve-sinh-may-giat-quan-12-gia-re-tho-gioi-co-bao-hanh-dich-vu1764229001355": {
           "hash": "14b04426ba33f9fce3cef91e48f09c914645ebe07cb1440a45a80a2c1d7ec33e",
           "len": 5949
+        },
+        "https://vuatho.com/vi/press/tin-tuc/ve-sinh-may-giat-quan-tan-binh-gia-re-co-mat-30-phut": {
+          "hash": "54165428826313d27f318f93275d48763b4ba6339ea78486fdb3fca04ac92602",
+          "len": 7123
+        },
+        "https://vuatho.com/vi/press/tin-tuc/ve-sinh-may-giat-quan-phu-nhuan-chuyen-nghiep-tho-gioi": {
+          "hash": "0f0dc46cfa5f5940c155ff3dd8810c2d8610306e511734f49e57bb7da24acef8",
+          "len": 5492
         }
       },
-      "last_run": 1764296381
+      "last_run": 1764382678
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8711,7 +8719,7 @@
           "len": 27382
         }
       },
-      "last_run": 1764298081
+      "last_run": 1764384377
     },
     "giupviectot.vn": {
       "urls": {
@@ -14776,7 +14784,7 @@
           "len": 5278
         }
       },
-      "last_run": 1764300456
+      "last_run": 1764387403
     },
     "vesinhhc.vn": {
       "urls": {
