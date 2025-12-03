@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1764641047
+      "last_run": 1764727439
     },
     "be.com.vn": {
       "urls": {
@@ -700,7 +700,7 @@
           "len": 2881
         }
       },
-      "last_run": 1764641509
+      "last_run": 1764727484
     },
     "www.guvico.com": {
       "urls": {
@@ -1873,7 +1873,7 @@
           "len": 9690
         }
       },
-      "last_run": 1764641571
+      "last_run": 1764727552
     },
     "vuatho.com": {
       "urls": {
@@ -3512,9 +3512,17 @@
         "https://vuatho.com/vi/press/tin-tuc/ve-sinh-may-giat-quan-tan-binh-chuyen-sau-gia-minh-bach": {
           "hash": "fa44af1719b881726aaaa73505beae2a7d7df9687b415885665bf560b2242095",
           "len": 6497
+        },
+        "https://vuatho.com/vi/press/tin-tuc/dich-vu-don-dep-nha-cua-nha-o-toan-dien-gia-cong-khai": {
+          "hash": "e807da36ab4bbc4398daca24a9f7b2423534ffc2b83588938f6cb1adf19d93ce",
+          "len": 9007
+        },
+        "https://vuatho.com/vi/press/tin-tuc/ve-sinh-may-giat-hoc-mon-nhanh-chong-tho-den-nhanh-trong-30p": {
+          "hash": "1b4431d116e6e547749d99e1d4c93dd069d28e92cfa953a7fdf9bbeef4bcd9f7",
+          "len": 6095
         }
       },
-      "last_run": 1764642224
+      "last_run": 1764728238
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8727,7 +8735,7 @@
           "len": 27382
         }
       },
-      "last_run": 1764646282
+      "last_run": 1764732233
     },
     "giupviectot.vn": {
       "urls": {
@@ -14792,7 +14800,7 @@
           "len": 5278
         }
       },
-      "last_run": 1764648414
+      "last_run": 1764734417
     },
     "vesinhhc.vn": {
       "urls": {
