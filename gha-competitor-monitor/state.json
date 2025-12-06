@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1764900356
+      "last_run": 1764986328
     },
     "be.com.vn": {
       "urls": {
@@ -700,7 +700,7 @@
           "len": 2881
         }
       },
-      "last_run": 1764900638
+      "last_run": 1764986702
     },
     "www.guvico.com": {
       "urls": {
@@ -1873,7 +1873,7 @@
           "len": 9690
         }
       },
-      "last_run": 1764900721
+      "last_run": 1764986769
     },
     "vuatho.com": {
       "urls": {
@@ -3514,8 +3514,8 @@
           "len": 6497
         },
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-don-dep-nha-cua-nha-o-toan-dien-gia-cong-khai": {
-          "hash": "a476117333ac12e804622b5276a239d4ff86ad0a1bd43ebc541d238e0a42c482",
-          "len": 9038
+          "hash": "251c15de6986ca39f1fee8d6e107a1d0da8cd8324aed020611c8204f8c19c984",
+          "len": 9289
         },
         "https://vuatho.com/vi/press/tin-tuc/ve-sinh-may-giat-hoc-mon-nhanh-chong-tho-den-nhanh-trong-30p": {
           "hash": "1b4431d116e6e547749d99e1d4c93dd069d28e92cfa953a7fdf9bbeef4bcd9f7",
@@ -3534,11 +3534,23 @@
           "len": 6380
         },
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-don-dep-can-ho-chung-cu-sach-se-100percent-tho-chuyen-nghiep": {
-          "hash": "3c274fb9239191e4d7de7864372834e082e66c0c00d11e7a9892f2de5a69e4de",
-          "len": 5620
+          "hash": "21df6882274caa48256e364d134083f39c5ef277a16cfe6c8f189710108d315d",
+          "len": 7532
+        },
+        "https://vuatho.com/vi/press/tin-tuc/dich-vu-don-dep-ve-sinh-biet-thu-cao-cap-chuyen-nghiep-nhat": {
+          "hash": "1e093a49c4343db3176656dc35f5c3071e76305d6d041449c7a86ea6f2420e0f",
+          "len": 5437
+        },
+        "https://vuatho.com/vi/press/tin-tuc/top-3-ly-do-ban-nen-dat-lich-don-dep-nha-cua-tu-dau-thang-12": {
+          "hash": "a077c1b9c2845aecef8ed6595da40296f6bc759f9c77836cd604a0945618ad56",
+          "len": 7401
+        },
+        "https://vuatho.com/vi/press/tin-tuc/dich-vu-don-dep-nha-cua-don-tet-2025-dat-lich-som-ngay": {
+          "hash": "35f3e4b1fae577c215d20b58bccc4c2e371dffc2f4fa5c6d1c3d61dfc18e40b4",
+          "len": 6438
         }
       },
-      "last_run": 1764901431
+      "last_run": 1764987361
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8751,7 +8763,7 @@
           "len": 27382
         }
       },
-      "last_run": 1764903006
+      "last_run": 1764989584
     },
     "giupviectot.vn": {
       "urls": {
@@ -14816,7 +14828,7 @@
           "len": 5278
         }
       },
-      "last_run": 1764905613
+      "last_run": 1764991728
     },
     "vesinhhc.vn": {
       "urls": {
