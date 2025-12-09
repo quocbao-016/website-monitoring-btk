@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1765159574
+      "last_run": 1765245909
     },
     "be.com.vn": {
       "urls": {
@@ -700,7 +700,7 @@
           "len": 2881
         }
       },
-      "last_run": 1765160216
+      "last_run": 1765245928
     },
     "www.guvico.com": {
       "urls": {
@@ -1873,7 +1873,7 @@
           "len": 9690
         }
       },
-      "last_run": 1765160284
+      "last_run": 1765245997
     },
     "vuatho.com": {
       "urls": {
@@ -3548,9 +3548,17 @@
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-don-dep-nha-cua-don-tet-2025-dat-lich-som-ngay": {
           "hash": "35f3e4b1fae577c215d20b58bccc4c2e371dffc2f4fa5c6d1c3d61dfc18e40b4",
           "len": 6438
+        },
+        "https://vuatho.com/vi/press/meo-vat/10-cach-khu-mui-ghe-sofa-tai-nha-hieu-qua-nhanh-chong": {
+          "hash": "08b78d5a4235eb6d61086f8eeb6a6cf65e064187a21985e6c0ba5a56cd6b9a87",
+          "len": 5411
+        },
+        "https://vuatho.com/vi/press/tin-tuc/giat-sofa-tai-nha-tphcm-gia-re-dich-vu-ve-sinh-sofa": {
+          "hash": "a33583a9e2896c387cbdc42acd221e2a563bdf78088a69641aa12a490f0cc408",
+          "len": 6543
         }
       },
-      "last_run": 1765160904
+      "last_run": 1765246603
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8763,7 +8771,7 @@
           "len": 27382
         }
       },
-      "last_run": 1765162339
+      "last_run": 1765247979
     },
     "giupviectot.vn": {
       "urls": {
@@ -14828,7 +14836,7 @@
           "len": 5278
         }
       },
-      "last_run": 1765164466
+      "last_run": 1765252315
     },
     "vesinhhc.vn": {
       "urls": {
