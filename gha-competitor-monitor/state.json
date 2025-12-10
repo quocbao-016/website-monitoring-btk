@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1765245909
+      "last_run": 1765332436
     },
     "be.com.vn": {
       "urls": {
@@ -700,7 +700,7 @@
           "len": 2881
         }
       },
-      "last_run": 1765245928
+      "last_run": 1765332548
     },
     "www.guvico.com": {
       "urls": {
@@ -1873,7 +1873,7 @@
           "len": 9690
         }
       },
-      "last_run": 1765245997
+      "last_run": 1765332610
     },
     "vuatho.com": {
       "urls": {
@@ -3556,9 +3556,17 @@
         "https://vuatho.com/vi/press/tin-tuc/giat-sofa-tai-nha-tphcm-gia-re-dich-vu-ve-sinh-sofa": {
           "hash": "a33583a9e2896c387cbdc42acd221e2a563bdf78088a69641aa12a490f0cc408",
           "len": 6543
+        },
+        "https://vuatho.com/vi/press/tin-tuc/dich-vu-giat-nem-tai-nha-gia-re-sach-khuan": {
+          "hash": "b25532aff59445e21e743d27bc8500ea948cf98b337528d413d38ca531ef2bdb",
+          "len": 6790
+        },
+        "https://vuatho.com/vi/press/meo-vat/cach-xu-ly-nem-cao-su-bi-uot-tai-nha-hieu-qua": {
+          "hash": "bef663377a8598856535bf04e7e1d3f61b0489831345790632b188b66731a01e",
+          "len": 6280
         }
       },
-      "last_run": 1765246603
+      "last_run": 1765333229
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8771,7 +8779,7 @@
           "len": 27382
         }
       },
-      "last_run": 1765247979
+      "last_run": 1765334571
     },
     "giupviectot.vn": {
       "urls": {
@@ -14836,7 +14844,7 @@
           "len": 5278
         }
       },
-      "last_run": 1765252315
+      "last_run": 1765339126
     },
     "vesinhhc.vn": {
       "urls": {
