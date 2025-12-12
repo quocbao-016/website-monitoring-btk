@@ -631,16 +631,16 @@
           "len": 2284
         }
       },
-      "last_run": 1765418977
+      "last_run": 1765505280
     },
     "be.com.vn": {
       "urls": {
         "https://be.com.vn/tin-tuc/hop-dong-van-chuyen-hanh-khach-theo-hop-dong-dien-tu-xe-o-to/": {
-          "hash": "0265fb5bff4d53f0470840fbe6ecf35fe205bfe563b7b3d6a75bfadaf90ae78c",
+          "hash": "6f9f471153386aa5558ed43ee7bf71ca42202fff5b56eda3e51d2fd65d59544e",
           "len": 2861
         },
         "https://be.com.vn/tin-tuc/ra-mat-dich-vu-giao-hang-sieu-re-4h/": {
-          "hash": "63197f9d0e9fe59db9d85a21a5d250ab62048cf2f2e1388a48ada73b534ea8d5",
+          "hash": "4921214aa78cef26d71ac8d3e6e3399d3254a26349d77037cef5334a0b242d44",
           "len": 3838
         },
         "https://be.com.vn/be-airport/huong-dan-don-xe-oto-becar-ga-quoc-noi-t3-ga-den-cot-33a-tang-1-tret/": {
@@ -660,11 +660,11 @@
           "len": 4774
         },
         "https://be.com.vn/be-airport/huong-dan-don-xe-may-bebike-ga-quoc-noi-t3-duong-18e/": {
-          "hash": "713a49c231245b0fd511e4919c0e9a632217089f19d4f2ab6af879b7a831c0eb",
+          "hash": "d5cd71b6b72cacf1531a0f00c08db1aaab2ac80a6ce33573eb6a7280b9964b74",
           "len": 3918
         },
         "https://be.com.vn/uncategorized/be-group-hoan-thanh-day-du-nghia-vu-thue-2025/": {
-          "hash": "2a7ef9c4824d58f596f52cf2314af815d54007dc4d6cbf5aa5986a1b27a48eb7",
+          "hash": "8679397e4a9043c6d62b6c326cd8bcedacc3300c2b84ee97f3b3f4049dba62b5",
           "len": 4205
         },
         "https://be.com.vn/tin-tuc/hop-dong-van-chuyen-hanh-khach-theo-hop-dong-dien-tu-bang-xe-o-to-be-di-chung/": {
@@ -672,11 +672,11 @@
           "len": 2986
         },
         "https://be.com.vn/uncategorized/be-group-khang-dinh-vi-the-cong-nghe-viet-voi-chien-thang-kep-tai-better-choice-awards-2025/": {
-          "hash": "c5095fefd7ee3f0dffa9c0c5d195ac6fff5b85fccac75f43b22ebc2c7d1f838f",
+          "hash": "89d51bb37741c8aec16a6d0fc88cc4bdf3247a278a7af88fed4d2ac827a8c3e2",
           "len": 6994
         },
         "https://be.com.vn/uncategorized/ra-mat-dich-vu-be-thue-xe-theo-gio-berentals/": {
-          "hash": "4989aecb3f72f510405e54f97f44f964bbe46283021bbfb636002113b0d2a6df",
+          "hash": "e4238d1e16a66b0d778d3aaaf07a032654bba4a9677fbf8686d107f9981b64f5",
           "len": 4547
         },
         "https://be.com.vn/be-airport/huong-dan-don-xe-oto-becar-ga-quoc-noi-t3-ga-den-cot-49-54-tang-1-tret/": {
@@ -684,23 +684,23 @@
           "len": 3946
         },
         "https://be.com.vn/uncategorized/be-group-dat-loi-nhuan-ebitda-duong-duoc-vinh-danh-doanh-nghiep-xuat-sac-chau-a-tai-apea-2025/": {
-          "hash": "3d12b775654bc40532e33007b950ced0d4328b702d5924fce5a0b3ff7e17c84e",
+          "hash": "a835531e204c9f257e62b061f55cfefadeedbfe06a70563991e2ea457b118fde",
           "len": 7578
         },
         "https://be.com.vn/tin-tuc/danh-sach-truong-goi-xinh-vien/": {
-          "hash": "1c8c51f4fea912d0e01cf4060ea4b03f9df05408d4ab06807fe0a479d47e5f9e",
+          "hash": "4c0e62518033eeef6c7125058427a49adb064a44515385c09daf9d48700daf95",
           "len": 55762
         },
         "https://be.com.vn/uncategorized/ra-mat-dich-vu-becar-tuyen/": {
-          "hash": "6429ef5dbc067b7bc59c4916bfa7e8f8bf60cda27fa54b562456dd4a8bc7a3f4",
+          "hash": "1b9ac37dd674180470feb4d4d332d802cd4052a6cf4b44d104226e8453809006",
           "len": 3563
         },
         "https://be.com.vn/tin-tuc/79990/": {
-          "hash": "b170511db05a2478f9fa2da8f7805b140f89744ea2c01ee0477106e54a3a0929",
+          "hash": "2a2d272b3beb90ffbb04de0199e81f0fdd4243851524e710ffc0b435d6982e03",
           "len": 2881
         }
       },
-      "last_run": 1765419189
+      "last_run": 1765506987
     },
     "www.guvico.com": {
       "urls": {
@@ -1873,7 +1873,7 @@
           "len": 9690
         }
       },
-      "last_run": 1765419268
+      "last_run": 1765507054
     },
     "vuatho.com": {
       "urls": {
@@ -3572,9 +3572,17 @@
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-giat-rem-cua-man-cua-tai-nha-lay-ngay-tho-chuyen-nghiep": {
           "hash": "1193b2fefc324e088a8e58abbbc14dc2266829883725b86b7012f4c0f2ac1a4d",
           "len": 6162
+        },
+        "https://vuatho.com/vi/press/tin-tuc/giat-ghe-van-phong-tai-tphcm-gia-re-tho-chuyen-nghiep": {
+          "hash": "12010f527682f0e926cf222640df885c51f11bf646ea8d084509d742030a2022",
+          "len": 6051
+        },
+        "https://vuatho.com/vi/press/tin-tuc/dich-vu-giat-tham-van-phong-tham-trang-tri-tai-tphcm": {
+          "hash": "6788d21b55c4a46dd40cbd6b9f3b9a72c9781305c9913b8190b9d2da55d4a0c8",
+          "len": 5954
         }
       },
-      "last_run": 1765420024
+      "last_run": 1765507710
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8787,7 +8795,7 @@
           "len": 27382
         }
       },
-      "last_run": 1765423245
+      "last_run": 1765509052
     },
     "giupviectot.vn": {
       "urls": {
@@ -14852,7 +14860,7 @@
           "len": 5278
         }
       },
-      "last_run": 1765425766
+      "last_run": 1765513086
     },
     "vesinhhc.vn": {
       "urls": {
