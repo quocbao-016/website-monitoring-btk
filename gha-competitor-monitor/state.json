@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1765505280
+      "last_run": 1765591306
     },
     "be.com.vn": {
       "urls": {
@@ -700,7 +700,7 @@
           "len": 2881
         }
       },
-      "last_run": 1765506987
+      "last_run": 1765592990
     },
     "www.guvico.com": {
       "urls": {
@@ -1873,7 +1873,7 @@
           "len": 9690
         }
       },
-      "last_run": 1765507054
+      "last_run": 1765593052
     },
     "vuatho.com": {
       "urls": {
@@ -3580,9 +3580,17 @@
         "https://vuatho.com/vi/press/tin-tuc/dich-vu-giat-tham-van-phong-tham-trang-tri-tai-tphcm": {
           "hash": "6788d21b55c4a46dd40cbd6b9f3b9a72c9781305c9913b8190b9d2da55d4a0c8",
           "len": 5954
+        },
+        "https://vuatho.com/vi/press/tin-tuc/ve-sinh-cong-nghiep-tphcm-chuyen-nghiep-thi-cong-chuan": {
+          "hash": "5e6478455b592f169000d09e666eba18611038ae1b12c807ee1aa5920b61278f",
+          "len": 4793
+        },
+        "https://vuatho.com/vi/press/tin-tuc/dich-vu-ve-sinh-nha-xuong-chuyen-nghiep-thi-cong-chuan-gmp": {
+          "hash": "c5c0edf35cb9fc5bc855d54127fc9b547a0b6a941813a91152c55f6fa89a3a62",
+          "len": 4766
         }
       },
-      "last_run": 1765507710
+      "last_run": 1765593785
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8795,7 +8803,7 @@
           "len": 27382
         }
       },
-      "last_run": 1765509052
+      "last_run": 1765595475
     },
     "giupviectot.vn": {
       "urls": {
@@ -14860,7 +14868,7 @@
           "len": 5278
         }
       },
-      "last_run": 1765513086
+      "last_run": 1765597559
     },
     "vesinhhc.vn": {
       "urls": {
