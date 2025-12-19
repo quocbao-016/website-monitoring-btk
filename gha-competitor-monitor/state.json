@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1766023496
+      "last_run": 1766110064
     },
     "be.com.vn": {
       "urls": {
@@ -700,7 +700,7 @@
           "len": 2881
         }
       },
-      "last_run": 1766023531
+      "last_run": 1766110124
     },
     "www.guvico.com": {
       "urls": {
@@ -1873,7 +1873,7 @@
           "len": 9690
         }
       },
-      "last_run": 1766023596
+      "last_run": 1766110186
     },
     "vuatho.com": {
       "urls": {
@@ -2314,8 +2314,8 @@
           "len": 6009
         },
         "https://vuatho.com/vi/press/doi-song/tham-khao-bang-gia-sua-may-lanh-cap-nhat-2025": {
-          "hash": "c7ffd258014fba16897969f777093ac8fa496dde30f24b3ac1af351f9990667a",
-          "len": 4365
+          "hash": "4e573ddf0b5402d6caba042e188fb10d345b2a9cd6770603fbed46f672b5ad97",
+          "len": 4366
         },
         "https://vuatho.com/vi/formal-dress-code": {
           "hash": "ccb02536ee12f581acc99afdaf13a218b8b3eb1f4c30be4f72c94ff5f98f4fa0",
@@ -3612,9 +3612,17 @@
         "https://vuatho.com/vi/press/meo-vat/top-15-y-tuong-trang-tri-noel-2025-don-gian-tai-nha-and-tiet-kiem-chi-phi-nha": {
           "hash": "317da901adfb86da7b5f81da7c50ccf0e9d32ffee4b874b0666f3b6f84fad8ba",
           "len": 7688
+        },
+        "https://vuatho.com/vi/press/tin-tuc/nhung-cau-chuc-tet-ngan-gon-hay-va-y-nghia-nhat-2025": {
+          "hash": "61420b785fb7080ddda8fcb41b0d84e143dd9a268eccc5e15acc0455b90dd9d6",
+          "len": 6464
+        },
+        "https://vuatho.com/vi/press/meo-vat/20-y-tuong-trang-tri-noel-van-phong-2025-moi-and-dep-nhat": {
+          "hash": "c3f505f218038c25d2e3bdbad285435db1b1fdc8f8567ae01076b87488a95248",
+          "len": 6220
         }
       },
-      "last_run": 1766024258
+      "last_run": 1766110906
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8827,7 +8835,7 @@
           "len": 27382
         }
       },
-      "last_run": 1766024709
+      "last_run": 1766113552
     },
     "giupviectot.vn": {
       "urls": {
@@ -10456,8 +10464,8 @@
           "len": 4811
         },
         "https://giupviectot.vn/bang-gia-giup-viec-theo-gio/": {
-          "hash": "1621567c52ab1503faf9f70d2011cdb24319baa13646ee97be109c9c9363eb77",
-          "len": 3518
+          "hash": "8bd561cbb1ae051799b8af19407f49f6e08756f938e4cfccea62f3b198a9276f",
+          "len": 3519
         },
         "https://giupviectot.vn/cach-luoc-pheo-non-gion/": {
           "hash": "2b5111d4845e2c0ebad351a5ca84e26a6ebdb4e0c94d1922ba07d747569d19ed",
@@ -11644,8 +11652,8 @@
           "len": 4138
         },
         "https://giupviectot.vn/giup-viec-theo-gio-ha-noi/": {
-          "hash": "c23be434994dc8327d53c9b95eabb28b2d1a63a59119a0166bd8e7cf47034de4",
-          "len": 2446
+          "hash": "c55f1411862ab3fab27532f2ec31b34f43660e62fe5461fb603207ae7f2ee773",
+          "len": 2447
         },
         "https://giupviectot.vn/tong-hop-cac-mon-an-hang-ngay/": {
           "hash": "90c81778ecb1304959aa1d2a8979ac7d47ac8059dc0940bd1ce27b2121e537b5",
@@ -12176,8 +12184,8 @@
           "len": 6629
         },
         "https://giupviectot.vn/gioi-thieu-giup-viec-tot/": {
-          "hash": "b73d68eb0d5900633ac0240122e0764c05e97b55356dd8b6df6a62a9c0cf2f1d",
-          "len": 3509
+          "hash": "11443f88ee858cfd9080de821da1f3a07e11a5461b83062dc00d87c417e849ab",
+          "len": 3510
         },
         "https://giupviectot.vn/giup-viec-theo-gio-tai-tay-ho/": {
           "hash": "5dafecbe847313ab8b59ba748bf8e846c5ebefcf76af0143bc1ef3285eb818f2",
@@ -14892,7 +14900,7 @@
           "len": 5278
         }
       },
-      "last_run": 1766031751
+      "last_run": 1766115759
     },
     "vesinhhc.vn": {
       "urls": {
