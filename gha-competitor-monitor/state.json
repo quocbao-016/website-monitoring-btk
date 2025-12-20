@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1766110064
+      "last_run": 1766196149
     },
     "be.com.vn": {
       "urls": {
@@ -698,9 +698,117 @@
         "https://be.com.vn/tin-tuc/79990/": {
           "hash": "2a2d272b3beb90ffbb04de0199e81f0fdd4243851524e710ffc0b435d6982e03",
           "len": 2881
+        },
+        "https://be.com.vn/khach-hang-doanh-nghiep/becorporate/": {
+          "hash": "5da7c463f3b1186b72bdd743522e350702a9f4497d4df7548450409722b1923b",
+          "len": 3399
+        },
+        "https://be.com.vn/khach-hang-ca-nhan/ve-may-bay/": {
+          "hash": "96dcbfcd6faaf5b60aca0ead0b1035cea4a345d151ed9cfab6d39926c8a95d99",
+          "len": 2633
+        },
+        "https://be.com.vn/tai-xe/huong-dan-dang-ky-becar/": {
+          "hash": "742fc9cc2e5c9afa4a0711e5972f8651c937d6b3c00a19e5d81c5adf5425f927",
+          "len": 6770
+        },
+        "https://be.com.vn/ho-tro/privacy-policy/": {
+          "hash": "c70097dd82851c064340b768eb552ed7fe2156013047364e5a0484fda267eadc",
+          "len": 2288
+        },
+        "https://be.com.vn/khach-hang-ca-nhan/ve-xe-khach/": {
+          "hash": "a8ec084694e1c23081a102f5b42ce313eed41e6bb6f35356748b63ec323cd9dd",
+          "len": 2625
+        },
+        "https://be.com.vn/khach-hang-ca-nhan/": {
+          "hash": "4187dc881649bb0ffa0f25d7de758787911103ec6b21bb716a284d4178871bcd",
+          "len": 4208
+        },
+        "https://be.com.vn/doi-tac-nha-hang/bo-quy-tac-ung-xu-cua-doi-tac-nha-hang/": {
+          "hash": "0ef84dc6d521f92ac4802d8403244b33db41ff4691cde1d1a25c1664ac3cba12",
+          "len": 2337
+        },
+        "https://be.com.vn/ho-tro/": {
+          "hash": "dfb556a4fa732362cd2dcc670fc930ee16232c40072d48970555401be1fe9677",
+          "len": 2701
+        },
+        "https://be.com.vn/khach-hang-ca-nhan/bao-hiem-xe/": {
+          "hash": "b77c82263ef4abd94abcdb197073f9f17eb2fc0bdf0a2a6c7796bb7dfb135fc9",
+          "len": 2494
+        },
+        "https://be.com.vn/ve-be/": {
+          "hash": "577392048b768e3605a8c65dd19b5f69e476a0ed1f38df22c7519eefbb185e43",
+          "len": 4193
+        },
+        "https://be.com.vn/khach-hang-doanh-nghiep/": {
+          "hash": "1709bf6d309b090940c102a58e86009d86e1b866f169cb7d6b695e124a76b41b",
+          "len": 2815
+        },
+        "https://be.com.vn/tin-tuc/uu-dai-cua-cake-danh-cho-khach-hang-be/": {
+          "hash": "7e33d0e3b5fe0440e4cc28799804b081b844bb059da9bab7e3f4128cee6cff36",
+          "len": 3543
+        },
+        "https://be.com.vn/khach-hang-ca-nhan/be-clean/": {
+          "hash": "e1add44dfaae96879540e496b3002f4df029bd4d50b8b79242da21658e58901c",
+          "len": 3477
+        },
+        "https://be.com.vn/khach-hang-ca-nhan/dich-vu-van-chuyen/": {
+          "hash": "cad44fb0871cd0576e509b7250ee59c0ef91a0e4693ecba71f646e4d0dc5f323",
+          "len": 181729
+        },
+        "https://be.com.vn/ho-tro/cau-hoi-thuong-gap/": {
+          "hash": "640f67116e5511bbef0326e3e96c7c721487fa80120371c4a7d794e3e026800d",
+          "len": 20326
+        },
+        "https://be.com.vn/khach-hang-ca-nhan/beloyalty/": {
+          "hash": "dff028f3bb9b1261ec3e597c1b1236a201f401a9441405a8f3648ed557a2852d",
+          "len": 5081
+        },
+        "https://be.com.vn/tai-xe/": {
+          "hash": "0c085b433785af5230cf6977915bdbb21b6fdadd99c765135d54409b3a933e32",
+          "len": 3064
+        },
+        "https://be.com.vn/khach-hang-ca-nhan/nap-tien-dien-thoai-3g-4g/": {
+          "hash": "b64fbdab79cb839211d9ccce541485425d4d71b8529bc7a1119cbcf42737193d",
+          "len": 2520
+        },
+        "https://be.com.vn/khach-hang-ca-nhan/ve-tau-hoa/": {
+          "hash": "10f229b9fe59996ad441b0425a505a58e2bd15a1c57ef28d07260e29423cd0c7",
+          "len": 2606
+        },
+        "https://be.com.vn/huong-dan-dang-ky-chuong-trinh-khuyen-mai-dong-tai-tro-cung-befood/": {
+          "hash": "6989a1e83e53bc053a64b31fc5560ee11a70a476c6578ca7a49f694acf2b1075",
+          "len": 2382
+        },
+        "https://be.com.vn/trungtambe5x/": {
+          "hash": "3dd2aa28efaf5e586f74e82175552b76d3f858ce94f8d4b6868ab02b97f3fdc1",
+          "len": 2254
+        },
+        "https://be.com.vn/khach-hang-doanh-nghiep/beads/": {
+          "hash": "437495730bce9b5cfc4f2e395b4151141617e68b51f3a4b3781898dd9882ea9a",
+          "len": 4365
+        },
+        "https://be.com.vn/tai-xe/huong-dan-dang-ky-bebike/": {
+          "hash": "628ca8d8e241ef5ca6cb69c26fa8ea1af7f455d718c76a4485c306ccfbdf8612",
+          "len": 5292
+        },
+        "https://be.com.vn/chuong-trinh-thuong/hcm/": {
+          "hash": "e4d4a8f1e4950e95c4407677d28f8cda9f5bea340ba520634b1a39e25446240a",
+          "len": 11839
+        },
+        "https://be.com.vn/khach-hang-ca-nhan/tin-tuc-bao-chi/": {
+          "hash": "cc822e2065a246ced6fa0c2242bbc2284ae200c79da8ed9b3307f96b9d7ee62f",
+          "len": 3444
+        },
+        "https://be.com.vn/": {
+          "hash": "a6941fa6230797348414d774ce0310187e0337ed43407dab8275856d8deec061",
+          "len": 2927
+        },
+        "https://be.com.vn/khach-hang-ca-nhan/dich-vu-giao-hang/": {
+          "hash": "6d80bee9fa366bf25668fc70359a14bb78f8d27112edf6a73d98e3c6b5b8d6a5",
+          "len": 13750
         }
       },
-      "last_run": 1766110124
+      "last_run": 1766196218
     },
     "www.guvico.com": {
       "urls": {
@@ -1873,7 +1981,7 @@
           "len": 9690
         }
       },
-      "last_run": 1766110186
+      "last_run": 1766196289
     },
     "vuatho.com": {
       "urls": {
@@ -3620,9 +3728,21 @@
         "https://vuatho.com/vi/press/meo-vat/20-y-tuong-trang-tri-noel-van-phong-2025-moi-and-dep-nhat": {
           "hash": "c3f505f218038c25d2e3bdbad285435db1b1fdc8f8567ae01076b87488a95248",
           "len": 6220
+        },
+        "https://vuatho.com/vi/press/meo-vat/nam-2026-la-tuoi-con-gi-tong-quan-tu-vi-and-mau-hop-menh": {
+          "hash": "55d90d502592f1200aa5a3b0a7edcd544618a2b4382f2e4a3bb63d6809d9f333",
+          "len": 5015
+        },
+        "https://vuatho.com/vi/press/tin-tuc/dich-vu-son-nha-gia-re-tai-hcm-thi-cong-24h-tho-chuyen-nghiep": {
+          "hash": "d4081ae67a44f26373f234e14f450e5b8924a950487874369685bbc68054a9ed",
+          "len": 5319
+        },
+        "https://vuatho.com/vi/press/meo-vat/tet-di-du-lich-o-dau-top-10-diem-den-hot-nhat-2026": {
+          "hash": "b025863fc934f36e77a435dbc569a93211584ad1f8b0be181dd0f87d6b40a346",
+          "len": 5737
         }
       },
-      "last_run": 1766110906
+      "last_run": 1766197059
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -8835,7 +8955,7 @@
           "len": 27382
         }
       },
-      "last_run": 1766113552
+      "last_run": 1766199967
     },
     "giupviectot.vn": {
       "urls": {
@@ -14900,7 +15020,7 @@
           "len": 5278
         }
       },
-      "last_run": 1766115759
+      "last_run": 1766202323
     },
     "vesinhhc.vn": {
       "urls": {
