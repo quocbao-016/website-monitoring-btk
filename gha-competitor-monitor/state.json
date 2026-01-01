@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1767147081
+      "last_run": 1767234484
     },
     "be.com.vn": {
       "urls": {
@@ -812,7 +812,7 @@
           "len": 5139
         }
       },
-      "last_run": 1767147114
+      "last_run": 1767234798
     },
     "www.guvico.com": {
       "urls": {
@@ -1985,7 +1985,7 @@
           "len": 9690
         }
       },
-      "last_run": 1767147147
+      "last_run": 1767234833
     },
     "vuatho.com": {
       "urls": {
@@ -3792,9 +3792,17 @@
         "https://vuatho.com/vi/press/meo-vat/cung-tat-nien-cong-ty-nam-2026-y-nghia-and-van-khan-chuan-nhat": {
           "hash": "d09f8280349c510063b92b41a540ce0f35c62abed120863bd87204dee21c2ef4",
           "len": 6415
+        },
+        "https://vuatho.com/vi/press/meo-vat/menh-hoa-hop-mau-trang-khong-bi-quyet-phoi-mau-son-nha-chuan": {
+          "hash": "240b1de4438548d4b1c0942e4a2cede682c14fcaa1a0c0177e0ca8aaf8326de9",
+          "len": 5600
+        },
+        "https://vuatho.com/vi/press/meo-vat/moc-va-tho-co-hop-nhau-khong-meo-hoa-giai-moc-khac-tho-chuan-phong-thuy-2026": {
+          "hash": "50780f3e667d679138c53be147be6829782e4ff4d194a1f721ad45dd5f1e8806",
+          "len": 6147
         }
       },
-      "last_run": 1767147960
+      "last_run": 1767235651
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -9063,7 +9071,7 @@
           "len": 50593
         }
       },
-      "last_run": 1767151017
+      "last_run": 1767237350
     },
     "giupviectot.vn": {
       "urls": {
@@ -15128,7 +15136,7 @@
           "len": 5278
         }
       },
-      "last_run": 1767153421
+      "last_run": 1767239779
     },
     "vesinhhc.vn": {
       "urls": {
