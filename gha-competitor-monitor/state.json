@@ -631,17 +631,17 @@
           "len": 2284
         }
       },
-      "last_run": 1767665544
+      "last_run": 1767751964
     },
     "be.com.vn": {
       "urls": {
         "https://be.com.vn/tin-tuc/hop-dong-van-chuyen-hanh-khach-theo-hop-dong-dien-tu-xe-o-to/": {
-          "hash": "a5c34f55b23684acbae8ba1c4dcc2b6184eeda4e10db784a343c3b38f6c928ac",
-          "len": 2836
+          "hash": "1f5f443b6117dd0422248607afada7a958a2de248e23876b35f096daed27af2f",
+          "len": 2873
         },
         "https://be.com.vn/tin-tuc/ra-mat-dich-vu-giao-hang-sieu-re-4h/": {
-          "hash": "73190cd48b8f9234cffd5720753a54b9c477bf01ad96a7640207c71af586a346",
-          "len": 3813
+          "hash": "3fbd59ea46d5e25ba0261ff1bb285dbe41fd7cb933baffbb534e494296ac13af",
+          "len": 3850
         },
         "https://be.com.vn/be-airport/huong-dan-don-xe-oto-becar-ga-quoc-noi-t3-ga-den-cot-33a-tang-1-tret/": {
           "hash": "43e9fd278247e3f5156dd4f162a0a602cb96af86904cb0078999a55b13673cf5",
@@ -680,16 +680,16 @@
           "len": 4522
         },
         "https://be.com.vn/be-airport/huong-dan-don-xe-oto-becar-ga-quoc-noi-t3-ga-den-cot-49-54-tang-1-tret/": {
-          "hash": "43e9fd278247e3f5156dd4f162a0a602cb96af86904cb0078999a55b13673cf5",
-          "len": 3946
+          "hash": "8c457f8cba831cb288bb8a4f09ed5bcb15be31c0077b308a9a878f24f4414d20",
+          "len": 3902
         },
         "https://be.com.vn/uncategorized/be-group-dat-loi-nhuan-ebitda-duong-duoc-vinh-danh-doanh-nghiep-xuat-sac-chau-a-tai-apea-2025/": {
           "hash": "bd13b02c3f7ecd365ee5166bb148c69d0b1f40f9028e3d5920617406f597f995",
           "len": 7553
         },
         "https://be.com.vn/tin-tuc/danh-sach-truong-goi-xinh-vien/": {
-          "hash": "e083f91e15258a23e7a008e344f2811c72dc77016bcdd8b8c3121647847694f6",
-          "len": 55737
+          "hash": "b6550ed6648b1f3dc1c1a71aa5fb13694acccc67afdef8f16ae9692147643103",
+          "len": 55745
         },
         "https://be.com.vn/uncategorized/ra-mat-dich-vu-becar-tuyen/": {
           "hash": "7be5b50829878082d3b117199ed5efe6b3177fd897d83fb542726b8b80031bcb",
@@ -812,7 +812,7 @@
           "len": 5139
         }
       },
-      "last_run": 1767665574
+      "last_run": 1767751996
     },
     "www.guvico.com": {
       "urls": {
@@ -1985,7 +1985,7 @@
           "len": 9690
         }
       },
-      "last_run": 1767665621
+      "last_run": 1767752035
     },
     "vuatho.com": {
       "urls": {
@@ -3808,9 +3808,17 @@
         "https://vuatho.com/vi/press/meo-vat/le-vat-cung-dong-tho-xay-nha-don-gian-chuan-phong-thuy-2026": {
           "hash": "87d22701c90e2c0cda4781931999a394230e0c9b66c1e06748bad0e8aa8c601c",
           "len": 7220
+        },
+        "https://vuatho.com/vi/press/meo-vat/tao-mo-la-gi-huong-dan-van-khan-tao-mo-chuan-phong-thuy-2026": {
+          "hash": "7cec288ee24294eb47cc874174497bff888b5f8d4902306b0b60aefb20af3ba5",
+          "len": 5822
+        },
+        "https://vuatho.com/vi/press/meo-vat/huong-bep-la-gi-nha-huong-nam-dat-bep-huong-nao": {
+          "hash": "62f6ed9930c3c39f10d6fbf8d5a0ab64df41bb77d36d639d22c801d86772d090",
+          "len": 5902
         }
       },
-      "last_run": 1767666354
+      "last_run": 1767752816
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -9079,7 +9087,7 @@
           "len": 50593
         }
       },
-      "last_run": 1767668065
+      "last_run": 1767754552
     },
     "giupviectot.vn": {
       "urls": {
@@ -15144,7 +15152,7 @@
           "len": 5278
         }
       },
-      "last_run": 1767672732
+      "last_run": 1767756901
     },
     "vesinhhc.vn": {
       "urls": {
