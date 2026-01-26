@@ -631,7 +631,7 @@
           "len": 2284
         }
       },
-      "last_run": 1769308255
+      "last_run": 1769394600
     },
     "be.com.vn": {
       "urls": {
@@ -792,7 +792,7 @@
           "len": 5287
         },
         "https://be.com.vn/chuong-trinh-thuong/hcm/": {
-          "hash": "4d5ee9c53169d1e5820196cd2bdfa7da15a6c0e2112bfb10d306e6d100b210be",
+          "hash": "5cd9256b8ad9a2e2067548cdf0e0d3c93b8a5c4a6202ed38105094e63446778e",
           "len": 11106
         },
         "https://be.com.vn/khach-hang-ca-nhan/tin-tuc-bao-chi/": {
@@ -816,7 +816,7 @@
           "len": 562196
         }
       },
-      "last_run": 1769308306
+      "last_run": 1769394654
     },
     "www.guvico.com": {
       "urls": {
@@ -1989,7 +1989,7 @@
           "len": 9690
         }
       },
-      "last_run": 1769308342
+      "last_run": 1769394684
     },
     "vuatho.com": {
       "urls": {
@@ -3930,7 +3930,7 @@
           "len": 4369
         }
       },
-      "last_run": 1769309050
+      "last_run": 1769395400
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -9199,7 +9199,7 @@
           "len": 50593
         }
       },
-      "last_run": 1769309937
+      "last_run": 1769396301
     },
     "giupviectot.vn": {
       "urls": {
@@ -15276,692 +15276,692 @@
           "len": 7368
         }
       },
-      "last_run": 1769316734
+      "last_run": 1769403820
     },
     "vesinhhc.vn": {
       "urls": {
         "https://vesinhhc.vn/dich-vu-ve-sinh-van-phong-nao-nen-chon/": {
-          "hash": "3c5701f503f002cdc21099d6fd39ea0e9b2b6cd23980eba0efe6b9a37423ce48",
-          "len": 10129
+          "hash": "194416662cff9fa0d4c84504b49e4a3a5eb8dd97efa7882110b1a9e342b63b09",
+          "len": 10153
         },
         "https://vesinhhc.vn/don-dep-van-phong-tao-khong-gian-lam-viec-tich-cuc/": {
-          "hash": "940b74787dc544dc974336cfe6bed2964cde5a43c3478ed0f7dd6c09db2e94a0",
-          "len": 12277
+          "hash": "c86252c1628c76ebfc8ecb07a4e5c10fa7d797926fb5f65cfdefdaae31783aec",
+          "len": 12316
         },
         "https://vesinhhc.vn/ve-sinh-khu-noi-tru-tao-moi-truong-song-sach-se/": {
-          "hash": "4b80cb5c9354e32c3fc02318589a2227581eed8c6e88e723c87bc3160bf1cc32",
-          "len": 8312
+          "hash": "8895ed6747d22cb3521eec16e65699042e6980a9a746dc2b0ec79030cbb246fa",
+          "len": 8319
         },
         "https://vesinhhc.vn/ve-sinh-van-phong-lam-viec-moi-truong-nhat-nang-suat/": {
-          "hash": "aa2f05e4ed2d9f2d8bef013c864daa04349e68ec375b82f56cf86ed6c5d12e56",
-          "len": 9565
+          "hash": "7c3a476e82ea7e8d33c6c3933c4af3ca88b7dc79d0898c92c5b4a0718aa0e05a",
+          "len": 9533
         },
         "https://vesinhhc.vn/tai-khoan/": {
           "hash": "17e3cadefd578419dc021b57cc70fcc4f744332408698c8ddb6c6044bec6e4fb",
           "len": 1399
         },
         "https://vesinhhc.vn/giat-ghe-o-to-bao-ve-suc-khoe-giu-gin-noi-that-xe/": {
-          "hash": "f71ad047f938b15ae128b28e060c966fe5816e0e7f003304fb58e9fe6e775869",
-          "len": 8864
+          "hash": "d277c81180b158a865083f69541287bb83088bb142b7eacb13dd32685a3ae3cb",
+          "len": 8920
         },
         "https://vesinhhc.vn/ve-sinh-khu-cong-nghiep-va-cach-thuc-hien-hieu-qua/": {
-          "hash": "22414f471dadb735fe296686c51a8d970117b5dc0ed5f5b3a7b0272e369aaa1d",
-          "len": 8127
+          "hash": "7c4ff6c523fbf927ffe776f35615def1129fc6a7e8d72e6f863e919bf95402c9",
+          "len": 8179
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-cong-nghiep/": {
-          "hash": "d2045dff56340a8f285e88d7e17a0a208ea0cecdae37a58eabbe8ec5be45104b",
-          "len": 9143
+          "hash": "14a3973e86ca247e9af9746f2bcf564628de6e88f23faaec5edbbac50d0afe1a",
+          "len": 9119
         },
         "https://vesinhhc.vn/tim-hieu-cong-ty-ve-sinh-van-phong-nao-tot-nhat/": {
-          "hash": "0d25b9b31d0251a4386363aa9994485026a92c19b912e14515f2986d36c3d930",
-          "len": 10218
+          "hash": "de099712a0c13a7b8076ac37da383e039926e82e75f74947809e7330eb212e72",
+          "len": 10200
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-tai-benh-vien-da-khoa-ha-noi/": {
-          "hash": "68f2e3f1b782defd46958e14de2891edb99bba8c7e21d867eda19becc4c21c2f",
-          "len": 3402
+          "hash": "e096a2a879fea7f0df054ef310431a20975f05e294937e1f65ca559617b10115",
+          "len": 3433
         },
         "https://vesinhhc.vn/bang-gia-dich-vu-ve-sinh/": {
-          "hash": "450e1058b885782e136e00b31e2d69cb22614620fa43327697146f9f47ac9c40",
-          "len": 10893
+          "hash": "4872df757523be7405f33dde4601d9210a847f3683da1f146d041a5f881fa82c",
+          "len": 10846
         },
         "https://vesinhhc.vn/ve-sinh-van-phong-chuyen-nghiep-lam-viec-sach-se/": {
-          "hash": "3e50490c4160cebaedd6d835279b90ed80e14b6ffd0181aadf860b42194ed8d9",
-          "len": 13110
+          "hash": "aef26964b22681900be014de0da30511d1eb379c92a6dca707c71b49d14ec73d",
+          "len": 13115
         },
         "https://vesinhhc.vn/ve-sinh-he-thong-ong-thong-gio-dam-bao-cho-suc-khoe/": {
-          "hash": "ad08e2e0fcf22e2f9cf27180be6da0120b54d0820447341412f40af6dcdc7fc5",
-          "len": 8747
+          "hash": "6940aef8b5c8b32162b8e846a7a58f62bfa70d4ecbcb36fee056fcaf9157eb61",
+          "len": 8729
         },
         "https://vesinhhc.vn/dich-vu-don-dep-gia-re-ma-van-dam-bao-chat-luong/": {
-          "hash": "3e393737d595c3be893d5ccea1cd015b89a00c356e654771f1965204bde3903a",
-          "len": 11376
+          "hash": "87bc16502a8a4f90e55a7eb7386bdb1c801ae8196413c43598d4daff14108744",
+          "len": 11332
         },
         "https://vesinhhc.vn/ve-sinh-benh-vien-rat-can-thiet-cho-suc-khoe-cong-dong/": {
-          "hash": "01d2d1decee026ba6fc76db9b16435a07031a7f4acc694966f8e4ba832147fa6",
-          "len": 9456
+          "hash": "629cf4fb4ac2bdb11e39d56bea780e249118ba260f14a030d0dc04bb86343bb1",
+          "len": 9455
         },
         "https://vesinhhc.vn/sach-bong-ngay-tuc-thi-voi-dich-vu-ve-sinh-mot-lan/": {
-          "hash": "d3b5aeef43cbe95bf2ad1f785e363fe24538fbc217dfedf5c140cd49859bdfe4",
+          "hash": "bf1c38070a467699262b57a0c36fed2637c5f5c7106ce2acfaee547999a7804d",
           "len": 9137
         },
         "https://vesinhhc.vn/dich-vu-don-dep-an-toan/": {
-          "hash": "119050e5ad27f8bcb9fafc98b95e5656932b5a70b54cd9ef90da224c9c5ddb2c",
-          "len": 10366
+          "hash": "8d3ed1e98376860277e8e5adad03025ddc624c5c3e566c9317ec30fcd11fc2d3",
+          "len": 10428
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-khu-vuc-san-xuat-moi-truong-sach-se/": {
-          "hash": "92baaed73a4bb08507d1581516008555e3ef204c0619864329a8c370edd615b9",
-          "len": 8527
+          "hash": "e95e15397a714796efde4c24b0df0fc4cbcc94565858ea7deeb786e68169a04b",
+          "len": 8509
         },
         "https://vesinhhc.vn/cong-ty-ve-sinh-cong-nghiep-uy-tin/": {
-          "hash": "8d57184e36c0b47c327ac057f32a7ae344fe1cf425c5e1972399720d81e3272a",
-          "len": 15540
+          "hash": "2a9cb0cfb17933e1785057d8104510a63a496a38fbe7ec4890b5b8c15c8aa3a8",
+          "len": 15623
         },
         "https://vesinhhc.vn/dich-vu/": {
           "hash": "f51524cddcb3e790077202d44d9013e20413ca388ad57099b335a52e88b6020f",
           "len": 3648
         },
         "https://vesinhhc.vn/ve-sinh-theo-yeu-cau-giai-phap-cho-khong-gian-song/": {
-          "hash": "ceaec3c98585db1e7f0e34e6a1d92d45f98a84a2ce8a28eed39265751fa9ee4c",
-          "len": 8363
+          "hash": "6cec2defb013cef9726f15d80d298e569b4a806d358209193da6befd1f39f64c",
+          "len": 8354
         },
         "https://vesinhhc.vn/hit-mui-son-co-doc-khong-tac-hai-gi-khi-thuong-xuyen-hit-phai-mui-son/": {
-          "hash": "a49ca27b0c4614243fe85cc061fc41ea118342685ab339b51c7487ce302f34f8",
-          "len": 7821
+          "hash": "2ba0522849343e847006f3c24f80c6797f1e03246da61db858db8509166e695b",
+          "len": 7772
         },
         "https://vesinhhc.vn/giat-ghe/": {
-          "hash": "2c9188efb8f1196a8e8b3951e08ce6e75065596cbd29f92866443f7e9bc78e0b",
-          "len": 15392
+          "hash": "be08ffecadebc4f1292c3713979099e69922aafdc68d4630478d44bbd5da40b4",
+          "len": 15380
         },
         "https://vesinhhc.vn/ve-sinh-cuoi-tuan-lam-the-nao-de-nha-luon-sach-dep/": {
-          "hash": "b89d2bbc71e537e418f8d8e195db206140b4d53813402433731ee8e1507d3a0c",
-          "len": 9070
+          "hash": "a7c93424846e87cfa6801845bc0336df685b894f8c336af287c76c610a5fbb7b",
+          "len": 9092
         },
         "https://vesinhhc.vn/ve-sinh-van-phong-tron-goi-toi-uu-cho-moi-truong-lam/": {
-          "hash": "291afc45761c9c3063d23c23d71002f7fd817f1c8ddf05ad27ee63546bf9e478",
-          "len": 10344
+          "hash": "db896193bb5f6848f22336f1282c9f7b69f3ebf961e92902fb23dc078e4355e6",
+          "len": 10306
         },
         "https://vesinhhc.vn/don-dep-nha-cua-theo-yeu-cau-toi-uu-khong-gian-song/": {
-          "hash": "b502eb9b89e891f0825c285d738b2da18b3240ba45f46751e31735e782323691",
-          "len": 9474
+          "hash": "87e142f9c275968f0e781a2ecd7da3b7a5c23e6ead012927dafb00bdc95f3985",
+          "len": 9490
         },
         "https://vesinhhc.vn/tong-ve-sinh-nha-cua-mang-lai-khong-gian-song-sach-se/": {
-          "hash": "8613f4609ade082d2e257a08f82490dfa2ceda14b26a53a9626ee1641e2cb072",
-          "len": 7452
+          "hash": "afb2900a1cb75c731e7b907666527fe719fdcb143861a2c3d5e4cc30ed8af391",
+          "len": 7471
         },
         "https://vesinhhc.vn/ve-sinh-lop-hoc-moi-truong-hoc-tap-an-toan-va-hieu-qua/": {
-          "hash": "d5ca00c4dbf66b4e7eb02cdaae8735cc32346b23ff4aead0ebe01703088be6e1",
-          "len": 9794
+          "hash": "3dc215ef07665475a75344d9880d2eabc7ae82d9f822c6b8fcdd00f1d81d5f00",
+          "len": 9787
         },
         "https://vesinhhc.vn/hoa-chat-ve-sinh-van-phong-khong-doc-hai/": {
-          "hash": "722961a5ab24782c61db03b673b10ae0cb4494231a100e6ce331a292e9af4168",
-          "len": 10870
+          "hash": "90ec95b94400eff8e9de207d828c176e7ed3679f619c7e14e2939f23a5871b9a",
+          "len": 10857
         },
         "https://vesinhhc.vn/ve-sinh-nha-hang-khach-san-nang-cao-trai-nghiem-khach/": {
-          "hash": "c7af03da1f7ad96c1b75c2cbfbd3ef40f667b6d0661fc1b04499099ca863da0e",
-          "len": 10081
+          "hash": "9e373e76fb47a306d7924d64624b6e99b98dd14b01d8e7b02a3bbf4bfc78009f",
+          "len": 10142
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-cong-nghiep-gia-re-chuyen-nghiep/": {
-          "hash": "0133e3cb84230f6ee5c905bd7d889f784f92dda7e02e62dad214125fdafbdca1",
-          "len": 12433
+          "hash": "188bcf262842d6f166cc2e9647eb70ef020e425e341d34782b605bf3b29560d0",
+          "len": 12407
         },
         "https://vesinhhc.vn/ho-so-nang-luc/": {
           "hash": "9c9cea7833bb951cf274a6afe369cc0c8f927b92df31f13a4b40afe0b758207d",
           "len": 1431
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-tai-ngan-hang-tmcp-dau-tu-phat-trien-viet-nam/": {
-          "hash": "55b103870ad1dbd83e3ebc7d799039f5a72af0f316b653e2497c2a9f83dfa52c",
-          "len": 3960
+          "hash": "7b217ff3633dc08266bd16c1536c6c5790fb2a05973e98d093af5aa2b9f1e4ae",
+          "len": 3877
         },
         "https://vesinhhc.vn/tham-khao-bang-gia-dich-vu-don-dep/": {
-          "hash": "a1e7678d25c8fdaa80dba126cb9777dd82b3fbd3fb6045877b75df4d2b81fea8",
-          "len": 13919
+          "hash": "40a9271b8e8da21a4714bbe866416a8d44e6ebde08f165b0531028c97ce8fdb2",
+          "len": 13883
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-cong-nghiep-uy-tin-chat-luong/": {
-          "hash": "799cecb53b4bffbe73d3e5c23c226a35c1b796b5200a5d0295511d611b477f81",
-          "len": 9589
+          "hash": "855627d7fb8edf4e407f287ddc998bee1ae3b0965e28655e07ddb010b374aeb3",
+          "len": 9629
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-van-phong-nao-co-gia-tot-nhat/": {
-          "hash": "2182ad11420e97f60096bbc3efb3b8bac36ae5f1bdbe1d57057db9ba4026cf2d",
-          "len": 8743
+          "hash": "7750452daeef864ab76be5587b2abc44b0389c0829fe44d11eb8c99976150d47",
+          "len": 8744
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-gia-re-chat-luong-cao/": {
-          "hash": "e2b0ed447c6eb82c33fad79e5692b4ed82cbff8b210a181471d1d28bc716710a",
-          "len": 12079
+          "hash": "aaecaffc2d4cbb5a0f83cf61b87427b5347b92d679494d8985a5129c0f1d254d",
+          "len": 12031
         },
         "https://vesinhhc.vn/ve-sinh-hang-ngay/": {
-          "hash": "a34922f2d281b4ea5eeb2ad7b999c6d22fbef0c54e4c2d38438e386fb78430c4",
-          "len": 6821
+          "hash": "7c1910d097802736a44c719693f6cb8d1d2740509c02100c800bcf0b1da024a1",
+          "len": 6812
         },
         "https://vesinhhc.vn/ve-sinh-loi-di-hanh-lang-giu-gin-khong-gian-sach-se/": {
-          "hash": "61d9165e18876d256ac734177dbf90df85c7b31d2a3632f77d2a56cd3301b216",
-          "len": 9872
+          "hash": "158dbf18dec076d482bfbc1a82fcda99c46815f13e864b10aaf8a46a2493f51e",
+          "len": 9811
         },
         "https://vesinhhc.vn/ve-sinh-cong-trinh-sau-xay-dung/": {
-          "hash": "ad6fd240d115f355b4d6f5b0b6668f768830c3520d92c1e586761fc0a4c941a8",
-          "len": 12082
+          "hash": "5648e491b8e411b746279b962c9f1ab1e8b1ae770ba2ccc68fd757776126b064",
+          "len": 12065
         },
         "https://vesinhhc.vn/ve-sinh-nha-tron-goi-giai-phap-hoan-hao-cho-cuoc-song/": {
-          "hash": "2b227d19432c74e6f9f07f828ff2353edf121d1928db5358dea8f32cada61335",
-          "len": 9064
+          "hash": "69698a9eae644e6f56d5622d32b216f291d42dd6d4ec27ee50d58c5a1df59d2f",
+          "len": 9150
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-cong-nghiep-chuyen-biet-giai-phap/": {
-          "hash": "a19a9a87570af922b288fb15053be3b141ad82faf12f36b2e433d626fb67ffb0",
-          "len": 9079
+          "hash": "534ba589b935f261d4f7e4ea0ab001ec1fb6ec4691100dcd418c02a2606e2be5",
+          "len": 9048
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-truong-hoc/": {
-          "hash": "db293ef36d60697b42edabc746f08a1a0f6944906ee32e3c100ea30cb96db767",
-          "len": 10184
+          "hash": "7d8f46120280169ac77eb169fd5ce0119d5889c6eccfe20988a57d11ec33e44e",
+          "len": 10171
         },
         "https://vesinhhc.vn/cach-lam-sach-kinh-bi-mo-hieu-qua-va-nhanh-chong-nhat/": {
-          "hash": "fedb92bd328387cfb6dc662140ae1149c85e31fc740f3524d5fe1a1ca27b00a0",
-          "len": 4759
+          "hash": "1fa37babaad428fae864722d154cb267d1750c9e3ccab084cf1d5f6ea5d12807",
+          "len": 4763
         },
         "https://vesinhhc.vn/goi-dich-vu-ve-sinh-dinh-ky-linh-hoat-tiet-kiem/": {
-          "hash": "573b18848de8b3631b18e8d2b2cbff333985fbe3e1c0c30e55642d4ac6d89df8",
-          "len": 11356
+          "hash": "dd0c21c9e1e84faae63a71405b729929a049641ee50fd06aeeefa0954cd48350",
+          "len": 11382
         },
         "https://vesinhhc.vn/ve-sinh-phong-kham-dam-bao-suc-khoe-cho-benh-nhan/": {
-          "hash": "47d79418c7409e89350b8c9ed00914c46ff737988a0394eb7b7201b529a717a0",
-          "len": 11056
+          "hash": "c1be869bbeaeeadd2d8082926ed2c344a24ae92b043c0813f44d4380e00ea83c",
+          "len": 11007
         },
         "https://vesinhhc.vn/ve-sinh-duong-ong-cong-nghiep-trong-su-ben-he-thong/": {
-          "hash": "67ddef966a612546e0a9be1ecc285205edee1d2925254e371d00a121760ba36b",
-          "len": 8953
+          "hash": "53dad9591534fde8e2d64dc66cb43d6104bb39c0260fc1b54d693582f356fbb7",
+          "len": 8883
         },
         "https://vesinhhc.vn/bao-gia-ve-sinh-cong-nghiep-sieu-re/": {
-          "hash": "fafcfa083a4d17c1658efe6b4f1d8f2a1332a6f7b3fc388c2723f8fecae2987d",
-          "len": 12983
+          "hash": "cc8146e38393e5168d964e8861a55db482dc3645fae9d179c97e3047ac9bc40f",
+          "len": 12923
         },
         "https://vesinhhc.vn/ve-sinh-phong-sach-tao-moi-truong-lam-viec-an-toan/": {
-          "hash": "56066f778b8445c6f97035f2fe92b7e9a2395f794b97e0d40dd8e38fb7caf634",
-          "len": 11019
+          "hash": "3ba34e112761cd39ab5b441dca54ea68461b0eba835c30602ba6aad8c9467d86",
+          "len": 10941
         },
         "https://vesinhhc.vn/ve-sinh-nha-cua-cach-tao-khong-gian-song-trong-lanh/": {
-          "hash": "d10c860302067ce9025505b46670910b265fa85f1cc102c6d619d6175e35fcf8",
-          "len": 7626
+          "hash": "9a92685bb678c2721f84500ea9cd29d2007c9da929deb1b03d3bc5c79dcaf20c",
+          "len": 7706
         },
         "https://vesinhhc.vn/ve-sinh-dinh-ky-quan-trong-cho-suc-khoe-cua-ban/": {
-          "hash": "3c57d0b3e19d9bc9bbb01f87f80e81d1ab4ae3e12b2aa6daca5bebbf37a6ca01",
-          "len": 9564
+          "hash": "fc0d8c5462f89f5c13bb85861ae33401adf5561d03a5bd1ec7da545f71fe2ce0",
+          "len": 9555
         },
         "https://vesinhhc.vn/ve-sinh-sau-xay-dung/": {
-          "hash": "ba1111802abe91289197f85ee5a2f91ba13ca6c466273bef451d24ffa97714c3",
-          "len": 6379
+          "hash": "7e6caa669a48798925972ed669ef782e8b6655619cb14e8f6e3ed822b1cbc31c",
+          "len": 6378
         },
         "https://vesinhhc.vn/suc-rua-duong-ong-nuoc-sinh-hoat/": {
-          "hash": "2a6e2e75d326519254b9a8c71ce227623aec4000e656db8e786a844c905c83af",
-          "len": 14687
+          "hash": "687ef90e54b3ba0c8b58c0c9fc7a39982bd58dbf92e02cf618143eda4be38f84",
+          "len": 14672
         },
         "https://vesinhhc.vn/loi-ich-va-quy-trinh-dich-vu-ve-sinh-nha-bep/": {
-          "hash": "e25f26ef7e0c5fd7b362e5882b2cd5c427f21552600f112a3be0ed72cff53529",
-          "len": 8508
+          "hash": "f521634154a1c4b98abda36a371b03316c074f7653bf4bd421e655d4498b13c5",
+          "len": 8446
         },
         "https://vesinhhc.vn/ve-sinh-khach-san-tao-dung-an-tuong-cho-du-khach/": {
-          "hash": "9870e84425e592226d470f9321b2f6b37bb4e13ce746f184a15f26a6e9e7cd72",
-          "len": 10190
+          "hash": "67bca103dd2644bc11dedde40b503c7d346374100813d11dece223eca34b1053",
+          "len": 10228
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-tai-trung-tam-phu-nu-va-phat-trien/": {
-          "hash": "c50869822342e89f5dbdc8c33e0cb733938810414bcc1f137322b494b7339428",
-          "len": 3320
+          "hash": "3caa0d14772e0878581cd5c226ab5490436cf0b49c3542f380e63b44adc7e65d",
+          "len": 3324
         },
         "https://vesinhhc.vn/gio-hang/": {
           "hash": "b39f1d8afe2d1c7a6ecc6329c4ba5fa603afe5b900ab4673e6aef7dbda3b16d7",
           "len": 1443
         },
         "https://vesinhhc.vn/ve-sinh-cong-nghiep-tai-ha-noi/": {
-          "hash": "e2552643dd76185c5ec261b7134abdf67f679504b815413092dc520b3a0f3bfe",
-          "len": 11680
+          "hash": "4634db8d358729d2bd5f048cb1aa297f71c57ee555fe9f0468e1adb7e26adfb4",
+          "len": 11552
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-hang-ngay-tai-cac-san-giao-dich-cua-vinhomes/": {
-          "hash": "3d2dce334776c3803b2d97ba180e1c4ac8c49c6313c232703ca7d509e3ef2686",
-          "len": 3617
+          "hash": "90b9a83325f8fd8c1722cfe86cff1aadcddce54d33fe55bb20250f00d7561682",
+          "len": 3716
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-truong-mam-non/": {
-          "hash": "3539c69b7af152c9e10ba82ae5a46ea5beb6e3c991255559de66df9e30dcd09e",
-          "len": 14057
+          "hash": "96f35dfac66755be4b51f1a8666636b0da0b4cbcdaef1eba3da37ceaa83394a7",
+          "len": 14080
         },
         "https://vesinhhc.vn/ve-sinh-hang-ngay-quan-trong-cho-suc-khoe-cua-ban/": {
-          "hash": "7c654756e14cf3b591ad661ce96cc969f6c0b566d442920e8f3da6979963abac",
-          "len": 8906
+          "hash": "90e38267b9c58960a0435974f9373140e32464f30e09d224b5574b47e36c4a9e",
+          "len": 8977
         },
         "https://vesinhhc.vn/ve-sinh-xuong-go-an-toan-va-hieu-qua/": {
-          "hash": "01aa8b2e2e9e41d6db215aabe5cef1cc840c4cc50ac3cb285ad212ef796333ea",
-          "len": 11686
+          "hash": "adab544fc44fbcf860604f68fb0bb6a6422a2080d133474973675bf5515cc971",
+          "len": 11642
         },
         "https://vesinhhc.vn/ve-sinh-nha-kho-duy-tri-khong-gian-sach-se-an-toan/": {
-          "hash": "404c4b349f159c3ed29a464225aee6b2b075709e3004e253132e6116e6a8801a",
+          "hash": "f96a2c4bb23bda95ec8e65ffaf8049f02bc0f1e755380b3294ad6dc773730eac",
           "len": 10515
         },
         "https://vesinhhc.vn/ve-sinh-dieu-hoa-cong-nghiep-keo-dai-tuoi-tho-thiet-bi/": {
-          "hash": "37da434377e1aa401c429f00cb328fcaeef1e7a947cfbea3cc7ff2f28fa7a134",
-          "len": 9310
+          "hash": "2adf9b9b415f26d2f3474cbe3f58380c63e18cf992c01ff79a9b80aaf0820b8b",
+          "len": 9357
         },
         "https://vesinhhc.vn/chi-phi-ve-sinh-nha-o-theo-gio/": {
-          "hash": "a2f3a540317ca0dc5021445ed3145bdb04a30bf409c24b9395531aa08b0a9377",
-          "len": 10693
+          "hash": "e37788f9f4c7006e2afbeb1fff9d31b3c83e07c54346e69904676dea4af8e4a7",
+          "len": 10716
         },
         "https://vesinhhc.vn/gioi-thieu/": {
           "hash": "19bd24acd6aa294dc61ad2a7f5197898c115bc938b714ff018f3844ae8a5282b",
           "len": 3517
         },
         "https://vesinhhc.vn/danh-bong-san-nha-giai-phap-cho-khong-gian-song/": {
-          "hash": "03a0c177e77c927d3b7d0c22a9db1e680f4be2e9774eec618d7c7a3168932ef7",
-          "len": 8139
+          "hash": "6bea416d26748b8d43343be509085194a18bf32e1d0a1c5c6441888419509542",
+          "len": 8154
         },
         "https://vesinhhc.vn/blocks/dich-vu-sidebar/": {
           "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "len": 0
         },
         "https://vesinhhc.vn/ve-sinh-truong-hoc-tao-dung-moi-truong-hoc-tap-an-toan/": {
-          "hash": "558566b130b5602c69c265ed6f7ac2c20596641fbc9a0c6c3cf928fc39ec583c",
-          "len": 8319
+          "hash": "7c8253cfceb8b5c928572ba3f6684de7a858218c171b17e9ae2cccc7e8165c7b",
+          "len": 8250
         },
         "https://vesinhhc.vn/bang-gia-dich-vu-ve-sinh-cong-nghiep/": {
-          "hash": "696c2425ff6f9da2d023d838ebf34d1b26ebbcecacaf197fec21904487d78925",
-          "len": 14343
+          "hash": "010fc26eb211642348addbabb1a1c099015c989a8a85d194ead971e7a473eba5",
+          "len": 14405
         },
         "https://vesinhhc.vn/dich-vu-don-dep-mot-lan/": {
-          "hash": "15c77608d9d14d9b12452bf2a1f9de24bd2f90f377c6f08950dbc01975208f2f",
-          "len": 12404
+          "hash": "b1a447304f9ad5fc26ae906858bc363d657fa3068db4b4fc949c3cb453c14208",
+          "len": 12425
         },
         "https://vesinhhc.vn/ve-sinh-khu-kham-benh-bi-quyet-giu-gin-moi-truong-y-te/": {
-          "hash": "08cb51bfd250861c3a7105e88de7c698f31de0e70f86a648f6d8a6ad87b06a45",
-          "len": 10521
+          "hash": "57836d00670a31d41041863bface7b7a63c7081c3acb7f8c999f09620f9040e5",
+          "len": 10558
         },
         "https://vesinhhc.vn/giai-phap-ve-sinh-cong-nghiep-chuyen-nghiep/": {
-          "hash": "ec61b08b0449f5212c727993951f896bdfdbfe16360abce33d462a6f60a34fe7",
-          "len": 15073
+          "hash": "2994241a8cfb1a5c82d9376c332d813e0f0ae6449c5c8e8d72deb14d82f6f67b",
+          "len": 15084
         },
         "https://vesinhhc.vn/gia-dich-vu-ve-sinh-nha-o/": {
-          "hash": "e7c7b03b7dde51820b051e690c548284649657266baacfb66cd2db95d0cb275f",
-          "len": 9910
+          "hash": "58a148a20313f77bf5747bafff5b5c53f67bbc0b8fdf85997d57ff8177350431",
+          "len": 9933
         },
         "https://vesinhhc.vn/ve-sinh-san-go-cong-nghiep-giu-khong-gian-sach-dep/": {
-          "hash": "9e6be1b90ac8fc1d56900009dd11c0ce9025c3925d005aac49ad27e82374dbb4",
-          "len": 8692
+          "hash": "ec6e462de822a286d73e0bef7e3595651dc905940b937cf3eb275e27e83315a5",
+          "len": 8627
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-nha-o-giai-phap-cho-khong-gian-song/": {
-          "hash": "72ff6309a292d14dfe1a792935ac3f18da8f24c22007bf585069a0595f3bbadc",
-          "len": 8546
+          "hash": "e602ef4851c3b169f2ae579cbd9713cb858e4bfacfad548877791e27b2635e80",
+          "len": 8537
         },
         "https://vesinhhc.vn/ve-sinh-khu-vuc-cong-cong-bao-ve-suc-khoe-cong-dong/": {
-          "hash": "dee15afdc283fe9b26f98a5fc124127f8098bb7728c5350d62a103407186b8a3",
-          "len": 9218
+          "hash": "5031d7a3d97f599f53b5b50f10239eb6bb88b75c7c3dcf9a6cad0be99e5cd24b",
+          "len": 9250
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-cong-nghiep-uy-tin-hang-dau/": {
-          "hash": "c094e8692f38daf24312060e5f5b0f43e77fe9da1c49349c483df5b6ef6b4d37",
-          "len": 11168
+          "hash": "c84ee4343ebd1d9dd7e71569aafd443a9a90843907b3b627e8e8ecd082a1fa91",
+          "len": 11182
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-benh-vien-an-toan-cho-moi-truong-y-te/": {
-          "hash": "d5d773c61c4eea04a66ac304e6e03a5270e34466040ca557f90eb5fe639dae65",
-          "len": 10928
+          "hash": "3620cc423cdb2372e8518d782c435140c2b89a1b9177fbdf9776f234ccd2f269",
+          "len": 10884
         },
         "https://vesinhhc.vn/giat-ghe-van-phong-giu-gin-su-sach-se/": {
-          "hash": "dbfdbeac39eee78a46d91f325da9bdead2bb56785048a40edbb6b7964bc455b3",
-          "len": 8783
+          "hash": "dc4901f6358c03e78b74c9a5c081a21cc97e9f77cc3fcdf260057b0cfc35402a",
+          "len": 8852
         },
         "https://vesinhhc.vn/ve-sinh-nha-pho-duy-tri-khong-gian-song-ly-tuong/": {
-          "hash": "5fe6fac54a9ac2c40f99fc9890e376dac0e2d7fb5e5d2f04e9d639f19498e6c5",
-          "len": 8937
+          "hash": "e95f743789ed6d68a0e7409edbb127df1bf4e34682c6e9d046b1c656edf9d8f7",
+          "len": 8966
         },
         "https://vesinhhc.vn/ve-sinh-cong-nghiep-chat-luong-cao-giai-phap-khong/": {
-          "hash": "708c552e69f9856f9a8fd145f979daa48943ea8cce5f7315faadc5c61b4ece86",
-          "len": 8961
+          "hash": "9c2e0ba666443a5e9d488858eba0e120813cd3621541be274b6e9e974fbd246d",
+          "len": 8975
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-chuyen-nghiep/": {
-          "hash": "ec261c1ed62890883b12caec8f70be6316b035229e28d16f70cac013a4c69d52",
-          "len": 13224
+          "hash": "50b8466fe93589b7370a797e63a3ad775ac54016c227bc5f67d551e45a83ac71",
+          "len": 13146
         },
         "https://vesinhhc.vn/ve-sinh-cong-nghiep-tiet-kiem-giai-phap-doanh-nghiep/": {
-          "hash": "9b3814024f8681f093af53373c0a0063f19c0002ddc4f136f7e6040bd426d9ff",
-          "len": 9264
+          "hash": "4d6fd67144f6d0acf5f49f445424d30e5920b70423e090abbc2aeb8f21e22fbd",
+          "len": 9244
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-nha-xuong-chuyen-nghiep/": {
-          "hash": "be09131de61585f652947a5a2c34f65bdc26b486df36d9f1c391306cf5dfffcc",
-          "len": 11679
+          "hash": "3ae7f15a44369e15086eb7c0caa4d67149b484c1243f5d899f2484f7c0354a0f",
+          "len": 11648
         },
         "https://vesinhhc.vn/ve-sinh-ghe-van-phong-toi-uu-khong-gian-lam-viec/": {
-          "hash": "9c40b630c5e406232f6f8fb34b15b8a02bf6b7a2c03fbccd2b8470516c12e529",
-          "len": 9686
+          "hash": "b4a9a2222c5efb8c26506682b89cf95dff2410a3e45866cb99daa01f114bced1",
+          "len": 9676
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-uy-tin/": {
-          "hash": "cb14694ed3469cb043d71b064d3cb4c917b2eadea205f7d21b7db39528d2cba1",
-          "len": 14795
+          "hash": "6f3932f8e90197c7d65f4e11eb2e889b78f3a421167e862e83aa27b32227db5c",
+          "len": 14746
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-tron-goi/": {
-          "hash": "ff85385a1c8b69d3174964d2c68b04667254158edfbe72678a73d382ecfd9ae1",
-          "len": 13811
+          "hash": "b02794c00c75b63d1efd8c5d4e937a994f339537d2218c2fdeba77efcce6a594",
+          "len": 13782
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-hang-ngay-tai-vietnamairlines/": {
-          "hash": "f111862f43bb860d9e874aba6b14f7efe9043e72a0d0107eb82a827a32c844e1",
-          "len": 3540
+          "hash": "5b0644bc10119ab4e36859355df586d71b59d94782c961e22fcc200016548f56",
+          "len": 3588
         },
         "https://vesinhhc.vn/ve-sinh-chung-cu-khong-gian-song-sach-se-va-an-toan/": {
-          "hash": "a01e58ba40a274d048258854f2f3286caac367f4becd33f3788cd3afec7f867a",
-          "len": 10238
+          "hash": "e03ad6e5767d25edd14ef2743bdb5dd6aa30f634e370738d99697b68f50382d1",
+          "len": 10331
         },
         "https://vesinhhc.vn/ve-sinh-nha-xuong-sau-thi-cong-buoc-vo-cung-quan-trong/": {
-          "hash": "67419b7aeb5c12bbb914c6cdff0cbc7e031b16a291e592b7f7af24cfef346e94",
-          "len": 10012
+          "hash": "8844772a9e504a1f9f4c1f27bcbd5ab4102d2f00b258a1e7c99085c2f138ae91",
+          "len": 9991
         },
         "https://vesinhhc.vn/co-nen-lua-chon-dich-vu-don-dep-24-7/": {
-          "hash": "229a84c126a799a5141548ef47c93b5c880557ba1cb0686b8afc3dea95d539af",
-          "len": 13277
+          "hash": "83c0f2b9091090a66e4f879e5174b7f71f72d2aa642c1b15ce67c7fb869d6fda",
+          "len": 13293
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-cong-nghiep-dinh-ky/": {
-          "hash": "1fab942d608e03ecf00d5a486aaff664ddd55e7aebd94c95de26219c4a660a77",
-          "len": 13762
+          "hash": "2d85266bfd7c2cf31f88db9f758812da0c47a230118048a32eff067e4aaefa97",
+          "len": 13783
         },
         "https://vesinhhc.vn/ve-sinh-cong-nghiep-sach-se/": {
-          "hash": "7e08c4a02ea92de5e8f7e22f83d0a683743288f693d769090c20fef9003b32c6",
-          "len": 12281
+          "hash": "99625c70ccf7e0a2e4fc2d9bcc5eb7a16701be3e7e22c6d87ff4965b8d91f2f0",
+          "len": 12348
         },
         "https://vesinhhc.vn/ve-sinh-cong-nghiep-lam-sach-khong-gian-lam-viec/": {
-          "hash": "38cd55f4f890a2ba4a2d9d068dfda28057c6605e177caf61ef3a59bc6bcbb229",
-          "len": 8691
+          "hash": "b41e8597ca4e68a1e1aeb5194fcf8adf721d441a8ed25c194b8063e63e1a67bb",
+          "len": 8722
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-duy-tri-tai-chung-cu-housinco-premium/": {
-          "hash": "b5236f2ec9dc2c7d863f5e2844852c1e3138316235e33ab0d360af0033668ce7",
-          "len": 3634
+          "hash": "31a5cab3f6d4a88926599f371539d2b4df8a977b4557b3e999959f83a4da9383",
+          "len": 3649
         },
         "https://vesinhhc.vn/blocks/quy-trinh/": {
           "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "len": 0
         },
         "https://vesinhhc.vn/ve-sinh-toa-nha-moi-hoan-thien/": {
-          "hash": "0a2743f24e12438ce059eacc138f9d2c7717f1482b5a690ccefd9fe1778c5738",
-          "len": 10492
+          "hash": "942392cbe38af69e52d92e16924fc9c62dc5fb03ec9717dc021bda56823c984e",
+          "len": 10514
         },
         "https://vesinhhc.vn/ve-sinh-tran-nha-cong-nghiep-bao-ve-suc-khoe/": {
-          "hash": "0d8ca2d5a3afffe5d234305a03958d6887ff7762b1c40094864d77bf59ce0ffb",
-          "len": 9373
+          "hash": "202dbc511df0e670117acc7c9ebc6baf84a867a87d90eddcc91a7c1d28aee9df",
+          "len": 9330
         },
         "https://vesinhhc.vn/ve-sinh-dinh-ky-van-phong-moi-truong-lam-viec-sach-se/": {
-          "hash": "4d4e4615d8c1cb4280996663c3c001b7cdb9776c1630ad6dc542841d3513caa2",
-          "len": 7743
+          "hash": "986b48eccc8e71ff8c701d49ef8468ab1ca6000b235eef1e05f653b81bf60d32",
+          "len": 7742
         },
         "https://vesinhhc.vn/ve-sinh-van-phong-theo-gio-giai-phap-cho-doanh-nghiep/": {
-          "hash": "253312f48ef6027b36da3d68265a3091913e8098bf11729de779c2447c6b1a8a",
-          "len": 10637
+          "hash": "29f48f40e1f93a29c226b557daf5af5d9039e0059765879857740b87b8e2eba0",
+          "len": 10589
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-hang-ngay-tai-vnpt/": {
-          "hash": "2220a9f289365928f3f2cd00ac15ca8b9cc15e11a2f3049d06956358edd25549",
-          "len": 3487
+          "hash": "651211069f63a61cbb66043dd83e1dc7641991084c565692b3895df96c6771f3",
+          "len": 3498
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-hang-ngay-tai-chung-cu-atermis/": {
-          "hash": "31d13a0fb8f5a310e63c339c7453088994b8c7954799f9500b75f452cc859ed0",
-          "len": 3443
+          "hash": "3278806022e00fd8e6fc714e12cffa12eb9a20fae58607eef8142f83cb9cc11a",
+          "len": 3387
         },
         "https://vesinhhc.vn/ve-sinh-cong-nghiep-ha-noi/": {
-          "hash": "bd1ca66ffefb4f31224cb2f2a701911028cebcaa192e031f2b4541af263c5aa8",
-          "len": 7085
+          "hash": "d39513b621b319fa03daac7737ec140b56bbeb3903b89a22e3935f77c7f2e767",
+          "len": 7077
         },
         "https://vesinhhc.vn/giat-tham/": {
-          "hash": "1770965f02b152f9cdaf4c41ca65d6cf6c850a1c0e549faf56295e1755b7cee6",
-          "len": 16158
+          "hash": "b9ff0249f651dd9f19af52cdb16081ac0ffa8165fd2d850b0ac6119e5f05a91b",
+          "len": 16147
         },
         "https://vesinhhc.vn/ve-sinh-may-moc-cong-nghiep-tang-hieu-suat-cong-viec/": {
-          "hash": "779697a7ae6d70bed900ae17b439d84171b7b86af4a0c3e576596b82004f5287",
-          "len": 10345
+          "hash": "ec6751c1618ce81a31dcfd55b7e83047ea8632f996453840715f4f5ccf521a91",
+          "len": 10330
         },
         "https://vesinhhc.vn/ve-sinh-van-phong/": {
-          "hash": "f9d82815131da5787c5f6020f45055adbd4df91f4665e2bac45ca2feb54c2330",
-          "len": 6062
+          "hash": "2ff48c9064f0e68d0e85feb960b86853d126f6b201cefb8b6419cbe9511959ab",
+          "len": 6057
         },
         "https://vesinhhc.vn/ve-sinh-cong-nghiep-chuyen-dung-cho-doanh-nghiep/": {
-          "hash": "dfbf4cab162d5bcd1d4e50e0d68517e853c95bfd5b063ca9705b6941a1497209",
-          "len": 8634
+          "hash": "cce7f2bd34f90f24bf81e505436346f7e13036a1d6821ae735b69e2a73254090",
+          "len": 8635
         },
         "https://vesinhhc.vn/ve-sinh-cong-trinh-lon-toi-uu-khong-gian-sach-dep/": {
-          "hash": "f793ae9d7b957a2820e7be4bae536bb80f1857fc0e9f4b91d4be5952c06b3252",
-          "len": 9811
+          "hash": "d311a984396b29cfd6c1c736250f91ca5c35b8b6bd19134073ac2297e4cfef86",
+          "len": 9786
         },
         "https://vesinhhc.vn/ve-sinh-chung-cu-giu-gin-khong-gian-song-trong-lanh/": {
-          "hash": "8ed3a20436309e20b54cae43aecb796738e3c9d4205aae076eeb555173b4e723",
-          "len": 8746
+          "hash": "7f261e79db44182485cdb24d3956aabf87ab94b6eed84805780025dd6be54bf8",
+          "len": 8682
         },
         "https://vesinhhc.vn/": {
           "hash": "6c91ef5205df396307e51cc9cc7a5bde72b60aa3cc4bcac2369a435691057600",
           "len": 8732
         },
         "https://vesinhhc.vn/tay-son-tren-kinh-cuong-luc-cuc-ky-hieu-qua-ma-khong-phai-ai-cung-biet/": {
-          "hash": "abf41e6d7e5cc2b092f5bc17f525fa0fca16c282598688dd96fb216bfb7991c6",
-          "len": 8270
+          "hash": "92bb515cafabd79bae1cb2c6e17fbc3cf445e8b2863406022fd6ab6cb1406d17",
+          "len": 8327
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-an-toan/": {
-          "hash": "a46e5711999d00183b06f5992afdce70d8eeb4511eadd8248fa36af7f107555e",
-          "len": 10702
+          "hash": "d9142fa275f302a7ddde966be952b97a77d513a3b9a2b8e970867efac4622a93",
+          "len": 10646
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-bao-tri-tai-toa-nha-duong-noi-complex/": {
-          "hash": "22022067a65898458dcc464ef7c37519279cadadaa896ab3ed103c8fa8bebc52",
-          "len": 3614
+          "hash": "395628c32bed30c037e5f7a502b439a85f80c690a028568d93447cf2c280a656",
+          "len": 3520
         },
         "https://vesinhhc.vn/ve-sinh-nha-may-san-xuat-thuc-pham-an-toan-chat-luong/": {
-          "hash": "beca4e80db76b606104455822f1cd1c3d495d34a0494712a1bf12bb13aa392e4",
-          "len": 12514
+          "hash": "f6836ce28f5a28eb98970961b6f4d6e07c937d411a8e695ba978525034f857d7",
+          "len": 12530
         },
         "https://vesinhhc.vn/ve-sinh-xuong-co-khi-giu-gin-moi-truong-lam-viec/": {
-          "hash": "f487fdd0f1565717ea77c0013bfcf18fcebc600665410d05fe70dcb63d517d71",
-          "len": 10476
+          "hash": "ad80bef959bcc8a22a7f31a731799aab7c0d826436d9e539d1c8e01b7b76cac5",
+          "len": 10480
         },
         "https://vesinhhc.vn/tim-hieu-ve-dich-vu-ve-sinh-nha-o-gia-re/": {
-          "hash": "3a5b912568e61ba9d2447ddcb22f0cdfb0038d4cca33f11d1c1361c23a0087c4",
-          "len": 9950
+          "hash": "59d95312fdc4b42711ba9091ceecb6412f0f2f5d8b0d766163b96e5667c2cbc1",
+          "len": 10019
         },
         "https://vesinhhc.vn/ve-sinh-van-phong-gia-re-giai-phap-cho-doanh-nghiep/": {
-          "hash": "f99fd95dbaf765826542e607e06382ff0c2b85ccadef77e04409a3b590c09b30",
-          "len": 11388
+          "hash": "017f4a6c5962faef2368e38a614683a8abc2d9e99b6a7ac2490206b5c2f6ef8a",
+          "len": 11320
         },
         "https://vesinhhc.vn/doi-ngu-ve-sinh-cong-nghiep-chuyen-nghiep/": {
-          "hash": "5a08fd28143d009346837101f10650c703edb96e1e07242daca090f88cd3ee2e",
-          "len": 15648
+          "hash": "c8b18347a01558d64d95d021c5b9f2ffc850745bc9417e3d4c538928ffe15522",
+          "len": 15686
         },
         "https://vesinhhc.vn/ve-sinh-cong-nghiep/": {
-          "hash": "64337fada70875cd20f706acbfea72bad4512e9c368066d0a9cb6e096d5a446f",
-          "len": 5940
+          "hash": "06ba2c9324d12b4398826eec3610387c0def2cf5af2d9fc571d4e9a41acc94ed",
+          "len": 5935
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-phu-hop-voi-doanh-nghiep/": {
-          "hash": "3296c79ca9d8be7607dcc1b7081ff840a93c90b9ab944e68b5dda2ce618784aa",
-          "len": 10517
+          "hash": "d1a5f28c48632d5661233cf98c6ad6a4608543445f99914e96bd4b898e457ea7",
+          "len": 10416
         },
         "https://vesinhhc.vn/ve-sinh-theo-gio-giai-phap-hoan-hao-cuoc-song-ban-ron/": {
-          "hash": "1c5245392c9fd2e36ee03d823fe77fc2898526d061b801cf56d53c6b7c33ad99",
-          "len": 9728
+          "hash": "26b9a064682f3f752a05ecc8df976e7728b373c77386fe28088e3a69ca551e55",
+          "len": 9773
         },
         "https://vesinhhc.vn/ve-sinh-nha-moi-xay-cach-lam-sach-hoan-hao/": {
-          "hash": "77af703b95d0f5ace07a63077db019c7954c0dbda7830c93841e96da27426b47",
-          "len": 10690
+          "hash": "f3cf5290a2a438cde667ea6b1fae969341f4ab57c5ea400e99344c797de71d47",
+          "len": 10665
         },
         "https://vesinhhc.vn/lien-he/": {
           "hash": "18a4889a275be1cfcc0f0ea1ff22ed8469842bac48edc7c6c40a9c97e9c78f90",
           "len": 1627
         },
         "https://vesinhhc.vn/lam-sach-toa-nha-cao-tang-giai-phap-cho-su-ben-vung/": {
-          "hash": "2eb645d8f9088a82cdee023feec80dc8b5a9a497f71d76e764202d46cdc9597c",
-          "len": 8800
+          "hash": "eae0185c55499659fab371b2ffac96c53eb6d3fac85b87e420ef340fbdd44edc",
+          "len": 8844
         },
         "https://vesinhhc.vn/nuoc-lau-san-van-phong-an-toan-chon-bao-ve-suc-khoe/": {
-          "hash": "a86621c603ba58ddbf1793def846f8c63b8b0c3c7ea250492cd5cd105bf54a4e",
-          "len": 7828
+          "hash": "e6ee096d7d60e5007e5267d51162aa7fda1a134ce006002299eb6c6f1420177c",
+          "len": 7782
         },
         "https://vesinhhc.vn/may-hut-bui-van-phong-cong-suat-lon/": {
-          "hash": "68ddbb0b502bf0c5772b1453c3a219631ce9cd1078b3464108a19bee18ddb980",
-          "len": 9880
+          "hash": "d5b8ad22026c9c0302362e77318dbf055623f583db554b9bf4a3fffbd47976e2",
+          "len": 9918
         },
         "https://vesinhhc.vn/ve-sinh-nha-kieu-nhat-giup-khong-gian-song-sach-dep/": {
-          "hash": "471aa4510e80f2a51421729f21cd7cdfc393853b8a1d22d708746c1d93d90393",
-          "len": 10209
+          "hash": "1ae2770f221039f57b4bb8feefa15b33b4cc5b959c0e8183cd7ed94c8c270292",
+          "len": 10220
         },
         "https://vesinhhc.vn/dich-vu-don-dep-dinh-ky/": {
-          "hash": "44f57b6443b6d36dbbb9d09652c642d30ab84c1a9276fcf853a1e5efb759097f",
-          "len": 12181
+          "hash": "784d8fe90e63e18bd0c076304e67ef0dfdfddef81ec91a987046162ab5470647",
+          "len": 12211
         },
         "https://vesinhhc.vn/cach-ve-sinh-ghe-sofa-vai-bo-hieu-qua-va-nhanh-chong/": {
-          "hash": "77a77d918bf3afa2c14e98df0ea89b9bcfe423ed8e85a4322c5ddfc65d3eadf0",
-          "len": 6554
+          "hash": "c9b6230f081956da18f40fac6296af370d48e4621fa5c3002aad379be8109478",
+          "len": 6550
         },
         "https://vesinhhc.vn/dich-vu-dao-tao-tap-vu/": {
-          "hash": "0348675627ea774ba57c89a41db73fbd69e88bf8394e7267633f5681b8c6bb95",
+          "hash": "b8d84aabe2340b521a36d45aa33963141039e153f4eb1bbb7fe1dafe9fb4eedd",
           "len": 7749
         },
         "https://vesinhhc.vn/ve-sinh-van-phong-giu-gin-khong-gian-lam-viec-sach-se/": {
-          "hash": "83e7778581c0f1ae0ffc65b5d5854b3df3d9984fefcf89fa62059adcaf6ae3f0",
-          "len": 12376
+          "hash": "a8963a9eeff769f0f1b86750c3cf367ab0e4ec2ee645a57cc5cca6f7415385c4",
+          "len": 12387
         },
         "https://vesinhhc.vn/dich-vu-don-dep-nhanh-chong/": {
-          "hash": "c3fe823a3ec9f4224c78c1b3e5769e3378d0929d28792f5edf0d038ffe44b9a0",
-          "len": 13870
+          "hash": "dbde870539224899a84d7a058dc7a2d79981aed6695bbfe9e60d13ca02e12777",
+          "len": 13840
         },
         "https://vesinhhc.vn/dich-vu-khu-trung-nha-xuong-moi-truong-lam-viec/": {
-          "hash": "46aaac10f441a628f16b28b81a14b7c7b500fe6a99e95b74e96a914ed2cfdd07",
-          "len": 8633
+          "hash": "960d403bb046df5df6e496ffa8df0232497adced205adc2e3d81ed173decc18a",
+          "len": 8675
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-tai-cung-thieu-nhi-ha-noi/": {
-          "hash": "f3c208d5b5331d77dba9e13f10929c5ef1250fba93f73308ca4650ed1ca21b7f",
-          "len": 3476
+          "hash": "2979873b9fd4bc94277f477aa58602e25e1a765a96a5cb8ca7e12390db0a7e51",
+          "len": 3451
         },
         "https://vesinhhc.vn/ve-sinh-va-khu-mui-nha-bep-giai-phap-khong-gian-song/": {
-          "hash": "bea7708a205a9a8054becdbee4674598d1ebb25d89a2a58d19132ead1429fbc9",
-          "len": 8456
+          "hash": "69976ceab503809b32a96cb8b3629b1e44988b4832772cc3db8636083892c037",
+          "len": 8428
         },
         "https://vesinhhc.vn/blocks/header-block/": {
           "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "len": 0
         },
         "https://vesinhhc.vn/doi-tac-tin-cay-cho-dich-vu-ve-sinh-tai-ha-noi/": {
-          "hash": "8649a918aa66f084e560e96caf5a7c1a788135d075bee5932a2a76ea93b3e337",
-          "len": 13538
+          "hash": "03572e4d989012a9be586778e618a0b9032ccd37c528ea9c3cb49ca4f5421c3a",
+          "len": 13531
         },
         "https://vesinhhc.vn/ve-sinh-cong-nghiep-nhanh-chong-hieu-qua-cao/": {
-          "hash": "0d332ea25e176032867e2427a7c97d9b935cbf2c23962ecada85e8388d2943b3",
-          "len": 12438
+          "hash": "84ff76359bd81e86649f4bc15f1ac288557e1d8c0fcefa03bb080aae43a3eff4",
+          "len": 12443
         },
         "https://vesinhhc.vn/ve-sinh-cong-nghiep-hien-dai-va-xu-huong-moi-nhat/": {
-          "hash": "e7862877bb0140cbd7fe7d7a448e02bcba749b6e337aa7fd5f8793581bf02cad",
-          "len": 8352
+          "hash": "e509ecc94dd8273c8ca6f0782268668a725f31aa567898a8c7f1e862bca4f1d0",
+          "len": 8360
         },
         "https://vesinhhc.vn/ve-sinh-van-phong-hang-ngay-giu-khong-gian-lam-viec/": {
-          "hash": "d7505fbf11c0fb7b108851460924b0579176408157566fc833d9d6c2c856b1e8",
-          "len": 10506
+          "hash": "c6366a8d557504d6fb064b44840a3efd5eda0523446b7f8fe2cbf03971c2aca8",
+          "len": 10533
         },
         "https://vesinhhc.vn/ve-sinh-thiet-bi-cong-nghiep-va-nang-cao-hieu-suat/": {
-          "hash": "a11d2e97f5431f7dcf92fad1e29dc832b9ba45ea9b25d30eb57e25b389f66323",
-          "len": 9506
+          "hash": "364587e76ed7091d018b090a3f7cece1b6c5975ebab05a0701953f46c770050a",
+          "len": 9493
         },
         "https://vesinhhc.vn/ve-sinh-cong-nghiep-hieu-qua-giai-phap-khong-gian-song/": {
-          "hash": "0ad1ea1cb8843d9cc4739c20cdda2edf4ce70ea66871576d1f0b5fa084341537",
-          "len": 8837
+          "hash": "30c45222fd3f108985e3e7ff01cc6d84d1cb639d888736d445f481d8a4101f33",
+          "len": 8780
         },
         "https://vesinhhc.vn/ve-sinh-he-thong-thoat-nuoc-dam-bao-su-thong-ngoi-nha/": {
-          "hash": "e4f2dff60a126068be0d29c98a7286eb2f6d6a6d069f66c3b94ceb398c651827",
-          "len": 9808
+          "hash": "3f4cb06d8ed6011f24a1133016bbb47e5cd9daef0f7f5c59953d6f0ff3aeb750",
+          "len": 9804
         },
         "https://vesinhhc.vn/ve-sinh-benh-vien-yeu-to-trong-cham-soc-suc-khoe/": {
-          "hash": "a1928bb2e565dc741e59f85ee53fda3fb28b70fe91440ba47a65cd7d0f596eed",
-          "len": 8333
+          "hash": "e4cb365197a3f0e67df138a4ba54e27cf4c03f289163ebc34d81afd209ef1d44",
+          "len": 8242
         },
         "https://vesinhhc.vn/ve-sinh-cong-nghiep-mot-lan/": {
-          "hash": "f2b2a951021860fdab59692365bde7efa3a7be2d5c6351671c0105ae963c286b",
-          "len": 11072
+          "hash": "7006fe24be60d41bf294ea5dfd34de90126f639b8a880193bb214e5d8368faa1",
+          "len": 11141
         },
         "https://vesinhhc.vn/ve-sinh-san-be-tong-bi-quyet-an-toan-khong-gian-song/": {
-          "hash": "8a5c240b06b3557cf4ff243b6a65dc7458148b102e6d02172ce81f801ad2cd22",
-          "len": 8449
+          "hash": "ae6a881c98c356e17bd917a463fe40c5e1b610ad767be2655cd551417b803297",
+          "len": 8409
         },
         "https://vesinhhc.vn/ve-sinh-nha-o-theo-gio-giai-phap-tiet-kiem-thoi-gian/": {
-          "hash": "871006ca86e5a6a061fb8b841ed28f9c7290fd407777dfada45e0a77622c678a",
-          "len": 8696
+          "hash": "3031511f33e85a83738d70c301a50d459c44ad96bb74465dd1d7860c73fd0372",
+          "len": 8651
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-nha-may/": {
-          "hash": "5af0ca2323ccaf37b63bcd9b99ff5ecb3d67f341de6a486cd5486f9ffea72a5c",
-          "len": 10758
+          "hash": "60405ee9b0b8399274c24dcf405bf28a889b8af01b19d79c66a71456091015f3",
+          "len": 10876
         },
         "https://vesinhhc.vn/ve-sinh-hang-thang-duy-tri-khong-gian-song-sach-se/": {
-          "hash": "b2c1bf635c5546952f6f9f8949aebb7663eb0713ada76339f39a6df312478b4e",
-          "len": 8628
+          "hash": "390522bba687193678affc40201c6584aad8e1f9b0a2291204464d89940fff43",
+          "len": 8643
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-nha-biet-thu-giai-phap-khong-gian-song/": {
-          "hash": "cd4a4636fa6378f38a4f0bb7c189d88bfd80b94e6d759789ef25fed10f0342d2",
-          "len": 9312
+          "hash": "4870ef016c6daed469a05aeb322f106bfd572fbdd8aeff91d5ad0f3939617fed",
+          "len": 9344
         },
         "https://vesinhhc.vn/cong-ty-ve-sinh-benh-vien-ve-sinh-an-toan-va-uy-tin/": {
-          "hash": "978427805d1cb33292c85ca9c982e45e1922b395736e852b35e1a14de0da54ed",
-          "len": 13455
+          "hash": "d62078500a0f3238099c8bd386fb73f9810d49f0fb6ebd3751c94e9a28c98372",
+          "len": 13429
         },
         "https://vesinhhc.vn/cong-ty-ve-sinh-van-phong-giai-phap-chuyen-nghiep/": {
-          "hash": "13d43cb36ffd49b7b907938cc0498368319b9869e45751d7359e8915dbe1d709",
-          "len": 11676
+          "hash": "54acbfc39a11b202f5f4953cbf1d31b56b8d0cacbf45539da8a27c298e121f44",
+          "len": 11613
         },
         "https://vesinhhc.vn/ve-sinh-mat-tien-toa-nha-tao-dau-an-doanh-nghiep/": {
-          "hash": "786d1aa58fe9125805510d12c8ffdbbe240c057f53ab2ce08af988e311decede",
-          "len": 8748
+          "hash": "d1d29da9cf6fe39245e0b96eaed1b9479e50c65056fb88f1725ca9fdc9cd8973",
+          "len": 8692
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-cac-cong-trinh-cong-nghiep/": {
-          "hash": "8d576e6f25220cb4446a14a5517c1f44de6af3823fd1528b8b839585159cab90",
-          "len": 8983
+          "hash": "66663b84d464ca68d8ca140ca00d22b9e82e2668ba2dbfc88b293ed4897f49d1",
+          "len": 8918
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-24-7/": {
-          "hash": "837f5f5967290a07badf0574d28ea058e209b68c5d212be356af8a49b57f2e3f",
-          "len": 13529
+          "hash": "9ec1ed16b06f0cc5ed54fcd72085c797d0e921631c3e0e9b711c64b8d39812f9",
+          "len": 13564
         },
         "https://vesinhhc.vn/thanh-toan/": {
           "hash": "b39f1d8afe2d1c7a6ecc6329c4ba5fa603afe5b900ab4673e6aef7dbda3b16d7",
           "len": 1443
         },
         "https://vesinhhc.vn/ve-sinh-nha-xuong-tao-dung-moi-truong-an-toan/": {
-          "hash": "fcbed1c151dc5095d38543a9e6d571b13ce23d0d4ad4e570497d3d295e385d1f",
-          "len": 8476
+          "hash": "9426896c46d5f3e9f77e0cc44091bcf11497d3349760e1cf7db1ce55b17c2f67",
+          "len": 8491
         },
         "https://vesinhhc.vn/ve-sinh-cong-ty-giai-phap-moi-truong-lam-viec-sach-se/": {
-          "hash": "1f7c9da032c25ee688d3a9bee0b6b98c189bb04fa43998470f9235507f3958d1",
-          "len": 10685
+          "hash": "7b4c3c3b1e44aad97e312bc3d8ff5e3ec78cadcbcc6d3fd74a54550f409bff19",
+          "len": 10656
         },
         "https://vesinhhc.vn/dich-vu-lau-kinh-toa-nha-can-thiet-loi-ich-cuoc-song/": {
-          "hash": "7ece4ce6ccbc00eed8ee5decb1ad937d8ce51495096c5eb6862e053325214530",
-          "len": 9381
+          "hash": "fc7b55e562b2578df93757febf6652decd4a5405e489b8f82229d516065d0793",
+          "len": 9389
         },
         "https://vesinhhc.vn/dich-vu-don-dep-sach-se-chuyen-sau/": {
-          "hash": "7d9c2871c8d3c853b88bd7b6d1cb0ce3d238e0703ca409e7eb563d6b4438c35e",
-          "len": 11380
+          "hash": "a12279b98edc0137ea519d93ca355e523db91a26c05b67fce961c49a1cf21f4f",
+          "len": 11403
         },
         "https://vesinhhc.vn/lam-sach-khong-gian-song/": {
-          "hash": "b25ab10b441e2774280fce43d10721d66ec62774a413fa9c4129b7a890879124",
-          "len": 8472
+          "hash": "9501e8cdd8ca1e9f13171daf681a2fb99d6386bc73b2f2d9ebee8251fc057bf1",
+          "len": 8534
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-sach-se/": {
-          "hash": "88cecd42191f22dd2407ab3ba35607d9e69b7f6aebe552d6bb29763bfabf1afe",
-          "len": 15817
+          "hash": "7ab98dab61c1609d206e4f0466e2388f9fe4a106f4591b35dfd21a5294e43408",
+          "len": 15748
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-cong-nghiep-an-toan/": {
-          "hash": "e7edfb32e2e7f4c62eb6685ec2989e0f06aa2445b101f3ee1c0682f1deb3759f",
-          "len": 13706
+          "hash": "373102c8ffba36e1e635c301400cb4c34703bcc59edf504c6d604dd593141ee1",
+          "len": 13749
         },
         "https://vesinhhc.vn/don-dep-nha-cua-chuyen-nghiep-giai-phap-hoan-hao-cho-khong-gian-song-tuoi-moi/": {
-          "hash": "65b36090cfe806ef9a0a9403b382f77288c1b3a4a0c7818e543fa13c9ca68707",
-          "len": 9489
+          "hash": "a7139aab4a8cf1fafa8fef0de83a144eb6b897339d370f21c0fb6e98ec43ceb4",
+          "len": 9514
         },
         "https://vesinhhc.vn/blocks/footer/": {
           "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "len": 0
         },
         "https://vesinhhc.vn/dich-vu-ve-sinh-van-phong-toi-uu-khong-gian-lam-viec/": {
-          "hash": "e74ae92de86b973be35a225582ba561b690ce3abf25f77d680c205f6e7c00928",
-          "len": 11399
+          "hash": "b3f951e8a66a29a25b8b75106818c33e44418b07f17d3f3866ee550d73398bc1",
+          "len": 11410
         },
         "https://vesinhhc.vn/dich-vu-don-dep-uy-tin-chuyen-nghiep-dang-tin-cay/": {
-          "hash": "d813fc524199d0b9c389f4a94136def19d405eaecdef5a519e322ede9f8800b7",
-          "len": 14509
+          "hash": "16d61d532a1745e016977f1852baf360a07d9145ed7826f8210b895be0822658",
+          "len": 14532
         },
         "https://vesinhhc.vn/ve-sinh-truong-hoc-tao-moi-truong-hoc-tap-an-toan/": {
-          "hash": "a1df9c48dacaf223977fdf5b91a0f740064c82c90a7aaa462ebd1f512fdd4925",
-          "len": 9256
+          "hash": "58e756b71fdc6e3f36f41e7ea4c0b1e6350ab69ad59021527de868c36c456da6",
+          "len": 9308
         }
       },
-      "last_run": 1769317013
+      "last_run": 1769404095
     },
     "phuonggia.com": {
       "urls": {},
-      "last_run": 1769317046
+      "last_run": 1769404125
     },
     "btaskee.com": {
       "urls": {
@@ -16074,8 +16074,8 @@
           "len": 8159
         },
         "https://www.btaskee.com/cong-dong/btaskee-khai-truong-van-phong-tai-tp-hai-phong/": {
-          "hash": "75f039c2971fc0ef0ea09af23389191ce61a57e7738d5d303dd315b6f09681ba",
-          "len": 4949
+          "hash": "69d319a0c15bad2b6e1965d5d2aa125f061771814096731fe3c2e23de67ef0b0",
+          "len": 4933
         },
         "https://www.btaskee.com/kinh-nghiem-hay/bi-quyet-cho-cac-gia-dinh-ban-ron/": {
           "hash": "7e83e363bd8674b291a50a889a6ad36c7d0b617611558d3dc35ff56d396bc899",
@@ -16110,7 +16110,7 @@
           "len": 10852
         },
         "https://www.btaskee.com/mon-ngon/ca-hoi-mang-tay-sot-kem/": {
-          "hash": "62a756fd03f00d24ee5bf1ebfe902b378455cc419bbfcd819af23002b84007af",
+          "hash": "95e5cafda0638553a15c7b59ccc2b958ef40331c87ec3ec0b415fc46a7f76e1b",
           "len": 8181
         },
         "https://www.btaskee.com/en/careers/chief-accountant/": {
@@ -16134,8 +16134,8 @@
           "len": 4540
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-goi-banh-chung-ngay-tet-dung-chuan/": {
-          "hash": "593ddde27aa5edf09d45acb98fa968ee6c59441b878acd2009aee97fc0346819",
-          "len": 13896
+          "hash": "689f3090c5cb03b95d91ff9d9efccea5b09f0381b29987004d83bfb12cf63f65",
+          "len": 13902
         },
         "https://www.btaskee.com/en/for-you/what-to-eat-today-rainy-day-dishes/": {
           "hash": "3f2a4e152703467f431868ad829d9b14d57ae3872dc501709f8776242be5f7c7",
@@ -16198,8 +16198,8 @@
           "len": 4420
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-nau-chao-ca-hoi-tai-nha/": {
-          "hash": "8561ea3e117b57e7f6462846340c7a5040a48eb56188c79a84ab769939400b95",
-          "len": 8376
+          "hash": "a31b5d54ff81147cc656d978f1f1f00277bfca3be446c865a93d76607d306e9a",
+          "len": 8382
         },
         "https://www.btaskee.com/kinh-nghiem-hay/danh-gia-dieu-hoa-nagakawa-thuong-hieu-day-tiem-nang/": {
           "hash": "398d0346b5fa657ef8535765a0b32de59f7c5026e7523599904fd2a8e279228c",
@@ -16254,12 +16254,12 @@
           "len": 7880
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cong-dung-rau-mam-va-cach-trong/": {
-          "hash": "ba8aa96fd41c8aeaa239adbeb8d8f5cba7a72fcc16bf1276a35e263e6656ac45",
-          "len": 10690
+          "hash": "376edeee3306c061d333e59741d435d03e1ab8f9e1769cdd5a6d4c67cc4a68b7",
+          "len": 10696
         },
         "https://www.btaskee.com/kinh-nghiem-hay/don-dep-nha-cua-sieu-nhanh-nhu-nguoi-nhat/": {
-          "hash": "0ac64c6bcac86d599c1083d53bda56757e3fb13e9018054deea77dc02c64242e",
-          "len": 8074
+          "hash": "79bfc4ddabc9065c58e7a53fbf4e483aaf6ccabf9146f3ce841cc9f5022bcc07",
+          "len": 8062
         },
         "https://www.btaskee.com/en/careers/golang-developer/": {
           "hash": "aafb9b6f458834d5edae2e951baacc325f71b3fe1ccfd34d26f00b87e3786616",
@@ -16314,16 +16314,16 @@
           "len": 9063
         },
         "https://www.btaskee.com/kinh-nghiem-hay/luu-y-khi-mang-quan-ao-di-giat-kho-o-tiem/": {
-          "hash": "ff5d33fdf27bcc10701560721f1c2b0defcd779c2fc7a41b689ade19ba9ee996",
-          "len": 9326
+          "hash": "cf80b24bd404effd6a5a19bad5e9896e193f4deb6decd678f1dbd1c6c2e269e9",
+          "len": 9332
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cu-sa-bay-cong-dung-va-tac-dung-phu/": {
           "hash": "1ad1c237835b479e253ac81a04d55e8652021e7d6b6ee0f4618d8890efc89a0e",
           "len": 11085
         },
         "https://www.btaskee.com/kinh-nghiem-hay/loi-ich-suc-khoe-va-luu-y-su-dung-qua-luu/": {
-          "hash": "ac57c9584c87a80063e2d1889e41e0adb6d86166ddf16585a961fe8c417d473a",
-          "len": 12141
+          "hash": "a3cd9df25a9b6f68bc7ffc6e17cd3d4eeda066f78ee712358987afaaadecc7d9",
+          "len": 12147
         },
         "https://www.btaskee.com/kinh-nghiem-hay/dich-vu-giup-viec-chung-cu/": {
           "hash": "60a2026e34cd2e40f34c1157e8ba369279b5f52b39015ea972a37e92342e2cb6",
@@ -16334,20 +16334,20 @@
           "len": 8878
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-tay-vet-bang-dinh-tren-moi-be-mat-hieu-qua-nhat/": {
-          "hash": "165b863bbd4e4bac702f0bec3aa8208e0666601013b6bc980bcc647325ad4f54",
-          "len": 11780
+          "hash": "f746980b5051f3b52571364f1295e67b643d7b4197e817160516a3c68a890639",
+          "len": 11786
         },
         "https://www.btaskee.com/cong-dong/loi-ich-tu-viec-tro-thanh-cong-tac-vien-cua-btaskee/": {
-          "hash": "f1049c47cfee5b3b63602f648c5b960a74e48c52efed1e7757d5006f8f96e975",
-          "len": 8654
+          "hash": "b9609dc32172709b7f47b2852cfbf33870acd34b8e5e38e7ada0e9fb8cb4660b",
+          "len": 8636
         },
         "https://www.btaskee.com/kinh-nghiem-hay/giat-ui-quan-5-gia-tien-cong-khai-va-minh-bach/": {
           "hash": "f2f1044db4847b9a827ff2fe3dc7551be66a6964a2c6f812baff08c4bc28d98f",
           "len": 9512
         },
         "https://www.btaskee.com/en/for-you/what-to-eat-today-weekend-hot-pot-party-at-home/": {
-          "hash": "e6f7ac77ef0cc917814725384b3bd85f9cda35bacaeab6d3c10d75e5e48632a2",
-          "len": 8412
+          "hash": "3fdb5b7cf25c51c2e0a4e73f7ce2ede2b3cf55616ca0dbc5f05e0eb841d7db8d",
+          "len": 8433
         },
         "https://www.btaskee.com/kinh-nghiem-hay/rau-diep-ca-co-cong-cung-chua-benh-gi/": {
           "hash": "b192b29b248fe7947bb8224dddb7d4971302c7467bee0d804fc5091e624c06d0",
@@ -16434,8 +16434,8 @@
           "len": 5066
         },
         "https://www.btaskee.com/kinh-nghiem-hay/nhung-dieu-ban-chua-biet-ve-cac-sieu-giup-viec-nha-btasker/": {
-          "hash": "ef9d7d552b19749b4862df47164683f9dd796f09727e00231fb2c2668173495e",
-          "len": 8834
+          "hash": "07dbe015aaa5ff29ea27ff3622be26309eab460011c083980cc9b1ed41ae30de",
+          "len": 8822
         },
         "https://www.btaskee.com/kinh-nghiem-hay/hat-de-cuoi-co-tac-dung-gi/": {
           "hash": "4468e5e30b15f5cb368a8317ababc830020ffa889ea2e9d3a29570acaee67166",
@@ -16446,12 +16446,12 @@
           "len": 11462
         },
         "https://www.btaskee.com/kinh-nghiem-hay/bao-mau-cham-soc-tre-theo-gio-cua-btaskee-se-lam-nhung-gi/": {
-          "hash": "818ef5e5fa3e6ece29371696c24b73f233170c9ea75fcf67c3f243d5b7ad3c91",
-          "len": 10255
+          "hash": "34923e2a17b8db573d64916c9ed220198bd6dc600718873a1c46a093baf2ac22",
+          "len": 10243
         },
         "https://www.btaskee.com/khuyen-mai/khuyen-mai-ve-sinh-may-lanh-2021/": {
-          "hash": "85a89f7dbb6067aaffa560cdf1d1e984938873537143f9a1e1e9cb79f6da94a0",
-          "len": 5559
+          "hash": "ae478534efc36574c80e2e2affbbfe5f0325fa67032a2cf6c85b6cc0d30ed257",
+          "len": 5553
         },
         "https://www.btaskee.com/kinh-nghiem-hay/ung-dung-di-chuyen-chuyen-danh-cho-dan-cong-so/": {
           "hash": "c5b4ab4df163ce9beaba848b881b901be2155856a3a9fff10aca78ad329e7130",
@@ -16486,8 +16486,8 @@
           "len": 5540
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-xu-ly-thot-go-moi-mua-khong-bi-nut-va-moc/": {
-          "hash": "b54947f38ad3427113cd38418af5ab7eed25b1d75568106b4df097ec2324a2fb",
-          "len": 10918
+          "hash": "a69c8b797be9b3c3320209eed3940ee2e33b7d18d2e726299d56a6b6307266ec",
+          "len": 10906
         },
         "https://www.btaskee.com/mon-ngon/cach-lam-banh-mi-thanh-long/": {
           "hash": "9004bbaa1093688756d584d1f2db4e3a45cf17767212937afcf8d7dbb7d84fdd",
@@ -16554,8 +16554,8 @@
           "len": 11402
         },
         "https://www.btaskee.com/kinh-nghiem-hay/4-phuong-phap-hoc-tieng-anh-cho-nguoi-giup-viec-nha-theo-gio/": {
-          "hash": "d5c8f81822a0caf6210c6d04fc49bdd283205bf6cebb48f4491ba721fbba7f00",
-          "len": 9253
+          "hash": "e3ac2153bb48ba75b3b4afb1a41dd5c7f07527a312b00ff47cef79865fae1f6c",
+          "len": 9241
         },
         "https://www.btaskee.com/mon-ngon/lam-mon-goi-cuon-nhe-bung-sau-nhieu-thuc-don-dau-mo/": {
           "hash": "d7347138284c780129d3fde10fb7fe23e1bb72fce6981fa19cc762acfad0fc2d",
@@ -16570,8 +16570,8 @@
           "len": 15143
         },
         "https://www.btaskee.com/kinh-nghiem-hay/nhung-meo-don-gian-giup-bon-rua-chen-sach-bong-nhu-moi/": {
-          "hash": "25efb61e770660028204c152b23d5c5c8a8f9092987d18bf4bc55d64e4fbfee2",
-          "len": 10208
+          "hash": "019e925d4d81ab017f4ddbb9f87ff90dc1c79712797a84481e0915c4a1c5b4fd",
+          "len": 10221
         },
         "https://www.btaskee.com/kinh-nghiem-hay/don-nha-don-tet-voi-meo-vat-thong-dung/": {
           "hash": "fbbf4345ffb04e9117d269f8672bdb367892b78c10a50e67a7c43a2b8ba753da",
@@ -16594,8 +16594,8 @@
           "len": 9032
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cong-dung-cua-dau-phong/": {
-          "hash": "aeb5bcd9e9d99640315f453f9505d07c12d3ca868a1511a03e26529a1c1f4356",
-          "len": 12279
+          "hash": "c47966d660cefadeab5f63a1547d725617136c79027a947262c0e09baa4977cf",
+          "len": 12293
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cong-dung-cu-nghe-va-tac-dung-phu/": {
           "hash": "edec53ca35e230ce1d98c70544b3cbd08cf07e2e2781d9211b92d90aa7ad531c",
@@ -16694,8 +16694,8 @@
           "len": 9987
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-giat-va-bao-quan-trang-phuc-vai-linen/": {
-          "hash": "ec12323ecc0ab1f927eb7a566a17000ed1a09d444de1e4c9c4e4ed435698da99",
-          "len": 10333
+          "hash": "4baac5d1d7b4039664e3919759f615c1ccb67d74f00da705a70d5b3f1f456843",
+          "len": 10321
         },
         "https://www.btaskee.com/en/community/vietnam-startup-day-2016/": {
           "hash": "42e5c5f314703861e9fc9edd43e5951d18d9d57f1d9061dcef5d3b7ca9bbf7fd",
@@ -16726,8 +16726,8 @@
           "len": 4724
         },
         "https://www.btaskee.com/kinh-nghiem-hay/nguyen-nhan-cach-khac-phuc-may-lanh-chop-den-lien-tuc/": {
-          "hash": "cefc0e362df7ce93c8bc042e2dba70a563c1484b51d01ec91b6f49967cee1130",
-          "len": 12246
+          "hash": "ae3c0d13c37c291007f65e3741ce35b471d15a830704d45613cf70a76d6cc162",
+          "len": 12259
         },
         "https://www.btaskee.com/kinh-nghiem-hay/bang-gia-giup-viec-nha/": {
           "hash": "6ecd35341837883691b3301d35d511b5868a26fb48192185c459dd07f702cf23",
@@ -16750,8 +16750,8 @@
           "len": 8084
         },
         "https://www.btaskee.com/kinh-nghiem-hay/bo-booth-la-bo-gi-cach-chon-va-u-bo-booth-ngon-tai-nha/": {
-          "hash": "359b80d1d728eb5642742983b3d064042230c0d31d0d58df1e207fa28f10a286",
-          "len": 14000
+          "hash": "f070579f8a2d2790b25bef571dadd8aea62153a523d56adfc2d2c55ea753722a",
+          "len": 14006
         },
         "https://www.btaskee.com/mon-ngon/cach-lam-banh-com-thom-deo-chuan-vi-ha-noi/": {
           "hash": "204063e74e58d67eb6b44588e29102eab0d815a353aaf4068c57bff2122cca34",
@@ -16946,8 +16946,8 @@
           "len": 7830
         },
         "https://www.btaskee.com/kinh-nghiem-hay/5-cach-chon-cam-sanh-ngon-ngot-nhieu-nuoc/": {
-          "hash": "73649e2cf0dd805c73ef9745a15f596d21dee0015fb2cf5e610a2a94fe1c0c64",
-          "len": 11503
+          "hash": "011c8e4d6901bef21011b38c01b834b0c75fe23cd4b2565031d64523cd19b850",
+          "len": 11517
         },
         "https://www.btaskee.com/th/faqs-thailand/": {
           "hash": "07b0404f482268ee2f0ff3c2e11c18299e417d4724bb48e699a697a92bb1e174",
@@ -17022,8 +17022,8 @@
           "len": 4168
         },
         "https://www.btaskee.com/kinh-nghiem-hay/nguyen-nhan-may-lanh-khong-mo-canh-gio/": {
-          "hash": "4a5b9da56b42f0165f44ca6e4817050ac1c10c9424aff0aa144203af1c7cd9ce",
-          "len": 11001
+          "hash": "3d02a6323b093748945ff953c5452f9b9047ceca7c59ec1063f0926fb3a62c30",
+          "len": 10989
         },
         "https://www.btaskee.com/kinh-nghiem-hay/tranh-mat-cap-khi-su-dung-dich-vu-giup-viec-nha-theo-gio-cua-btaskee/": {
           "hash": "fdd3dcb576d6d086b24c05cca2a1f667cc929b67cdc0a19e51db750e1a2b3308",
@@ -17094,8 +17094,8 @@
           "len": 7002
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-bao-quan-cha-lua/": {
-          "hash": "4145f2f18b41e06882ce121aeebb06811f1f63266bd462db5dbabfa54ca9a738",
-          "len": 10515
+          "hash": "eb482314c139aeda0367c63bd6e3b2a99db7c250fed1ab599849bbb20dd9c097",
+          "len": 10529
         },
         "https://www.btaskee.com/kinh-nghiem-hay/nhung-vat-dung-trang-tri-nha/": {
           "hash": "c6d673cb9047981383d1bc300e3a8e541fe6eaa5e532870d3cac38fb57a47171",
@@ -17126,8 +17126,8 @@
           "len": 15490
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-nau-che-hat-dac/": {
-          "hash": "e48b8fe3b69f28065eee889df4384222baf6bac0ff554256150bb5bc57128224",
-          "len": 7574
+          "hash": "e08b1bc35839d3cc762cd97f6a38c955076d0fefc84235c6cedc3609db76aa8f",
+          "len": 7580
         },
         "https://www.btaskee.com/cong-dong/hoi-nghi-va-trien-lam-khoi-nghiep-surf-2017/": {
           "hash": "b3bb11bbe92ab68c35a1f51d64324688cb718f5766099e9c3be7bebe8b13cb35",
@@ -17186,8 +17186,8 @@
           "len": 13458
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-bao-quan-mat-ong-tuoi-lau-tot-nhat/": {
-          "hash": "894ef2aaa09a2ae345d04d67e2b3e1c7f5cf7c1a76fef8a8aadc9854b5769006",
-          "len": 10297
+          "hash": "0912d54bc5b92e08e3540a5183570061986db2eeb9a79ef41f830f4ea3c3d824",
+          "len": 10310
         },
         "https://www.btaskee.com/tuyen-dung/ho-tro-tong-dai-cong-tac-vien/": {
           "hash": "f56c0cc6ab0fd9cc3ee451e44d9a89ae2f2f161a29d94ff1956e4141deebce91",
@@ -17230,8 +17230,8 @@
           "len": 13584
         },
         "https://www.btaskee.com/kinh-nghiem-hay/tre-so-sinh-nam-may-lanh-co-tot-khong/": {
-          "hash": "469d00d91667d82edc1e4ffc5326d49da0429a26477584fad08f16999f75d1f6",
-          "len": 13599
+          "hash": "be374f047281ba373f57fcf01a3e7cac51e6070750ea499b58bae4bc37ae88cc",
+          "len": 13612
         },
         "https://www.btaskee.com/en/community/techfest-vietnam-2016/": {
           "hash": "f5d3d9bced86ff6a48359fbb07eff5b503afc506a511fa87f36ed47c5a4be25f",
@@ -17254,8 +17254,8 @@
           "len": 15053
         },
         "https://www.btaskee.com/kinh-nghiem-hay/meo-chon-dau-bap-va-cach-bao-quan-dau-bap-non/": {
-          "hash": "aff2daa02c6e25dd46a12d83dfbd23613177a89fc5caf6af8aec85e1194be098",
-          "len": 9949
+          "hash": "e8c806daf612e6c17436c6e604522c600fe127b69850fd442810deb09af086c0",
+          "len": 9955
         },
         "https://www.btaskee.com/en/resolving-complaints/": {
           "hash": "b2c0c683b4b6200e5c3685675a11058c7b79858eaae300373fc1118cf661458a",
@@ -17306,16 +17306,16 @@
           "len": 5846
         },
         "https://www.btaskee.com/kinh-nghiem-hay/tac-dung-cua-khoai-lang/": {
-          "hash": "044a259bdf5e5ddfc15b466c639d9425f81f1587b769ef5e5d436eeec37d13f0",
-          "len": 13174
+          "hash": "ee30c87950b883cf835b5651e5a7a848fe5187120d35464b51cd34aea3d6d366",
+          "len": 13180
         },
         "https://www.btaskee.com/mon-ngon/cach-lam-canh-du-du-ham-suon/": {
-          "hash": "d1516ac511a33e8efcd2f8729155c04af04ec277d21c22adf464916d5215ebff",
+          "hash": "2d91cdd0791cba3f69c849100de91c56b788f12a5ab5a622f15578c05960f0d4",
           "len": 8168
         },
         "https://www.btaskee.com/kinh-nghiem-hay/nhung-loi-ich-khong-ngo-cua-viec-don-dep-nha-cua/": {
-          "hash": "095d0667f28e2d1257e41f00dfc5dbf45dbe5f15c36175331c1efb56076dd5f4",
-          "len": 10650
+          "hash": "649ca82141ba518d3dae6c6664a99cc557a2e717baa18fffbff517fc9d99bed0",
+          "len": 10663
         },
         "https://www.btaskee.com/tuyen-dung/chuyen-vien-lap-trinh-front-end/": {
           "hash": "eb0cd1edf24513e9f7d83ae4173ef027f47af36e3fb4ba5acbd015f7ac9e9ff7",
@@ -17350,8 +17350,8 @@
           "len": 11849
         },
         "https://www.btaskee.com/kinh-nghiem-hay/giup-viec-nha-theo-gio-quan-6/": {
-          "hash": "3a6f4dddb779a1e3145102715f1536c3f4721c8975e39e1efdb5d5fdb03d7b45",
-          "len": 19677
+          "hash": "497d1b21a8d0e0bdc151a88d4540c7352bf1401a4c84ebdbfd5ca8700520323e",
+          "len": 19690
         },
         "https://www.btaskee.com/cong-dong/btaskee-hoat-dong-xuyen-suot-dip-tet-nguyen-dan-2019/": {
           "hash": "c56242ceeb259b6a264411f18ba32ac3dbae1b18918674a65e986e9d3ca322de",
@@ -17382,8 +17382,8 @@
           "len": 6882
         },
         "https://www.btaskee.com/cong-dong/thong-bao-chuyen-van-phong-da-nang/": {
-          "hash": "94786e68c8930f177fbaf3442da2f35aa9ff753980c0d31737cfb7922afedd6b",
-          "len": 5018
+          "hash": "661038f862e216351d1e1273b227dccb2962cbc6c28c6d2a01f17adde3d18f42",
+          "len": 5000
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-tay-vet-muc-tren-quan-ao/": {
           "hash": "f0c790877e62fcd56444dcbb188b015af0a554cbb612c41f97cde867f255a0df",
@@ -17398,8 +17398,8 @@
           "len": 8020
         },
         "https://www.btaskee.com/kinh-nghiem-hay/vi-tri-dat-may-lanh-trong-phong-ngu-thich-hop-nhat/": {
-          "hash": "89b8d246624b05532ca51d433d035349e8b8f1f72005a8853d75a8b4bfcf998c",
-          "len": 11519
+          "hash": "100f287aee84d6a7dd89634c34ed40dc208a3d98ee54ce0a3f22efa6f1da96af",
+          "len": 11507
         },
         "https://www.btaskee.com/kinh-nghiem-hay/ban-can-luu-y-gi-khi-tong-ve-sinh-nha-tam-nha-ve-sinh/": {
           "hash": "7cb85ce3466b598f2d9e4116b223823808cdd091b1445871f85bc98b4511b407",
@@ -17422,8 +17422,8 @@
           "len": 8630
         },
         "https://www.btaskee.com/goc-cho-ban/": {
-          "hash": "472a9265a02ae1a4cfa77d8531b35696dd98b1553e7983754405640cf706a012",
-          "len": 4154
+          "hash": "7d4dc46220221614ff8afdd68010046263c4eb20ba188d5aa542242fffb718cc",
+          "len": 4104
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-giat-do-lot-dung-chuan-tranh-mac-benh-phu-khoa/": {
           "hash": "c4ff3da7d920316755c34216174da6ed35cde93c71668df71da63c665e9e6b3f",
@@ -17502,8 +17502,8 @@
           "len": 4756
         },
         "https://www.btaskee.com/cong-dong/thong-bao-chuyen-van-phong-bien-hoa-11-11-2019/": {
-          "hash": "c9f37ef0e207e49a3093ecefc8dbba79bfb4e48aa8bdcf5d4d8f065490aa64a4",
-          "len": 4971
+          "hash": "4b4a14c4f6970fc2f84e6eb3027a370068824646a4d8f82f85f705d4b36c7531",
+          "len": 4953
         },
         "https://www.btaskee.com/kinh-nghiem-hay/nhung-meo-nho-can-luu-y-khi-tong-ve-sinh-nha-bep-can-tet/": {
           "hash": "b1516f13f6c53f4763832dde3fb48684a7b14a436a8546f3ea219e1df8fb5962",
@@ -17550,8 +17550,8 @@
           "len": 9878
         },
         "https://www.btaskee.com/kinh-nghiem-hay/4-ly-do-khong-nen-chon-nghe-giup-viec-theo-gio/": {
-          "hash": "c6a99ac92f03fd3278bb5aabe3ec79a15ba37cc5ac462a5e73e599590c7afcbb",
-          "len": 9666
+          "hash": "8767e0d60c82cfd0886d6bdf7063cf9d695332246613a0a9a9bf95a78e911ab7",
+          "len": 9654
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-nau-che-khoai-deo-thom-ngon-don-gian-de-lam-tai-nha/": {
           "hash": "8e65f6f5d3269a1d93c36b8c93d7a6be9ba0a0b54c45b7a5d4599ac0d77d23b2",
@@ -17578,12 +17578,12 @@
           "len": 5035
         },
         "https://www.btaskee.com/kinh-nghiem-hay/can-lam-gi-de-bao-ve-quyen-loi-cua-nguoi-giup-viec-nha/": {
-          "hash": "008540ec2ed882179369d41c6c50e8a7258d40668d918e6439172e685f40d21a",
-          "len": 8886
+          "hash": "c2c67d7d4221886a919f9b7abe750b31409323cd92d370b4a8fbcf2e245ab7dc",
+          "len": 8874
         },
         "https://www.btaskee.com/kinh-nghiem-hay/7-cach-tay-vet-o-vang-tren-ao-hieu-qua/": {
-          "hash": "a10bb6f84aa6886768404a7dfd7e445e52b9970565b59be1afaf369aaff43e1e",
-          "len": 13161
+          "hash": "e7ca19ccaf3ab48ed28c03f9cf7fad22b68817a1bd6c4f0801d8b96f15112858",
+          "len": 13167
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-xu-tri-khi-tre-so-sinh-bi-oc-sua/": {
           "hash": "ac43423b61ac3f1d9a1d0d3edf4a6081eb9b008e932d81ba00cc25cb432870ac",
@@ -17650,8 +17650,8 @@
           "len": 11615
         },
         "https://www.btaskee.com/en/promotion/btaskee-lunar-new-year/": {
-          "hash": "6b89a095fe382e57d24871c67456df13980fc2674e374d926884232b240840b1",
-          "len": 5184
+          "hash": "4b0709869a4d5df3d28ef80e2a31ebb45dc82f09e47e8ed250e7de8a42adcb30",
+          "len": 5175
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-giat-dem-bong-ep-tai-nha/": {
           "hash": "50ae12aeab009b2db8e4031d55afc71b77a379f778beeea0038220dbc8e6e740",
@@ -17746,8 +17746,8 @@
           "len": 22895
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-bao-quan-rong-nho-tuoi-gion-dung-chuan/": {
-          "hash": "b56bde57066fea01ac181201a13358df72a0fe30a8d3cf77f2a97eb6512c6756",
-          "len": 11139
+          "hash": "dd5accebe1c508e29618d824c0c6fcd30ad911cd50523799d5700d58dab1b2c6",
+          "len": 11145
         },
         "https://www.btaskee.com/kinh-nghiem-hay/huong-dan-thanh-toan-dich-vu-qua-tai-khoan-bpay/": {
           "hash": "29f4566cd627fe5916abd8c4b000e7adc04fa7b6d562c5cef70e838849088824",
@@ -17762,8 +17762,8 @@
           "len": 10198
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-ve-sinh-may-lanh-tai-nha-tiet-kiem/": {
-          "hash": "24ce3329fb1ad4cadf9e1e0380bbbbf5ae97cc3f41a70d942586764fa900dc04",
-          "len": 24113
+          "hash": "6f4329380c7d64d13e55f364ed03508f02df826619106d1ec457f57938ddc64e",
+          "len": 24126
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-cham-soc-tre-em-bi-tieu-chay/": {
           "hash": "ce852da275f82b128c9bad75308f91a7d81ccfac6226a3ec900f126a86d22917",
@@ -17862,16 +17862,16 @@
           "len": 9409
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-lam-banh-trang-tron-don-gian-tai-nha/": {
-          "hash": "2ab4b4a6d0c15220f183da3bdbda0db5a7d12337874b609c46f08726941c82a6",
-          "len": 11976
+          "hash": "0c0a22957bb0e6b7e54231f06af3d2cddc5b9f2210682807499266b1427b5cac",
+          "len": 11982
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-nau-che-khuc-bach/": {
           "hash": "645f7d17b3d303ffd85597bf2f47f744936de336b2d8478b7761a36d5f1d2a71",
           "len": 8971
         },
         "https://www.btaskee.com/en/for-you/btaskee-on-demad-home-cleaning/": {
-          "hash": "c18f69d7bfbb7a449b536eb57b2d17902e4a715d1224f52d916a8fbec869a013",
-          "len": 6899
+          "hash": "be28323c16f9300de3c06e31ca913bc743705b38eccb1ed08e10b477cbee1092",
+          "len": 6883
         },
         "https://www.btaskee.com/kinh-nghiem-hay/8-cong-dung-cua-giam-trong-giat-giu-quan-ao/": {
           "hash": "a98c544aef4f658fbd4d7acac017f517fe4870c0f119ff58e944d3b1ceded4cc",
@@ -17954,11 +17954,11 @@
           "len": 6327
         },
         "https://www.btaskee.com/kinh-nghiem-hay/hom-nay-an-gi-thuc-don-5/": {
-          "hash": "db164b35f4e02558a1b76032676c383279dfa7b74e11d5a7a737fe4a385ba618",
-          "len": 10584
+          "hash": "773a117a89f9a4a780e19dc9f2bd385d0b15f4ea0758d883a2f93f40b7325c55",
+          "len": 10572
         },
         "https://www.btaskee.com/mon-ngon/cach-nau-ga-bo-xoi/": {
-          "hash": "50aa59eae15f48873811329abc298d94ee26a50c6d3487c1aba6ea295ace9340",
+          "hash": "7b8c700ee7be5e624ca13b8e6857445c992e7b5cf5dce922496ac913090ee288",
           "len": 9024
         },
         "https://www.btaskee.com/kinh-nghiem-hay/nen-dung-loai-bot-giat-nao/": {
@@ -17970,16 +17970,16 @@
           "len": 14478
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-ve-sinh-bep-tu-sang-bong-nhu-moi/": {
-          "hash": "557bcf1c343f0c3a2fbbab957142489fde0f48e230f182c618bd31116d9f9bff",
-          "len": 12400
+          "hash": "96c46f47390226835783de8a664456c0d11650ba7db72edf65868ebdab01e9c7",
+          "len": 12406
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-ve-sinh-binh-thuy-dien-nhanh-de-dang/": {
           "hash": "5b090f9558e84aaf331ab463ee571134fb696eb14e9e18a3755ac6a84dddb84b",
           "len": 10258
         },
         "https://www.btaskee.com/cong-dong/nghe-giup-viec-nghe-cua-thoi-dai-cong-nghe-4-0/": {
-          "hash": "2dff6a1f0a8fdb5389ba43e398b4d8c301efd46b9cfa6f715a360ead18f248c5",
-          "len": 7881
+          "hash": "0a8cf24edd1eb81a99140a3bcb1a5260d1b093be2fa15d940feffbac455ec380",
+          "len": 7863
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-ve-sinh-loa-dien-thoai-dung-nhat/": {
           "hash": "96e953897aab1dd8117ff5feaa8f7150fb3ee7211af34f018f20136612b5c96e",
@@ -18090,16 +18090,16 @@
           "len": 9340
         },
         "https://www.btaskee.com/kinh-nghiem-hay/top-10-cach-trang-tri-lop-hoc-ngay-tet/": {
-          "hash": "6554fd2568b2c270ade8c37501ef3a5b07e0937bbcd38ec8f1bc2b4a741cd746",
-          "len": 18732
+          "hash": "b1d45d17a7d4c2ce630e8b1c75b5cfbdee6479f793f1b70964aa6c6bc8d86bfc",
+          "len": 18738
         },
         "https://www.btaskee.com/kinh-nghiem-hay/dich-vu-trong-tre-tai-nha-theo-gio-la-gi/": {
           "hash": "8d59f81ca38a62cb2111fa7db8efae46344b8e0da81c4f39f44bdb0da7afd2f7",
           "len": 9272
         },
         "https://www.btaskee.com/kinh-nghiem-hay/hat-macca-la-gi-nhung-tac-dung-cua-hat/": {
-          "hash": "6c528feb34edad56e8e5c2899b622eb841b722bc89a29d12864749b2029d6ad6",
-          "len": 14697
+          "hash": "28b02f2d78f23985d313c6a5bee63e74c0ca9a028115427da088b2da0be4bbf6",
+          "len": 14703
         },
         "https://www.btaskee.com/kinh-nghiem-hay/la-lot-co-tac-dung-gi/": {
           "hash": "7ceb0bb6a3a729527231515c59cfb6d8018cc2b982282016b3e60f790933d82c",
@@ -18130,8 +18130,8 @@
           "len": 11659
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-bao-quan-sau-rieng/": {
-          "hash": "fa0127ce0d0a1f4cbc7ba6f070ef2b2ed047ad556b0d4bb56f62e69092563342",
-          "len": 10389
+          "hash": "1d0f931eccbc4f3ef3a80947e26a8cb8a22c33a911c6cf00fe4aff55f7b26216",
+          "len": 10394
         },
         "https://www.btaskee.com/mon-ngon/cach-lam-ca-phe-trung/": {
           "hash": "cdab22738256ae3ab7d77e69356a293dc8f2a75cb822cc74a78d1f25d3d36f8a",
@@ -18186,8 +18186,8 @@
           "len": 14086
         },
         "https://www.btaskee.com/khuyen-mai/da-nang-dat-lich-nhan-qua-don-nha-tha-ga/": {
-          "hash": "952f0826f5b79aa7ebd68d203b7ba9945dc3e5fd513d7e48df0ae222064592f5",
-          "len": 5386
+          "hash": "e50a94027939c2cc2d546747ed3b7df328a961de9ae48a1f42de6b3d09ba6933",
+          "len": 5368
         },
         "https://www.btaskee.com/kinh-nghiem-hay/pham-thi-ung-chu-ong-yeu-nghe-giup-viec/": {
           "hash": "48fd2fbbe29bc9f9cceba3347f13d231187ae9a0567ae35f2763d5b8011be738",
@@ -18214,8 +18214,8 @@
           "len": 4121
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-lam-banh-crepe-chuoi-tai-nha/": {
-          "hash": "abd5d95f7a30bc9134378d6d55ce7d6dfa7fd907e1cb695bb076bbc01e614efd",
-          "len": 7590
+          "hash": "517e5c087a211b9fb7e7998a78b85473bc29b3230d8059822060e2badb490ccd",
+          "len": 7603
         },
         "https://www.btaskee.com/mon-ngon/cach-lam-keo-nougat-it-ngot/": {
           "hash": "a28e23bd5c50e87c21fb8c0e7043715905dd2cc770a34cca5a53b32eb43772b3",
@@ -18226,8 +18226,8 @@
           "len": 9059
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-tao-do-am-phong-may-lanh-chong-kho-da/": {
-          "hash": "f8ccd0ab5379472ad263f8578194991042f48a5897f8d2b728cc913963a3bf48",
-          "len": 15991
+          "hash": "761870ba38ca39f9bbc37c3f72bdc831b394f2516bd6ad69998c624bd086fdc7",
+          "len": 15997
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-lam-sach-ban-phim-laptop-may-tinh-don-gian-hieu-qua/": {
           "hash": "3fc5de1e490fc9c56cbe075421d40b7e3f908d5fee1f643eaa9a03805a03ecc4",
@@ -18254,8 +18254,8 @@
           "len": 5161
         },
         "https://www.btaskee.com/kinh-nghiem-hay/danh-gia-may-lanh-mitsubishi-heavy-co-dang-la-mot-su-lua-chon/": {
-          "hash": "e177873b51d43bfc1ca5db5a9767ca3e37a670791b1ea6981430dab1ef390d02",
-          "len": 12995
+          "hash": "eceece6e418c95ba173a6b59c861aec97aa3a4196d1ce7c7d62b5869182011c8",
+          "len": 13001
         },
         "https://www.btaskee.com/kinh-nghiem-hay/5-bi-quyet-cuc-chuan-de-quan-ly-nguoi-giup-viec/": {
           "hash": "06c9edf307098c58b359b70df3d6bfa48e107c061f52a5a96bc15417d1fe5c43",
@@ -18294,8 +18294,8 @@
           "len": 4224
         },
         "https://www.btaskee.com/kinh-nghiem-hay/may-lanh-noi-dia-nhat-co-tot-nhu-loi-don/": {
-          "hash": "c9744269c6e70b65f898b5c545b8242074b3de93242b1a1de0cf2dbf90aa0ce1",
-          "len": 10134
+          "hash": "700d9e27171f70710e19e65f9938284de72de1aa38b6275aa2ae477a5ade9168",
+          "len": 10147
         },
         "https://www.btaskee.com/th/terms-and-condition/": {
           "hash": "bb66585080fb10dd7dfcc435fc031bc3c9dc0dddfa2343bd7643bda41ef6fc01",
@@ -18306,8 +18306,8 @@
           "len": 10134
         },
         "https://www.btaskee.com/kinh-nghiem-hay/nhung-mon-an-cho-nguoi-gia-day-du-dinh-duong/": {
-          "hash": "2f0b40d7c24105b9bc67bb3067e2c9bf429e3d0527eb7889634848958b79a69d",
-          "len": 11439
+          "hash": "3ce229319fb3dc5f80ddab3eba9afabef4a050910072f575dfea879a8e34f1c1",
+          "len": 11427
         },
         "https://www.btaskee.com/th/blog/duo-cleaning/": {
           "hash": "850e6dd675320feda6c59f74c13e498692d836f52c461792b47aec94f133281f",
@@ -18378,7 +18378,7 @@
           "len": 14571
         },
         "https://www.btaskee.com/mon-ngon/cach-lam-mut-coc/": {
-          "hash": "5e61a716ae19b0f0d6bf4f40b21d20be3318f604e24cd94af942b095bbeb0195",
+          "hash": "d39d0fcefa23ad84f743104cb259b0d873e869a9876bd62d428c7d9a8aa176e8",
           "len": 9008
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-xu-ly-mui-hoi-cong-trong-nha-ve-sinh-don-gian/": {
@@ -18402,8 +18402,8 @@
           "len": 6555
         },
         "https://www.btaskee.com/kinh-nghiem-hay/tu-thi-oanh-btasker-co-hon-1-nam-gan-bo-cung-btaskee-da-nang/": {
-          "hash": "bb97b64e6208b383effc22d2cf7372aa08babe1d4b6d913e84211f9ccece5c0f",
-          "len": 9907
+          "hash": "78b8f30f6f16c97f2506b6830be4bd3c00c88b037442c7a719122a931d119814",
+          "len": 9913
         },
         "https://www.btaskee.com/kinh-nghiem-hay/tram-cam-sau-sinh-nguyen-nhan-va-cachdieu-tri/": {
           "hash": "bfd2b8559caf54396adfb729a3a64a3301b6aedc2a7e42d490f7d458a9a3087d",
@@ -18474,16 +18474,16 @@
           "len": 4136
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-ve-sinh-may-say-quan-ao-tai-nha-hieu-qua/": {
-          "hash": "a1ca6aea25e4210ed4438650a2c24ba28ecb0a3ac904d149c1e69800df7d78c8",
-          "len": 10742
+          "hash": "6f52209d9a9804245456c5f7438e89719a7e1469a973e57ab73172ff6e4d6b80",
+          "len": 10748
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cong-dung-cua-dao/": {
           "hash": "607e15dc78fad8b6ed8ebd93b9884df2281ca660642e1b0242b22558c22469d6",
           "len": 12565
         },
         "https://www.btaskee.com/kinh-nghiem-hay/giat-ui-quan-go-vap-kinh-nghiem-khi-mo-xuong-giat-cong-nghiep/": {
-          "hash": "ab72eba1a387f8afe3d1cfdd69410c122b5b5565680c259f569a416974470496",
-          "len": 9169
+          "hash": "42bf52d5af99307867997da4cab6148ea36e1c0106b866080936cc6bc7b334e8",
+          "len": 9182
         },
         "https://www.btaskee.com/kinh-nghiem-hay/bi-quyet-cham-soc-nguoi-cao-tuoi/": {
           "hash": "d4dce44cf343151d3270ffc5d5d034056f3632e86b970b0b041242d91b67f5fe",
@@ -18546,8 +18546,8 @@
           "len": 12638
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-giat-cac-loai-trang-phuc-bang-lua-to-tam/": {
-          "hash": "2a6feaecfc149471fb680d65bc40a44d77478175d0bbce5c96d18ba46ab4e92f",
-          "len": 8328
+          "hash": "d07a230ef10099e9d9a4d152b64d3430c83ad1f3b0855cbb6d5ba10419658b97",
+          "len": 8334
         },
         "https://www.btaskee.com/tuyen-dung/thuc-tap-phat-trien-thuong-mai-marketing/": {
           "hash": "89a17164d10c4b15a31267da5a527ad5ed822ae59bdb1059bfc0d2eee174dadc",
@@ -18606,7 +18606,7 @@
           "len": 16069
         },
         "https://www.btaskee.com/mon-ngon/cach-nau-canh-cu-sen-ham-suon-non-sieu-ngon-bo-duong/": {
-          "hash": "735e9eb93883bcaa8ef023759e7ae340b2695b2185395e0a01cda354af1cf175",
+          "hash": "b9ccb644d993230c11584929657c6d1fe75ba105321da8442f7490c3e65a7a74",
           "len": 8787
         },
         "https://www.btaskee.com/en/careers/senior-web-app-designer/": {
@@ -18630,8 +18630,8 @@
           "len": 9116
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-khu-khuan-phong-ngu-hieu-qua/": {
-          "hash": "308072368bbbbcb641e6ca8add7e90922b8ad7925be8aace8e25245ad7b8b606",
-          "len": 10758
+          "hash": "0362754bb821565fda3cc985f47f6e1f192d41c67674aed7a919cf9b53389940",
+          "len": 10746
         },
         "https://www.btaskee.com/kinh-nghiem-hay/hat-tieu-co-tac-dung-den-suc-khoe/": {
           "hash": "c4efa660c244d3b8ebb6dff7490af816cf28cfedec6967722c17d65e8da04966",
@@ -18678,16 +18678,16 @@
           "len": 3777
         },
         "https://www.btaskee.com/mon-ngon/cach-nau-xoi-gac-mem-deo-thom-ngon/": {
-          "hash": "a0eace1a8bce4fd3a97bdd2164cd2a56f447de36434633c789904e15612601ff",
+          "hash": "a1769a2c1af60714ea5ae74d90fa88696eef6b37fde389c3ba2cd9d36798d01d",
           "len": 9696
         },
         "https://www.btaskee.com/kinh-nghiem-hay/giat-ui-quan-tan-phu/": {
-          "hash": "066aead88fde8d5bed8876f1cee260647b19d01d12aa1aa007c843dd254cb7d0",
-          "len": 8834
+          "hash": "facf36ec2ee3a57c37e028c50306772b5b4f81a9702247e6113c1bea2db7d2f8",
+          "len": 8822
         },
         "https://www.btaskee.com/kinh-nghiem-hay/gala-btaskee-2019-tai-thanh-pho-ho-chi-minh/": {
-          "hash": "249c14d9e0ae365ae1812e2d5abb201e87598e5f4f30ecf37e49aa95a5532791",
-          "len": 7028
+          "hash": "0fdead50c04bff94c5a7a5598555916b43ad5fcdbb153b057254110558465df0",
+          "len": 7042
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-ve-sinh-quat-thong-gio/": {
           "hash": "87e162e6007c46a98df34b4b933d29a9d2cc93ebdae2fcc8a67983adde5d6956",
@@ -18722,8 +18722,8 @@
           "len": 9712
         },
         "https://www.btaskee.com/kinh-nghiem-hay/qua-ot-co-tac-dung-gi/": {
-          "hash": "bd9968b5db6ac901fa3757710abbd85749da34582ecc01105d55eea79eb96d0b",
-          "len": 17041
+          "hash": "1d5247701b349678f911707b087300527781c3285571a1f1a9edc88ce756172b",
+          "len": 17029
         },
         "https://www.btaskee.com/ko/maidstory/": {
           "hash": "ca9f760718a94b7c1ad8bcdf276a830f8080317c0c2054b33f25cb5edc5e0429",
@@ -18778,8 +18778,8 @@
           "len": 11759
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-tay-keo-dinh-chuot-de-dang-nhat/": {
-          "hash": "4f1956f0774061f57c45e2aae569b5fdeaca68b423321c7ddb421d1202fd9802",
-          "len": 11809
+          "hash": "54995edd9f3cfaa5904c0ae652d90548877080b6ee40a7b7d46de5b37b10bb2f",
+          "len": 11797
         },
         "https://www.btaskee.com/kinh-nghiem-hay/giup-viec-theo-gio-o-chung-cu-5-loi-ich-tuyet-voi/#comment-139": {
           "hash": "679260a5cc902868165cca5c8387350e8b4f03d88e0091446cd181ad3d4a2cb5",
@@ -18794,8 +18794,8 @@
           "len": 11016
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-bo-tri-o-cam-dien-trong-nha-an-toan/": {
-          "hash": "2b7e6fadfa4bb67605dd42c35be05f4766937fc127a7d3ec7b60f3b08f278c07",
-          "len": 11263
+          "hash": "b2a1084f691ac0eb8ef250907ddf6005adab0c9086983a366bfb95a870799bc4",
+          "len": 11269
         },
         "https://www.btaskee.com/kinh-nghiem-hay/giat-ui-quan-4-loi-ich-cua-viec-su-dung-dich-vu-giat-ui-giao-nhan-tai-nha/": {
           "hash": "ab1d2b3936408dadb53bb0929d042fc7d746f40a13ba99695e6ed72fa9714f85",
@@ -18934,15 +18934,15 @@
           "len": 10338
         },
         "https://www.btaskee.com/cong-dong/chinh-thuc-ra-mat-dich-vu-khu-khuan/": {
-          "hash": "947e9727de3136d76e029e08fdacac8ef0b5f978f4bc2a3c9ee572c99daa0704",
-          "len": 6170
+          "hash": "586c93a55597008bb5e48c5d6cb530bba55e7afa5d7ba0c7827e6906666f8c96",
+          "len": 6152
         },
         "https://www.btaskee.com/en/for-you/btaskees-gala-in-ho-chi-minh-city-2019/": {
           "hash": "e22526db2ad8f6ecccff180c92b3a60acce01ce32d2f9dbfc12b823bc4fc7a08",
           "len": 5337
         },
         "https://www.btaskee.com/mon-ngon/cach-lam-keo-socola-hanh-nhan-tai-nha/": {
-          "hash": "3e79001b8386ada6be19d4633072244b0bcb3398f3e55b6aa47b218157a8a755",
+          "hash": "f8064fce21a87abf6bde784d8591884cfe44f21607c22f435dc0731922ac4e03",
           "len": 8479
         },
         "https://www.btaskee.com/khuyen-mai/uu-dai-combo-tong-ve-sinh-va-khu-khuan/": {
@@ -18970,8 +18970,8 @@
           "len": 12229
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-ve-sinh-may-hut-sua-don-gian-tai-nha/": {
-          "hash": "4dca8b5faa94963edccf67f22e486959649967e5c418cd1352fe02385bf2fcef",
-          "len": 8308
+          "hash": "ff463b8fd903901f3945a43672ef68933587c143239106df86ec351f33f8d5d1",
+          "len": 8314
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cham-dut-noi-lo-mang-ten-tim-giup-viec-gia-dinh-sau-tet-nguyen-dan/": {
           "hash": "f55e16991e67ae3208b666b3be38fb49e2ac0431d9fe44de6e558be23a30c4b7",
@@ -19002,16 +19002,16 @@
           "len": 7685
         },
         "https://www.btaskee.com/kinh-nghiem-hay/tac-dung-ky-dieu-cua-gung-va-nhung-luu-y-khi-su-dung/": {
-          "hash": "63425c604bc801db03815bb0663481b7bb81e9639b19900a1588c3c48afbdcbb",
-          "len": 15904
+          "hash": "fbcb16a3094bf2bb1eeb8d917295378aa6535ceb99dc435f72f34efc9cdd4590",
+          "len": 15917
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-lap-dat-may-lanh/": {
           "hash": "d875c70e2cacab6b9bef23c16eb13b686b5ec07b4816031ad9379f54d8cac823",
           "len": 16542
         },
         "https://www.btaskee.com/kinh-nghiem-hay/giat-kho-la-gi/": {
-          "hash": "412a27a8a9ddbe8a2e72b8130e383b91453ef3a51c6d99da23b94a616294a701",
-          "len": 8357
+          "hash": "2db96f69513fd72c64b6bd9a802534f3462562f09f6594344f450da75e3e50e2",
+          "len": 8345
         },
         "https://www.btaskee.com/mon-ngon/cach-lam-da-heo-chien-gion/": {
           "hash": "3ec5eb2e4a3037cbe6a8d204098aa8217d4e6a5f74395c59c4cba473aa5d7a67",
@@ -19070,12 +19070,12 @@
           "len": 8190
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-xu-ly-khi-tre-bi-nga/": {
-          "hash": "7e5f098c3f9320ac1860730a610f96fafdc759eb4be6af429e4825e9d6a1117f",
-          "len": 9788
+          "hash": "0474fc8f4d30a57ec55c55ebcb9edd51a9fb50cc8c95526ab1a60b5c3a8d95df",
+          "len": 9801
         },
         "https://www.btaskee.com/kinh-nghiem-hay/hoa-dau-biec-co-tac-dung-gi/": {
-          "hash": "3dc14abdf603dcf951050b882b570b640e5167f765620919b5b7532255282907",
-          "len": 10870
+          "hash": "f9d77898758de47403a3735f40795a5db80f6c6f45e31c476d9f0ad376d785d1",
+          "len": 10858
         },
         "https://www.btaskee.com/thong-cao-bao-chi/dich-vu-tien-ich-premium/": {
           "hash": "655efe4008b1a8eb0037d51f524ded128960a47c0b45f922dc99946a4cd64de3",
@@ -19162,8 +19162,8 @@
           "len": 6556
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-chon-hau-va-bao-quan-hau-song/": {
-          "hash": "a466dcf839e07a46f1e4cc294c6542d5448711be7e79f881b134b0768f3ac48a",
-          "len": 10663
+          "hash": "3e5ea5459a74f27ea1c8df07e1721217bafb51f79aa8e613e3420db31d876ef7",
+          "len": 10669
         },
         "https://www.btaskee.com/en/rewards/": {
           "hash": "2c36a2b3bda6af8cd5208889717d48005eb3e2ed4523af93a67e978aefc421ea",
@@ -19270,12 +19270,12 @@
           "len": 8702
         },
         "https://www.btaskee.com/kinh-nghiem-hay/hom-nay-an-gi-mam-com-gia-dinh-bo-duong/": {
-          "hash": "319aaefd6e98e4eaeed9cf37005769edd756275c306f45473defb02cc34e600d",
-          "len": 10982
+          "hash": "2dd234e9a960d70500fbecfc61025191c62cbcc5869fe0a3e7e826ab9d416b60",
+          "len": 10970
         },
         "https://www.btaskee.com/en/for-you/how-to-make-house-rules-for-your-family/": {
-          "hash": "b4a690a7d33d021c4a37b60ecface3f2de292c9875eaae20271566d17988b934",
-          "len": 10905
+          "hash": "8cf18136d8d545424f09ef7836d273cc7838dca7b28dea493882ee437524253f",
+          "len": 10927
         },
         "https://www.btaskee.com/kinh-nghiem-hay/che-do-super-jet-va-powerful-jet-hai-tro-thu-dac-luc-vao-mua-he/": {
           "hash": "2cc6880e92bf3719a969fffc265f09433182fe6d869402f7eaf458bf1dbfea31",
@@ -19294,16 +19294,16 @@
           "len": 7952
         },
         "https://www.btaskee.com/kinh-nghiem-hay/lam-sao-de-tranh-viec-1-thang-doi-3-nguoi-giup-viec/": {
-          "hash": "29fcd395b215ce3ffe297c5fbb4672e9f833fb86bf8a89139c83ccb2c06b1efd",
-          "len": 9811
+          "hash": "a232e8f28a1ba7039415c4c2307a32c1efe3b4e89686160ba4316a1b6e04990f",
+          "len": 9824
         },
         "https://www.btaskee.com/kinh-nghiem-hay/meo-vat-tay-vet-ban-tren-quan-ao/": {
           "hash": "d17ed7d05089e61ac8ad869658a4d39fb105b5b126acfdef0d2967f9a7de9187",
           "len": 10356
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cu-nang-la-gi/": {
-          "hash": "df71de7ebc2103f821216231fa6f9664242ce9743a8a1091541018b16d424124",
-          "len": 13325
+          "hash": "a983b3d2df4ea10f6be4b771be80f7edfed2dd1c8a97462ecd86fa86bd89832a",
+          "len": 13331
         },
         "https://www.btaskee.com/kinh-nghiem-hay/rau-cai-xoong-nhat/": {
           "hash": "3ba63e055368521e82460dc78d1ea04b059721a21dd4d8e5b61ebfa08c17ecfa",
@@ -19346,24 +19346,24 @@
           "len": 15326
         },
         "https://www.btaskee.com/kinh-nghiem-hay/yen-mach-loi-ich-va-luu-y/": {
-          "hash": "2cc87dc3084bef440b5098de0266e445b186d81d3a6df266c2d7907db2d4115b",
-          "len": 10980
+          "hash": "e90bfebfc0b56c92c3ef28adf1e4d688fdaed404c440af2d8a70557856b3cd39",
+          "len": 10968
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-sap-xep-nha-bep-gon-gang-sach-se/": {
           "hash": "90ea93817e13579498deb690cbd12c03d8672dd352c6698f2fe06c959bc4c704",
           "len": 12565
         },
         "https://www.btaskee.com/kinh-nghiem-hay/tay-vet-dau-nhot-bam-ban-tren-quan-ao/": {
-          "hash": "648c672f11e3008bf9d876a694c6aa5d7decbd748b7303315c09871f778eb501",
-          "len": 10517
+          "hash": "b48ae2af89ee16f2c42ca99cfc99a11e5379393a41624115e212119db19eb940",
+          "len": 10523
         },
         "https://www.btaskee.com/kinh-nghiem-hay/co-phan-thi-hue-khong-co-su-bat-dau-nao-la-muon-mang/": {
           "hash": "d62d78df1c5875977ffe2bce82671469634d100c77430ea2f3d75012253293c2",
           "len": 10094
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-giat-cac-loai-trang-phuc-vai-cotton/": {
-          "hash": "0d7401208f974de3d43ba1220a0b231572289fb8073a58df2dbe224a25bc99fb",
-          "len": 7462
+          "hash": "03b7213a5657b0bc6382f93d492cbefb31fd278f6e26be50fae5c730868a5bb6",
+          "len": 7468
         },
         "https://www.btaskee.com/kinh-nghiem-hay/lam-sach-do-go-don-tet-bang-05-cong-thuc-san-trong-bep/": {
           "hash": "e3b31f31e20a6e586b6be6ee0a672b0e9a59ee4080a31348e89bd3f0df922c56",
@@ -19422,8 +19422,8 @@
           "len": 4622
         },
         "https://www.btaskee.com/cong-dong/techfest/": {
-          "hash": "dafbc1b7b192a30b0b0264e5f75bf4b082c04ecdf0b9ff5415d199b48b8d1a08",
-          "len": 4863
+          "hash": "08ad13e580b73269d8e860b8d5d53cc7e2e8d290f5a5fc85a51f2ea1074c203a",
+          "len": 4845
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-nau-che-troi-nuoc-ngon-deo-mem-khong-bi-cung/": {
           "hash": "799fdbe2c00852af035e75afa7f3e5fd10f5355d797e49904a0339c26ef0a932",
@@ -19446,16 +19446,16 @@
           "len": 9379
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-ve-sinh-may-say-toc-nhanh-va-sach-nhat/": {
-          "hash": "77b7a3d15328a19f46a394f3424db43ed50dcfc8f2271d50fa91023a3d7739f3",
-          "len": 7349
+          "hash": "9341917efec3326e9b6f88c0b7554747de54a038df767097d969020b0ed742e0",
+          "len": 7355
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-duoi-ong-ra-khoi-nha-don-gian/": {
           "hash": "63aea1ec50c5d513042de05b332b3386d88c470f290aff30c009c6c0c9f54ada",
           "len": 11203
         },
         "https://www.btaskee.com/kinh-nghiem-hay/6-meo-chon-vai-thieu-ngon-ngot-khong-bi-sau-dau/": {
-          "hash": "086692639f861c1786258237a22618b6f0304a42861f80c33668ca1bf16053fb",
-          "len": 11571
+          "hash": "042952c8c0c05aea97d500bc6fed597986f3becaff550087ec049de9e707e899",
+          "len": 11584
         },
         "https://www.btaskee.com/en/careers/senior-mobile-developer-react-native/": {
           "hash": "890a9d5f2dc3e063414479bb740fdad081976a4a517b66bc59c5a3f7f9c09ebd",
@@ -19534,12 +19534,12 @@
           "len": 10371
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-bao-quan-dua-leo/": {
-          "hash": "4270aac2fccc4a5edd434ab38fa4dd5751d4ac6165ade4997526463d80b22168",
-          "len": 10623
+          "hash": "fc63674c2cda8b5c024c7aa5978fc1eb1dd428320aa60401afafd6393a33ccbf",
+          "len": 10629
         },
         "https://www.btaskee.com/kinh-nghiem-hay/giup-viec-nha-theo-gio-giai-dap-thac-mac-khach-hang-phan-3/": {
-          "hash": "d14a42a683fc4b153ca07c5846636999b033d031665209a5935dd6de4dfe771d",
-          "len": 9893
+          "hash": "494f5f71c8bd586e40ee10b2165fdbd7982b8eb3d64cd5dea085ff05040d58a1",
+          "len": 9899
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-bao-quan-nha-dam/": {
           "hash": "c6cc023f8a69e4f4bb0b197686ca8aa1f5b4dc905f746e7c5c6a481d4aa5d30c",
@@ -19566,8 +19566,8 @@
           "len": 5444
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-chon-dua-luoi-ngon-ngot-dung-chuan/": {
-          "hash": "7149b307c1be5368e80fe78b67fa29f37be8dbb7e0260906c8f2ea2de61f7eaf",
-          "len": 13115
+          "hash": "d12ba7b03384675ce4950a1940d0c3b3763cf6276eb9bbd3e181f2d8de1c9437",
+          "len": 13130
         },
         "https://www.btaskee.com/kinh-nghiem-hay/lam-sach-do-dung-trong-nha-bang-sot-mayonnaise/": {
           "hash": "dcc864f4b91dba200341f5ba75b77d8947fd19bf3b3a5dade68027c4672183d5",
@@ -19610,8 +19610,8 @@
           "len": 528
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-nau-che-ba-ba/": {
-          "hash": "08ddfa369c2e7a8a9667695f78f4d8616fafad30e8c4c87a0f85ff0f48f5d579",
-          "len": 8353
+          "hash": "b6a3b5f594c825ebf229e1183d5c165809b52d33f1708e6e4abde1f7e69bcabb",
+          "len": 8359
         },
         "https://www.btaskee.com/ve-sinh-sofa-rem-nem/": {
           "hash": "5d0841df9e406396bfe18084f9dd92cb90524798c9b0c0f7fd61d03f8b42ce51",
@@ -19622,20 +19622,20 @@
           "len": 7119
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-nau-che-banh-canh-ngot/": {
-          "hash": "8c009e2c9986bf0fdbbfcd90ed20ff22a3724c6ed3818615744e9ce6ac6458d1",
-          "len": 8165
+          "hash": "51616ff80aadb9d06d21c601916834164bb9046124a736d6ba4f2b0857f990df",
+          "len": 8171
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-tay-vet-nuoc-che-tren-san-nha-cuc-hieu-qua/": {
-          "hash": "379403536ad91ee01653d18fdf58ee29bad5b28d48694f8502b061945388ab82",
-          "len": 10385
+          "hash": "f78f2a6c19c39a764b902662e53b32fb12ea7ab0ebdaaf7e016f45122bfe2039",
+          "len": 10373
         },
         "https://www.btaskee.com/tuyen-dung/nhan-vien-tuyen-dung/": {
           "hash": "503b1d0e9b688fb9714562d3a86c46e6c7061142854ce155ec1b243824c3056a",
           "len": 4993
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-nau-che-hat-sen-nam-tuyet/": {
-          "hash": "b59104144925e212f1a5aae12c156ad41d8b41ec088faa9a20f46bfa129efd3e",
-          "len": 8364
+          "hash": "43c3b4f936e376f19740334d292019c6c246b1ca104b60b249e68d8559728c27",
+          "len": 8370
         },
         "https://www.btaskee.com/mon-ngon/cach-lam-sua-bi-do-thom-ngon-tai-nha/": {
           "hash": "64a01070cf43a08b9913c83f3e1424cdd9bca16fa03787a2fb84a3c9ce1ce0b3",
@@ -19646,8 +19646,8 @@
           "len": 8565
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-giat-nem-kymdan-tai-nha/": {
-          "hash": "e14dbe6ac06351f0af4a771a92d8774743e5dc0f822bc9f78d3d57f58f45d359",
-          "len": 11636
+          "hash": "c3f05bd62249b0e9048b7895c531cf87e1aedd12dab94f068d39ff43a635fed5",
+          "len": 11642
         },
         "https://www.btaskee.com/mon-ngon/cach-nau-canh-kho-qua-nhoi-thit/": {
           "hash": "c73654930ad744aa6472e52e3ed4cab21b741bda22e2de01e2386e8b6cd3d0f8",
@@ -19846,8 +19846,8 @@
           "len": 11614
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-chon-hong-xiem-ngon-khong-bi-suong-chat/": {
-          "hash": "9ed020067ef1e44fc1f8f6531061506bf04b5eec302143bf23421e5ebe1b8676",
-          "len": 12002
+          "hash": "0076451043f87c0f3bee9887876db2c3c907a62d31d14504568dd4ed847d226a",
+          "len": 12008
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-chon-ca-rot-ngon-va-bao-quan-tuoi-lau/": {
           "hash": "e9937cf5d75ee6dda59a17636d30350a87f07aba0cda9668cf6db04996fabd86",
@@ -19862,8 +19862,8 @@
           "len": 5141
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-ve-sinh-den-bat-muoi-don-gian/": {
-          "hash": "8a3989eaa5149ba808ba3765c15a62a378c22061a9a45b5dc34920d7151c56df",
-          "len": 7941
+          "hash": "73f3814073234ba2b08e2a9ad3a30f14ce0912c2984e6483c21ce55ce7b14fe3",
+          "len": 7947
         },
         "https://www.btaskee.com/en/community/startup-funding-camp-2018-2/": {
           "hash": "3df8c701af03011b15c54c172e707edc7a85625cba64b15673f4e7df44a3dbab",
@@ -19922,8 +19922,8 @@
           "len": 9291
         },
         "https://www.btaskee.com/en/for-you/what-to-eat-today-treat-your-family-to-a-4-course-menu-of-tasty-homecooked-dishes/": {
-          "hash": "2208b24f273a356d14d7e6558d8cabc442cc5dab6a13f8864075b9d76ce996af",
-          "len": 8381
+          "hash": "d73d17b7aefce1ac1a2c1b73e56c95e7944210727da9a3c2b51d703eb787e156",
+          "len": 8365
         },
         "https://www.btaskee.com/en/for-you/what-to-eat-today-a-full-nutrition-menu-for-tuesday/": {
           "hash": "cbaf8aaa12e56786f902ea69ab2404540006f99497732ae63b15e54c7ff35639",
@@ -19978,8 +19978,8 @@
           "len": 5849
         },
         "https://www.btaskee.com/kinh-nghiem-hay/hom-nay-an-gi-thuc-don-2/": {
-          "hash": "886ab40fbdc97ba254e014022b8f0673299ef30fec6d31f38aad4af834a50e3d",
-          "len": 10708
+          "hash": "c794c7a603cba4f3ddfcb3904219d242c27f7cafb927025b45c78decdd6a89a8",
+          "len": 10722
         },
         "https://www.btaskee.com/tuyen-dung/truong-phong-cham-soc-khach-hang/": {
           "hash": "e23013b39b93157eca2b43b2c457265cbfbae247a77e31680582b4d8f60c46ed",
@@ -19998,8 +19998,8 @@
           "len": 12238
         },
         "https://www.btaskee.com/kinh-nghiem-hay/8-buoc-ve-sinh-pad-chuot-dung-cach/": {
-          "hash": "d7335e4451536eedebb0b2792763ac48c1c58e8ab6cd349a7afc5a1dfe8c1243",
-          "len": 9260
+          "hash": "a8f6150568d462718c5e1b9ee903981a87f5d8ba27ebcdc800a39a0ec50b172c",
+          "len": 9266
         },
         "https://www.btaskee.com/kinh-nghiem-hay/huong-dan-cach-su-dung-noi-chien-khong-dau/": {
           "hash": "17f23e6b9671898adc827c3c9c7d048a549eafaf8b0e3f06f9729fc2c19cb5aa",
@@ -20018,8 +20018,8 @@
           "len": 1783
         },
         "https://www.btaskee.com/kinh-nghiem-hay/loi-ich-cua-boi-loi-voi-nguoi-cao-tuoi/": {
-          "hash": "b15a23fbb5b10f6b5e9fea669d0f57f10f3f014d5f4ed4fcfd4bcfd7d739efff",
-          "len": 8393
+          "hash": "f0b8a6f69b17e4b085e4361bd81050fea03fe8f06667830766ced8474dac0cac",
+          "len": 8406
         },
         "https://www.btaskee.com/mon-ngon/cach-nau-canh-ca-chua-trung/": {
           "hash": "95fcaabde7ae26c537fe37e2c973c14cdc1299e9237d1fb9c14bf4f3e28c4b94",
@@ -20034,8 +20034,8 @@
           "len": 11896
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-nau-che-nha-dam-duong-phen/": {
-          "hash": "77b6999d745f9e08ac1c941e9556614bb03dba3d563354fb83950df6b16821ea",
-          "len": 8043
+          "hash": "6477b9c6a887da481decdef39ed565f89d4458474b119ed15926612fd03adc44",
+          "len": 8049
         },
         "https://www.btaskee.com/kinh-nghiem-hay/nhung-loai-quan-ao-nen-giat-kho/": {
           "hash": "172577867de83bc990bf9494dfdac940fa43451de5155438be05f2cfd993cab2",
@@ -20054,7 +20054,7 @@
           "len": 14970
         },
         "https://www.btaskee.com/mon-ngon/cach-lam-mut-khe/": {
-          "hash": "695ee8347485425926e0177ea9f3e64c96f80500485e1415eb12772e5a1f044d",
+          "hash": "fa18e465b7a926d17515774519307cb8f2f744e7f4a1a2173b4923b86fb4a70f",
           "len": 11053
         },
         "https://www.btaskee.com/id/office-cleaning-indonesia/": {
@@ -20066,8 +20066,8 @@
           "len": 4218
         },
         "https://www.btaskee.com/kinh-nghiem-hay/don-dep-nha-cua/cach-trang-tri-phong-ngu-bang-den-led/": {
-          "hash": "53eeb3607abf058993d9c7d3faaf3850b771ece2d3b0f00aab89f961bc06b80b",
-          "len": 15884
+          "hash": "d11f82d1d171427170fcbfcf1a533493af309236138cbad2593aee13c1d8b2ad",
+          "len": 15890
         },
         "https://www.btaskee.com/tuyen-dung/thuc-tap-tuyen-dung-va-dao-tao/": {
           "hash": "951eb403c5d0cf5555cc93fb3dd1fadda42ee979f09e7c553cce7dd75fc026a0",
@@ -20126,8 +20126,8 @@
           "len": 13987
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cong-dung-cua-cu-toi/": {
-          "hash": "e66d2a02d5b5853fe8bb92099683a405bbb35a66179a3383198870dd5e02a3a6",
-          "len": 17989
+          "hash": "64b01fb4346e0c98876de968caacdf2737061838ee5978d469b5f9d1488255a3",
+          "len": 17995
         },
         "https://www.btaskee.com/en/short-film-contest-nghe-mang-hanh-phuc/": {
           "hash": "0d91219b9ae9450ddd9a6f10d90f67a17269482419991133bf53b01158348cc9",
@@ -20210,12 +20210,12 @@
           "len": 9879
         },
         "https://www.btaskee.com/kinh-nghiem-hay/chon-giup-viec-rieng-cho-gia-dinh/": {
-          "hash": "61b4aac2147cc3c8a1ceffd1524150bca8387a57e24332e3d581471c1dbd2e70",
-          "len": 11015
+          "hash": "557db417ae157af4e325b9959be7ac473f9aa14bf4ca9901dfcfd52ce80d7b73",
+          "len": 11021
         },
         "https://www.btaskee.com/kinh-nghiem-hay/10-cach-khien-may-lanh-lanh-hon/": {
-          "hash": "c194c1a0bc04d313706bdbfc59c6031154369ef8df5b005981e1380aeb05114e",
-          "len": 15972
+          "hash": "19c16ef55d1fcd6534384a16b172218cdab34d9d93d858db32559659e2f86cb5",
+          "len": 15978
         },
         "https://www.btaskee.com/kinh-nghiem-hay/ve-trang-tri-noel-tren-cua-kinh/": {
           "hash": "372b878c32c52596669d9f1867e841831ade8678fa4d7b76682353e6855a91c4",
@@ -20322,8 +20322,8 @@
           "len": 10762
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-cham-soc-tre-so-sinh-dung-cach/": {
-          "hash": "84159d5e498532d5a617b551c29bf36b9cd767f42f8c72458852e8c33869b35f",
-          "len": 10948
+          "hash": "9a5838da47e609986b1ae0ba6981ae7bb6de8ad0d0cb84fc82405d440a32a3a8",
+          "len": 10954
         },
         "https://www.btaskee.com/tuyen-dung/mobile-developer-react-native/": {
           "hash": "b30968a90e9c5f70361438effe6f1b0f78246bc18e6596a63d1bcbcddb528651",
@@ -20338,8 +20338,8 @@
           "len": 5018
         },
         "https://www.btaskee.com/kinh-nghiem-hay/co-nen-thue-giup-viec-nha-theo-gio-khong/": {
-          "hash": "1cd0b45c16d526df623ab0c35587bd249b019ff9eb286d9dbb564da0f752fc40",
-          "len": 18730
+          "hash": "8d1f91ad4d519b8980cb0d1aa42b30a286beab71a9bb1c90f9d434d4a80054ea",
+          "len": 18736
         },
         "https://www.btaskee.com/id/tasker-cleaning-agreement-id/": {
           "hash": "c7a65945bccbfa519b6c4904fbdfed806462ca2ba6271ed3c1e22c5f625d0906",
@@ -20378,8 +20378,8 @@
           "len": 3286
         },
         "https://www.btaskee.com/kinh-nghiem-hay/huong-dan-va-luu-y-khi-dat-dich-vu-di-cho/": {
-          "hash": "7e06a52e520873e4a6f25b375056464220029b4e6573912892c70ed26800b638",
-          "len": 8480
+          "hash": "c850b306dc58787a7bb6b70f02a4d63e5057bb4d7c3358ad6b1c95f53b1a0562",
+          "len": 8468
         },
         "https://www.btaskee.com/kinh-nghiem-hay/nen-lau-don-ban-tho-bang-nuoc-gi/": {
           "hash": "502c84b94aa96343f1fadcb8b06bd192df19a7b21dfc4461661f80cb07b15434",
@@ -20430,8 +20430,8 @@
           "len": 10261
         },
         "https://www.btaskee.com/kinh-nghiem-hay/bat-mi-cach-ve-sinh-tu-lanh-tai-nha-cuc-don-gian/": {
-          "hash": "fc4ac1a5723db06c812e36e9a52a0395f43ac3dd6d197f927fb79043e2d066a8",
-          "len": 29694
+          "hash": "29d6f7644a03ba180c00aa3b97066449ceb6eeb3729f193bb1b3a48aa0913302",
+          "len": 29700
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-lua-cua-ngon/": {
           "hash": "5718d34eb2e25a6b97bf21f2a6ae1f62fd868e54cab4bd9d60bd6e1783a95644",
@@ -20534,8 +20534,8 @@
           "len": 11095
         },
         "https://www.btaskee.com/kinh-nghiem-hay/tuoi-tho-may-lanh-la-bao-nhieu-cach-tang-tuoi-tho-may-lanh/": {
-          "hash": "5b6eb5befd914104c969c5315c9587a06a37c52461333123f2c7541533eaaec2",
-          "len": 11322
+          "hash": "4def868073429d66af5e84c8529106a9ca62ae53058c954a830d6335149aa463",
+          "len": 11328
         },
         "https://www.btaskee.com/kinh-nghiem-hay/su-quan-trong-cua-viec-tich-gop-va-lam-viec-cham-chi/": {
           "hash": "2349ecea839cc0d80f2981d76cfe90c941b8986fc20df120ab04acf05f1716c7",
@@ -20550,20 +20550,20 @@
           "len": 8525
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-nau-che-suong-sa-hat-luu/": {
-          "hash": "0ad199b7c47f05cf366d905549b7573f84b75d2f967a44f434cfdab4d5778518",
-          "len": 10237
+          "hash": "d3e1c5f16a056cabfb6293d53e0a561304c3fc6bc944dc9ac84e8a6e121a3abb",
+          "len": 10243
         },
         "https://www.btaskee.com/kinh-nghiem-hay/ung-dung-cong-nghe-thay-doi-nganh-giup-viec/": {
-          "hash": "b525e8af8198599f920f8f2b69f905bec4b42c510c14ac2b8a08603b85a79d5a",
-          "len": 8346
+          "hash": "0e16f5d39d1d9c021a49a445c2210471be66c32b59b715a7501696f043107f79",
+          "len": 8352
         },
         "https://www.btaskee.com/kinh-nghiem-hay/hom-nay-an-gi-mon-ngon-nham-nhi-tai-nha/": {
           "hash": "8e06beb9a639603f2faf2e60093683aa5169926729ba9ae43370ee9a28e614c4",
           "len": 9630
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-duoi-muoi-trong-phong-don-gian/": {
-          "hash": "d09531875cc8d6fd80126b2eed9c1e78dfc7cf3abefe925aec100f1ba8f9cfe4",
-          "len": 15123
+          "hash": "f76c106bf543347a12bb6e0ff4480d4a04c6076677bd4589e4ee9b76ea48cae2",
+          "len": 15129
         },
         "https://www.btaskee.com/tuyen-dung/chuyen-vien-lap-trinh-fullstack-javascript/": {
           "hash": "40dcf7b8486bf9c6e80da5c76b2ee945613de636a88cd314339c3f12915f8436",
@@ -20634,12 +20634,12 @@
           "len": 4030
         },
         "https://www.btaskee.com/kinh-nghiem-hay/tac-hai-cua-viec-do-xa-phong-vao-bon-cau/": {
-          "hash": "67c3dbcbdd9dcbf0cd06ec15ebc8de81fd6dc99187df1d9273e0b8ef79f060ce",
-          "len": 8966
+          "hash": "99c66a0a52b1bb9ef4bf47fded0585a8813f8bff2b633fec1c99820f039c2aab",
+          "len": 8954
         },
         "https://www.btaskee.com/kinh-nghiem-hay/thoai-hoa-khop-goi-la-gi-cach-dieu-tri/": {
-          "hash": "f1ba04fdd5b2b9abc5ad81eaeafe2f023df86b9ba0f4b77ef42f86c57b77b0f5",
-          "len": 10319
+          "hash": "bc20df718c276c021ddfda26112187540cfb52f3e5fed8ffbe5101148def6727",
+          "len": 10332
         },
         "https://www.btaskee.com/kinh-nghiem-hay/kiem-tra-ma-loi-may-lanh-toshiba-va-cach-khac-phuc/": {
           "hash": "0e0dd6151466e2b925d35939a65f49e9139b2ea112be678da721f7044f13c84c",
@@ -20694,8 +20694,8 @@
           "len": 6802
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-giat-ghe-luoi-hat-xop-tai-nha/": {
-          "hash": "c97bb2819e0e28ee5c23535c5ec9edee358e0cba96140544cf531b8a42977949",
-          "len": 10981
+          "hash": "147e9ca0f153c814d4221e9d637ef6343e952beed11f9bd9d61e05fb385abb4b",
+          "len": 10994
         },
         "https://www.btaskee.com/kinh-nghiem-hay/loi-ich-cua-qua-dua/": {
           "hash": "a48ab46c0a8a7a58053ded25fdb2b95c26533a61f1a9546fc72f1bd241508668",
@@ -20742,8 +20742,8 @@
           "len": 11676
         },
         "https://www.btaskee.com/en/for-you/how-to-prevent-your-cleaner-from-stealing/": {
-          "hash": "672aa9601ffdb9a3c9d50074e2fa7f8fab50eb10c09ec01602a50c9c8543d23a",
-          "len": 9129
+          "hash": "e5bb214eeb22853460ac581db164f39541453ebe4afb1ad1928636efb3d2b29b",
+          "len": 9112
         },
         "https://www.btaskee.com/kinh-nghiem-hay/giup-viec-nha-theo-gio-giup-xoa-tan-dinh-kien-ve-nghe-giup-viec/": {
           "hash": "d2136828db41479f914e9184768c05a7f2ac890b4b24999afc95f258378020b3",
@@ -20854,8 +20854,8 @@
           "len": 12004
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-khoan-tuong-khong-bui/": {
-          "hash": "78bf64512b8e1bd01a21339f668237343d8ffb8ebd8b31d7c3a651ffffd5d227",
-          "len": 9250
+          "hash": "ef47e2a66d8aeee206d8cb1bf1cf04363525e197b546d1323c78066231537157",
+          "len": 9238
         },
         "https://www.btaskee.com/en/careers/senior-brand-partner-development-executive/": {
           "hash": "bbcc5b6d8e6c9dc73ad6c357639bc6569fef929720b6c08f3431ca3c6a2d35ea",
@@ -20890,8 +20890,8 @@
           "len": 10358
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-lam-banh-khoai-mon-hap/": {
-          "hash": "1a725f86d2d8039f6a42e87f867eeaff53437fea7f1d9b983ceb056a059fc820",
-          "len": 7689
+          "hash": "28373f8c602f944aeba13cba91d390ddf4dc8c0837fc8057d2ac75d3d97edfcb",
+          "len": 7702
         },
         "https://www.btaskee.com/id/faqs-indonesia/": {
           "hash": "83c2ad507c427518f4571d74e175a76f49a71732869f6ec812ead9146ea5242b",
@@ -20974,8 +20974,8 @@
           "len": 6753
         },
         "https://www.btaskee.com/kinh-nghiem-hay/bi-bo-chet-can-phai-lam-sao/": {
-          "hash": "4b57b8566d5dcd039c82c051e8b59dc0c38a343e3c70f21a28938c40d0f160ed",
-          "len": 14434
+          "hash": "bc0b7d38765b0980e0379b2ebbe7512cd5ebf909e1c646894470ac38e477e216",
+          "len": 14447
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-cham-soc-tre-bi-viem-hong/": {
           "hash": "391af221b7de0ba4447608e7963ac3d25972fdcf31bc3c8df0875497cc1adff4",
@@ -20990,7 +20990,7 @@
           "len": 9763
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-lam-slime-khong-can-keo/#comment-3599": {
-          "hash": "db5416e26d04d4bda74f43b44ab15b0420565088eb7ccd9b6b179b5086358d8e",
+          "hash": "9dbc3e954792c425dfaf8fb6bf0f05b7d6dbbca5f2fe3c403aad5cb74e859961",
           "len": 18681
         },
         "https://www.btaskee.com/kinh-nghiem-hay/nguoi-giup-viec-nha-theo-gio-btaskee-co-ngay-nghi-le-khong/": {
@@ -21070,8 +21070,8 @@
           "len": 10118
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-ve-sinh-may-danh-trung-cam-tay/": {
-          "hash": "3b2144f70b130aa4a7c71dbd5ec6e7e574bb63e751bde318b86b728464bbd403",
-          "len": 11564
+          "hash": "1406190a850d899e280b2ff35c43c8c6e54a8d148ab33579f4afcbeeb52a10f1",
+          "len": 11575
         },
         "https://www.btaskee.com/cong-dong/thong-bao-ra-mat-dich-vu-moi-tren-ung-dung-btaskee-dich-vu-tong-ve-sinh/": {
           "hash": "0517c48b428d425bb4be26a7aa53dc17ef52f7bb04ed693166379fa3776848b3",
@@ -21134,8 +21134,8 @@
           "len": 9064
         },
         "https://www.btaskee.com/thong-cao-bao-chi/dich-vu-cham-soc-nguoi-cao-tuoi/": {
-          "hash": "c10ca9b3ffc60644ef1aa0474ab2cc34600c9fa14bb2b6b8a8c0d8f2df01bad0",
-          "len": 10335
+          "hash": "ccfa22fac8527a46fc50ac7e9337e02f41c1caaaceb62f5187d0d87089c98799",
+          "len": 10332
         },
         "https://www.btaskee.com/kinh-nghiem-hay/nhu-cau-cham-soc-suc-khoe-nguoi-cao-tuoi/": {
           "hash": "39c4266033955f08e720901d42d7851c498a19b6ae37bb4c73fe30b95cf8977a",
@@ -21254,8 +21254,8 @@
           "len": 9074
         },
         "https://www.btaskee.com/en/for-you/how-to-book-cleaning-with-subscription-on-btaskee-app/": {
-          "hash": "65c90e6bd982dbda8310814de96de8fc8b7f645eb6982216f6b9e328f8542115",
-          "len": 7810
+          "hash": "12c16e9044bb4a25647dfb1e47ce9a245dff4844e0fa58cbb45fca800bfb8b33",
+          "len": 7794
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-lam-banh-gio-tai-nha/": {
           "hash": "b517233ab894ca4c229f46e257ec40c8756ecbed8735886a25cf9ed399155c81",
@@ -21322,16 +21322,16 @@
           "len": 10666
         },
         "https://www.btaskee.com/kinh-nghiem-hay/co-nen-mua-may-lanh-tu-ve-sinh/": {
-          "hash": "3685fc497adeaedaf41248e6bc445cd31eb14745824faa9a5a90cf1d8e4014d9",
-          "len": 10379
+          "hash": "87c3175b8ae4e28865c1acff00ed8d1fabfc441c2443bd5701f56a7a99d8514c",
+          "len": 10385
         },
         "https://www.btaskee.com/mon-ngon/banh-chuoi-yen-mach-sua-chua/": {
           "hash": "6d14b56a1c8cec5d47e438199ee44eca98871412164ec115af6ca91e9e8d9fbc",
           "len": 8895
         },
         "https://www.btaskee.com/ko/ai-chatbot-terms-and-conditions-ko/": {
-          "hash": "d7fdda4086c6c18100fef0dfcf8cf7b03dd33cb16b8c4aaa95678db3a1831dd9",
-          "len": 8099
+          "hash": "0c5f3a20ca1562537b3f5f35eddc60e84d1d47501f325a3816906943596fb3d5",
+          "len": 8929
         },
         "https://www.btaskee.com/kinh-nghiem-hay/tuyen-nguoi-giup-viec-nha-theo-gio/#comment-959": {
           "hash": "9cd13aa4bc0b6fe9eb99358052bdaf9cfbe658c74c3f0c3fd0719d0d072d250c",
@@ -21430,16 +21430,16 @@
           "len": 7958
         },
         "https://www.btaskee.com/kinh-nghiem-hay/quy-trinh-tuyen-dung-va-cham-soc-cac-chi-ong-giup-viec-nha-cua-btaskee/": {
-          "hash": "269dc9511cb3b771f55af234ac0b1bccac1188e985561a22664f06012e1ccbd4",
-          "len": 11041
+          "hash": "e72c0b9121b36b951597f6fbc5316e15a32cebb07c836a1f0ecc0f72ab880227",
+          "len": 11029
         },
         "https://www.btaskee.com/kinh-nghiem-hay/che-do-dinh-duong-cho-nguoi-cao-tuoi/": {
           "hash": "8bd94bb99de5e3ee112080a431509a0f7cdd26e83b685cf0d5dc88c8f403f4d1",
           "len": 13760
         },
         "https://www.btaskee.com/kinh-nghiem-hay/6-tuyet-chieu-ve-sinh-nha-bep-hieu-qua/": {
-          "hash": "f1729691277984f358f50d25b243325011eb3392b9627a2a45dcef241f611e80",
-          "len": 9235
+          "hash": "ccc014e8da583fca6dc93bac5f0507654c688e20b9060d2f714dfdcaf6dc5a8c",
+          "len": 9248
         },
         "https://www.btaskee.com/en/terms/": {
           "hash": "d486e4b2c53e5f2ffb035c9b9b23d526152141931be27719d32997c4047b5657",
@@ -21450,8 +21450,8 @@
           "len": 18759
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-bao-quan-rau-muong/": {
-          "hash": "1d8d52d848d1305e8f46f5c44a2c97d973a81720538f265c9656f12eae239c11",
-          "len": 10359
+          "hash": "63ab0bb419457f5e45316f5dff3f168659c4e6f814e6c988835b79a5f747faaa",
+          "len": 10347
         },
         "https://www.btaskee.com/kinh-nghiem-hay/nguoi-giup-viec-nha-theo-gio-can-luu-y-dieu-gi/": {
           "hash": "a415fa45f81db634313ce5a289d4ad353a167a88ae94d156d131cad0ecbfb5af",
@@ -21470,8 +21470,8 @@
           "len": 8061
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-lam-banh-flan-sua-tuoi-tai-nha/": {
-          "hash": "d34f5cf91bc85427435f963767fd28cbc550d285866e89e645602fbda71cc3be",
-          "len": 8968
+          "hash": "d14e287ce262caff1b5edb436edd949c9da51b1a006ed5286887ea998a56fb59",
+          "len": 8981
         },
         "https://www.btaskee.com/tuyen-dung/nhan-vien-cham-soc-khach-hang-tieng-han/": {
           "hash": "6751c76230ad922a6c78901a82fe5bb796a5f7d7a3d1100fffa7dce49d0a44eb",
@@ -21490,12 +21490,12 @@
           "len": 9921
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-lam-banh-ran-doremon-tai-nha/": {
-          "hash": "8f2994bea5e6cfe50d3a4f11315a537c88dbc009ca4980fdf40ce6e9b7245370",
-          "len": 11199
+          "hash": "ab18d0ab384ca1051bd6ccce7c74937282cf385626010ddfc21807d65ac7e0db",
+          "len": 11187
         },
         "https://www.btaskee.com/kinh-nghiem-hay/giat-topper-nem-tai-nha/": {
-          "hash": "7aec9e2d1f98c9373411aa5ac6cfab1d638982e5827e6dc27481097b4b631453",
-          "len": 9932
+          "hash": "9a19a181bd12ce738455d1b57f6fc2e286c1ce3c9fdacad526c67579a36226ec",
+          "len": 9938
         },
         "https://www.btaskee.com/en/community/christmas-eve-dinner-2018/": {
           "hash": "bb53150aea78999ed8cdabf8ebb0b885ecf60f32958abb8cd0bbade1ca79efe9",
@@ -21522,7 +21522,7 @@
           "len": 12040
         },
         "https://www.btaskee.com/mon-ngon/tang-suc-de-khang-voi-cong-thuc-lam-nuoc-chanh-sa-gung/": {
-          "hash": "55895d190ff9b70c0e0b21d4092a0652a5bd45ae14e9dc6ad3f4c6773668e79a",
+          "hash": "91ca5806277def73cf2efab7d8683d332359ffec33983d09a16ec803e9d4b7b4",
           "len": 9650
         },
         "https://www.btaskee.com/kinh-nghiem-hay/top-7-cach-ve-sinh-lo-vi-song-don-gian-tai-nha/": {
@@ -21590,8 +21590,8 @@
           "len": 11043
         },
         "https://www.btaskee.com/kinh-nghiem-hay/kinh-nghiem-tim-nguoi-giup-viec/": {
-          "hash": "41fb861dc01c45c6bd5b49ec010726582214cee747f8c3d0e6b11a9c33cde2a5",
-          "len": 15353
+          "hash": "82204e0fa70c109901c24e57a34d6963a5e5971febb44e8ca1babae52ea98401",
+          "len": 15366
         },
         "https://www.btaskee.com/kinh-nghiem-hay/sap-xep-tu-quan-ao-tre-nho-nhanh-gon-don-gian-va-tien-loi-nhat/": {
           "hash": "14e0b37f5643f05be906158a03ad960fcf1e4d5aae06095e554188f17eae1146",
@@ -21634,8 +21634,8 @@
           "len": 10526
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-chon-rem-cua-theo-mau-son-tuong/": {
-          "hash": "e0620fc8b53f17af1e3a59af0dd5cdece265a8f85ac432e91fc913d8dcc1ea81",
-          "len": 11748
+          "hash": "f6e632ccd3bbbbccdc26aec8b47e2a175b58c53d4a327b8b131c2a9b1c0c6ed8",
+          "len": 11736
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-lam-banh-donut-sieu-ngon-don-gian-tai-nha/": {
           "hash": "647209b2d5fe825fc297739484238ef47296b621c9d086d5849165e3e4066cdb",
@@ -21690,8 +21690,8 @@
           "len": 9512
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-lam-banh-mi-tuoi-don-gian-tai-nha/": {
-          "hash": "c4ed1721d9e7a683f1f45409a857f4a81ce64c6f2de32d8d76da59d892d38ab1",
-          "len": 12178
+          "hash": "151004f300e1bb7cc5e161b1b57fcf587c8d38bc85a2288d18948416e088c4bd",
+          "len": 12184
         },
         "https://www.btaskee.com/kinh-nghiem-hay/san-qua-giang-sinh/": {
           "hash": "3e155b50627dae99c4ab3ba6391521dd926cf2f02bb611a38dbd23ed2e82c7d2",
@@ -21726,8 +21726,8 @@
           "len": 11126
         },
         "https://www.btaskee.com/kinh-nghiem-hay/tuyet-chieu-tay-vet-muc-tren-quan-ao/": {
-          "hash": "963f0c3111214f65ae37342274268fb0cfb75157338e866972d14a85692adc6b",
-          "len": 8258
+          "hash": "9ae87892e0a0c17f5ad57da55789fdb2a3f25fa2c10ba34270e9a33c5fe0fcfc",
+          "len": 8264
         },
         "https://www.btaskee.com/kinh-nghiem-hay/meo-nam-may-lanh-lau-khong-bi-nghet-mui-kho-hong/": {
           "hash": "fb16ffacc6e24bb73dce9dde283dedccf26a0e7bc8b85975db9de0f78346c25a",
@@ -21742,8 +21742,8 @@
           "len": 4077
         },
         "https://www.btaskee.com/kinh-nghiem-hay/bi-quyet-ho-bien-do-gom-su-da-cu-thanh-moi-toanh/": {
-          "hash": "7d02dbde969bdfe8d46ef5f7a2e4b861b11c39ecfb5ab610e77b0f9335727f2e",
-          "len": 7703
+          "hash": "e212ae19d2d21390964f62439b39fa3add2674f53b17e31ea655298ca2293a10",
+          "len": 7709
         },
         "https://www.btaskee.com/th/blog/%e0%b9%80%e0%b8%84%e0%b8%a5%e0%b9%87%e0%b8%94%e0%b8%a5%e0%b8%b1%e0%b8%9a%e0%b8%8b%e0%b8%b1%e0%b8%81%e0%b8%9c%e0%b9%89%e0%b8%b2/": {
           "hash": "792c1c0bcd75ee17ede85115a64c2b7e5f14f961894c80ede1d5f672020bcf66",
@@ -21782,8 +21782,8 @@
           "len": 10514
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-bao-quan-cu-cai-trang/": {
-          "hash": "af367e143bc9ed2bdd378141e62dedf8fec39211e72dedf98da5140f5dc281db",
-          "len": 10441
+          "hash": "6dc33131a412c930c5a68f1fe6de53ceebcbf6b05db0416b326ed010da63d1a9",
+          "len": 10429
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-tay-dau-mo-nha-bep-hieu-qua-an-toan-tai-nha/": {
           "hash": "4288b9046cca80f1fac65061127e33c241df4625642ec8336c1837dcab94a058",
@@ -21810,8 +21810,8 @@
           "len": 10163
         },
         "https://www.btaskee.com/kinh-nghiem-hay/nhung-bai-tap-the-duc-cho-nguoi-gia-vui-khoe-va-hieu-qua/": {
-          "hash": "7923eb66b51287077befcc06b650dee2f21f41fd4f46413c9412d33eb21e8778",
-          "len": 10076
+          "hash": "ee6949bb06f00ef760392af4f6413289ed6a9abb18ec6b6cd2afbfb146f6b282",
+          "len": 10082
         },
         "https://www.btaskee.com/mon-ngon/sushi-ca-hoi-don-gian/": {
           "hash": "8dd4499716c6fa484f3b34030249356da413bb171540204a47cc8d5a6f58ad8e",
@@ -21874,8 +21874,8 @@
           "len": 4682
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-trang-tri-phong-khach-ngay-tet-dep-me-ly/": {
-          "hash": "535b9e92633e94c61b91dc74444c2a98c830931831483d7db19d625f0de8fcfa",
-          "len": 17019
+          "hash": "a13aaded7bc4ec6e9e6085de9daa1135bfd7ec6c04c60896a2ac82ec378b895b",
+          "len": 17025
         },
         "https://www.btaskee.com/kinh-nghiem-hay/hom-nay-an-gi-mam-com-dinh-duong-cho-ngay-thu-ba/": {
           "hash": "1ece34e1edcdc69d063aeeeaa01ac07f73d4588f116c03ce624d7b12681507d0",
@@ -21934,8 +21934,8 @@
           "len": 8695
         },
         "https://www.btaskee.com/kinh-nghiem-hay/huong-dan-cach-giat-rem-cua-bang-tay/": {
-          "hash": "7bf3993fc029d7198e869d12336b973ca5b1a2dd60d3e43eba0f2003394473b2",
-          "len": 8857
+          "hash": "9cd1582010e4dcce2ac16eb69e24d26ba8bcbbcfcfa3450f855d6b7985c0e947",
+          "len": 8870
         },
         "https://www.btaskee.com/mon-ngon/cach-lam-mang-tay-xao-toi-thom-ngon/": {
           "hash": "943d52556dc5f943c31b08ccbde84436c2d2058c3adba90e93f9dcc1b072e31a",
@@ -22082,12 +22082,12 @@
           "len": 13553
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-khu-mui-thung-rac/": {
-          "hash": "9e9902b8495092bb4fec1bea3473eb20603923ad2dd4405a8b813002c01a221e",
-          "len": 9151
+          "hash": "931d4f875db2b651099e5a2778616e5172277ed5bf7cf52027209c7769533a26",
+          "len": 9139
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-lam-sach-voi-nuoc-inox/": {
-          "hash": "591b45616730124ca5a98f9eaa6cb273af22eaa408d3d56960d6d03c89baaf36",
-          "len": 20024
+          "hash": "1ef0e2352d8fd56f04feba4039629fcb47d5bbbc56d7b282458f9b5f82b904d1",
+          "len": 20012
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-chon-dua-xiem-ngon-ngot-nhieu-nuoc/": {
           "hash": "76944c6dec31695158d74a401964c5032525a8645c5e493f82846c6c770e0e83",
@@ -22144,9 +22144,13 @@
         "https://www.btaskee.com/kinh-nghiem-hay/hom-nay-an-gi-mon-ngon-dan-da/": {
           "hash": "d2ac6783561cc543ae454d1b8f00412cb7000518c89747f813382152e2a0826c",
           "len": 8850
+        },
+        "https://www.btaskee.com/cong-dong/btaskee-tet-2026-ma-hoa-binh-an/": {
+          "hash": "0ec37e11dcce07ee55291f8d3569a490d339421434ebab2fb88d2564eaa18842",
+          "len": 25432
         }
       },
-      "last_run": 1769317783
+      "last_run": 1769404866
     }
   }
 }
