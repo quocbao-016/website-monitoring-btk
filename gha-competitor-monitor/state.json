@@ -631,7 +631,7 @@
           "len": 2193
         }
       },
-      "last_run": 1770605339
+      "last_run": 1770692352
     },
     "be.com.vn": {
       "urls": {
@@ -824,7 +824,7 @@
           "len": 3998
         }
       },
-      "last_run": 1770605368
+      "last_run": 1770692386
     },
     "www.guvico.com": {
       "urls": {
@@ -1997,7 +1997,7 @@
           "len": 9690
         }
       },
-      "last_run": 1770605396
+      "last_run": 1770692427
     },
     "vuatho.com": {
       "urls": {
@@ -4012,9 +4012,17 @@
         "https://vuatho.com/vi/press/cong-nghe/bao-lau-ve-sinh-may-giat-1-lan-nhung-dau-hieu-nhan-biet": {
           "hash": "f3baa43f24ee2c380bf53e7961de518e9e06d10b57697c48a11a289f31c82eff",
           "len": 4254
+        },
+        "https://vuatho.com/vi/press/meo-vat/cach-sua-gioang-tu-lanh-bi-rach-bi-ho-tai-nha-de-tiet-kiem-chi-phi": {
+          "hash": "9cd6bc6452726361ddc3a08f4cdd0380ef065eff99be963280974efc3700c0fb",
+          "len": 7337
+        },
+        "https://vuatho.com/vi/press/tin-tuc/bang-gia-bom-ga-tu-lanh-tai-nha-cap-nhat-moi-nhat-2026": {
+          "hash": "f5c16376320384795ce2312093fafe1bfe7e27a083da80ec3b2215bfe517569c",
+          "len": 4228
         }
       },
-      "last_run": 1770606127
+      "last_run": 1770693202
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -4187,8 +4195,8 @@
           "len": 73485
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-phu-yen/": {
-          "hash": "87f62d6a57e35ab926557767f440f7db955116c3dc9bf8a8f139e10072155736",
-          "len": 44486
+          "hash": "deda5e2104b411d9c7a26dc51a92b6349ab7bb1dfef3773fe99582c1919e64d3",
+          "len": 44461
         },
         "https://giupviecphuongnam.com/dich-vu-giup-viec-nha-tai-lam-dong/": {
           "hash": "bd529167f155f1613e465980e6c0aadddec41d5a3540b94230928a8a4a1ba5ee",
@@ -4339,8 +4347,8 @@
           "len": 43853
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-an-giang/": {
-          "hash": "5656f61fccd47b794832dae94052cf8636d4ac0d749630f73ee3094369941b91",
-          "len": 47584
+          "hash": "62061e1ad1ea8e09e4d80e64a84ab1803f61d8caa710df702537ba133d575495",
+          "len": 47559
         },
         "https://giupviecphuongnam.com/bang-gia-dich-vu-giup-viec-gia-dinh-phan-rang/": {
           "hash": "70eb9c21bd205096c32f1fe2774afc4573caaaa2db9e14b178972bf51a1e05e5",
@@ -4351,8 +4359,8 @@
           "len": 28037
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-nga-bay/": {
-          "hash": "f54da632f09e838dea385b850a36a4e1c5f45132c86fbc8c02cdf1cb2c8e823a",
-          "len": 49570
+          "hash": "255a86dc50375751d789dfea827d474308f69742faed96275c5434084a002edd",
+          "len": 49545
         },
         "https://giupviecphuongnam.com/dich-vu-cham-soc-ong-ba-tai-hai-duong/": {
           "hash": "dba18751015548ed14859a3cc929d1d12721ea95e57d709123935c434eda9dc5",
@@ -4627,8 +4635,8 @@
           "len": 24385
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-phan-rang/": {
-          "hash": "cde4fac06271333d2f67bf778862126ce49f8e8b8f2b664d593fa783e7b29c49",
-          "len": 42145
+          "hash": "d28037d28fd5c9ed8b1377724afd9d256a1954c36fe18cf19517098c886cb826",
+          "len": 42120
         },
         "https://giupviecphuongnam.com/dich-vu-cham-soc-nguoi-benh-tai-vi-thanh/": {
           "hash": "563e37268d3fef1fc492006ed2dd04b3f8f050581fe48424492b44bb6c5a062e",
@@ -4723,8 +4731,8 @@
           "len": 32654
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-ben-tre/": {
-          "hash": "a28c6612f71206ba77f83fe9ab739020c367e1a923571659b1edad23d39def29",
-          "len": 44311
+          "hash": "cfc02d3e1b997228402e8e29f09e885975d42ad2295da5de2eb7a4decaa2e701",
+          "len": 44286
         },
         "https://giupviecphuongnam.com/dich-vu-cham-soc-me-va-be-tai-nha-be/": {
           "hash": "87da7f5e46ef0847883159625091f4c267d3dda8763f89b259bfb8ee2d00f5d8",
@@ -4767,8 +4775,8 @@
           "len": 31958
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-vi-thanh/": {
-          "hash": "75aee76c71b894824f1787432cd9ae2eb15384d10fd73e2ae197eead6fab3a22",
-          "len": 40771
+          "hash": "a164b8902f9ead62e2d91d40b56cae48107628e555a62c19c1c568ad237ffd0f",
+          "len": 40746
         },
         "https://giupviecphuongnam.com/dich-vu-cham-soc-ong-ba-tai-soc-trang/": {
           "hash": "db609ce0b2abd5e8a88db36df90b2c7442f05783cf0a7f2514bb5e7d121446ce",
@@ -4855,8 +4863,8 @@
           "len": 40908
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-hai-duong/": {
-          "hash": "19768be37d9b67d59929430b9e0d296e990ce0ecd945eef025c4d770d606862f",
-          "len": 31323
+          "hash": "bd6b6c9b7293060f2fbcec6ca309803459f1045b35ca138cf1022e532e679cda",
+          "len": 31298
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-phu-quoc/": {
           "hash": "dc9bbfe1e4464626dea7af6d61007ea1d0f2267ac913f91c050132079e6c548b",
@@ -4939,8 +4947,8 @@
           "len": 42494
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-dong-nai/": {
-          "hash": "265feb60ab463f78601ce2d0bf71975a23291f0c47a5563aff2f0db231c7cdca",
-          "len": 37132
+          "hash": "ff77fddff6cc7698bcd314b72b8c5e7248c8d8337d899a616072517a433d5d02",
+          "len": 37107
         },
         "https://giupviecphuongnam.com/dich-vu-trong-tre-tai-hung-yen/": {
           "hash": "686dc64647b83b5c52ac949aee63d033afa5d81db8a3a98451b607b979519517",
@@ -5075,8 +5083,8 @@
           "len": 32225
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-phu-tho/": {
-          "hash": "291b4f56142dc1c7db2acd791b3d2e42b8c0a7d65990a332579fdc08240184b8",
-          "len": 30177
+          "hash": "90948073d683de3b76009a67947afa4eb88a640c31c2f330a6de0f761918ad6e",
+          "len": 30152
         },
         "https://giupviecphuongnam.com/dich-vu-trong-tre-tai-song-cong/": {
           "hash": "1bdf27923c8581df8600aa81d03af112922d28fcd2ca0042ad31c17e0462ea09",
@@ -5263,8 +5271,8 @@
           "len": 44586
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-pleiku/": {
-          "hash": "ed76b6d46a70925a60b9fdd5a0fba47e85119f634c8871c52011212ddba486a0",
-          "len": 44141
+          "hash": "73ebca4e1bd4e6fd094490cafd0498a59c090a081a0ae9eb5e864a5b59a44208",
+          "len": 44116
         },
         "https://giupviecphuongnam.com/bang-gia-dich-vu-giup-viec-gia-dinh-thanh-hoa/": {
           "hash": "f26ba48025e697a70424c31ab481aa50aa42cbb2f4220a34a4c8b0b86751d8a0",
@@ -5539,8 +5547,8 @@
           "len": 49917
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-ha-giang/": {
-          "hash": "4325a2ce270af7e906d672a7e0c2d1fbeba9858e069d3b44e8428504e7f57aaf",
-          "len": 33077
+          "hash": "d10869ceeebf690e4442200a965832d6c4de0725b0ed7d9f95f3b7840cb1b0e8",
+          "len": 33052
         },
         "https://giupviecphuongnam.com/bang-gia-dich-vu-giup-viec-gia-dinh-bac-lieu/": {
           "hash": "f43ef686db9608ee63fb31ae0ccbc45b6e47eeccc6f6e0659ca2b44d0b0bae75",
@@ -5679,8 +5687,8 @@
           "len": 30079
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-hoa-binh/": {
-          "hash": "8b20055811f6d0b46479b4a1866280f01e2f0849ea762f8fc2483404cf7d705b",
-          "len": 29975
+          "hash": "3cb0dd6824c86ee2d6cf68607a689ac1f49af806fa21717b302e4f94944ae791",
+          "len": 29950
         },
         "https://giupviecphuongnam.com/dich-vu-giup-viec-nha-quan-5/": {
           "hash": "3136305d69b01f4beef7597dd79e2648cd2c82c0008bd12777c1609dee54903d",
@@ -5899,16 +5907,16 @@
           "len": 32734
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-tuy-hoa/": {
-          "hash": "cc935d54f097edd4496c85c20b10c4b01c2e02b10b49a2b57901fd6f817b319e",
-          "len": 48999
+          "hash": "30a653cff69dcca52216a1f39c32e988aa8ab02b533fffa83dbee20ebd5bd711",
+          "len": 48974
         },
         "https://giupviecphuongnam.com/dich-vu-giup-viec-nha-tai-phu-quoc/": {
           "hash": "452d07b761e122449fbdb7e4518815f094723d9d46efbb32d3a2e0c72d6ece6b",
           "len": 39523
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-quang-binh/": {
-          "hash": "3ad6b14589da4c5b917531786759cfbedd93faf5c8ad5abad1a3e70bd98ed90a",
-          "len": 40066
+          "hash": "4e690d108282ef19b4dbcb99eddf637ad85003ff00c75f0fd27580d3cfb8094d",
+          "len": 40041
         },
         "https://giupviecphuongnam.com/dich-vu-cham-soc-ong-ba-tai-pho-yen/": {
           "hash": "9b123951d25961cb7452517ad2e876513d3f48d08e683fc48788a4a1468af36f",
@@ -6095,8 +6103,8 @@
           "len": 31151
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-rach-gia/": {
-          "hash": "8e4d07d9ad4041bf2a2ad8495774e61dbe4d24020d0735e0ad3a3dc1bd62b1fc",
-          "len": 43989
+          "hash": "3ad6183430647c50491f916608695799f1132c8d2ad12ed22c9636941f59e9b9",
+          "len": 43964
         },
         "https://giupviecphuongnam.com/dich-vu-cham-soc-nguoi-benh-tai-tu-son/": {
           "hash": "65227b09d6de6e915d899941aed94423931e67cd366a2f0a9351ed5d462a51cb",
@@ -6279,8 +6287,8 @@
           "len": 38877
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-hai-phong/": {
-          "hash": "3589e1326a4a67fdbcf31d68ded88ffeef8a1960e4df1540e37964d9f16f5c87",
-          "len": 34072
+          "hash": "c86f620e11a1e89ea95b770c7036a8fbd1f457d128c115af6b38f8cbd956fad8",
+          "len": 34047
         },
         "https://giupviecphuongnam.com/dich-vu-cham-soc-me-va-be-tai-binh-phuoc/": {
           "hash": "873bbeb32b1b33033d01b9f52d5b6142d3f54f689a467de1e2bd9754844bc373",
@@ -6543,8 +6551,8 @@
           "len": 32155
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-ninh-thuan/": {
-          "hash": "bee1dc500fd4716132554efff40afc368033618f14d58484e6e2a15e15f5ecf1",
-          "len": 43395
+          "hash": "1f47cc114d81b6ce41abf9fd8cbe2eb75159da41a329cafca98d0ee7d440e18e",
+          "len": 43370
         },
         "https://giupviecphuongnam.com/dich-vu-nuoi-benh-tai-benh-vien-da-khoa-khu-vuc-thu-duc/": {
           "hash": "4dcdae64aeeabc2d562e4cc8a52aff2d73262bbc1a7c9a813df2b59117545d33",
@@ -6819,12 +6827,12 @@
           "len": 55296
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-dong-hoi/": {
-          "hash": "5f46937af32edfd850c2a25128e68f9796e70fed1fdf989409eab1abe4649927",
-          "len": 38352
+          "hash": "92d823d3cc6cd0e52f4a9fc2ca7df5e89cc57c4d463a31dbb1b7dfc7793d70a2",
+          "len": 38327
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-viet-tri/": {
-          "hash": "64d61e70f605702df6c8bce3390b6ae25720fef9a4ede0d5c58b60afde785dcd",
-          "len": 31941
+          "hash": "4d337a1e2b8b50cac677937cb8dee5948ffe8c97adff63e8893f642903b4b644",
+          "len": 31916
         },
         "https://giupviecphuongnam.com/dich-vu-giup-viec-nha-tai-binh-thuan/": {
           "hash": "05fbf3a909d6114bb1c9227d5fbf8df16c1fd63a2073e8d6bb04d69a69c605d3",
@@ -6915,8 +6923,8 @@
           "len": 41136
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-tam-diep/": {
-          "hash": "e93cd35b0e8e19ec2d62f882d45db827d286738d109b4c3db4760d561c4f6181",
-          "len": 38586
+          "hash": "5c3d932ddf1b220a8d408b5ad274e99f96c8a17960766dc73978ba052fac8972",
+          "len": 38561
         },
         "https://giupviecphuongnam.com/dich-vu-cham-soc-ong-ba-tai-hue/": {
           "hash": "f01c50e4e3e077c92db4eba5d14153843a267eb2f3d137a019ddfc6bfad6dc4c",
@@ -7071,8 +7079,8 @@
           "len": 38095
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-hoi-an/": {
-          "hash": "ff60e940847ff64a5482f8478cf3bdbe3c065bad9c1c619e864c43eea785491b",
-          "len": 39500
+          "hash": "6f23db8779790d506da9e469bec22bef6d1ec6abe5e7e99792a5db74ce47fd95",
+          "len": 39475
         },
         "https://giupviecphuongnam.com/dich-vu-giup-viec-nha-tai-dien-bien/": {
           "hash": "6bcd57c4e0c051e9992232129dc78c0f2c3ce3ad3aefc9dd238cf8fb4fd960b8",
@@ -7443,8 +7451,8 @@
           "len": 44147
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-nha-trang/": {
-          "hash": "3dfe7b0023a7c30a7af1ab365cffaf0f18fe7e52cfd2f2e12f6d238a12d93241",
-          "len": 49186
+          "hash": "b51e01c2af52d8dfa0086c86201336e48fd2d259e66042de94ecb0ae348d36ae",
+          "len": 49161
         },
         "https://giupviecphuongnam.com/dich-vu-cham-soc-nguoi-benh-tai-long-khanh/": {
           "hash": "fa412d7bf0f092fba510789f4a1b3d210dff1066d2968a85ac373126b0aef4df",
@@ -7567,8 +7575,8 @@
           "len": 37599
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-bien-hoa/": {
-          "hash": "6641f7df72440feb4fdfef380e91699ff65774d8d1d1f4332abcfca6e29de1d5",
-          "len": 36444
+          "hash": "f8509181124e056229b8a068ba2e833c894d853c5e0098809ec5ca717048d8e3",
+          "len": 36419
         },
         "https://giupviecphuongnam.com/dich-vu-nuoi-benh-tai-benh-vien-trung-vuong/": {
           "hash": "081c27f03a619f6832abc0da54b075496dc392acd49377a5451014b538ee0b7b",
@@ -7655,8 +7663,8 @@
           "len": 30593
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-gia-lai/": {
-          "hash": "89bee3dc6e3cabf0dec9c53f4c268617884ce1ece9f62bbf1913551621641646",
-          "len": 56153
+          "hash": "6d66f38263cc7eff6b1ce97ae1445aaf1ba50d937cc51c728d551fdc0a0b8556",
+          "len": 56128
         },
         "https://giupviecphuongnam.com/dich-vu-cham-soc-me-va-be-tai-yen-bai/": {
           "hash": "547cd0b2a6ef69ac3fc1e25ae2650acc74ff22c007792412d82b0f7a451e6371",
@@ -7715,8 +7723,8 @@
           "len": 47928
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-hau-giang/": {
-          "hash": "cd9388ea4aa96001471bec72d3d255cebe3c32dd8c8e1602d66cb20fd8d423ff",
-          "len": 37988
+          "hash": "0da654538d53a44824b02053581024a737dd96151f9ec2e7105e974504d078d1",
+          "len": 37963
         },
         "https://giupviecphuongnam.com/dich-vu-nuoi-benh-tai-phu-nhuan/": {
           "hash": "1a9d5dc37cd00d943e54f1e8f6506ac215683d165a69e83cf4d2766cca415b50",
@@ -7815,8 +7823,8 @@
           "len": 48634
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-ninh-binh/": {
-          "hash": "e22fdf2987463880e44ce1855e1ccd81dcd307f8b3d17c5098f5095b65ea93ae",
-          "len": 46176
+          "hash": "df3468b026d82631b6338c82cbbde77503e61614df39fe79d5d33a42f01d9f09",
+          "len": 46151
         },
         "https://giupviecphuongnam.com/dich-vu-cham-soc-me-va-be-tai-lam-dong/": {
           "hash": "9cb434919b91a56b945060c85eb1f310d6d2255899b63deeecdcf41e2a1cfb46",
@@ -7851,8 +7859,8 @@
           "len": 41287
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-ha-tien/": {
-          "hash": "b90dbfd2d45d060693af7b7e53a48342160f2297f7b9d3877ad376fd1a1ed610",
-          "len": 38689
+          "hash": "e421ca1cd5c41488ae6520e5dbfcf39fb4f7895a07adbfcee45853874d528dc7",
+          "len": 38664
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-vinh-phuc/": {
           "hash": "6f7c796184fbb67fe671dc07f54e380d947da4dc5b6f6ad242a867ce5f287bab",
@@ -7955,8 +7963,8 @@
           "len": 39873
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-hue/": {
-          "hash": "0e6da72b2d0dec7b39353724ab7b267532bab8d374f6a84b2065be8060ff6247",
-          "len": 32769
+          "hash": "6b3bc7bafc0972ab15f7abe8c2f5b544196bb96566768cd8dca3f239725e254c",
+          "len": 32744
         },
         "https://giupviecphuongnam.com/dich-vu-cham-soc-nguoi-bi-dot-quy-tai-bien-tai-nha/": {
           "hash": "16ad48f89fc15894855bc5407445bcc050097b4863a3a818a1402bf4f06d3567",
@@ -8023,8 +8031,8 @@
           "len": 28725
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-lai-chau/": {
-          "hash": "1570d0bd1470e52f71ea899f4bde074960d0120595dd3ff0d332051f61959d81",
-          "len": 32283
+          "hash": "cd547ad25e379f908114cd4a06a8bb29477b39b06eebe31fa9b0f13d50400712",
+          "len": 32258
         },
         "https://giupviecphuongnam.com/dich-vu-tam-be-so-sinh-tai-nha-can-gio/": {
           "hash": "8d6309a2ff62a4c1ef6354b38d379f2b6133da82cac5f30269a0c701ef7d3319",
@@ -8543,8 +8551,8 @@
           "len": 9663
         },
         "https://giupviecphuongnam.com/dich-vu-tim-nguoi-cham-be-tai-kien-giang/": {
-          "hash": "c843c002109e976faa72d0a5c57c025e3dce8a6c90c93961fc6d29730ca21aa6",
-          "len": 34182
+          "hash": "d1d2ebc166d008f7237e50f95747d54e42ea96ca2e13018b45f14057dda5948c",
+          "len": 34157
         },
         "https://giupviecphuongnam.com/dich-vu-cham-soc-tre-em-quan-3/": {
           "hash": "bcc41d4b86d512fe1de91d55e54b8fd1b8578ce4e9695febe46df982b01e334c",
@@ -9283,7 +9291,7 @@
           "len": 50905
         }
       },
-      "last_run": 1770614430
+      "last_run": 1770698751
     },
     "giupviectot.vn": {
       "urls": {
@@ -15360,7 +15368,7 @@
           "len": 7368
         }
       },
-      "last_run": 1770617882
+      "last_run": 1770701072
     },
     "vesinhhc.vn": {
       "urls": {
