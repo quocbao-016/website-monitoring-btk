@@ -631,13 +631,13 @@
           "len": 2177
         }
       },
-      "last_run": 1770864708
+      "last_run": 1770951106
     },
     "be.com.vn": {
       "urls": {
         "https://be.com.vn/tin-tuc/hop-dong-van-chuyen-hanh-khach-theo-hop-dong-dien-tu-xe-o-to/": {
-          "hash": "8f5aca535092ff1134f8891075e216b355027be7a9a16747fb69999b373d1ba1",
-          "len": 2894
+          "hash": "72e4d0722bd8fa0f627bc8cdf9b5c3bb32e71e6e37db3f6c023b39d4a14da44e",
+          "len": 2873
         },
         "https://be.com.vn/tin-tuc/ra-mat-dich-vu-giao-hang-sieu-re-4h/": {
           "hash": "eedc1917c84e492b8300d8592c560e51f930374c460c3c50e61db4f0bc508924",
@@ -688,8 +688,8 @@
           "len": 7573
         },
         "https://be.com.vn/tin-tuc/danh-sach-truong-goi-xinh-vien/": {
-          "hash": "24b721599c0c14cba088dfa425f18a4a38bdafba59bd5ee83a07844c9998bb6a",
-          "len": 55798
+          "hash": "ac767601189cf4e8e241e31e76e596745acd21567be36bdd772f3f7f0a73af11",
+          "len": 55740
         },
         "https://be.com.vn/uncategorized/ra-mat-dich-vu-becar-tuyen/": {
           "hash": "3d3b2c5c584345f7238e0ac11a7a4e0e7d38b29e1d4c34191a4f63c4b977181c",
@@ -812,19 +812,23 @@
           "len": 5769
         },
         "https://be.com.vn/tin-tuc/danh-sach-dia-diem-ap-dung-goi-be-di-lam/": {
-          "hash": "787609852ebcff52f0c6cd2bb31bf2201658ee04b22c5b1a960a333839c61dde",
-          "len": 562232
+          "hash": "8d115eb4acc668b715d0aaee3421c7a9d0837faa71f49ba9b29070828c4c909b",
+          "len": 562174
         },
         "https://be.com.vn/tin-tuc/thong-bao-cap-nhat-quy-che-hoat-dong-ung-dung-cung-cap-dich-vu-tmdt-be/": {
-          "hash": "937da7812f8f98b00075af92e20c3d7a11500704342c1cb3f41281071d336d89",
-          "len": 4093
+          "hash": "b2632484d54c19b0078089086fc0043731a7ddb271f106f88e1c01db1997c27d",
+          "len": 4035
         },
         "https://be.com.vn/tin-tuc/thong-bao-cap-nhat-cac-dieu-khoan-va-dieu-kien-ve-dich-vu-thuong-mai-dien-tu-tren-san-giao-dich-tmdt-be/": {
-          "hash": "b10c27e4f04d6f1aeae810f9f40c5295bb13c60e851e28dfc590a70b94b2caa2",
-          "len": 3998
+          "hash": "fcdf1edddd56576ca90d810dd74b5ad168f621af4052c09eb65fefa461111693",
+          "len": 3940
+        },
+        "https://be.com.vn/tin-tuc/don-dep-nha-cua-gon-gang-cung-behome/": {
+          "hash": "0425de408a57665b684bae7576f62a36a64d151dca2af923fb5c0993da76fef3",
+          "len": 6976
         }
       },
-      "last_run": 1770864741
+      "last_run": 1770951138
     },
     "www.guvico.com": {
       "urls": {
@@ -1997,7 +2001,7 @@
           "len": 9690
         }
       },
-      "last_run": 1770864773
+      "last_run": 1770951179
     },
     "vuatho.com": {
       "urls": {
@@ -4036,9 +4040,13 @@
         "https://vuatho.com/vi/rule-of-behavior/handling-violations": {
           "hash": "66296b28e029df9637b7686895c8b3560ae753a751673a227a8d1ef475fab489",
           "len": 25206
+        },
+        "https://vuatho.com/vi/press/su-kien/vua-tho-dong-hanh-xuyen-tet-binh-ngo-20261770949187155": {
+          "hash": "1eb1f14b8f1e3073093f9f027e8307e09c7a4ef6a9d156bd84c986ef0b66abe4",
+          "len": 2395
         }
       },
-      "last_run": 1770865555
+      "last_run": 1770951859
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -9307,7 +9315,7 @@
           "len": 50905
         }
       },
-      "last_run": 1770869190
+      "last_run": 1770953559
     },
     "giupviectot.vn": {
       "urls": {
@@ -15384,7 +15392,7 @@
           "len": 7368
         }
       },
-      "last_run": 1770871510
+      "last_run": 1770956412
     },
     "vesinhhc.vn": {
       "urls": {
