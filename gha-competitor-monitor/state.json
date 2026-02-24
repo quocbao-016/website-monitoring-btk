@@ -631,7 +631,7 @@
           "len": 2177
         }
       },
-      "last_run": 1771814933
+      "last_run": 1771901137
     },
     "be.com.vn": {
       "urls": {
@@ -824,11 +824,11 @@
           "len": 3940
         },
         "https://be.com.vn/tin-tuc/don-dep-nha-cua-gon-gang-cung-behome/": {
-          "hash": "0425de408a57665b684bae7576f62a36a64d151dca2af923fb5c0993da76fef3",
-          "len": 6976
+          "hash": "7a1315ce5d0c984c2c46844fd61115e5a6ab085e21455aa9b5cdc167b1d01902",
+          "len": 6729
         }
       },
-      "last_run": 1771814968
+      "last_run": 1771901172
     },
     "www.guvico.com": {
       "urls": {
@@ -2001,7 +2001,7 @@
           "len": 9690
         }
       },
-      "last_run": 1771815001
+      "last_run": 1771901201
     },
     "vuatho.com": {
       "urls": {
@@ -4044,9 +4044,21 @@
         "https://vuatho.com/vi/press/su-kien/vua-tho-dong-hanh-xuyen-tet-binh-ngo-20261770949187155": {
           "hash": "1eb1f14b8f1e3073093f9f027e8307e09c7a4ef6a9d156bd84c986ef0b66abe4",
           "len": 2395
+        },
+        "https://vuatho.com/vi/press/tin-tuc/vi-tri-ong-thoat-nuoc-may-lanh-cach-xac-dinh-and-lap-dat-chuan-2026": {
+          "hash": "27e27b9b38eb983ca1599abcf30e84e689be92bd90782081e000fa7834cbfa7f",
+          "len": 6983
+        },
+        "https://vuatho.com/vi/press/tin-tuc/massage-bau-la-gi-6-loi-ich-vang-tu-massage-cho-me-bau": {
+          "hash": "e9dfece85631c49d9d91d01c50fc48d7fe56b76dce0db0eb079ddaaa8b70ceff",
+          "len": 6747
+        },
+        "https://vuatho.com/vi/press/su-kien/vua-tho-dong-hanh-xuyen-tet-binh-ngo-2026": {
+          "hash": "1eb1f14b8f1e3073093f9f027e8307e09c7a4ef6a9d156bd84c986ef0b66abe4",
+          "len": 2395
         }
       },
-      "last_run": 1771815867
+      "last_run": 1771901925
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -9315,7 +9327,7 @@
           "len": 50905
         }
       },
-      "last_run": 1771820293
+      "last_run": 1771907460
     },
     "giupviectot.vn": {
       "urls": {
@@ -15392,7 +15404,7 @@
           "len": 7368
         }
       },
-      "last_run": 1771822646
+      "last_run": 1771911241
     },
     "vesinhhc.vn": {
       "urls": {
