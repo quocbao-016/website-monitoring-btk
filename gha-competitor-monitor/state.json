@@ -643,7 +643,7 @@
           "len": 867
         }
       },
-      "last_run": 1772678428
+      "last_run": 1772764741
     },
     "be.com.vn": {
       "urls": {
@@ -756,8 +756,8 @@
           "len": 2810
         },
         "https://be.com.vn/tin-tuc/uu-dai-cua-cake-danh-cho-khach-hang-be/": {
-          "hash": "ef8ea24e15ff7f58dc936f99fc94918a1a96edaa27e000c03664cacbeff42194",
-          "len": 3522
+          "hash": "658f6b66eaddec71fd0afe189b34f0dbf485832a05eec626528751ceab9ca239",
+          "len": 3484
         },
         "https://be.com.vn/khach-hang-ca-nhan/be-clean/": {
           "hash": "e089683cbead601d907d32ce1828f2d6faa1163bc97503690a5e59dd151e278c",
@@ -808,8 +808,8 @@
           "len": 10783
         },
         "https://be.com.vn/khach-hang-ca-nhan/tin-tuc-bao-chi/": {
-          "hash": "6b84c40a3ee09077691f997b47aa5b50f59ef1767ce0401aa24bda770fa3bca7",
-          "len": 3205
+          "hash": "edf4d45b9552f4c159219e0f770785e55a0b67bbea65baaedcf941b99015cea7",
+          "len": 3208
         },
         "https://be.com.vn/": {
           "hash": "e5c958bc990ec5b68f8e7ed139c2b6175a354f1cbb11cc9fa75150a149e71fa4",
@@ -872,23 +872,47 @@
           "len": 6215
         },
         "https://be.com.vn/tin-tuc/giai-phap-vi-tra-sau-bepaylater/": {
-          "hash": "55387b78a3b1a2a32ea0020d463c30a734c31b4ed4f0cd3368dbe29310d44c48",
-          "len": 6419
+          "hash": "42d21f49c87f4df1c515dd29d5f09ba6a69176a30450706913d6e4b696afe6f3",
+          "len": 6381
         },
         "https://be.com.vn/tin-tuc/dang-ky-tai-xe-be-thu-nhap-den-30-trieu/": {
-          "hash": "921cd73f8c5027c351152a6df81e2b909341e0fbf8d18bd72273bd5ee20a6cc9",
-          "len": 7391
+          "hash": "173c23a63e3bea03c40cc8d171c0cd7a0015c6fef07ac38ba13a9335fff789b3",
+          "len": 7363
         },
         "https://be.com.vn/tin-tuc/don-dep-nha-cua-tang-thu-nhap-cung-behome/": {
-          "hash": "7308ae4015d28202aea3c40d7b5fba6908b825f97330615c5171d42649f37046",
-          "len": 7316
+          "hash": "e88577c80e617cbe0d15f06d397423faa8b8ce6554933d854d45716cc488e64c",
+          "len": 7288
         },
         "https://be.com.vn/tin-tuc/mo-gian-hang-befood-mien-phi/": {
-          "hash": "21d9eacb72f73a31286a2a9d8790b0a86b4ba854c7d648e4973ddcc91b4ed78c",
-          "len": 6635
+          "hash": "479a41d91f7673fda4a2089686c5e711806d3494f65e83826a9ced989889640d",
+          "len": 6594
+        },
+        "https://be.com.vn/uu-dai/bebike-don-nhanh-trong-03-phut/": {
+          "hash": "1c642bdadc32d1a7c9925b1759b6e58e7f21ed0c60403ab83fd5bec258a633d8",
+          "len": 3017
+        },
+        "https://be.com.vn/tin-tuc/vay-tien-online-thong-minh-tren-be-2/": {
+          "hash": "6f85bef7b22af334793a360b74378b27831e8cc8e8dc61691f105f0225873ade",
+          "len": 6476
+        },
+        "https://be.com.vn/tin-tuc/dat-do-an-de-dang-cung-be/": {
+          "hash": "95e895b46ac374cdf43a51878fe56ab8b8c6d6f0ce7268ee016d19d38019ba33",
+          "len": 7096
+        },
+        "https://be.com.vn/tin-tuc/dat-taxi-cong-nghe-tren-be/": {
+          "hash": "8ceba02770c6ea25b00048849d660d76791ed4af5dc586c44cab86567d9d111e",
+          "len": 6009
+        },
+        "https://be.com.vn/tin-tuc/dat-xe-om-cong-nghe-tren-be/": {
+          "hash": "361ccb2d6993d8aeb6ef9e8f4574238d17555a8021d0e043baf988b08eb16a42",
+          "len": 5681
+        },
+        "https://be.com.vn/tin-tuc/bao-hiem-tien-loi-tren-be/": {
+          "hash": "c40466c1d88d7e47d33622d98f46ee13134f0b6072a75ed88ddb60f9de415f30",
+          "len": 6402
         }
       },
-      "last_run": 1772678544
+      "last_run": 1772764787
     },
     "www.guvico.com": {
       "urls": {
@@ -2061,7 +2085,7 @@
           "len": 9690
         }
       },
-      "last_run": 1772678572
+      "last_run": 1772764833
     },
     "vuatho.com": {
       "urls": {
@@ -4180,9 +4204,17 @@
         "https://vuatho.com/vi/press/tin-tuc/cach-xu-ly-may-giat-keu-to-khi-vat-cam-nang-sua-chua-tu-a-z": {
           "hash": "8441f8ec65955c8a3d4663db8c6e1b8a9e92aec60971d0d6a3fd66133439d17a",
           "len": 6590
+        },
+        "https://vuatho.com/vi/press/meo-vat/cach-su-dung-dieu-khien-dieu-hoa-nagakawa-chi-tiet-a-z": {
+          "hash": "c574a51a82f7b319fb717b5d8d8c511708356d48717535c8797e60ebcc5cbeed",
+          "len": 5419
+        },
+        "https://vuatho.com/vi/press/tin-tuc/bang-gia-sua-chua-may-giat-tai-nha-2026-cap-nhat-moi-nhat": {
+          "hash": "065079540985b6323351e8db3f3182cb10c453fba32607437d4f0c2b0651885d",
+          "len": 5610
         }
       },
-      "last_run": 1772679264
+      "last_run": 1772765645
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -9451,7 +9483,7 @@
           "len": 50790
         }
       },
-      "last_run": 1772687389
+      "last_run": 1772768990
     },
     "giupviectot.vn": {
       "urls": {
@@ -15528,7 +15560,7 @@
           "len": 7368
         }
       },
-      "last_run": 1772690656
+      "last_run": 1772771274
     },
     "vesinhhc.vn": {
       "urls": {
