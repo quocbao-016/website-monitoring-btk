@@ -643,7 +643,7 @@
           "len": 867
         }
       },
-      "last_run": 1773110228
+      "last_run": 1773196600
     },
     "be.com.vn": {
       "urls": {
@@ -936,7 +936,7 @@
           "len": 7083
         }
       },
-      "last_run": 1773110271
+      "last_run": 1773196795
     },
     "www.guvico.com": {
       "urls": {
@@ -2109,7 +2109,7 @@
           "len": 9690
         }
       },
-      "last_run": 1773110296
+      "last_run": 1773196829
     },
     "vuatho.com": {
       "urls": {
@@ -4244,9 +4244,13 @@
         "https://vuatho.com/vi/press/tin-tuc/cach-chinh-tu-lanh-panasonic-chi-tiet-meo-toi-uu-dien-nang": {
           "hash": "26f72cc20c8a1b6ce098befa92da2b768fc4fdfcb6149659735048945e5efa51",
           "len": 6230
+        },
+        "https://vuatho.com/vi/press/tin-tuc/cach-chinh-may-lanh-chi-tiet-tong-hop-cac-loai-dieu-khien": {
+          "hash": "f2e253144f5d5c95b66204b36d45847c138af83e386f6b16ffdd3e6789a8ad5e",
+          "len": 5605
         }
       },
-      "last_run": 1773110925
+      "last_run": 1773197475
     },
     "giupviecphuongnam.com": {
       "urls": {
@@ -9515,7 +9519,7 @@
           "len": 50790
         }
       },
-      "last_run": 1773111376
+      "last_run": 1773203701
     },
     "giupviectot.vn": {
       "urls": {
@@ -15612,8 +15616,8 @@
           "len": 2090
         },
         "https://giupviectot.vn/tuyen-giup-viec-theo-gio": {
-          "hash": "d763c29ed62621642648ab1abc05e89d30591de67f5e499ea7755f609ed0e60d",
-          "len": 5207
+          "hash": "ad80e5c8d8407cd92360d37e7054289c963b118c272730668028d8c0b2d6511c",
+          "len": 6595
         },
         "https://giupviectot.vn/nam-so-xao-thit-bo": {
           "hash": "3e43daddff970b083d1814aa6bd3711d433a7630899e0cbefbf74893806d147b",
@@ -15636,8 +15640,8 @@
           "len": 3419
         },
         "https://giupviectot.vn/giup-viec-nha-sang-den-toi-ve": {
-          "hash": "243bf4a2124787ce9d2ba48c6a94525858421ad37a647df089ef4366a125b7ef",
-          "len": 4757
+          "hash": "6b86757c2301686a5b0151e049f94db5e25efd93c36709d478589a469556f5c2",
+          "len": 4730
         },
         "https://giupviectot.vn/cach-nau-mi-quang-nha-trang": {
           "hash": "4fedc26936137e9a0900d934119ad5cd440505ce377652ed9f80e2acea99b78d",
@@ -15652,7 +15656,7 @@
           "len": 1945
         },
         "https://giupviectot.vn/cach-lau-don-phong-khach": {
-          "hash": "e33eca9589213e7e1cf5c9cef68ee4ce43146792b786e37fceb3293fdc4e3c22",
+          "hash": "2e1268cc380142c19d4bbcc5220c01dee966c8d3c7b1ae329d501b836d8423b8",
           "len": 1783
         },
         "https://giupviectot.vn/cach-bao-quan-me-chin": {
@@ -15672,8 +15676,8 @@
           "len": 5843
         },
         "https://giupviectot.vn/giup-viec-theo-gio": {
-          "hash": "41a891904c087f29ae6035fdc640f0054b42e0ff51ba692e3939c70dbc5b9599",
-          "len": 4709
+          "hash": "a6d010882603dd74bd9afd4560adfae30357f3d134397683bd36a99883326bb8",
+          "len": 6113
         },
         "https://giupviectot.vn/4-cach-tri-kien-ba-khoang-can-hieu-qua-nhat-tai-nha": {
           "hash": "601b2a4bbf9874f61fefce247afdbceae973d59d53b6456802d19b85ecf434e3",
@@ -15688,7 +15692,7 @@
           "len": 2222
         },
         "https://giupviectot.vn/cach-lau-don-phong-ngu": {
-          "hash": "6de241e0516de645ac5e3a40db9246bade34c8c85628bdb922fd72d57d6abc83",
+          "hash": "34c01ef5cf98ca22fa6639a378715299b3e06af68669f54b0adc3810f71e329e",
           "len": 1777
         },
         "https://giupviectot.vn/chuan-nang-luc-giup-viec": {
@@ -15704,7 +15708,7 @@
           "len": 5801
         },
         "https://giupviectot.vn/cach-chot-viec-truoc-ca-lam": {
-          "hash": "0a6a1542cf567a73a337caa7c5909fd3fdd7c3c6b674bc5c467fc9a1dc332522",
+          "hash": "fa1f9b97483c78a34ac44d68c69b050c8ca9a1084026681f2e85ff5dba55839e",
           "len": 1756
         },
         "https://giupviectot.vn/dao-tao-1": {
@@ -15712,8 +15716,8 @@
           "len": 1641
         },
         "https://giupviectot.vn/ve-sinh-van-phong": {
-          "hash": "ebaa431e9e120694296e16c64852f1a854b74a94e571a9c2952ea539467f12ac",
-          "len": 5624
+          "hash": "5dbf6611c63dff47ee94b4b98aec9a9c8df83ef57acbf5c6c5075309064e8157",
+          "len": 5597
         },
         "https://giupviectot.vn/tuyen-dung": {
           "hash": "cc24070f2574c0845bd2419440c368ed5531ea109bf9f50a75a7d24b7889c979",
@@ -15748,8 +15752,8 @@
           "len": 6709
         },
         "https://giupviectot.vn/tong-ve-sinh": {
-          "hash": "e4edc2e63e85dfbd3f4f1e48f20d23e79297d5600349c75a7eca1e8928e25938",
-          "len": 4551
+          "hash": "9e9cc146ab6f797e65c36fd1cb14e3c265b4cea356d3999fcaa1b25d5d78baba",
+          "len": 4524
         },
         "https://giupviectot.vn/noi-tro-hay-noi-cho": {
           "hash": "52ebe70a9d9c8029c18d76c63b888367aae7ae43b48d7a958ac5ceec975f31a9",
@@ -15772,8 +15776,8 @@
           "len": 5266
         },
         "https://giupviectot.vn/dao-tao": {
-          "hash": "a1c74c566d236e13d6892a73e78a4c4134d97fef1b1b565dfc634f9f2030a3a7",
-          "len": 3732
+          "hash": "e23ed66ba44e19561e459a387b5ce17dd0517e85b22426c2411a8dc44d7cf452",
+          "len": 3911
         },
         "https://giupviectot.vn/lien-he": {
           "hash": "34d1ccbd6c51bb5585dde782c29cc373c1e3e460b25b2f9878e0e67620b15065",
@@ -15788,15 +15792,15 @@
           "len": 1698
         },
         "https://giupviectot.vn/chuong-trinh-co-ban-cho-nguoi-moi-chuan-nhan-ca": {
-          "hash": "af6d6c58ddd4973f7b25241f017a270b93e2bd21066add68e5fb55ce7423a71f",
-          "len": 2117
+          "hash": "67351968af3973babe3939ca01e81b721f3e1f6c22af5d3184bebca99a065a25",
+          "len": 2952
         },
         "https://giupviectot.vn/chuong-trinh-tay-nghe-cao-nhan-ca-gia-cao": {
-          "hash": "a9a6d9b8858341cd49d01d16c91bc4031ee4e39ad54e9818c781c4dc8d57c87f",
-          "len": 1951
+          "hash": "9223c9774672cea381f487728cb76957dd5d1323f45cdfcf56ffc2604e17d650",
+          "len": 2331
         }
       },
-      "last_run": 1773111475
+      "last_run": 1773203825
     },
     "vesinhhc.vn": {
       "urls": {
@@ -16477,11 +16481,11 @@
           "len": 9246
         }
       },
-      "last_run": 1773111507
+      "last_run": 1773203866
     },
     "phuonggia.com": {
       "urls": {},
-      "last_run": 1773111539
+      "last_run": 1773203909
     },
     "btaskee.com": {
       "urls": {
@@ -16718,8 +16722,8 @@
           "len": 4420
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cach-nau-chao-ca-hoi-tai-nha/": {
-          "hash": "c5f2f7d444ab6eceeab0051f1d47d39accbb7347b78693e5ee7d23bde118e77f",
-          "len": 8392
+          "hash": "80b517f2e52519bcd5c9c370bae43d5e9210a23bcdf09d3703badda997946669",
+          "len": 8363
         },
         "https://www.btaskee.com/kinh-nghiem-hay/danh-gia-dieu-hoa-nagakawa-thuong-hieu-day-tiem-nang/": {
           "hash": "0de557d0edfba29b56b128f81a9b7eb08481d7a3cb5b012ba5098dc94dca4dac",
@@ -17578,8 +17582,8 @@
           "len": 8197
         },
         "https://www.btaskee.com/kinh-nghiem-hay/5-bai-tap-yoga-cho-nguoi-cao-tuoi-don-gian-va-hieu-qua/": {
-          "hash": "0e8f3561c230c19954a68450b4977aac71ffcd4f2bf306f6a49ac550713dc8af",
-          "len": 9149
+          "hash": "723e644d53ddaf546d5bb885932fb159e23217a2a7c7f902c62104d0d0064f47",
+          "len": 9120
         },
         "https://www.btaskee.com/en/careers/graphic-designer-intern/": {
           "hash": "2f9a7396c10098cff34ed39ef5a1d9d53ccac0df240f005708698096dd4732f6",
@@ -18470,8 +18474,8 @@
           "len": 9691
         },
         "https://www.btaskee.com/kinh-nghiem-hay/clean-up-viet-nam-chien-dich-vi-cong-dong-tu-btaskee/": {
-          "hash": "fb425f80b207907ee313b6a58be2c1e601c3d9240d6e46d2c1d86e3ec68ce9fd",
-          "len": 6350
+          "hash": "075831f376dd5176929b946621040036fe6a9cc0c4bcf8f3500c3845aef73fc3",
+          "len": 6321
         },
         "https://www.btaskee.com/kinh-nghiem-hay/hom-nay-an-gi-thuc-don-5/": {
           "hash": "589dd8828629faaf3fdb4d840bf84e394ad5ee54189c48ca4099aff6afb0e881",
@@ -19318,8 +19322,8 @@
           "len": 11250
         },
         "https://www.btaskee.com/kinh-nghiem-hay/giat-ui-quan-4-loi-ich-cua-viec-su-dung-dich-vu-giat-ui-giao-nhan-tai-nha/": {
-          "hash": "22eff360415cfbd64238867ec30b6d52a2d62e75fd3f5fddde4fc357ee3a78a8",
-          "len": 10821
+          "hash": "523db947e908fced423ec01ee9005c6faac5683880b22ef0b92d2271a0bce569",
+          "len": 10783
         },
         "https://www.btaskee.com/kinh-nghiem-hay/cam-bien-nhiet-do-may-lanh-co-tac-dung-gi/": {
           "hash": "a210f1c88e39d383de6fe031e46d9aaea8e9c1ae87d2a862b3c857689f749d6f",
@@ -19374,8 +19378,8 @@
           "len": 9978
         },
         "https://www.btaskee.com/kinh-nghiem-hay/meo-duoi-muoi-phong-may-lanh/": {
-          "hash": "8646e34617fa56f154de52f08e73615347c9d5e97878197aafd92cc3d34689d5",
-          "len": 13755
+          "hash": "7bb41f926009ed0fa00477dd6d23903cde7261f44aeef0f64e572b1eb1a405df",
+          "len": 13726
         },
         "https://www.btaskee.com/en/careers/mobile-developer/": {
           "hash": "c543bb77a7a63739a4374e00145d2d6b2f38f193babf90ec6ae95c22f8ea80a1",
@@ -22722,7 +22726,7 @@
           "len": 5736
         }
       },
-      "last_run": 1773113536
+      "last_run": 1773205582
     }
   }
 }
